@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "rinuSEZBuZpIrTU3uFXeLOP9Zwbdo-rO6vrm5pgxc78",
+    "created": "2022-09-30T16:53:25.521016-07:00",
+    "updated": "2022-09-30T16:53:25.875045-07:00",
+    "identifier": "id:56685:7a06b940-bb77-45e3-9584-e649fb12d366",
+    "user": {
+      "username": "Lynda1576",
+      "id": 56685,
+      "first_name": "Lynda",
+      "account": {
+        "name": "Lynda1576",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Charmander",
+    "participant": {
+      "user": {
+        "username": "internal_id:56685:7a06b940-bb77-45e3-9584-e649fb12d366",
+        "id": 56770,
+        "first_name": "Charmander",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Charmander"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Charmander a fire dragon Pokemon I might sound cool but it is hard to train me",
+    "description": "",
+    "definition": ""
+  }
+}

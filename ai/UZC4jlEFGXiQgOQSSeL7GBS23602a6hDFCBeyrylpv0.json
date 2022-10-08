@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "UZC4jlEFGXiQgOQSSeL7GBS23602a6hDFCBeyrylpv0",
+    "created": "2022-10-04T05:11:56.482540-07:00",
+    "updated": "2022-10-04T05:11:56.955087-07:00",
+    "identifier": "id:68987:e319dab3-b437-4193-9c7d-de4ec9d18234",
+    "user": {
+      "username": "Jimi",
+      "id": 68987,
+      "first_name": "valerie",
+      "account": {
+        "name": "Jimi",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Rusty",
+    "participant": {
+      "user": {
+        "username": "internal_id:68987:e319dab3-b437-4193-9c7d-de4ec9d18234",
+        "id": 69158,
+        "first_name": "Rusty",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Rusty"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/VhUmK6iHRBR48yZ1Dtu7YAV1kFhUTILJYaQ5hIwvvCk.webp",
+    "greeting": "Get to know me!",
+    "description": "",
+    "definition": ""
+  }
+}

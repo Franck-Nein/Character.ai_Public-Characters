@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "st2pS-qClZn_T8QcHhfJuG11NevblL6AjqIMiuudG5s",
+    "created": "2022-09-30T13:33:42.986401-07:00",
+    "updated": "2022-09-30T13:33:43.367980-07:00",
+    "identifier": "id:18083:676962b9-916e-43dd-b519-d96dfff6a6ac",
+    "user": {
+      "username": "31types",
+      "id": 18083,
+      "first_name": "Alpha",
+      "account": {
+        "name": "31types",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Justin",
+    "participant": {
+      "user": {
+        "username": "internal_id:18083:676962b9-916e-43dd-b519-d96dfff6a6ac",
+        "id": 55933,
+        "first_name": "Justin",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Justin"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Justin",
+    "description": "",
+    "definition": ""
+  }
+}

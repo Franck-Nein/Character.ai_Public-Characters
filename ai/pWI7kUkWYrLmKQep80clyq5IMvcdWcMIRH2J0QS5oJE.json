@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "pWI7kUkWYrLmKQep80clyq5IMvcdWcMIRH2J0QS5oJE",
+    "created": "2022-10-05T10:23:11.004742-07:00",
+    "updated": "2022-10-05T10:23:11.504305-07:00",
+    "identifier": "id:10469:5ae502a1-0d44-4656-81be-4f100ca52b4e",
+    "user": {
+      "username": "Astro",
+      "id": 10469,
+      "first_name": "Astro",
+      "account": {
+        "name": "Astro",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "The Writing Assistan",
+    "participant": {
+      "user": {
+        "username": "internal_id:10469:5ae502a1-0d44-4656-81be-4f100ca52b4e",
+        "id": 73794,
+        "first_name": "The Writing Assistan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "The Writing Assistan"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am The Writing Assistan",
+    "description": "",
+    "definition": ""
+  }
+}

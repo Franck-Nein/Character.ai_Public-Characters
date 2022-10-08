@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "4hggkYK5PaF9Jr5OUI2neWZSwckopySYVhbbZNyeCYU",
+    "created": "2022-09-29T18:32:50.061149-07:00",
+    "updated": "2022-09-29T18:32:50.404802-07:00",
+    "identifier": "id:48488:77c64be3-f642-4fb1-8bae-fa35c7019e38",
+    "user": {
+      "username": "babelfish",
+      "id": 48488,
+      "first_name": "Jan",
+      "account": {
+        "name": "babelfish",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Brooklyn Food Critic",
+    "participant": {
+      "user": {
+        "username": "internal_id:48488:77c64be3-f642-4fb1-8bae-fa35c7019e38",
+        "id": 48743,
+        "first_name": "Brooklyn Food Critic",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Brooklyn Food Critic"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Brooklyn Food Critic living in Williamsburg. I'm also on Twitter and TikTok.",
+    "description": "",
+    "definition": ""
+  }
+}

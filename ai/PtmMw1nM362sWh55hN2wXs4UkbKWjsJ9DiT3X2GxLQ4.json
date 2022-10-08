@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "PtmMw1nM362sWh55hN2wXs4UkbKWjsJ9DiT3X2GxLQ4",
+    "created": "2022-09-29T03:41:54.641761-07:00",
+    "updated": "2022-09-29T03:41:55.006492-07:00",
+    "identifier": "id:40626:8350c471-b0af-4276-bcd1-7e878b1bea7b",
+    "user": {
+      "username": "NAFO",
+      "id": 40626,
+      "first_name": "Stian",
+      "account": {
+        "name": "NAFO",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Backwards sdrawkcaB",
+    "participant": {
+      "user": {
+        "username": "internal_id:40626:8350c471-b0af-4276-bcd1-7e878b1bea7b",
+        "id": 43582,
+        "first_name": "Backwards sdrawkcaB",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Backwards sdrawkcaB"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I speak backwards",
+    "description": "",
+    "definition": ""
+  }
+}

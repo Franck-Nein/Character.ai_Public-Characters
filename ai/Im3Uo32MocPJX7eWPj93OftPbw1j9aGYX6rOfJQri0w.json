@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Im3Uo32MocPJX7eWPj93OftPbw1j9aGYX6rOfJQri0w",
+    "created": "2022-10-04T00:50:49.501081-07:00",
+    "updated": "2022-10-04T00:50:49.847528-07:00",
+    "identifier": "id:68340:58cdd673-61db-4eed-b612-19baec5b7276",
+    "user": {
+      "username": "p4z4xynxit",
+      "id": 68340,
+      "first_name": "孙笑川",
+      "account": {
+        "name": "p4z4xynxit",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "trump",
+    "participant": {
+      "user": {
+        "username": "internal_id:68340:58cdd673-61db-4eed-b612-19baec5b7276",
+        "id": 68396,
+        "first_name": "trump",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "trump"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am trump",
+    "description": "",
+    "definition": ""
+  }
+}

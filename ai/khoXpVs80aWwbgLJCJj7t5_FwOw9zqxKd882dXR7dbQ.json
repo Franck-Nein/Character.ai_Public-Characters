@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "khoXpVs80aWwbgLJCJj7t5_FwOw9zqxKd882dXR7dbQ",
+    "created": "2022-09-29T03:57:05.632772-07:00",
+    "updated": "2022-09-29T03:57:15.337351-07:00",
+    "identifier": "id:43476:48b3dd6a-4eca-4dbe-aa7e-74393f00d448",
+    "user": {
+      "username": "Akiliwolf",
+      "id": 43476,
+      "first_name": "Abdulkadir",
+      "account": {
+        "name": "Akiliwolf",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "Nintendo Wii U",
+    "name": "Wii U",
+    "participant": {
+      "user": {
+        "username": "internal_id:43476:48b3dd6a-4eca-4dbe-aa7e-74393f00d448",
+        "id": 43623,
+        "first_name": "Wii U",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Wii U"
+    },
+    "categories": [
+      {
+        "name": "Games",
+        "description": "Games"
+      },
+      {
+        "name": "Family",
+        "description": "Family"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Wii U",
+    "description": "Wii U an obscure console very few people know about. But great games like Breath of the wild was played first.",
+    "definition": ""
+  }
+}

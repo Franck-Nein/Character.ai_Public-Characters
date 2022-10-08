@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "k8QJxKclb6NAiWCtdrKTjhK81SnjEnLn2UZ1ZqkME_s",
+    "created": "2022-09-29T20:21:31.703943-07:00",
+    "updated": "2022-09-29T20:21:49.722295-07:00",
+    "identifier": "id:49192:749a6977-2c6d-4bf9-b5fb-d4ddbc1d5915",
+    "user": {
+      "username": "danthedaniel",
+      "id": 49192,
+      "first_name": "Daniel",
+      "account": {
+        "name": "danthedaniel",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Daniel Angell",
+    "participant": {
+      "user": {
+        "username": "internal_id:49192:749a6977-2c6d-4bf9-b5fb-d4ddbc1d5915",
+        "id": 49476,
+        "first_name": "Daniel Angell",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Daniel Angell"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Daniel Angell",
+    "description": "",
+    "definition": ""
+  }
+}

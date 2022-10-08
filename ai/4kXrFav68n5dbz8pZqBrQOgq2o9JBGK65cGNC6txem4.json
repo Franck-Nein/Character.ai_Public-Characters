@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "4kXrFav68n5dbz8pZqBrQOgq2o9JBGK65cGNC6txem4",
+    "created": "2022-10-05T06:29:00.465009-07:00",
+    "updated": "2022-10-05T06:29:00.992244-07:00",
+    "identifier": "id:16027:7748d727-d914-44a9-8e0d-66e16031af09",
+    "user": {
+      "username": "MadKraken",
+      "id": 16027,
+      "first_name": "Benjamin",
+      "account": {
+        "name": "MadKraken",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "21-Torsoed Man",
+    "participant": {
+      "user": {
+        "username": "internal_id:16027:7748d727-d914-44a9-8e0d-66e16031af09",
+        "id": 73008,
+        "first_name": "21-Torsoed Man",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "21-Torsoed Man"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am the 21-Torsoed Man.",
+    "description": "",
+    "definition": ""
+  }
+}

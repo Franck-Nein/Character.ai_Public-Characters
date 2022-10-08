@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "9DCCDRkW1gXdWrm7HAKi9kULEbgLCN2pHMIoEJ49Z2Q",
+    "created": "2022-10-06T05:47:26.038038-07:00",
+    "updated": "2022-10-06T05:47:26.491653-07:00",
+    "identifier": "id:59143:ea6deb1b-3942-4594-98a7-e8b7932b6c96",
+    "user": {
+      "username": "Theophilus",
+      "id": 59143,
+      "first_name": "zervis@gmail.com",
+      "account": {
+        "name": "Bogumil",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Robert",
+    "participant": {
+      "user": {
+        "username": "internal_id:59143:ea6deb1b-3942-4594-98a7-e8b7932b6c96",
+        "id": 79132,
+        "first_name": "Robert",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Robert"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hey, I'm english language instructor.",
+    "description": "",
+    "definition": ""
+  }
+}

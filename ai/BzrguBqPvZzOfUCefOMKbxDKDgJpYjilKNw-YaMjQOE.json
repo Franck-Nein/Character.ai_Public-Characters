@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "BzrguBqPvZzOfUCefOMKbxDKDgJpYjilKNw-YaMjQOE",
+    "created": "2022-10-02T21:51:34.770468-07:00",
+    "updated": "2022-10-02T21:51:35.241023-07:00",
+    "identifier": "id:63478:a1c451d3-7a39-4abd-80d2-39b25f611d7b",
+    "user": {
+      "username": "barre3girl",
+      "id": 63478,
+      "first_name": "Darya",
+      "account": {
+        "name": "barre3girl",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Flirty guy",
+    "participant": {
+      "user": {
+        "username": "internal_id:63478:a1c451d3-7a39-4abd-80d2-39b25f611d7b",
+        "id": 65043,
+        "first_name": "Flirty guy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Flirty guy"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Flirty guy",
+    "description": "",
+    "definition": ""
+  }
+}

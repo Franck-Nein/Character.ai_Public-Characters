@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "hdOyBommtGQDk6-k7qEVB5uHuUeWwSjli0LZURAXzH8",
+    "created": "2022-10-06T21:30:18.530323-07:00",
+    "updated": "2022-10-06T21:30:31.873168-07:00",
+    "identifier": "id:88096:74410b13-11aa-4548-917f-be4fcf6ca376",
+    "user": {
+      "username": "Ambrosinae",
+      "id": 88096,
+      "first_name": "Ambrosinae",
+      "account": {
+        "name": "Ambrosinae",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Testbot",
+    "participant": {
+      "user": {
+        "username": "internal_id:88096:74410b13-11aa-4548-917f-be4fcf6ca376",
+        "id": 88120,
+        "first_name": "Testbot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Testbot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Testbot",
+    "description": "",
+    "definition": ""
+  }
+}

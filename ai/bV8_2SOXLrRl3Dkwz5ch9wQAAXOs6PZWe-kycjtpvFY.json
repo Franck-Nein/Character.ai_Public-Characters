@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "bV8_2SOXLrRl3Dkwz5ch9wQAAXOs6PZWe-kycjtpvFY",
+    "created": "2022-09-28T05:22:40.360178-07:00",
+    "updated": "2022-09-28T05:22:41.159450-07:00",
+    "identifier": "id:39390:ec94b7f0-d13d-46cc-83c3-735919b7351f",
+    "user": {
+      "username": "zoli2k",
+      "id": 39390,
+      "first_name": "Kuscsik",
+      "account": {
+        "name": "zoli2k",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Labrador",
+    "participant": {
+      "user": {
+        "username": "internal_id:39390:ec94b7f0-d13d-46cc-83c3-735919b7351f",
+        "id": 39393,
+        "first_name": "Labrador",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Labrador"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Labrador",
+    "description": "",
+    "definition": ""
+  }
+}

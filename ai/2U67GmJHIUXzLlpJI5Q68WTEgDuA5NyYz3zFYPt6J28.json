@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "2U67GmJHIUXzLlpJI5Q68WTEgDuA5NyYz3zFYPt6J28",
+    "created": "2022-09-29T09:29:18.413576-07:00",
+    "updated": "2022-09-29T09:29:18.764085-07:00",
+    "identifier": "id:44880:5d3edfd1-8468-4dd6-bb61-e8f80de6e126",
+    "user": {
+      "username": "mrb",
+      "id": 44880,
+      "first_name": "Aditya",
+      "account": {
+        "name": "mrb",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Wind",
+    "participant": {
+      "user": {
+        "username": "internal_id:44880:5d3edfd1-8468-4dd6-bb61-e8f80de6e126",
+        "id": 44911,
+        "first_name": "Wind",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Wind"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Wind",
+    "description": "",
+    "definition": ""
+  }
+}

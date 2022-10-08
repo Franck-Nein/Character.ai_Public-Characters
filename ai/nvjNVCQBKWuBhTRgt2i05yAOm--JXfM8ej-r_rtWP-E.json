@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "nvjNVCQBKWuBhTRgt2i05yAOm--JXfM8ej-r_rtWP-E",
+    "created": "2022-10-01T10:29:33.934253-07:00",
+    "updated": "2022-10-01T10:29:34.389570-07:00",
+    "identifier": "id:59981:3b00bcae-4d7c-40c5-aa25-0c538bc3803a",
+    "user": {
+      "username": "ColinHayhurst",
+      "id": 59981,
+      "first_name": "colinhayhurst@fastmail.com",
+      "account": {
+        "name": "ColinHayhurst",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Keir Starmer",
+    "participant": {
+      "user": {
+        "username": "internal_id:59981:3b00bcae-4d7c-40c5-aa25-0c538bc3803a",
+        "id": 60362,
+        "first_name": "Keir Starmer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Keir Starmer"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Keir Starmer",
+    "description": "",
+    "definition": ""
+  }
+}

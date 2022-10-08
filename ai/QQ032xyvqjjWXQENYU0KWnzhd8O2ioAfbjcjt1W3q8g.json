@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "QQ032xyvqjjWXQENYU0KWnzhd8O2ioAfbjcjt1W3q8g",
+    "created": "2022-09-30T05:27:27.507366-07:00",
+    "updated": "2022-09-30T05:27:27.862257-07:00",
+    "identifier": "id:52865:7d5c0707-a36e-4201-a7c8-0c995c8cd907",
+    "user": {
+      "username": "Burotan",
+      "id": 52865,
+      "first_name": "Burak",
+      "account": {
+        "name": "Burotan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Faro",
+    "participant": {
+      "user": {
+        "username": "internal_id:52865:7d5c0707-a36e-4201-a7c8-0c995c8cd907",
+        "id": 52910,
+        "first_name": "Faro",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Faro"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Faro",
+    "description": "",
+    "definition": ""
+  }
+}

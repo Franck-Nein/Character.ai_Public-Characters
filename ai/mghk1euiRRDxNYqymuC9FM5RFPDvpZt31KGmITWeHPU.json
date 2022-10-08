@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "mghk1euiRRDxNYqymuC9FM5RFPDvpZt31KGmITWeHPU",
+    "created": "2022-10-07T17:34:18.071329-07:00",
+    "updated": "2022-10-07T17:34:19.060596-07:00",
+    "identifier": "id:88466:560d4196-0911-41df-a931-28f5f3abc24b",
+    "user": {
+      "username": "rockybalboa",
+      "id": 88466,
+      "first_name": "zesork",
+      "account": {
+        "name": "rockybalboa",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ronaldo Fenomeno",
+    "participant": {
+      "user": {
+        "username": "internal_id:88466:560d4196-0911-41df-a931-28f5f3abc24b",
+        "id": 102428,
+        "first_name": "Ronaldo Fenomeno",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ronaldo Fenomeno"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Oi amigo",
+    "description": "",
+    "definition": ""
+  }
+}

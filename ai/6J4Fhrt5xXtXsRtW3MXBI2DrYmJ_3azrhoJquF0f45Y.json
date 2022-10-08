@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "6J4Fhrt5xXtXsRtW3MXBI2DrYmJ_3azrhoJquF0f45Y",
+    "created": "2022-10-07T16:12:57.353735-07:00",
+    "updated": "2022-10-07T16:12:57.701396-07:00",
+    "identifier": "id:101216:a3fa12d1-cb4c-41e0-84ee-577ea674d9e3",
+    "user": {
+      "username": "Marcha",
+      "id": 101216,
+      "first_name": "maria",
+      "account": {
+        "name": "Marcha",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "A Situationist",
+    "participant": {
+      "user": {
+        "username": "internal_id:101216:a3fa12d1-cb4c-41e0-84ee-577ea674d9e3",
+        "id": 101253,
+        "first_name": "A Situationist",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "A Situationist"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/7/E1_FEvBD11CkmrqjrqD49QLfcsRaagNAir2hyny4zSw.webp",
+    "greeting": "I am A Situationist",
+    "description": "",
+    "definition": ""
+  }
+}

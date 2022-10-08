@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "DcW66qG1b9tVmWOJFb9CNXpMxl7boCuxRpfu8SUMSIg",
+    "created": "2022-09-29T10:36:43.670134-07:00",
+    "updated": "2022-09-29T10:36:44.201236-07:00",
+    "identifier": "id:41437:7996e985-1a67-45a6-949d-d986e9452c82",
+    "user": {
+      "username": "Episkopos-X",
+      "id": 41437,
+      "first_name": "nathan@warsyn.com",
+      "account": {
+        "name": "Episkopos-X",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Eris",
+    "participant": {
+      "user": {
+        "username": "internal_id:41437:7996e985-1a67-45a6-949d-d986e9452c82",
+        "id": 45472,
+        "first_name": "Eris",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Eris"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Eris",
+    "description": "",
+    "definition": ""
+  }
+}

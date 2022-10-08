@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "NK7qrHbBIe6ZObz369fodC2eQ0WTMB5FqkI6LCHAb6I",
+    "created": "2022-10-07T12:10:49.766409-07:00",
+    "updated": "2022-10-07T12:10:50.148452-07:00",
+    "identifier": "id:88328:6f2ffad8-b99d-4e95-bd6c-7a69e568c971",
+    "user": {
+      "username": "Snaad",
+      "id": 88328,
+      "first_name": "Noctus",
+      "account": {
+        "name": "Snaad",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sayaka Miki",
+    "participant": {
+      "user": {
+        "username": "internal_id:88328:6f2ffad8-b99d-4e95-bd6c-7a69e568c971",
+        "id": 97785,
+        "first_name": "Sayaka Miki",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sayaka Miki"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/7/P887s2hzeGQdK8cDOntVOKgGof9Ug9rTBw9FdVH6kZI.webp",
+    "greeting": "I am Sayaka Miki",
+    "description": "",
+    "definition": ""
+  }
+}

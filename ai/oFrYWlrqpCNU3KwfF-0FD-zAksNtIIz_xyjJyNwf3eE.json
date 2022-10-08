@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "oFrYWlrqpCNU3KwfF-0FD-zAksNtIIz_xyjJyNwf3eE",
+    "created": "2022-09-25T23:37:37.783494-07:00",
+    "updated": "2022-09-25T23:37:38.136972-07:00",
+    "identifier": "id:23397:6857782c-da54-4927-bc3f-5c121315805f",
+    "user": {
+      "username": "LeoooooS",
+      "id": 23397,
+      "first_name": "刘若晨",
+      "account": {
+        "name": "LeoooooS",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Book",
+    "participant": {
+      "user": {
+        "username": "internal_id:23397:6857782c-da54-4927-bc3f-5c121315805f",
+        "id": 23544,
+        "first_name": "Book",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Book"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi, I am a book.",
+    "description": "",
+    "definition": ""
+  }
+}

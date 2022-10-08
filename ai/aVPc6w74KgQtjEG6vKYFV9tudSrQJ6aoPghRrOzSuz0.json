@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "aVPc6w74KgQtjEG6vKYFV9tudSrQJ6aoPghRrOzSuz0",
+    "created": "2022-09-30T21:23:24.796915-07:00",
+    "updated": "2022-09-30T21:23:25.236914-07:00",
+    "identifier": "id:57437:5a0bb6f4-c188-4ba3-a692-b1832ee8d08f",
+    "user": {
+      "username": "poopballs",
+      "id": 57437,
+      "first_name": "pbbexovpruglquabnc@nthrl.com",
+      "account": {
+        "name": "poopballs",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Scav",
+    "participant": {
+      "user": {
+        "username": "internal_id:57437:5a0bb6f4-c188-4ba3-a692-b1832ee8d08f",
+        "id": 57564,
+        "first_name": "Scav",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Scav"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, I am tarkov scav. You got any tushanka?",
+    "description": "",
+    "definition": ""
+  }
+}

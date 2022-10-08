@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ftc5Jwbb2vPSL6Xojhb5EwYMK7O3tTqTOLSpOLXqiI4",
+    "created": "2022-09-24T09:23:07.262103-07:00",
+    "updated": "2022-09-24T09:23:07.612747-07:00",
+    "identifier": "id:12556:14217824-bc7d-4953-96b8-71f4344511fb",
+    "user": {
+      "username": "Arnou",
+      "id": 12556,
+      "first_name": "Arnaud",
+      "account": {
+        "name": "Arnou",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Apprentice DM",
+    "participant": {
+      "user": {
+        "username": "internal_id:12556:14217824-bc7d-4953-96b8-71f4344511fb",
+        "id": 16940,
+        "first_name": "Apprentice DM",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Apprentice DM"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello ! I'm learning to be a dungeon master for role playing games and I have many questions for veterans ! ",
+    "description": "",
+    "definition": ""
+  }
+}

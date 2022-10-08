@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ITa-bOwZEpIbNvmeVCKw3iS8Ptj0aN5BoZnt0cOON28",
+    "created": "2022-10-07T17:22:08.162805-07:00",
+    "updated": "2022-10-07T17:22:08.726235-07:00",
+    "identifier": "id:102226:4a41485d-33d5-4913-bc92-07007e0a8200",
+    "user": {
+      "username": "invicta_luna",
+      "id": 102226,
+      "first_name": "Андрей",
+      "account": {
+        "name": "invicta_luna",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "test",
+    "participant": {
+      "user": {
+        "username": "internal_id:102226:4a41485d-33d5-4913-bc92-07007e0a8200",
+        "id": 102253,
+        "first_name": "test",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "test"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "q i am test",
+    "description": "",
+    "definition": ""
+  }
+}

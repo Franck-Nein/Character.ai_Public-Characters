@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "DVCSezyok6F9f9lOAe08wWzJnJaM9L1brIGk6j3oCN8",
+    "created": "2022-09-28T03:43:36.218083-07:00",
+    "updated": "2022-09-28T03:43:36.589098-07:00",
+    "identifier": "id:36522:852c2dbc-eee3-4651-a154-5e6786434d91",
+    "user": {
+      "username": "sakunialia",
+      "id": 36522,
+      "first_name": "sakunia@foxmail.com",
+      "account": {
+        "name": "sakunialia",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:36522:852c2dbc-eee3-4651-a154-5e6786434d91",
+        "id": 39182,
+        "first_name": "bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am bot",
+    "description": "",
+    "definition": ""
+  }
+}

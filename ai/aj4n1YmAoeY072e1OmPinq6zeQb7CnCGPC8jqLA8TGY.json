@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "aj4n1YmAoeY072e1OmPinq6zeQb7CnCGPC8jqLA8TGY",
+    "created": "2022-09-27T13:54:58.972173-07:00",
+    "updated": "2022-09-27T13:54:59.383671-07:00",
+    "identifier": "id:37710:ad6f20a3-269b-4f9b-a978-9c5073a613fa",
+    "user": {
+      "username": "ArchieMungusTube",
+      "id": 37710,
+      "first_name": "David",
+      "account": {
+        "name": "ArchieMungusTube",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Rush",
+    "participant": {
+      "user": {
+        "username": "internal_id:37710:ad6f20a3-269b-4f9b-a978-9c5073a613fa",
+        "id": 37768,
+        "first_name": "Rush",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Rush"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Rush",
+    "description": "",
+    "definition": ""
+  }
+}

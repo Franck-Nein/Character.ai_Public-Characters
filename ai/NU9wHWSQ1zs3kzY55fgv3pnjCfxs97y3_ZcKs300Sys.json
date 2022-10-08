@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "NU9wHWSQ1zs3kzY55fgv3pnjCfxs97y3_ZcKs300Sys",
+    "created": "2022-10-05T21:13:43.027106-07:00",
+    "updated": "2022-10-05T21:13:43.465974-07:00",
+    "identifier": "id:75146:8c4d087f-0175-44fa-82ec-464f37f5d1a5",
+    "user": {
+      "username": "adel",
+      "id": 75146,
+      "first_name": "angy",
+      "account": {
+        "name": "adel",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "shanks",
+    "participant": {
+      "user": {
+        "username": "internal_id:75146:8c4d087f-0175-44fa-82ec-464f37f5d1a5",
+        "id": 76087,
+        "first_name": "shanks",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "shanks"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am shanks, i'm the captain of red pirate.",
+    "description": "",
+    "definition": ""
+  }
+}

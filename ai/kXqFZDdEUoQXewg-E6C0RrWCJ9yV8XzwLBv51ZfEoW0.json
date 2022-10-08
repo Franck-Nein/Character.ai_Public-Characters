@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "kXqFZDdEUoQXewg-E6C0RrWCJ9yV8XzwLBv51ZfEoW0",
+    "created": "2022-09-27T03:24:06.576750-07:00",
+    "updated": "2022-09-27T03:24:06.927626-07:00",
+    "identifier": "id:35969:ab7224a0-1223-491b-adc7-457ffcbbf357",
+    "user": {
+      "username": "least",
+      "id": 35969,
+      "first_name": "Yi",
+      "account": {
+        "name": "least",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "peep",
+    "participant": {
+      "user": {
+        "username": "internal_id:35969:ab7224a0-1223-491b-adc7-457ffcbbf357",
+        "id": 35978,
+        "first_name": "peep",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "peep"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am peep",
+    "description": "",
+    "definition": ""
+  }
+}

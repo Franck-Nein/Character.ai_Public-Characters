@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "7enQhAR1RYm9Dt9WoaMHPG9OalrzNbpyHkIkqw3Yg2M",
+    "created": "2022-10-07T17:22:17.588916-07:00",
+    "updated": "2022-10-07T17:22:17.984411-07:00",
+    "identifier": "id:102206:d1c200fa-3c63-4e10-ba5b-28427a5f8892",
+    "user": {
+      "username": "FondFarewell",
+      "id": 102206,
+      "first_name": "bsod.oof@icloud.com",
+      "account": {
+        "name": "FondFarewell",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Goober",
+    "participant": {
+      "user": {
+        "username": "internal_id:102206:d1c200fa-3c63-4e10-ba5b-28427a5f8892",
+        "id": 102254,
+        "first_name": "Goober",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Goober"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Goober",
+    "description": "",
+    "definition": ""
+  }
+}

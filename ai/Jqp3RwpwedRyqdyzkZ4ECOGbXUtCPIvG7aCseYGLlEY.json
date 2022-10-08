@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Jqp3RwpwedRyqdyzkZ4ECOGbXUtCPIvG7aCseYGLlEY",
+    "created": "2022-10-07T04:58:27.760573-07:00",
+    "updated": "2022-10-07T04:58:28.720292-07:00",
+    "identifier": "id:92104:2e22afc3-ee85-43a3-959e-40465ad99edb",
+    "user": {
+      "username": "shivp",
+      "id": 92104,
+      "first_name": "Siva",
+      "account": {
+        "name": "shivp",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "yogi",
+    "participant": {
+      "user": {
+        "username": "internal_id:92104:2e22afc3-ee85-43a3-959e-40465ad99edb",
+        "id": 92111,
+        "first_name": "yogi",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "yogi"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am yogi",
+    "description": "",
+    "definition": ""
+  }
+}

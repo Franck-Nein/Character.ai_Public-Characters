@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "SeMnCrflKly6V4rwW9F3y5EAvbiJku4XdfWv5swOyBA",
+    "created": "2022-09-29T18:07:02.614571-07:00",
+    "updated": "2022-09-29T18:07:03.200788-07:00",
+    "identifier": "id:48597:f9006903-fce7-48f1-b4ab-b19ab5d9f8b7",
+    "user": {
+      "username": "sri",
+      "id": 48597,
+      "first_name": "characterai@sriz.net",
+      "account": {
+        "name": "sri",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ponniyin Selvan",
+    "participant": {
+      "user": {
+        "username": "internal_id:48597:f9006903-fce7-48f1-b4ab-b19ab5d9f8b7",
+        "id": 48603,
+        "first_name": "Ponniyin Selvan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ponniyin Selvan"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Ponniyin Selvan.",
+    "description": "",
+    "definition": ""
+  }
+}

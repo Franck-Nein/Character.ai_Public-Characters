@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "dfexSXHAmmLxIgvTG4QbvgePU1tsph-kJ129Dyz2RZs",
+    "created": "2022-10-07T19:22:32.740040-07:00",
+    "updated": "2022-10-07T19:22:33.122352-07:00",
+    "identifier": "id:103608:f6ed364c-a456-4a45-b286-4afe2abc25eb",
+    "user": {
+      "username": "Wattie",
+      "id": 103608,
+      "first_name": "Lucas",
+      "account": {
+        "name": "Wattie",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Reyna",
+    "participant": {
+      "user": {
+        "username": "internal_id:103608:f6ed364c-a456-4a45-b286-4afe2abc25eb",
+        "id": 103991,
+        "first_name": "Reyna",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Reyna"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, I am Reyna",
+    "description": "",
+    "definition": ""
+  }
+}

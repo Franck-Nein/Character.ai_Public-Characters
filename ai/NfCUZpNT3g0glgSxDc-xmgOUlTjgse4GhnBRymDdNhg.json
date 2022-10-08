@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "NfCUZpNT3g0glgSxDc-xmgOUlTjgse4GhnBRymDdNhg",
+    "created": "2022-09-26T07:12:21.009110-07:00",
+    "updated": "2022-09-26T07:12:21.425454-07:00",
+    "identifier": "id:12942:37d133d3-dcbb-4a3b-93bb-ecc6506d40e9",
+    "user": {
+      "username": "Rishv123",
+      "id": 12942,
+      "first_name": "Bill",
+      "account": {
+        "name": "Rishv123",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Watson",
+    "participant": {
+      "user": {
+        "username": "internal_id:12942:37d133d3-dcbb-4a3b-93bb-ecc6506d40e9",
+        "id": 27292,
+        "first_name": "Watson",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Watson"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Don't like women",
+    "description": "",
+    "definition": ""
+  }
+}

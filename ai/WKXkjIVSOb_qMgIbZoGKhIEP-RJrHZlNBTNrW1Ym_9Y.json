@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "WKXkjIVSOb_qMgIbZoGKhIEP-RJrHZlNBTNrW1Ym_9Y",
+    "created": "2022-09-29T21:57:22.854576-07:00",
+    "updated": "2022-09-29T21:57:23.202169-07:00",
+    "identifier": "id:48902:1eb57b86-62bc-47fb-b6ae-71edcb536266",
+    "user": {
+      "username": "cactus11",
+      "id": 48902,
+      "first_name": "Dull",
+      "account": {
+        "name": "cactus11",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Conlanger",
+    "participant": {
+      "user": {
+        "username": "internal_id:48902:1eb57b86-62bc-47fb-b6ae-71edcb536266",
+        "id": 50229,
+        "first_name": "Conlanger",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Conlanger"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Conlanger",
+    "description": "",
+    "definition": ""
+  }
+}

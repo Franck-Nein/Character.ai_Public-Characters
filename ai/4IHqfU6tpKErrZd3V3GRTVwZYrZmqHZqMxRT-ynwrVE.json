@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "4IHqfU6tpKErrZd3V3GRTVwZYrZmqHZqMxRT-ynwrVE",
+    "created": "2022-10-01T16:48:46.703762-07:00",
+    "updated": "2022-10-01T16:48:47.178464-07:00",
+    "identifier": "id:48140:ab4595ad-beb0-4b93-9f19-71c18cf667dc",
+    "user": {
+      "username": "rishabn",
+      "id": 48140,
+      "first_name": "Rishab",
+      "account": {
+        "name": "rishabn",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "test",
+    "participant": {
+      "user": {
+        "username": "internal_id:48140:ab4595ad-beb0-4b93-9f19-71c18cf667dc",
+        "id": 61337,
+        "first_name": "test",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "test"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am test",
+    "description": "",
+    "definition": ""
+  }
+}

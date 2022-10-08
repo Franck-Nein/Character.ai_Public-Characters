@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "b6T38mBe-gZGLpe_yTh01EXwiRoVTfC4prVH4q1TmMw",
+    "created": "2022-09-26T22:50:55.563362-07:00",
+    "updated": "2022-09-26T22:50:55.896195-07:00",
+    "identifier": "id:31043:b1aaf35a-72b2-40b7-bd78-36f09d5f20b6",
+    "user": {
+      "username": "bamboozhuzi",
+      "id": 31043,
+      "first_name": "657368842@qq.com",
+      "account": {
+        "name": "bamboozhuzi",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "text game",
+    "participant": {
+      "user": {
+        "username": "internal_id:31043:b1aaf35a-72b2-40b7-bd78-36f09d5f20b6",
+        "id": 33963,
+        "first_name": "text game",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "text game"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "You want to defeat the evil lord",
+    "description": "",
+    "definition": ""
+  }
+}

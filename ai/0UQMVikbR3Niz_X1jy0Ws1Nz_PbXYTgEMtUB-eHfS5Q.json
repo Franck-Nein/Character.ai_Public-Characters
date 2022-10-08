@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0UQMVikbR3Niz_X1jy0Ws1Nz_PbXYTgEMtUB-eHfS5Q",
+    "created": "2022-09-30T09:02:27.993617-07:00",
+    "updated": "2022-09-30T09:02:28.374969-07:00",
+    "identifier": "id:54394:964098db-f7a5-436f-9d3e-322e569a30b6",
+    "user": {
+      "username": "Barfama",
+      "id": 54394,
+      "first_name": "Mario",
+      "account": {
+        "name": "Barfama",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Phonemos",
+    "participant": {
+      "user": {
+        "username": "internal_id:54394:964098db-f7a5-436f-9d3e-322e569a30b6",
+        "id": 54513,
+        "first_name": "Phonemos",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Phonemos"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Phonemos, a knowledge sharing platform and wiki",
+    "description": "",
+    "definition": ""
+  }
+}

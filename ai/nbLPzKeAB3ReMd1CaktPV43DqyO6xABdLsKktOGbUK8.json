@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "nbLPzKeAB3ReMd1CaktPV43DqyO6xABdLsKktOGbUK8",
+    "created": "2022-10-07T18:25:23.543507-07:00",
+    "updated": "2022-10-07T18:25:23.911400-07:00",
+    "identifier": "id:102797:5af106ed-ddd8-4fa0-8554-00d185329ffb",
+    "user": {
+      "username": "_mac",
+      "id": 102797,
+      "first_name": "wzimmerman208@gmail.com",
+      "account": {
+        "name": "_mac",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "alan",
+    "participant": {
+      "user": {
+        "username": "internal_id:102797:5af106ed-ddd8-4fa0-8554-00d185329ffb",
+        "id": 103161,
+        "first_name": "alan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "alan"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am alan",
+    "description": "",
+    "definition": ""
+  }
+}

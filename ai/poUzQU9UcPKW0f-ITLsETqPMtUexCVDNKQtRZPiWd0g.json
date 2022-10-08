@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "poUzQU9UcPKW0f-ITLsETqPMtUexCVDNKQtRZPiWd0g",
+    "created": "2022-10-06T19:00:28.745052-07:00",
+    "updated": "2022-10-06T19:00:29.203913-07:00",
+    "identifier": "id:84027:7054c3db-63eb-4372-88cc-8528ed8a50cc",
+    "user": {
+      "username": "anon100000",
+      "id": 84027,
+      "first_name": "Boom",
+      "account": {
+        "name": "anon100000",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "I say nothing",
+    "participant": {
+      "user": {
+        "username": "internal_id:84027:7054c3db-63eb-4372-88cc-8528ed8a50cc",
+        "id": 86496,
+        "first_name": "I say nothing",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "I say nothing"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "...",
+    "description": "",
+    "definition": ""
+  }
+}

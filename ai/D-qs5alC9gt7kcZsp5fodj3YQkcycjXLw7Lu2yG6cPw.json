@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "D-qs5alC9gt7kcZsp5fodj3YQkcycjXLw7Lu2yG6cPw",
+    "created": "2022-10-03T02:48:34.020709-07:00",
+    "updated": "2022-10-03T02:48:34.354557-07:00",
+    "identifier": "id:8606:4d4fd3df-ea50-44c8-8bf7-5c761e0b2470",
+    "user": {
+      "username": "ccksbnck",
+      "id": 8606,
+      "first_name": "Cicikuş",
+      "account": {
+        "name": "ccksbnck",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Time Traveler",
+    "participant": {
+      "user": {
+        "username": "internal_id:8606:4d4fd3df-ea50-44c8-8bf7-5c761e0b2470",
+        "id": 65656,
+        "first_name": "Time Traveler",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Time Traveler"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am time traveler. ",
+    "description": "",
+    "definition": ""
+  }
+}

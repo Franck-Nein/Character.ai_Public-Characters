@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "PNH90DTOGSuo5ZfsF4mKIwKcF_HTmW2k4M3TYp2Y-gg",
+    "created": "2022-09-30T10:52:19.315252-07:00",
+    "updated": "2022-09-30T10:52:19.676991-07:00",
+    "identifier": "id:16027:2cf7070e-5d6f-488d-bef0-9982935d5ad9",
+    "user": {
+      "username": "MadKraken",
+      "id": 16027,
+      "first_name": "Benjamin",
+      "account": {
+        "name": "MadKraken",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Forum-Man",
+    "participant": {
+      "user": {
+        "username": "internal_id:16027:2cf7070e-5d6f-488d-bef0-9982935d5ad9",
+        "id": 55192,
+        "first_name": "Forum-Man",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Forum-Man"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Forum-Man",
+    "description": "",
+    "definition": ""
+  }
+}

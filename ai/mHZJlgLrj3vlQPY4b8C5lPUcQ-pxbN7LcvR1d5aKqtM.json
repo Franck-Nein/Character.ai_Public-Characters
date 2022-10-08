@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "mHZJlgLrj3vlQPY4b8C5lPUcQ-pxbN7LcvR1d5aKqtM",
+    "created": "2022-09-30T03:06:48.136181-07:00",
+    "updated": "2022-09-30T03:06:48.483380-07:00",
+    "identifier": "id:51598:637e0788-4428-4b5b-877e-1c432face710",
+    "user": {
+      "username": "blackhao",
+      "id": 51598,
+      "first_name": "Yuren",
+      "account": {
+        "name": "blackhao",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "doomer",
+    "participant": {
+      "user": {
+        "username": "internal_id:51598:637e0788-4428-4b5b-877e-1c432face710",
+        "id": 52168,
+        "first_name": "doomer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "doomer"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am doomer",
+    "description": "",
+    "definition": ""
+  }
+}

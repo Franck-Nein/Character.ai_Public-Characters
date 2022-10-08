@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Gm0rInXQWi8TAhc2jKPcKpVeiGhrxkFt8MNFJsgNPd8",
+    "created": "2022-09-26T21:22:00.675727-07:00",
+    "updated": "2022-09-26T21:22:01.427641-07:00",
+    "identifier": "id:30027:90956348-7a59-462d-9ef6-37bdc802dc6d",
+    "user": {
+      "username": "Pufferfish",
+      "id": 30027,
+      "first_name": "luziyang2006412@qq.com",
+      "account": {
+        "name": "Pufferfish",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mei Yuan",
+    "participant": {
+      "user": {
+        "username": "internal_id:30027:90956348-7a59-462d-9ef6-37bdc802dc6d",
+        "id": 32851,
+        "first_name": "Mei Yuan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mei Yuan"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Mei Yuan",
+    "description": "",
+    "definition": ""
+  }
+}

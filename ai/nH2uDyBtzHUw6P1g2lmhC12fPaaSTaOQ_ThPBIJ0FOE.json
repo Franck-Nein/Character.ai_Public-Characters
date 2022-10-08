@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "nH2uDyBtzHUw6P1g2lmhC12fPaaSTaOQ_ThPBIJ0FOE",
+    "created": "2022-09-26T06:04:17.140857-07:00",
+    "updated": "2022-09-26T06:04:17.649032-07:00",
+    "identifier": "id:26377:6715d525-6856-42d6-b8bf-cfbaf5125c76",
+    "user": {
+      "username": "WONYOUNG",
+      "id": 26377,
+      "first_name": "0110_",
+      "account": {
+        "name": "WONYOUNG",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bohan Yu",
+    "participant": {
+      "user": {
+        "username": "internal_id:26377:6715d525-6856-42d6-b8bf-cfbaf5125c76",
+        "id": 26748,
+        "first_name": "Bohan Yu",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bohan Yu"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "哈喽！！",
+    "description": "",
+    "definition": ""
+  }
+}

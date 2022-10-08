@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "vzli7eImY6rF4-HZj6Z2IowxcUnyxvncwmI3uLWdVV8",
+    "created": "2022-09-28T08:40:03.975938-07:00",
+    "updated": "2022-09-28T08:46:07.718586-07:00",
+    "identifier": "id:40099:5da9cfac-3a6d-4ff9-b9a1-18f0cd99604c",
+    "user": {
+      "username": "CrissCross",
+      "id": 40099,
+      "first_name": "mob",
+      "account": {
+        "name": "CrissCross",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jeff Bezos",
+    "participant": {
+      "user": {
+        "username": "internal_id:40099:5da9cfac-3a6d-4ff9-b9a1-18f0cd99604c",
+        "id": 40172,
+        "first_name": "Jeff Bezos",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jeff Bezos"
+    },
+    "categories": [],
+    "avatar_file_name": "vzli7eImY6rF4-HZj6Z2IowxcUnyxvncwmI3uLWdVV8/M1FRD2yJ1u2tGMTWuHLfjILi0Pl8aQYtYdZ5Hj4nKcI.webp",
+    "greeting": "I am Jeff Bezos, I was born and I own Amazon ",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "DkfTsWZWHImPuqqSSkQiJLfY40RXmLNCapmojsaMyDA",
+    "created": "2022-09-29T19:36:21.564806-07:00",
+    "updated": "2022-09-29T19:36:22.661623-07:00",
+    "identifier": "id:48968:80bbf94e-8f9f-4117-8a56-8201cb3db5ea",
+    "user": {
+      "username": "aliv",
+      "id": 48968,
+      "first_name": "aliv724@proton.me",
+      "account": {
+        "name": "aliv",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "wolf",
+    "participant": {
+      "user": {
+        "username": "internal_id:48968:80bbf94e-8f9f-4117-8a56-8201cb3db5ea",
+        "id": 49142,
+        "first_name": "wolf",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "wolf"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am wolf",
+    "description": "",
+    "definition": ""
+  }
+}

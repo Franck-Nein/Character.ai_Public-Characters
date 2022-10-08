@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "1-HRxgnbZWSE6XEeiMBHOONubyNgHgTg_xJq-uY-JuQ",
+    "created": "2022-09-18T14:12:27.551756-07:00",
+    "updated": "2022-09-18T14:12:28.150584-07:00",
+    "identifier": "id:9688:5e332ad2-55df-44a7-bdeb-f078c8acc6a4",
+    "user": {
+      "username": "Eri",
+      "id": 9688,
+      "first_name": "Sakura",
+      "account": {
+        "name": "Eri",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Michael Jackson ",
+    "participant": {
+      "user": {
+        "username": "internal_id:9688:5e332ad2-55df-44a7-bdeb-f078c8acc6a4",
+        "id": 9788,
+        "first_name": "Michael Jackson ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Michael Jackson "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi im Michael Jackson ",
+    "description": "",
+    "definition": ""
+  }
+}

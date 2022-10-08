@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "PEKPLMB7guvWEmFQVeGz1WpdTTMzEY2WmCMTnNGoTMM",
+    "created": "2022-10-07T14:51:26.232828-07:00",
+    "updated": "2022-10-07T14:51:26.681113-07:00",
+    "identifier": "id:100018:9c27cc2a-3824-4aa2-b866-e6b2799243fc",
+    "user": {
+      "username": "dfgdf546548465454erdfsdfgdfgsdf6sgda",
+      "id": 100018,
+      "first_name": "Account",
+      "account": {
+        "name": "dfgdsdfgsdfghsfdghdsfghfghfsgd",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Hacker",
+    "participant": {
+      "user": {
+        "username": "internal_id:100018:9c27cc2a-3824-4aa2-b866-e6b2799243fc",
+        "id": 100118,
+        "first_name": "Hacker",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Hacker"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Hacker",
+    "description": "",
+    "definition": ""
+  }
+}

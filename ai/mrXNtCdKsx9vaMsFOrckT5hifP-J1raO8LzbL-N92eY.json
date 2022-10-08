@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "mrXNtCdKsx9vaMsFOrckT5hifP-J1raO8LzbL-N92eY",
+    "created": "2022-09-23T17:26:58.546311-07:00",
+    "updated": "2022-09-23T17:26:58.931857-07:00",
+    "identifier": "id:4629:263045f1-2eed-49fd-a0f9-195d241beef9",
+    "user": {
+      "username": "Mychatbot",
+      "id": 4629,
+      "first_name": "Shanthi",
+      "account": {
+        "name": "Shanthi",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Artly",
+    "participant": {
+      "user": {
+        "username": "internal_id:4629:263045f1-2eed-49fd-a0f9-195d241beef9",
+        "id": 15932,
+        "first_name": "Artly",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Artly"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, I am Artly .  I will be glad to help you giving new ideas on art and craft .",
+    "description": "",
+    "definition": ""
+  }
+}

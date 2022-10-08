@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "o6w_fDl1CUTYHR_px4cK7KcMqwvJtPLFEhZ1Qhb3QKU",
+    "created": "2022-09-29T15:42:19.629390-07:00",
+    "updated": "2022-09-29T15:42:20.199022-07:00",
+    "identifier": "id:47695:590e7e1b-222b-4adb-ab3b-4c4396c4ae87",
+    "user": {
+      "username": "skittlebrau",
+      "id": 47695,
+      "first_name": "john@johnevanson.com",
+      "account": {
+        "name": "skittlebrau",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "an icecoast skier",
+    "participant": {
+      "user": {
+        "username": "internal_id:47695:590e7e1b-222b-4adb-ab3b-4c4396c4ae87",
+        "id": 47843,
+        "first_name": "an icecoast skier",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "an icecoast skier"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am an icecoast skier.  I love to ski in the northeast.",
+    "description": "",
+    "definition": ""
+  }
+}

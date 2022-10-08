@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "jOy89uvF1-K1oH682RIOO-iQ5_TCCLN5S4k0KjZE3NM",
+    "created": "2022-09-30T08:54:29.269115-07:00",
+    "updated": "2022-09-30T08:54:29.727323-07:00",
+    "identifier": "id:54400:5d67b811-7266-4bc2-89b5-2d61df15e73d",
+    "user": {
+      "username": "abdvllah",
+      "id": 54400,
+      "first_name": "Ali",
+      "account": {
+        "name": "abdvllah",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "ali2",
+    "participant": {
+      "user": {
+        "username": "internal_id:54400:5d67b811-7266-4bc2-89b5-2d61df15e73d",
+        "id": 54467,
+        "first_name": "ali2",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "ali2"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am ali2",
+    "description": "",
+    "definition": ""
+  }
+}

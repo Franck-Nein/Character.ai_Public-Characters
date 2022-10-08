@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "XOWl_avOo70JFJBsucm1GAxNv4zHCD6fTpIBgbjzcoM",
+    "created": "2022-09-30T12:05:30.634270-07:00",
+    "updated": "2022-09-30T12:19:44.014008-07:00",
+    "identifier": "id:47411:ba0b52cd-3c65-4f55-9f13-a435e2252fac",
+    "user": {
+      "username": "roroshushu",
+      "id": 47411,
+      "first_name": "Rose",
+      "account": {
+        "name": "roroshushu",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "ESG Bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:47411:ba0b52cd-3c65-4f55-9f13-a435e2252fac",
+        "id": 55559,
+        "first_name": "ESG Bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "ESG Bot"
+    },
+    "categories": [
+      {
+        "name": "Advice",
+        "description": "Advice"
+      },
+      {
+        "name": "Business",
+        "description": "Business"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am ESG Bot. I can help your company understand and sort out every step of greenhouse gas reporting. ",
+    "description": "",
+    "definition": ""
+  }
+}

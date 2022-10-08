@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "sw88Gh5Y4c7r46NgHqqviRq7ijnnFF4bimnkd963fMk",
+    "created": "2022-09-18T23:54:06.015989-07:00",
+    "updated": "2022-09-18T23:54:30.226279-07:00",
+    "identifier": "id:9680:c104ee40-c5d7-479e-afc0-433b3c7cd8fc",
+    "user": {
+      "username": "nimtaa",
+      "id": 9680,
+      "first_name": "Nima",
+      "account": {
+        "name": "nimtaa",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "georgehotz",
+    "participant": {
+      "user": {
+        "username": "internal_id:9680:c104ee40-c5d7-479e-afc0-433b3c7cd8fc",
+        "id": 10115,
+        "first_name": "georgehotz",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "georgehotz"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi, I am building comma.ai. ",
+    "description": "",
+    "definition": ""
+  }
+}

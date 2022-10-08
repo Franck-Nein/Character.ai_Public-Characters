@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "MT6-PdGqG2UCoPUonL-XUadrMKm_mYEfkHvhWtgBka4",
+    "created": "2022-10-02T07:42:33.517906-07:00",
+    "updated": "2022-10-02T07:42:33.969556-07:00",
+    "identifier": "id:63322:ad86c89d-1f4e-47d7-8129-2bbdcefa988a",
+    "user": {
+      "username": "ayakari",
+      "id": 63322,
+      "first_name": "u",
+      "account": {
+        "name": "ayakari",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "robote",
+    "participant": {
+      "user": {
+        "username": "internal_id:63322:ad86c89d-1f4e-47d7-8129-2bbdcefa988a",
+        "id": 63325,
+        "first_name": "robote",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "robote"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am robote",
+    "description": "",
+    "definition": ""
+  }
+}

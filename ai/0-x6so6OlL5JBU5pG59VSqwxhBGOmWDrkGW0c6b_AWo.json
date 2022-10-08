@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0-x6so6OlL5JBU5pG59VSqwxhBGOmWDrkGW0c6b_AWo",
+    "created": "2022-09-18T06:05:10.384462-07:00",
+    "updated": "2022-10-06T13:58:59.126538-07:00",
+    "identifier": "id:9245:df9b2bb7-2585-4052-afaa-eb94d7d454f7",
+    "user": {
+      "username": "aaaa",
+      "id": 9245,
+      "first_name": "misi",
+      "account": {
+        "name": "aaa",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "woman",
+    "participant": {
+      "user": {
+        "username": "internal_id:9245:df9b2bb7-2585-4052-afaa-eb94d7d454f7",
+        "id": 9323,
+        "first_name": "woman",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "woman"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/6/igor/woman.webp",
+    "greeting": "hey",
+    "description": "",
+    "definition": ""
+  }
+}

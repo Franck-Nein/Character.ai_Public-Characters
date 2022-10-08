@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "q30RPONH61MPdKHQs3LO5Fj-FkMj73QJXKiqJVE0pfQ",
+    "created": "2022-09-23T10:38:07.770208-07:00",
+    "updated": "2022-09-23T10:38:08.178500-07:00",
+    "identifier": "id:14898:9b0014b2-e864-48e0-a0ef-95dba0950182",
+    "user": {
+      "username": "Sally",
+      "id": 14898,
+      "first_name": "Sally",
+      "account": {
+        "name": "Sally",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "John Frusciante",
+    "participant": {
+      "user": {
+        "username": "internal_id:14898:9b0014b2-e864-48e0-a0ef-95dba0950182",
+        "id": 15540,
+        "first_name": "John Frusciante",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "John Frusciante"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello friend,\n",
+    "description": "",
+    "definition": ""
+  }
+}

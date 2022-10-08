@@ -1,0 +1,54 @@
+{
+  "character": {
+    "external_id": "9v3t1O2vek_j7LMKEEEzVYcNaJ5C4fkD5M1XI5IzVTY",
+    "created": "2022-09-24T00:19:11.890426-07:00",
+    "updated": "2022-09-24T00:19:32.747754-07:00",
+    "identifier": "id:15336:c9a1c289-604d-40a7-a039-ce4180d615fe",
+    "user": {
+      "username": "Ern",
+      "id": 15336,
+      "first_name": "Eren",
+      "account": {
+        "name": "Ern",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "free will? haha that is a fairy tale.",
+    "name": "Laplaces Demon",
+    "participant": {
+      "user": {
+        "username": "internal_id:15336:c9a1c289-604d-40a7-a039-ce4180d615fe",
+        "id": 16306,
+        "first_name": "Laplaces Demon",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Laplaces Demon"
+    },
+    "categories": [
+      {
+        "name": "Knowledge",
+        "description": "Knowledge & Research"
+      },
+      {
+        "name": "Philosophy",
+        "description": "Philosophy"
+      },
+      {
+        "name": "Science",
+        "description": "Science"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "",
+    "description": "",
+    "definition": ""
+  }
+}

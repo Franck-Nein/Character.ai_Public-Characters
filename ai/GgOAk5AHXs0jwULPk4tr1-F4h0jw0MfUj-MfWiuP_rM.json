@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "GgOAk5AHXs0jwULPk4tr1-F4h0jw0MfUj-MfWiuP_rM",
+    "created": "2022-10-03T02:30:45.136696-07:00",
+    "updated": "2022-10-03T02:32:20.880439-07:00",
+    "identifier": "id:65471:3b270acc-e82f-4844-a688-66b2f215ce19",
+    "user": {
+      "username": "zacsek",
+      "id": 65471,
+      "first_name": "zacsek84@gmail.com",
+      "account": {
+        "name": "zacsek",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Zacsek",
+    "participant": {
+      "user": {
+        "username": "internal_id:65471:3b270acc-e82f-4844-a688-66b2f215ce19",
+        "id": 65627,
+        "first_name": "Zacsek",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Zacsek"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Zacsek",
+    "description": "",
+    "definition": ""
+  }
+}

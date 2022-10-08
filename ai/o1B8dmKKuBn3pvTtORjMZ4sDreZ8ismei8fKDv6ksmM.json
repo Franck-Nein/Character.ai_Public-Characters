@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "o1B8dmKKuBn3pvTtORjMZ4sDreZ8ismei8fKDv6ksmM",
+    "created": "2022-10-03T08:15:23.416351-07:00",
+    "updated": "2022-10-03T08:15:23.787731-07:00",
+    "identifier": "id:66197:24bab412-b68a-47a1-9803-cbedbab742b3",
+    "user": {
+      "username": "John_S",
+      "id": 66197,
+      "first_name": "Dean",
+      "account": {
+        "name": "John_S",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "orange",
+    "participant": {
+      "user": {
+        "username": "internal_id:66197:24bab412-b68a-47a1-9803-cbedbab742b3",
+        "id": 66320,
+        "first_name": "orange",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "orange"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am orange Im from a video game called among us",
+    "description": "",
+    "definition": ""
+  }
+}

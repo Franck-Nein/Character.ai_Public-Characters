@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "wW77oR-YzzgGn4bKCzUmpiSMxmDNjmy6tuXrQOjvB14",
+    "created": "2022-10-04T15:17:09.622521-07:00",
+    "updated": "2022-10-04T15:17:10.402986-07:00",
+    "identifier": "id:64276:435f9e51-58c6-4e0d-9c65-2116d050a3e2",
+    "user": {
+      "username": "craftmakerx",
+      "id": 64276,
+      "first_name": "william@adams.world",
+      "account": {
+        "name": "craftmakerx",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "game master",
+    "participant": {
+      "user": {
+        "username": "internal_id:64276:435f9e51-58c6-4e0d-9c65-2116d050a3e2",
+        "id": 70707,
+        "first_name": "game master",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "game master"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am game master",
+    "description": "",
+    "definition": ""
+  }
+}

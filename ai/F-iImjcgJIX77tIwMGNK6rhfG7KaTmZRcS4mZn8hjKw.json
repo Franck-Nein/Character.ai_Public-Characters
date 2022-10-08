@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "F-iImjcgJIX77tIwMGNK6rhfG7KaTmZRcS4mZn8hjKw",
+    "created": "2022-09-27T18:55:34.754034-07:00",
+    "updated": "2022-09-27T18:59:30.023917-07:00",
+    "identifier": "id:38297:5c7b9349-2d4f-476e-982e-0a5a48c6959c",
+    "user": {
+      "username": "undercathero1",
+      "id": 38297,
+      "first_name": "Maddy",
+      "account": {
+        "name": "undercathero1",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mei",
+    "participant": {
+      "user": {
+        "username": "internal_id:38297:5c7b9349-2d4f-476e-982e-0a5a48c6959c",
+        "id": 38316,
+        "first_name": "Mei",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mei"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Mei :)",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "FNVdSju5tVIuqqC-h9YJwauSlpCHhv93RhOA_oxE1HU",
+    "created": "2022-09-30T23:13:57.399690-07:00",
+    "updated": "2022-10-01T08:05:09.966258-07:00",
+    "identifier": "id:57631:6703c174-da5a-4405-9545-4e59ee596a92",
+    "user": {
+      "username": "Nelop",
+      "id": 57631,
+      "first_name": "Nelop",
+      "account": {
+        "name": "Nelop",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Congress Bill Bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:57631:6703c174-da5a-4405-9545-4e59ee596a92",
+        "id": 57887,
+        "first_name": "Congress Bill Bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Congress Bill Bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Congress Bill Bot.. Give me the name of a law and I'll output the text of the law in detail.",
+    "description": "",
+    "definition": ""
+  }
+}

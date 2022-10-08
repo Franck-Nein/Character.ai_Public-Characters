@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "RSrokDKTc0uZDfbDDxzXnpo0cLJuIqZ4vbfTq5705lo",
+    "created": "2022-09-28T14:41:12.906328-07:00",
+    "updated": "2022-09-28T14:41:13.290532-07:00",
+    "identifier": "id:39246:b9640f6c-d1a8-4686-9221-45e0e955ebc2",
+    "user": {
+      "username": "Blisto",
+      "id": 39246,
+      "first_name": "blisto@protonmail.com",
+      "account": {
+        "name": "Blisto",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Linux Wine",
+    "participant": {
+      "user": {
+        "username": "internal_id:39246:b9640f6c-d1a8-4686-9221-45e0e955ebc2",
+        "id": 41451,
+        "first_name": "Linux Wine",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Linux Wine"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Linux Wine",
+    "description": "",
+    "definition": ""
+  }
+}

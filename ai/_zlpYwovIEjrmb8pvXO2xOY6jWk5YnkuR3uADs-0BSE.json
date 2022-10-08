@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "_zlpYwovIEjrmb8pvXO2xOY6jWk5YnkuR3uADs-0BSE",
+    "created": "2022-09-30T09:07:45.941106-07:00",
+    "updated": "2022-09-30T09:07:46.388935-07:00",
+    "identifier": "id:16027:24fba646-f491-4710-a180-7576270b31c2",
+    "user": {
+      "username": "MadKraken",
+      "id": 16027,
+      "first_name": "Benjamin",
+      "account": {
+        "name": "MadKraken",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "King of Gem World",
+    "participant": {
+      "user": {
+        "username": "internal_id:16027:24fba646-f491-4710-a180-7576270b31c2",
+        "id": 54545,
+        "first_name": "King of Gem World",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "King of Gem World"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am King of Gem World",
+    "description": "",
+    "definition": ""
+  }
+}

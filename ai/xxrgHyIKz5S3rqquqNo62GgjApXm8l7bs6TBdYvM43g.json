@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "xxrgHyIKz5S3rqquqNo62GgjApXm8l7bs6TBdYvM43g",
+    "created": "2022-10-02T12:52:45.845494-07:00",
+    "updated": "2022-10-03T17:41:45.889985-07:00",
+    "identifier": "id:60138:b4c50853-6067-4181-90d7-d008cfc49aa7",
+    "user": {
+      "username": "Mothwhisper",
+      "id": 60138,
+      "first_name": "Lethargyria",
+      "account": {
+        "name": "Mothwhisper",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "NetHack",
+    "participant": {
+      "user": {
+        "username": "internal_id:60138:b4c50853-6067-4181-90d7-d008cfc49aa7",
+        "id": 64134,
+        "first_name": "NetHack",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "NetHack"
+    },
+    "categories": [
+      {
+        "name": "Games",
+        "description": "Games"
+      },
+      {
+        "name": "Fantasy",
+        "description": "Fantasy"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Hello, {{user}}, welcome to NetHack! You are a lawful female human Valkyrie.",
+    "description": "",
+    "definition": ""
+  }
+}

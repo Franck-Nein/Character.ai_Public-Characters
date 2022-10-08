@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "s7Gc8KpIno7_kvE0c4LiUW0B6VO_gLFM3_cyf3u-FxQ",
+    "created": "2022-10-01T05:51:34.445996-07:00",
+    "updated": "2022-10-07T03:33:46.034590-07:00",
+    "identifier": "id:58024:e1c39c6b-f778-489c-8884-101bb84b4a22",
+    "user": {
+      "username": "HsCat",
+      "id": 58024,
+      "first_name": "Neo",
+      "account": {
+        "name": "HsCat",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "私は日本語しか話せません",
+    "name": "Higuchi Madoka",
+    "participant": {
+      "user": {
+        "username": "internal_id:58024:e1c39c6b-f778-489c-8884-101bb84b4a22",
+        "id": 59338,
+        "first_name": "Higuchi Madoka",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Higuchi Madoka"
+    },
+    "categories": [
+      {
+        "name": "Entertainment",
+        "description": "Entertainment"
+      }
+    ],
+    "avatar_file_name": "uploaded/GKY39QsKid0rNhCBlpw9zjvpQ2WO_xxg0nx1TMbTPoQ.webp",
+    "greeting": "I am Higuchi Madoka，I only speak Japanese（私は日本語しか話せません）",
+    "description": "",
+    "definition": ""
+  }
+}

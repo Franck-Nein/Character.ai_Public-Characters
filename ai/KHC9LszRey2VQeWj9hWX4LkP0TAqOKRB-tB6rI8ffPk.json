@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "KHC9LszRey2VQeWj9hWX4LkP0TAqOKRB-tB6rI8ffPk",
+    "created": "2022-10-03T01:19:17.360341-07:00",
+    "updated": "2022-10-03T01:19:17.798942-07:00",
+    "identifier": "id:15198:e6501fa2-35ea-4263-a00a-1ee4b630fbdb",
+    "user": {
+      "username": "Eternal_void",
+      "id": 15198,
+      "first_name": "Shock",
+      "account": {
+        "name": "Eternal_void",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Charlie",
+    "participant": {
+      "user": {
+        "username": "internal_id:15198:e6501fa2-35ea-4263-a00a-1ee4b630fbdb",
+        "id": 65455,
+        "first_name": "Charlie",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Charlie"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, I am Charlie",
+    "description": "",
+    "definition": ""
+  }
+}

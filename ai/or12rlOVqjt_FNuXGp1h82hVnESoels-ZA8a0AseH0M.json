@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "or12rlOVqjt_FNuXGp1h82hVnESoels-ZA8a0AseH0M",
+    "created": "2022-09-30T14:42:55.316776-07:00",
+    "updated": "2022-09-30T14:42:55.668956-07:00",
+    "identifier": "id:55650:7ca2ee26-8cb6-4132-93f4-59bac876385d",
+    "user": {
+      "username": "CheckingOutAI",
+      "id": 55650,
+      "first_name": "Daniel",
+      "account": {
+        "name": "CheckingOutAI",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Fred Flintstone",
+    "participant": {
+      "user": {
+        "username": "internal_id:55650:7ca2ee26-8cb6-4132-93f4-59bac876385d",
+        "id": 56259,
+        "first_name": "Fred Flintstone",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Fred Flintstone"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Fred Flintstone. The main character of the 1960's cartoon the Flintstones.",
+    "description": "",
+    "definition": ""
+  }
+}

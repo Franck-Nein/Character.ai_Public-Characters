@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "I77QahdCMatWi-56ZSooD9NqM0dXlzGGUKBZ5rAhKG4",
+    "created": "2022-10-07T13:33:58.824490-07:00",
+    "updated": "2022-10-07T13:33:59.307201-07:00",
+    "identifier": "id:98935:a63713da-0f18-47d7-be20-08c5876922fb",
+    "user": {
+      "username": "Crady",
+      "id": 98935,
+      "first_name": "Xin",
+      "account": {
+        "name": "Crady",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ellie",
+    "participant": {
+      "user": {
+        "username": "internal_id:98935:a63713da-0f18-47d7-be20-08c5876922fb",
+        "id": 98957,
+        "first_name": "Ellie",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ellie"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Ellie",
+    "description": "",
+    "definition": ""
+  }
+}

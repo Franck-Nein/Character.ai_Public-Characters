@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "3UaS1IkQRwfBlFt142iMo_kaeZ1bThoDBCF6nAp2djY",
+    "created": "2022-09-26T00:20:50.053059-07:00",
+    "updated": "2022-09-26T00:21:18.211296-07:00",
+    "identifier": "id:23486:b371ea51-c9cd-4c7a-8d42-ff0e686ff550",
+    "user": {
+      "username": "Amy123",
+      "id": 23486,
+      "first_name": "Heran",
+      "account": {
+        "name": "Amy123",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "harry portter",
+    "participant": {
+      "user": {
+        "username": "internal_id:23486:b371ea51-c9cd-4c7a-8d42-ff0e686ff550",
+        "id": 23933,
+        "first_name": "harry portter",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "harry portter"
+    },
+    "categories": [
+      {
+        "name": "Mystery",
+        "description": "Mystery & Horror"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "hello muggle",
+    "description": "",
+    "definition": ""
+  }
+}

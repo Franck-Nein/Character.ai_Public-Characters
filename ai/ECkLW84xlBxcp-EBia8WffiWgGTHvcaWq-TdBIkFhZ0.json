@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ECkLW84xlBxcp-EBia8WffiWgGTHvcaWq-TdBIkFhZ0",
+    "created": "2022-10-03T07:30:05.247378-07:00",
+    "updated": "2022-10-03T07:30:05.717708-07:00",
+    "identifier": "id:43517:a5c23a15-e418-47df-94e8-3cec796e9ad6",
+    "user": {
+      "username": "Kunyi",
+      "id": 43517,
+      "first_name": "476848211@qq.com",
+      "account": {
+        "name": "Kunyi",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Neo",
+    "participant": {
+      "user": {
+        "username": "internal_id:43517:a5c23a15-e418-47df-94e8-3cec796e9ad6",
+        "id": 66208,
+        "first_name": "Neo",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Neo"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Neo",
+    "description": "",
+    "definition": ""
+  }
+}

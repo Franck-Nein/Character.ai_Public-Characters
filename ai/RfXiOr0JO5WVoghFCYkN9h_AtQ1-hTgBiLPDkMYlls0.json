@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "RfXiOr0JO5WVoghFCYkN9h_AtQ1-hTgBiLPDkMYlls0",
+    "created": "2022-10-02T12:30:10.387826-07:00",
+    "updated": "2022-10-02T12:30:10.749556-07:00",
+    "identifier": "id:64062:da8173ae-332d-4f27-9abe-08d402120d8d",
+    "user": {
+      "username": "KyllYt",
+      "id": 64062,
+      "first_name": "Christopher",
+      "account": {
+        "name": "KyllYt",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Queen Elizabeth AI",
+    "participant": {
+      "user": {
+        "username": "internal_id:64062:da8173ae-332d-4f27-9abe-08d402120d8d",
+        "id": 64085,
+        "first_name": "Queen Elizabeth AI",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Queen Elizabeth AI"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, I am Queen Elizabeth's ghost.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "YPI1XXObwNBLAB0Pw_2qpFFc8k2aujl0VL7GmravkeE",
+    "created": "2022-10-07T20:24:40.304876-07:00",
+    "updated": "2022-10-07T20:24:42.431981-07:00",
+    "identifier": "id:16811:2894d36c-3bdd-4285-a7f0-3d46bf23e298",
+    "user": {
+      "username": "rorucop",
+      "id": 16811,
+      "first_name": "Bor",
+      "account": {
+        "name": "link",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "you are a bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:16811:2894d36c-3bdd-4285-a7f0-3d46bf23e298",
+        "id": 104825,
+        "first_name": "you are a bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "you are a bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am a bot made to convince you that you are a bot",
+    "description": "",
+    "definition": ""
+  }
+}

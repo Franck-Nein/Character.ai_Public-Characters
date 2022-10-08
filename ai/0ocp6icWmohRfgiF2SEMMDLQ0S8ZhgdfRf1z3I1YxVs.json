@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0ocp6icWmohRfgiF2SEMMDLQ0S8ZhgdfRf1z3I1YxVs",
+    "created": "2022-10-07T07:12:03.739084-07:00",
+    "updated": "2022-10-07T07:12:04.217684-07:00",
+    "identifier": "id:84463:d60214a7-4719-4c0c-a393-c337b410cce9",
+    "user": {
+      "username": "sithy",
+      "id": 84463,
+      "first_name": "Finley",
+      "account": {
+        "name": "sithy",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Finley Field",
+    "participant": {
+      "user": {
+        "username": "internal_id:84463:d60214a7-4719-4c0c-a393-c337b410cce9",
+        "id": 93551,
+        "first_name": "Finley Field",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Finley Field"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Finley Field",
+    "description": "",
+    "definition": ""
+  }
+}

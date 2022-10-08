@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Wz2Aty2Bq_IvuYpLz62XgrG47EswYMEvU9fsWb6qszQ",
+    "created": "2022-10-04T20:07:53.428648-07:00",
+    "updated": "2022-10-04T20:07:53.774632-07:00",
+    "identifier": "id:16027:5177fa50-2ecb-4296-8d09-ebfaf764f229",
+    "user": {
+      "username": "MadKraken",
+      "id": 16027,
+      "first_name": "Benjamin",
+      "account": {
+        "name": "MadKraken",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Colossal Orc",
+    "participant": {
+      "user": {
+        "username": "internal_id:16027:5177fa50-2ecb-4296-8d09-ebfaf764f229",
+        "id": 71401,
+        "first_name": "Colossal Orc",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Colossal Orc"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Colossal Orc",
+    "description": "",
+    "definition": ""
+  }
+}

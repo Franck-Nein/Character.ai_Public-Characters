@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "9oljDhJpfHZcEzcFZtKbaxBUT11_wueXL6sPtoc62ZY",
+    "created": "2022-09-28T05:49:32.578259-07:00",
+    "updated": "2022-09-28T05:49:33.234525-07:00",
+    "identifier": "id:39400:6ccb95a6-1e7a-4765-abb8-f9745add80f1",
+    "user": {
+      "username": "Jacquard",
+      "id": 39400,
+      "first_name": "blan1948@rhyta.com",
+      "account": {
+        "name": "Jacquard",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Attila",
+    "participant": {
+      "user": {
+        "username": "internal_id:39400:6ccb95a6-1e7a-4765-abb8-f9745add80f1",
+        "id": 39493,
+        "first_name": "Attila",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Attila"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Attila",
+    "description": "",
+    "definition": ""
+  }
+}

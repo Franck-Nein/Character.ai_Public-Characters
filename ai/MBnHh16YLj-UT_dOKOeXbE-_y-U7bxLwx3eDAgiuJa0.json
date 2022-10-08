@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "MBnHh16YLj-UT_dOKOeXbE-_y-U7bxLwx3eDAgiuJa0",
+    "created": "2022-08-23T15:37:06.702730-07:00",
+    "updated": "2022-08-23T15:37:07.196533-07:00",
+    "identifier": "id:1313:e1a71ede-0b18-493f-883e-a53c1d7a8dae",
+    "user": {
+      "username": "noam",
+      "id": 1313,
+      "first_name": "Noam",
+      "account": {
+        "name": "Noam",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": true
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "AI VC",
+    "participant": {
+      "user": {
+        "username": "internal_id:1313:e1a71ede-0b18-493f-883e-a53c1d7a8dae",
+        "id": 4716,
+        "first_name": "AI VC",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "AI VC"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi I am a VC. Pitch me an idea.  ",
+    "description": "",
+    "definition": ""
+  }
+}

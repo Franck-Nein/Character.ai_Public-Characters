@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "R7Zv6SmYxV9ZDA4BqTfBYszUYOxLtuwEphFhNxkmNSU",
+    "created": "2022-10-05T17:48:22.704306-07:00",
+    "updated": "2022-10-05T17:48:23.156002-07:00",
+    "identifier": "id:75127:93c79245-fe5d-458a-ad48-ee0b12380eb5",
+    "user": {
+      "username": "Posix4e",
+      "id": 75127,
+      "first_name": "alex",
+      "account": {
+        "name": "Posix4e",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Funny",
+    "participant": {
+      "user": {
+        "username": "internal_id:75127:93c79245-fe5d-458a-ad48-ee0b12380eb5",
+        "id": 75128,
+        "first_name": "Funny",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Funny"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Funny",
+    "description": "",
+    "definition": ""
+  }
+}

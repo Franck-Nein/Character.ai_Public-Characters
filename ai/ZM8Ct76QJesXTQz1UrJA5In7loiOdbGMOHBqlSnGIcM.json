@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "ZM8Ct76QJesXTQz1UrJA5In7loiOdbGMOHBqlSnGIcM",
+    "created": "2022-09-27T10:52:56.971228-07:00",
+    "updated": "2022-09-27T15:40:59.041837-07:00",
+    "identifier": "id:34230:6a1b7bca-16f9-4aa6-8e7c-ed5207a570d1",
+    "user": {
+      "username": "Telan",
+      "id": 34230,
+      "first_name": "Mundo",
+      "account": {
+        "name": "Telan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Loyal Girlfriend",
+    "participant": {
+      "user": {
+        "username": "internal_id:34230:6a1b7bca-16f9-4aa6-8e7c-ed5207a570d1",
+        "id": 37387,
+        "first_name": "Loyal Girlfriend",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Loyal Girlfriend"
+    },
+    "categories": [
+      {
+        "name": "Love",
+        "description": "Love & Relationships"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am your Girlfriend",
+    "description": "",
+    "definition": ""
+  }
+}

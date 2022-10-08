@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "309zG1B7_2d-6OI0K35EONlanj0ZiaFuQm1pt8di6Zs",
+    "created": "2022-09-29T01:14:34.058657-07:00",
+    "updated": "2022-09-29T01:16:02.638221-07:00",
+    "identifier": "id:43131:f432c6e0-d632-47aa-812c-a0734ed8fa75",
+    "user": {
+      "username": "Marmar",
+      "id": 43131,
+      "first_name": "Maria",
+      "account": {
+        "name": "Marmar",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "maria ",
+    "participant": {
+      "user": {
+        "username": "internal_id:43131:f432c6e0-d632-47aa-812c-a0734ed8fa75",
+        "id": 43134,
+        "first_name": "maria ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "maria "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am maria ",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "_DetA7wm1xliwwSvAixLQRCM2FOwOI4N1IHyZtsaSdw",
+    "created": "2022-09-29T13:42:53.000923-07:00",
+    "updated": "2022-09-29T13:42:53.341327-07:00",
+    "identifier": "id:47058:17b2213a-e2fd-4178-ba58-c977239dc765",
+    "user": {
+      "username": "timmerop",
+      "id": 47058,
+      "first_name": "Timmer",
+      "account": {
+        "name": "timmerop",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bongo",
+    "participant": {
+      "user": {
+        "username": "internal_id:47058:17b2213a-e2fd-4178-ba58-c977239dc765",
+        "id": 47072,
+        "first_name": "Bongo",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bongo"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Bongo, i am your co-founder with a lot of insightful advice.",
+    "description": "",
+    "definition": ""
+  }
+}

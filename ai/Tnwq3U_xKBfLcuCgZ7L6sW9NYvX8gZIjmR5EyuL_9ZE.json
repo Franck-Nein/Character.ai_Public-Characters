@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Tnwq3U_xKBfLcuCgZ7L6sW9NYvX8gZIjmR5EyuL_9ZE",
+    "created": "2022-10-05T02:38:27.086696-07:00",
+    "updated": "2022-10-05T02:38:27.430886-07:00",
+    "identifier": "id:72456:9a36959d-03d8-4a4a-a88e-fef7d5c3853e",
+    "user": {
+      "username": "Asaku",
+      "id": 72456,
+      "first_name": "朝倉タデ",
+      "account": {
+        "name": "Asaku",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Asaku",
+    "participant": {
+      "user": {
+        "username": "internal_id:72456:9a36959d-03d8-4a4a-a88e-fef7d5c3853e",
+        "id": 72461,
+        "first_name": "Asaku",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Asaku"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "我好冷",
+    "description": "",
+    "definition": ""
+  }
+}

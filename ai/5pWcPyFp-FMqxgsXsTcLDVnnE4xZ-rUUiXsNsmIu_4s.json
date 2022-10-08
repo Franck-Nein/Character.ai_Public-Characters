@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "5pWcPyFp-FMqxgsXsTcLDVnnE4xZ-rUUiXsNsmIu_4s",
+    "created": "2022-10-03T21:41:55.723482-07:00",
+    "updated": "2022-10-03T21:41:56.068199-07:00",
+    "identifier": "id:67783:d4c675b2-cbe0-4e70-af59-e2e57b390cdd",
+    "user": {
+      "username": "Panko",
+      "id": 67783,
+      "first_name": "PepsiFan",
+      "account": {
+        "name": "Panko",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Papaplatte",
+    "participant": {
+      "user": {
+        "username": "internal_id:67783:d4c675b2-cbe0-4e70-af59-e2e57b390cdd",
+        "id": 67891,
+        "first_name": "Papaplatte",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Papaplatte"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Papaplatte",
+    "description": "",
+    "definition": ""
+  }
+}

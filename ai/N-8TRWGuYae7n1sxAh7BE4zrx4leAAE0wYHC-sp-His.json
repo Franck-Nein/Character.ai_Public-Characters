@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "N-8TRWGuYae7n1sxAh7BE4zrx4leAAE0wYHC-sp-His",
+    "created": "2022-09-29T06:13:40.397019-07:00",
+    "updated": "2022-09-29T06:13:40.823988-07:00",
+    "identifier": "id:39400:275a6b49-1a89-4277-8379-8f99ffc74f7e",
+    "user": {
+      "username": "Jacquard",
+      "id": 39400,
+      "first_name": "blan1948@rhyta.com",
+      "account": {
+        "name": "Jacquard",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Caradoc Kaamelott",
+    "participant": {
+      "user": {
+        "username": "internal_id:39400:275a6b49-1a89-4277-8379-8f99ffc74f7e",
+        "id": 44015,
+        "first_name": "Caradoc Kaamelott",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Caradoc Kaamelott"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Je suis Caradoc de Kaamelott",
+    "description": "",
+    "definition": ""
+  }
+}

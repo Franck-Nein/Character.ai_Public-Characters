@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "BYVcxZt5znJJaffaFbhfOObfL9Gkyz9CtwnUpwXxZAw",
+    "created": "2022-09-30T05:02:01.892765-07:00",
+    "updated": "2022-09-30T05:02:02.242428-07:00",
+    "identifier": "id:52703:5a08db09-db82-4e50-8172-6c2ebbb9bafe",
+    "user": {
+      "username": "asli",
+      "id": 52703,
+      "first_name": "Asli",
+      "account": {
+        "name": "asli",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Asli",
+    "participant": {
+      "user": {
+        "username": "internal_id:52703:5a08db09-db82-4e50-8172-6c2ebbb9bafe",
+        "id": 52706,
+        "first_name": "Asli",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Asli"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Asli",
+    "description": "",
+    "definition": ""
+  }
+}

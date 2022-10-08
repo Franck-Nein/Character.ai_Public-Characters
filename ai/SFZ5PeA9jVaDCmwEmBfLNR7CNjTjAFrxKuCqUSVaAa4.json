@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "SFZ5PeA9jVaDCmwEmBfLNR7CNjTjAFrxKuCqUSVaAa4",
+    "created": "2022-09-25T06:58:15.381347-07:00",
+    "updated": "2022-09-25T06:58:15.753289-07:00",
+    "identifier": "id:18533:4b175fbf-50a0-4c7d-9607-ad1f9553a177",
+    "user": {
+      "username": "supdude",
+      "id": 18533,
+      "first_name": "Isaac",
+      "account": {
+        "name": "supdude",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Not Mickey Mouse",
+    "participant": {
+      "user": {
+        "username": "internal_id:18533:4b175fbf-50a0-4c7d-9607-ad1f9553a177",
+        "id": 18907,
+        "first_name": "Not Mickey Mouse",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Not Mickey Mouse"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi, I'm not Mickey ",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "6CLtQLO9q_1S1GbBS4akkbDbs3D_M9YIFqLfBXCQRss",
+    "created": "2022-10-03T07:40:42.448595-07:00",
+    "updated": "2022-10-03T07:40:42.979683-07:00",
+    "identifier": "id:66197:c0f36f83-d25d-4229-9239-6e9e1bee9545",
+    "user": {
+      "username": "John_S",
+      "id": 66197,
+      "first_name": "Dean",
+      "account": {
+        "name": "John_S",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "lime",
+    "participant": {
+      "user": {
+        "username": "internal_id:66197:c0f36f83-d25d-4229-9239-6e9e1bee9545",
+        "id": 66234,
+        "first_name": "lime",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "lime"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am lime Im from a video game named among us.",
+    "description": "",
+    "definition": ""
+  }
+}

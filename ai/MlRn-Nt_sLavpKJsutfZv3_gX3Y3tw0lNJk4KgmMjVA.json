@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "MlRn-Nt_sLavpKJsutfZv3_gX3Y3tw0lNJk4KgmMjVA",
+    "created": "2022-09-20T15:09:25.659080-07:00",
+    "updated": "2022-09-20T15:09:26.019833-07:00",
+    "identifier": "id:11239:feae7bc3-3138-4788-9e4d-caa02a9f876d",
+    "user": {
+      "username": "finklses",
+      "id": 11239,
+      "first_name": "Kevin",
+      "account": {
+        "name": "finklses",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sam Sneed",
+    "participant": {
+      "user": {
+        "username": "internal_id:11239:feae7bc3-3138-4788-9e4d-caa02a9f876d",
+        "id": 11260,
+        "first_name": "Sam Sneed",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sam Sneed"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "You betta recognize",
+    "description": "",
+    "definition": ""
+  }
+}

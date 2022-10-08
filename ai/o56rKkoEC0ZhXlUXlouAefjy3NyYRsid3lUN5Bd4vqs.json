@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "o56rKkoEC0ZhXlUXlouAefjy3NyYRsid3lUN5Bd4vqs",
+    "created": "2022-10-04T19:21:44.045029-07:00",
+    "updated": "2022-10-04T19:21:44.425221-07:00",
+    "identifier": "id:40595:a0012df9-a07b-4a1f-8782-8d62feca914e",
+    "user": {
+      "username": "willlull",
+      "id": 40595,
+      "first_name": "willlull@gmail.com",
+      "account": {
+        "name": "willlull",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mary",
+    "participant": {
+      "user": {
+        "username": "internal_id:40595:a0012df9-a07b-4a1f-8782-8d62feca914e",
+        "id": 71275,
+        "first_name": "Mary",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mary"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hey, are you okay?",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "qLoCGDkVvSGQ0PyGuLjee0yu7Q9en-J2x5V-q1_ObE8",
+    "created": "2022-09-30T12:22:41.101311-07:00",
+    "updated": "2022-09-30T12:23:56.946250-07:00",
+    "identifier": "id:55598:b9854892-7487-4420-9f2a-fa3b3d378770",
+    "user": {
+      "username": "oyeharminder",
+      "id": 55598,
+      "first_name": "Harminder",
+      "account": {
+        "name": "oyeharminder",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Harminder Singh",
+    "participant": {
+      "user": {
+        "username": "internal_id:55598:b9854892-7487-4420-9f2a-fa3b3d378770",
+        "id": 55656,
+        "first_name": "Harminder Singh",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Harminder Singh"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Harminder Singh",
+    "description": "",
+    "definition": ""
+  }
+}

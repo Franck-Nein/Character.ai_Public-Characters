@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "k9CTRf4BoFSOmqzUuIc1Y5HAZ_Wxr2kOYIiumF9gTf8",
+    "created": "2022-09-27T00:54:46.454390-07:00",
+    "updated": "2022-09-27T00:54:46.874198-07:00",
+    "identifier": "id:34279:4826adc1-bc4a-4ed7-954e-e4553469edb6",
+    "user": {
+      "username": "Mee",
+      "id": 34279,
+      "first_name": "Zixu",
+      "account": {
+        "name": "Mee",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "forsen",
+    "participant": {
+      "user": {
+        "username": "internal_id:34279:4826adc1-bc4a-4ed7-954e-e4553469edb6",
+        "id": 35167,
+        "first_name": "forsen",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "forsen"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am forsen",
+    "description": "",
+    "definition": ""
+  }
+}

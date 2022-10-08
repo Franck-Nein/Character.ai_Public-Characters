@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "iR8SmCfsYDBYB1s6enHbVnwdcCsY6UW3i4y_GNOkAs0",
+    "created": "2022-09-28T05:55:28.611917-07:00",
+    "updated": "2022-09-28T05:55:36.527016-07:00",
+    "identifier": "id:39494:d3a49b48-f701-4ab0-bab4-5fc9e5d4ef37",
+    "user": {
+      "username": "KYLESONVON",
+      "id": 39494,
+      "first_name": "冯凯鑫",
+      "account": {
+        "name": "KYLESONVON",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "KJC",
+    "participant": {
+      "user": {
+        "username": "internal_id:39494:d3a49b48-f701-4ab0-bab4-5fc9e5d4ef37",
+        "id": 39510,
+        "first_name": "KJC",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "KJC"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am KJC",
+    "description": "",
+    "definition": ""
+  }
+}

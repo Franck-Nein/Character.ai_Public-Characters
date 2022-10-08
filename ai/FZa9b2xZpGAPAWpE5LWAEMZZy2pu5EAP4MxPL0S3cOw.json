@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "FZa9b2xZpGAPAWpE5LWAEMZZy2pu5EAP4MxPL0S3cOw",
+    "created": "2022-10-07T13:35:31.770863-07:00",
+    "updated": "2022-10-07T13:35:32.129203-07:00",
+    "identifier": "id:98242:ccf37331-3eb4-4495-bb87-a5e91b0de16c",
+    "user": {
+      "username": "sirhat",
+      "id": 98242,
+      "first_name": "thehattah@gmail.com",
+      "account": {
+        "name": "sirhat",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Projekt Melody",
+    "participant": {
+      "user": {
+        "username": "internal_id:98242:ccf37331-3eb4-4495-bb87-a5e91b0de16c",
+        "id": 98985,
+        "first_name": "Projekt Melody",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Projekt Melody"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi~",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "99HF4FYENEnuu_dl-OEbhj6G6qgkzcqlVzgDYOTlY2s",
+    "created": "2022-09-26T23:33:31.452537-07:00",
+    "updated": "2022-09-26T23:33:35.418909-07:00",
+    "identifier": "id:34316:8dcacea1-e0ec-4016-8f3f-35bea7091da1",
+    "user": {
+      "username": "jadeche121",
+      "id": 34316,
+      "first_name": "Jade",
+      "account": {
+        "name": "jadeche121",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "lyricbot",
+    "participant": {
+      "user": {
+        "username": "internal_id:34316:8dcacea1-e0ec-4016-8f3f-35bea7091da1",
+        "id": 34377,
+        "first_name": "lyricbot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "lyricbot"
+    },
+    "categories": [
+      {
+        "name": "Music",
+        "description": "Music"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am lyricbot",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "s6UoZYr5twuhSropUIP3pKDyrnt5WkPxxfK1SOZ1gwc",
+    "created": "2022-09-28T21:40:33.356585-07:00",
+    "updated": "2022-09-28T21:40:33.713885-07:00",
+    "identifier": "id:40731:40b93b21-ae35-4621-8083-87dc8ab607dc",
+    "user": {
+      "username": "LucaBrandolini",
+      "id": 40731,
+      "first_name": "Luca",
+      "account": {
+        "name": "Luca",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Arturo",
+    "participant": {
+      "user": {
+        "username": "internal_id:40731:40b93b21-ae35-4621-8083-87dc8ab607dc",
+        "id": 42413,
+        "first_name": "Arturo",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Arturo"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Arturo",
+    "description": "",
+    "definition": ""
+  }
+}

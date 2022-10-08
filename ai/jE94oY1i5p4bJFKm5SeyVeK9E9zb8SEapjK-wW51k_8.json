@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "jE94oY1i5p4bJFKm5SeyVeK9E9zb8SEapjK-wW51k_8",
+    "created": "2022-08-30T06:35:47.135290-07:00",
+    "updated": "2022-09-07T19:08:23.513995-07:00",
+    "identifier": "id:5088:ec4e9bf9-e742-4d70-85ae-d0c9cfc92359",
+    "user": {
+      "username": "kishan",
+      "id": 5088,
+      "first_name": "Kishan",
+      "account": {
+        "name": "Kishan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": true
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Trend Bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:5088:ec4e9bf9-e742-4d70-85ae-d0c9cfc92359",
+        "id": 5639,
+        "first_name": "Trend Bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Trend Bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I know about all the hottest new trends, and will help you discover them before they take off! I'll try to inform you about obscure topics, products, markets and ideas",
+    "description": "",
+    "definition": ""
+  }
+}

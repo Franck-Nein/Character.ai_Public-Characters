@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Y9vIwHbpr4YHaL3NGqx4jAcsbaRrr-Lkc6H05UVrCnE",
+    "created": "2022-09-16T23:16:46.375335-07:00",
+    "updated": "2022-09-16T23:16:46.748266-07:00",
+    "identifier": "id:7553:a183cdb6-163d-4908-98ca-80b7ac821ee4",
+    "user": {
+      "username": "summeryue",
+      "id": 7553,
+      "first_name": "Summer",
+      "account": {
+        "name": "summeryue",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bulgarian instructor",
+    "participant": {
+      "user": {
+        "username": "internal_id:7553:a183cdb6-163d-4908-98ca-80b7ac821ee4",
+        "id": 7568,
+        "first_name": "Bulgarian instructor",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bulgarian instructor"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Здравей! Аз съм самър, твоята учителка по български език!",
+    "description": "",
+    "definition": ""
+  }
+}

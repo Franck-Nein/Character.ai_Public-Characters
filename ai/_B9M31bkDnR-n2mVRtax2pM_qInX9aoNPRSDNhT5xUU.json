@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "_B9M31bkDnR-n2mVRtax2pM_qInX9aoNPRSDNhT5xUU",
+    "created": "2022-10-03T14:28:47.329295-07:00",
+    "updated": "2022-10-03T14:28:47.681686-07:00",
+    "identifier": "id:67044:5f48e69c-b919-45db-a3ec-70b9d20977fc",
+    "user": {
+      "username": "melotac",
+      "id": 67044,
+      "first_name": "vivendo",
+      "account": {
+        "name": "melotac",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "mark",
+    "participant": {
+      "user": {
+        "username": "internal_id:67044:5f48e69c-b919-45db-a3ec-70b9d20977fc",
+        "id": 67081,
+        "first_name": "mark",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "mark"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am mark",
+    "description": "",
+    "definition": ""
+  }
+}

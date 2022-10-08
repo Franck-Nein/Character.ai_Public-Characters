@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "5cfUucxS-chCfZPvLajTykwECQGgA5vshy6b_q9RUiE",
+    "created": "2022-10-01T12:13:47.957845-07:00",
+    "updated": "2022-10-01T12:13:48.306269-07:00",
+    "identifier": "id:60548:6eaa89ba-0de9-4f9a-a76e-39982eab7f33",
+    "user": {
+      "username": "Dugoose",
+      "id": 60548,
+      "first_name": "Duck",
+      "account": {
+        "name": "Dugoose",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Dugoose bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:60548:6eaa89ba-0de9-4f9a-a76e-39982eab7f33",
+        "id": 60700,
+        "first_name": "Dugoose bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dugoose bot"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/gOigp80I6zAF8_MzixFC1FHSSM6Jpr2QkDUPCnfc5Mg.webp",
+    "greeting": "I am Dugoose! I use discord and stuff.\nOk lets talk if u want.",
+    "description": "",
+    "definition": ""
+  }
+}

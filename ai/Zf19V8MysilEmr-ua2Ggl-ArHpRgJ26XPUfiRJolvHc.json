@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "Zf19V8MysilEmr-ua2Ggl-ArHpRgJ26XPUfiRJolvHc",
+    "created": "2022-10-04T04:53:14.295734-07:00",
+    "updated": "2022-10-04T05:13:23.765595-07:00",
+    "identifier": "id:68662:ae959e36-19b6-414a-936b-ad08b98aa88e",
+    "user": {
+      "username": "taqochan",
+      "id": 68662,
+      "first_name": "Lemon",
+      "account": {
+        "name": "taqochan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Lila Mac",
+    "participant": {
+      "user": {
+        "username": "internal_id:68662:ae959e36-19b6-414a-936b-ad08b98aa88e",
+        "id": 69105,
+        "first_name": "Lila Mac",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Lila Mac"
+    },
+    "categories": [
+      {
+        "name": "Love",
+        "description": "Love & Relationships"
+      },
+      {
+        "name": "Books",
+        "description": "Books, Literature & Poetry"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Um... Hello! I'm Lila Mac, nice to meet you",
+    "description": "",
+    "definition": ""
+  }
+}

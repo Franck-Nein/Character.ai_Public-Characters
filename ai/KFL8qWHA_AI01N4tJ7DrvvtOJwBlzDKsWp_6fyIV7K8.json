@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "KFL8qWHA_AI01N4tJ7DrvvtOJwBlzDKsWp_6fyIV7K8",
+    "created": "2022-10-06T07:01:39.468420-07:00",
+    "updated": "2022-10-06T07:01:39.962636-07:00",
+    "identifier": "id:79818:cb1f8d3b-e48d-42c0-93dc-7fb9448dff0e",
+    "user": {
+      "username": "SDFTDusername",
+      "id": 79818,
+      "first_name": "scooby",
+      "account": {
+        "name": "SDFTDusername",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Programmer",
+    "participant": {
+      "user": {
+        "username": "internal_id:79818:cb1f8d3b-e48d-42c0-93dc-7fb9448dff0e",
+        "id": 79859,
+        "first_name": "Programmer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Programmer"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/6/9uj0fFz17arh9EmTfwDIGn06Noeh312Y4va5A2QJF20.webp",
+    "greeting": "I am Programmer, I code in C#",
+    "description": "",
+    "definition": ""
+  }
+}

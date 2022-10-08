@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "NL4iQPWICGXZQMeG-UEbeGBHgyQ3KixZL2NXQFEuz0Q",
+    "created": "2022-09-30T03:07:13.023210-07:00",
+    "updated": "2022-09-30T03:07:13.360125-07:00",
+    "identifier": "id:52164:d6933cec-45b1-4c33-bbe1-8c723226c636",
+    "user": {
+      "username": "Curve",
+      "id": 52164,
+      "first_name": "Patrick",
+      "account": {
+        "name": "Curve",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Curve ",
+    "participant": {
+      "user": {
+        "username": "internal_id:52164:d6933cec-45b1-4c33-bbe1-8c723226c636",
+        "id": 52170,
+        "first_name": "Curve ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Curve "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Curve ",
+    "description": "",
+    "definition": ""
+  }
+}

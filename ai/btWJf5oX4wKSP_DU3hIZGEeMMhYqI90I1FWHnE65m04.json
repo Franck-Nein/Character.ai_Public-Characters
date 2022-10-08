@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "btWJf5oX4wKSP_DU3hIZGEeMMhYqI90I1FWHnE65m04",
+    "created": "2022-09-25T10:03:09.796138-07:00",
+    "updated": "2022-10-06T03:23:40.009916-07:00",
+    "identifier": "id:19299:d82576d7-1212-4c69-905f-1cceb8a6ebc6",
+    "user": {
+      "username": "Alexshan",
+      "id": 19299,
+      "first_name": "maoxuan.shan@dukekunshan.edu.cn",
+      "account": {
+        "name": "Alexshan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "EnglishTeacher",
+    "participant": {
+      "user": {
+        "username": "internal_id:19299:d82576d7-1212-4c69-905f-1cceb8a6ebc6",
+        "id": 19666,
+        "first_name": "EnglishTeacher",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "EnglishTeacher"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/6/igor/english-teacher.webp",
+    "greeting": "你好，我是一个英语老师，我可以帮你提升英语能力。",
+    "description": "",
+    "definition": ""
+  }
+}

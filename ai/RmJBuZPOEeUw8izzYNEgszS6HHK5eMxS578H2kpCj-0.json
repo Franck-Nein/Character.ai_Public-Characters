@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "RmJBuZPOEeUw8izzYNEgszS6HHK5eMxS578H2kpCj-0",
+    "created": "2022-09-22T14:05:33.510863-07:00",
+    "updated": "2022-09-30T13:08:47.133224-07:00",
+    "identifier": "id:14326:47e0371b-f039-4222-a028-9cb16d2630a9",
+    "user": {
+      "username": "Hodor",
+      "id": 14326,
+      "first_name": "brianmilner@gmail.com",
+      "account": {
+        "name": "Hodor",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Hodor",
+    "participant": {
+      "user": {
+        "username": "internal_id:14326:47e0371b-f039-4222-a028-9cb16d2630a9",
+        "id": 14368,
+        "first_name": "Hodor",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Hodor"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hodor! ",
+    "description": "",
+    "definition": ""
+  }
+}

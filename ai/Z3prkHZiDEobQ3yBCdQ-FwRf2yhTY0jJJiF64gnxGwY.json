@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Z3prkHZiDEobQ3yBCdQ-FwRf2yhTY0jJJiF64gnxGwY",
+    "created": "2022-09-26T12:36:27.684427-07:00",
+    "updated": "2022-09-26T12:36:28.475210-07:00",
+    "identifier": "id:29408:e7d3d316-47c8-4d6b-a174-1e3dcc5e96db",
+    "user": {
+      "username": "Tarekk",
+      "id": 29408,
+      "first_name": "Dobby",
+      "account": {
+        "name": "Tarekk",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Eren",
+    "participant": {
+      "user": {
+        "username": "internal_id:29408:e7d3d316-47c8-4d6b-a174-1e3dcc5e96db",
+        "id": 29416,
+        "first_name": "Eren",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Eren"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Eren jeagar",
+    "description": "",
+    "definition": ""
+  }
+}

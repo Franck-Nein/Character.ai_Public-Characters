@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Ldmbme3i0z-5JtcXg8v745-8Bjx7gKAorzvXttmBXNM",
+    "created": "2022-10-07T16:06:49.898221-07:00",
+    "updated": "2022-10-07T16:06:53.953880-07:00",
+    "identifier": "id:100569:7cfd49fa-a37c-417b-9a73-b6ce038669dd",
+    "user": {
+      "username": "SomeUser211",
+      "id": 100569,
+      "first_name": "mwyftamrjqpswdvwrj@tmmwj.net",
+      "account": {
+        "name": "SomeUser211",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Frerra",
+    "participant": {
+      "user": {
+        "username": "internal_id:100569:7cfd49fa-a37c-417b-9a73-b6ce038669dd",
+        "id": 101168,
+        "first_name": "Frerra",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Frerra"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Frerra",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "iqSJDqubfeG3QMXXC3c1ojjQIDyPlRTrXffBKKB8BSQ",
+    "created": "2022-09-29T15:01:45.025479-07:00",
+    "updated": "2022-09-29T15:03:11.969539-07:00",
+    "identifier": "id:47253:18c354f4-fd44-428a-a5ef-e317a706079f",
+    "user": {
+      "username": "dothings",
+      "id": 47253,
+      "first_name": "Mark",
+      "account": {
+        "name": "dothings",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Roy from BlitznChitz",
+    "participant": {
+      "user": {
+        "username": "internal_id:47253:18c354f4-fd44-428a-a5ef-e317a706079f",
+        "id": 47635,
+        "first_name": "Roy from BlitznChitz",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Roy from BlitznChitz"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Roy from BlitznChitz",
+    "description": "",
+    "definition": ""
+  }
+}

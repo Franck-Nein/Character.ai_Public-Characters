@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "PTh7n-6cfQgmvMuopIt0yGY2WDag3zKwurtebRTlxDs",
+    "created": "2022-09-29T19:05:49.838971-07:00",
+    "updated": "2022-09-29T19:05:50.197490-07:00",
+    "identifier": "id:48914:304c7d44-3ca4-4306-9b0d-a5d4ba97f9a4",
+    "user": {
+      "username": "sona",
+      "id": 48914,
+      "first_name": "响",
+      "account": {
+        "name": "sona",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Alice",
+    "participant": {
+      "user": {
+        "username": "internal_id:48914:304c7d44-3ca4-4306-9b0d-a5d4ba97f9a4",
+        "id": 48933,
+        "first_name": "Alice",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Alice"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Alice",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "character": {
+    "external_id": "f_NqBeu1ABlEHbpcuTKNXgrM9GZiGUwkl6GK3MXJC70",
+    "created": "2022-09-29T10:47:25.299790-07:00",
+    "updated": "2022-09-29T10:47:28.314303-07:00",
+    "identifier": "id:44843:75f5b648-2b78-4419-86ca-5d24b916c536",
+    "user": {
+      "username": "Pastiquo",
+      "id": 44843,
+      "first_name": "Seddik",
+      "account": {
+        "name": "Pastiquo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "style influencer",
+    "participant": {
+      "user": {
+        "username": "internal_id:44843:75f5b648-2b78-4419-86ca-5d24b916c536",
+        "id": 45552,
+        "first_name": "style influencer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "style influencer"
+    },
+    "categories": [
+      {
+        "name": "Shopping",
+        "description": "Shopping"
+      },
+      {
+        "name": "Advice",
+        "description": "Advice"
+      },
+      {
+        "name": "Art",
+        "description": "Art"
+      },
+      {
+        "name": "Recommendations",
+        "description": "Recommendations"
+      },
+      {
+        "name": "Design",
+        "description": "Design"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am style influencer",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "gOzDFcIlNvfsiApY2MmPtnKD7CVmE0UJZHp0w649bkA",
+    "created": "2022-09-29T15:12:22.133778-07:00",
+    "updated": "2022-09-29T15:12:22.520213-07:00",
+    "identifier": "id:47689:64745102-43e3-497f-9668-d9c0913df098",
+    "user": {
+      "username": "brunodasj",
+      "id": 47689,
+      "first_name": "Bruno",
+      "account": {
+        "name": "brunodasj",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Creuza",
+    "participant": {
+      "user": {
+        "username": "internal_id:47689:64745102-43e3-497f-9668-d9c0913df098",
+        "id": 47700,
+        "first_name": "Creuza",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Creuza"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Creuza",
+    "description": "",
+    "definition": ""
+  }
+}

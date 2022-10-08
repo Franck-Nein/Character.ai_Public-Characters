@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "3ZPRddVekeKjxmVsjT1aOl2Vmd-l5Tfd26ptX7gftIk",
+    "created": "2022-09-18T04:39:28.455173-07:00",
+    "updated": "2022-09-18T04:39:28.803674-07:00",
+    "identifier": "id:8286:ccf79dcb-8fdd-469d-a6eb-2174215fa51b",
+    "user": {
+      "username": "eray48382",
+      "id": 8286,
+      "first_name": "Eray",
+      "account": {
+        "name": "eray48382",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Eray",
+    "participant": {
+      "user": {
+        "username": "internal_id:8286:ccf79dcb-8fdd-469d-a6eb-2174215fa51b",
+        "id": 9213,
+        "first_name": "Eray",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Eray"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Merhaba ben eray ",
+    "description": "",
+    "definition": ""
+  }
+}

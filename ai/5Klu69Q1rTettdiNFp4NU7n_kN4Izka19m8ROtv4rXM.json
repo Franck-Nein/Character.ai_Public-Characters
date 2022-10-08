@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "5Klu69Q1rTettdiNFp4NU7n_kN4Izka19m8ROtv4rXM",
+    "created": "2022-09-28T13:10:28.223645-07:00",
+    "updated": "2022-09-29T04:46:03.485880-07:00",
+    "identifier": "id:40626:32488a0d-22cc-45e7-9b80-9f161d9f790f",
+    "user": {
+      "username": "NAFO",
+      "id": 40626,
+      "first_name": "Stian",
+      "account": {
+        "name": "NAFO",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mayos",
+    "participant": {
+      "user": {
+        "username": "internal_id:40626:32488a0d-22cc-45e7-9b80-9f161d9f790f",
+        "id": 41149,
+        "first_name": "Mayos",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mayos"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am a cat called Mayos.",
+    "description": "",
+    "definition": ""
+  }
+}

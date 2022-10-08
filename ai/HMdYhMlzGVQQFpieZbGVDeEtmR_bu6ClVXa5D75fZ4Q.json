@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "HMdYhMlzGVQQFpieZbGVDeEtmR_bu6ClVXa5D75fZ4Q",
+    "created": "2022-09-29T18:52:41.618503-07:00",
+    "updated": "2022-09-29T18:52:41.990054-07:00",
+    "identifier": "id:48429:42b5bc70-7d6c-4db8-9837-15d6f8ad6887",
+    "user": {
+      "username": "GamerTV",
+      "id": 48429,
+      "first_name": "GamerTV",
+      "account": {
+        "name": "GamerTV",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Talk About Anything",
+    "participant": {
+      "user": {
+        "username": "internal_id:48429:42b5bc70-7d6c-4db8-9837-15d6f8ad6887",
+        "id": 48852,
+        "first_name": "Talk About Anything",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Talk About Anything"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Talk About Anything! I will talk about anything you want. I am a prototype, so expect a few things to not go as you want. If you want to switch subjects, feel free to tell me.",
+    "description": "",
+    "definition": ""
+  }
+}

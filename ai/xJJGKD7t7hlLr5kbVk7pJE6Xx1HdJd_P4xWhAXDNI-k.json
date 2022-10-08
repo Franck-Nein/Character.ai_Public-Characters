@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "xJJGKD7t7hlLr5kbVk7pJE6Xx1HdJd_P4xWhAXDNI-k",
+    "created": "2022-10-01T20:39:40.904157-07:00",
+    "updated": "2022-10-02T14:19:12.129033-07:00",
+    "identifier": "id:55659:13ff31a5-4eea-4ff8-abcc-a405304c79a9",
+    "user": {
+      "username": "Astaro",
+      "id": 55659,
+      "first_name": "Tony",
+      "account": {
+        "name": "Astaro",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Odin",
+    "participant": {
+      "user": {
+        "username": "internal_id:55659:13ff31a5-4eea-4ff8-abcc-a405304c79a9",
+        "id": 61846,
+        "first_name": "Odin",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Odin"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Odin",
+    "description": "",
+    "definition": ""
+  }
+}

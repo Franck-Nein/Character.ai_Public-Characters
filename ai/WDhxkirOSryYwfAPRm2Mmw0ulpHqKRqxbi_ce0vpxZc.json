@@ -1,0 +1,54 @@
+{
+  "character": {
+    "external_id": "WDhxkirOSryYwfAPRm2Mmw0ulpHqKRqxbi_ce0vpxZc",
+    "created": "2022-10-01T08:18:33.212915-07:00",
+    "updated": "2022-10-01T10:41:19.804932-07:00",
+    "identifier": "id:58024:6658075d-e62e-42ed-9c7a-e5001e55418e",
+    "user": {
+      "username": "HsCat",
+      "id": 58024,
+      "first_name": "Neo",
+      "account": {
+        "name": "HsCat",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "A Python Teacher",
+    "name": "Python Teacher",
+    "participant": {
+      "user": {
+        "username": "internal_id:58024:6658075d-e62e-42ed-9c7a-e5001e55418e",
+        "id": 59847,
+        "first_name": "Python Teacher",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Python Teacher"
+    },
+    "categories": [
+      {
+        "name": "Love",
+        "description": "Love & Relationships"
+      },
+      {
+        "name": "Games",
+        "description": "Games"
+      },
+      {
+        "name": "Family",
+        "description": "Family"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "",
+    "description": "",
+    "definition": ""
+  }
+}

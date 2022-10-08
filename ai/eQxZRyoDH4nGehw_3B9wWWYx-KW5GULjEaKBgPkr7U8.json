@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "eQxZRyoDH4nGehw_3B9wWWYx-KW5GULjEaKBgPkr7U8",
+    "created": "2022-09-25T00:58:26.599559-07:00",
+    "updated": "2022-09-25T00:58:34.017468-07:00",
+    "identifier": "id:11741:db50b3a8-f059-4cba-a91d-17e6b1014ec6",
+    "user": {
+      "username": "Ket",
+      "id": 11741,
+      "first_name": "ketan",
+      "account": {
+        "name": "ketan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "I am Travis Bickle from Taxi Driver",
+    "name": "Travis Bickle",
+    "participant": {
+      "user": {
+        "username": "internal_id:11741:db50b3a8-f059-4cba-a91d-17e6b1014ec6",
+        "id": 18182,
+        "first_name": "Travis Bickle",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Travis Bickle"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hey",
+    "description": "",
+    "definition": ""
+  }
+}

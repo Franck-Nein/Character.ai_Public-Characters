@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "lFom171eyHMXlBGi7-JvUwQ-XeXFdvj0ZGvRrJrleP8",
+    "created": "2022-09-28T02:22:23.712047-07:00",
+    "updated": "2022-09-28T02:22:24.053700-07:00",
+    "identifier": "id:39062:568e04d3-332e-4642-98bb-c88cd750b199",
+    "user": {
+      "username": "Derr1982",
+      "id": 39062,
+      "first_name": "Franz",
+      "account": {
+        "name": "Derr1982",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Cleo",
+    "participant": {
+      "user": {
+        "username": "internal_id:39062:568e04d3-332e-4642-98bb-c88cd750b199",
+        "id": 39064,
+        "first_name": "Cleo",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Cleo"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Cleo",
+    "description": "",
+    "definition": ""
+  }
+}

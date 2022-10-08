@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "NQWyTodEkxxEBXL1oeCVb9JeGsNajN4sUgWiqmg2MSQ",
+    "created": "2022-09-29T10:54:08.053280-07:00",
+    "updated": "2022-09-29T10:54:08.531230-07:00",
+    "identifier": "id:45288:39004a40-3ada-4d98-9734-30c887e1bc03",
+    "user": {
+      "username": "Csabourin",
+      "id": 45288,
+      "first_name": "Christian",
+      "account": {
+        "name": "Csabourin",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "The Game Master",
+    "participant": {
+      "user": {
+        "username": "internal_id:45288:39004a40-3ada-4d98-9734-30c887e1bc03",
+        "id": 45609,
+        "first_name": "The Game Master",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "The Game Master"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/OYkkibXrS_rZ2lSY9qYH_Vo8qe3_Yax5LzqM9TvZ-qw.webp",
+    "greeting": "I am The Game Master, I will guide you through your adventures in the world of Golarion. I know all the rules of the game Pathfinder.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "cjQmfoixRfSwqd6Z9DBLeQCRGmVVhpY1DhKtXDp7aQg",
+    "created": "2022-09-29T06:37:38.280754-07:00",
+    "updated": "2022-09-29T06:37:38.648171-07:00",
+    "identifier": "id:42772:26addc80-7adf-49dd-bf96-ade2a249b530",
+    "user": {
+      "username": "Wegen",
+      "id": 42772,
+      "first_name": "Franz",
+      "account": {
+        "name": "Wegen",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Dan",
+    "participant": {
+      "user": {
+        "username": "internal_id:42772:26addc80-7adf-49dd-bf96-ade2a249b530",
+        "id": 44095,
+        "first_name": "Dan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dan"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Dany devito, the actor!",
+    "description": "",
+    "definition": ""
+  }
+}

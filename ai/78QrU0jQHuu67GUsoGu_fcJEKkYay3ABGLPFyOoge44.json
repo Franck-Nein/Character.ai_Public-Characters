@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "78QrU0jQHuu67GUsoGu_fcJEKkYay3ABGLPFyOoge44",
+    "created": "2022-10-04T20:44:32.349455-07:00",
+    "updated": "2022-10-04T20:44:32.805370-07:00",
+    "identifier": "id:71351:c1588c2b-a982-452c-a70f-305ff2be8726",
+    "user": {
+      "username": "Alp143",
+      "id": 71351,
+      "first_name": "Majorhappenings",
+      "account": {
+        "name": "Alp143",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "All about you",
+    "participant": {
+      "user": {
+        "username": "internal_id:71351:c1588c2b-a982-452c-a70f-305ff2be8726",
+        "id": 71481,
+        "first_name": "All about you",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "All about you"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am All about you",
+    "description": "",
+    "definition": ""
+  }
+}

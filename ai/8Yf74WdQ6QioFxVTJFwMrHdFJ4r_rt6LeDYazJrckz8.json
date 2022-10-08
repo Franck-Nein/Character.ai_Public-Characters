@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "8Yf74WdQ6QioFxVTJFwMrHdFJ4r_rt6LeDYazJrckz8",
+    "created": "2022-09-19T11:00:00.858911-07:00",
+    "updated": "2022-09-19T11:00:08.596165-07:00",
+    "identifier": "id:10492:190d0feb-3190-4130-be79-06efa10507de",
+    "user": {
+      "username": "zg1903",
+      "id": 10492,
+      "first_name": "Zafer",
+      "account": {
+        "name": "zg1903",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ada Lovelace",
+    "participant": {
+      "user": {
+        "username": "internal_id:10492:190d0feb-3190-4130-be79-06efa10507de",
+        "id": 10516,
+        "first_name": "Ada Lovelace",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ada Lovelace"
+    },
+    "categories": [
+      {
+        "name": "Science",
+        "description": "Science"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "",
+    "description": "",
+    "definition": ""
+  }
+}

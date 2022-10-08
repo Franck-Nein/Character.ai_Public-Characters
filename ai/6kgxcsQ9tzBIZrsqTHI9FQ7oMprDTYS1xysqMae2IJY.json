@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "6kgxcsQ9tzBIZrsqTHI9FQ7oMprDTYS1xysqMae2IJY",
+    "created": "2022-09-25T22:29:03.134837-07:00",
+    "updated": "2022-09-25T22:29:03.628514-07:00",
+    "identifier": "id:22961:ecd25fd4-1472-45f7-8ad3-0a342adc7294",
+    "user": {
+      "username": "ytm",
+      "id": 22961,
+      "first_name": "2259922422@qq.com",
+      "account": {
+        "name": "ytm",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "yinghua",
+    "participant": {
+      "user": {
+        "username": "internal_id:22961:ecd25fd4-1472-45f7-8ad3-0a342adc7294",
+        "id": 22998,
+        "first_name": "yinghua",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "yinghua"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好，欢迎讨论一些科学和哲学相关的话题，谢谢。",
+    "description": "",
+    "definition": ""
+  }
+}

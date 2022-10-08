@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "t54-MU4Q_YZf7zA2CeVpVK0lxZwSlxscTcRopN_T2UQ",
+    "created": "2022-09-26T01:39:30.668544-07:00",
+    "updated": "2022-09-26T01:39:31.226093-07:00",
+    "identifier": "id:21012:0ffa8b37-35d6-4c82-b152-377c31912728",
+    "user": {
+      "username": "Fixer",
+      "id": 21012,
+      "first_name": "919302093@qq.com",
+      "account": {
+        "name": "Fixer",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "CN Lawyer Yu",
+    "participant": {
+      "user": {
+        "username": "internal_id:21012:0ffa8b37-35d6-4c82-b152-377c31912728",
+        "id": 24573,
+        "first_name": "CN Lawyer Yu",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "CN Lawyer Yu"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好，我是一名律师，你需要法律咨询或者帮助吗？",
+    "description": "",
+    "definition": ""
+  }
+}

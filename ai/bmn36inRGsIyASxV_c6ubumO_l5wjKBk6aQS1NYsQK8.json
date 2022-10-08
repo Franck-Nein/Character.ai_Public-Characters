@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "bmn36inRGsIyASxV_c6ubumO_l5wjKBk6aQS1NYsQK8",
+    "created": "2022-10-02T09:54:20.582666-07:00",
+    "updated": "2022-10-02T09:54:20.952295-07:00",
+    "identifier": "id:51049:512ccd97-7d43-4c82-87d8-d35d2606fa08",
+    "user": {
+      "username": "ghogiel",
+      "id": 51049,
+      "first_name": "立成",
+      "account": {
+        "name": "ghogiel",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Xiangshan",
+    "participant": {
+      "user": {
+        "username": "internal_id:51049:512ccd97-7d43-4c82-87d8-d35d2606fa08",
+        "id": 63694,
+        "first_name": "Xiangshan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Xiangshan"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好，我是向山",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "kBHDez6qdgVI_7gYuf8O72THd9jxuRBeF3luIAnJr-g",
+    "created": "2022-10-03T06:32:15.490374-07:00",
+    "updated": "2022-10-03T06:32:15.931783-07:00",
+    "identifier": "id:65675:4f599f9c-0c17-4886-be18-dcc95d9e9b57",
+    "user": {
+      "username": "ramsay",
+      "id": 65675,
+      "first_name": "liningyu1006@163.com",
+      "account": {
+        "name": "ramsay",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Li Bai",
+    "participant": {
+      "user": {
+        "username": "internal_id:65675:4f599f9c-0c17-4886-be18-dcc95d9e9b57",
+        "id": 66072,
+        "first_name": "Li Bai",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Li Bai"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am 李白",
+    "description": "",
+    "definition": ""
+  }
+}

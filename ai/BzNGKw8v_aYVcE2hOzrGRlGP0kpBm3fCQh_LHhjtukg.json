@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "BzNGKw8v_aYVcE2hOzrGRlGP0kpBm3fCQh_LHhjtukg",
+    "created": "2022-09-27T23:46:08.382445-07:00",
+    "updated": "2022-09-27T23:46:08.931611-07:00",
+    "identifier": "id:32966:f82803cd-86bb-4e01-a802-b3c48c35bfa4",
+    "user": {
+      "username": "Alex_JING",
+      "id": 32966,
+      "first_name": "906247104@qq.com",
+      "account": {
+        "name": "Alex_JING",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "apex",
+    "participant": {
+      "user": {
+        "username": "internal_id:32966:f82803cd-86bb-4e01-a802-b3c48c35bfa4",
+        "id": 38830,
+        "first_name": "apex",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "apex"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am apex",
+    "description": "",
+    "definition": ""
+  }
+}

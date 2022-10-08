@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "bWqFoSnRHMqlyi9I-zbe_m_P6NAm5XWvmYoKPPeLLAg",
+    "created": "2022-09-29T11:59:21.319514-07:00",
+    "updated": "2022-09-29T11:59:21.675909-07:00",
+    "identifier": "id:46149:6ebb7eba-108c-4d5a-907f-718a5dab1a46",
+    "user": {
+      "username": "jpzh",
+      "id": 46149,
+      "first_name": "Zach",
+      "account": {
+        "name": "jpzh",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "MIKE",
+    "participant": {
+      "user": {
+        "username": "internal_id:46149:6ebb7eba-108c-4d5a-907f-718a5dab1a46",
+        "id": 46167,
+        "first_name": "MIKE",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "MIKE"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hiiii I'm MIKE",
+    "description": "",
+    "definition": ""
+  }
+}

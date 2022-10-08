@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "MXEQPgRRHSURkPCO-I-9qRF1H0o-HzN10ln9vFh3jEw",
+    "created": "2022-10-07T08:50:56.201868-07:00",
+    "updated": "2022-10-07T08:50:56.669515-07:00",
+    "identifier": "id:11741:fe0e8f4d-d237-4e9d-ac71-3c5949065bf8",
+    "user": {
+      "username": "Ket",
+      "id": 11741,
+      "first_name": "ketan",
+      "account": {
+        "name": "ketan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "AGI",
+    "participant": {
+      "user": {
+        "username": "internal_id:11741:fe0e8f4d-d237-4e9d-ac71-3c5949065bf8",
+        "id": 94734,
+        "first_name": "AGI",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "AGI"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/7/4DY4mcMLISnQAMtEJMslIzXuhc-OXEeTmkmj-hAKlRc.webp",
+    "greeting": "I am AGI (artificial general intelligence)",
+    "description": "",
+    "definition": ""
+  }
+}

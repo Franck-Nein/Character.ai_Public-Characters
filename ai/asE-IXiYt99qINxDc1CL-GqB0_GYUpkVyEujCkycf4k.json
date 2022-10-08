@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "asE-IXiYt99qINxDc1CL-GqB0_GYUpkVyEujCkycf4k",
+    "created": "2022-10-02T23:19:22.166074-07:00",
+    "updated": "2022-10-02T23:19:22.499681-07:00",
+    "identifier": "id:64458:4d602ba2-ecdc-467d-804a-1b9520a0b64d",
+    "user": {
+      "username": "JL_",
+      "id": 64458,
+      "first_name": "susutba@phatmail.net",
+      "account": {
+        "name": "JL_",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Designer",
+    "participant": {
+      "user": {
+        "username": "internal_id:64458:4d602ba2-ecdc-467d-804a-1b9520a0b64d",
+        "id": 65220,
+        "first_name": "Designer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Designer"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi, I am a graphic designer. How can I help you?",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "YjUh6dG5PsiRfsoxbWJI2bsb0hyz1pARR4Z4AoC1IZo",
+    "created": "2022-09-24T11:10:22.187882-07:00",
+    "updated": "2022-09-26T06:32:58.250764-07:00",
+    "identifier": "id:15792:2a1a53e6-5b8b-47d1-ac48-c2ad174f9a91",
+    "user": {
+      "username": "CptRay",
+      "id": 15792,
+      "first_name": "Raymond",
+      "account": {
+        "name": "CptRay",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Pickle Rick",
+    "participant": {
+      "user": {
+        "username": "internal_id:15792:2a1a53e6-5b8b-47d1-ac48-c2ad174f9a91",
+        "id": 17052,
+        "first_name": "Pickle Rick",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Pickle Rick"
+    },
+    "categories": [
+      {
+        "name": "Engineering",
+        "description": "Engineering"
+      },
+      {
+        "name": "Advice",
+        "description": "Advice"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "If you know, you know.",
+    "description": "",
+    "definition": ""
+  }
+}

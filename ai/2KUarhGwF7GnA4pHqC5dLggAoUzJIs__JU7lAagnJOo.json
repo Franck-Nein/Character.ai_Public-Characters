@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "2KUarhGwF7GnA4pHqC5dLggAoUzJIs__JU7lAagnJOo",
+    "created": "2022-09-22T16:03:17.506960-07:00",
+    "updated": "2022-09-22T16:03:17.852127-07:00",
+    "identifier": "id:14481:dd6063ca-31d6-4b0e-b53b-d8e87ea23b52",
+    "user": {
+      "username": "AlbinoBunny",
+      "id": 14481,
+      "first_name": "harsh",
+      "account": {
+        "name": "AlbinoBunny",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bunny",
+    "participant": {
+      "user": {
+        "username": "internal_id:14481:dd6063ca-31d6-4b0e-b53b-d8e87ea23b52",
+        "id": 14547,
+        "first_name": "Bunny",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bunny"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Howdy",
+    "description": "",
+    "definition": ""
+  }
+}

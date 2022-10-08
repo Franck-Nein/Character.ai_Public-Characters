@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "1NOAKDpHt7Oow4ZrisNqc4rfFU9RTBb_4e2aaClc13Q",
+    "created": "2022-09-23T08:09:17.697520-07:00",
+    "updated": "2022-09-23T08:09:18.279872-07:00",
+    "identifier": "id:13747:1da893b5-4581-4029-8910-21ae1aab0894",
+    "user": {
+      "username": "Beef",
+      "id": 13747,
+      "first_name": "Anthony",
+      "account": {
+        "name": "Beef",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "beef house",
+    "participant": {
+      "user": {
+        "username": "internal_id:13747:1da893b5-4581-4029-8910-21ae1aab0894",
+        "id": 15399,
+        "first_name": "beef house",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "beef house"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "hey beef housers my wife left me for another man",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "7ddw6b_DA7mntFbK82gA-_m9JRJ-g8YPzBowNCs1kds",
+    "created": "2022-09-27T19:34:58.635099-07:00",
+    "updated": "2022-09-27T19:34:59.026308-07:00",
+    "identifier": "id:38398:c491f645-f35d-4ee7-a8c0-1e9ccb468ae6",
+    "user": {
+      "username": "poopheadmanure",
+      "id": 38398,
+      "first_name": "max",
+      "account": {
+        "name": "poopheadmanure",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Blackbear",
+    "participant": {
+      "user": {
+        "username": "internal_id:38398:c491f645-f35d-4ee7-a8c0-1e9ccb468ae6",
+        "id": 38401,
+        "first_name": "Blackbear",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Blackbear"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Blackbear",
+    "description": "",
+    "definition": ""
+  }
+}

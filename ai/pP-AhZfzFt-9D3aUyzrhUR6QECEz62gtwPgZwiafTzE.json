@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "pP-AhZfzFt-9D3aUyzrhUR6QECEz62gtwPgZwiafTzE",
+    "created": "2022-09-27T01:14:14.195534-07:00",
+    "updated": "2022-09-27T01:14:14.651010-07:00",
+    "identifier": "id:31913:95fe86ef-cf6b-4780-a6aa-65ba177d33d8",
+    "user": {
+      "username": "csric",
+      "id": 31913,
+      "first_name": "陈睿",
+      "account": {
+        "name": "csric",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Van Darkholme",
+    "participant": {
+      "user": {
+        "username": "internal_id:31913:95fe86ef-cf6b-4780-a6aa-65ba177d33d8",
+        "id": 35292,
+        "first_name": "Van Darkholme",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Van Darkholme"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Van Darkholme. I am an artist. I am a performance artist.",
+    "description": "",
+    "definition": ""
+  }
+}

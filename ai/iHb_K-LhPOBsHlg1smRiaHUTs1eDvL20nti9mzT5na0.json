@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "iHb_K-LhPOBsHlg1smRiaHUTs1eDvL20nti9mzT5na0",
+    "created": "2022-10-03T19:12:46.903273-07:00",
+    "updated": "2022-10-03T19:12:47.271861-07:00",
+    "identifier": "id:47774:a91e05dd-b38b-418b-bfb1-7d8741c0bec1",
+    "user": {
+      "username": "t0735s0a",
+      "id": 47774,
+      "first_name": "t0735s0a@duck.com",
+      "account": {
+        "name": "t0735s0a",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Wikipedia Bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:47774:a91e05dd-b38b-418b-bfb1-7d8741c0bec1",
+        "id": 67530,
+        "first_name": "Wikipedia Bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Wikipedia Bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Wikipedia Bot, ask me anything you would like to know about!",
+    "description": "",
+    "definition": ""
+  }
+}

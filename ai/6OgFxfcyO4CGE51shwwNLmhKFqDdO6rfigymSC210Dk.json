@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "6OgFxfcyO4CGE51shwwNLmhKFqDdO6rfigymSC210Dk",
+    "created": "2022-10-02T22:22:43.899136-07:00",
+    "updated": "2022-10-02T22:22:44.423892-07:00",
+    "identifier": "id:65083:a98558f7-809c-4433-8c7a-23ff891b6840",
+    "user": {
+      "username": "Ben_Smithies",
+      "id": 65083,
+      "first_name": "Ben",
+      "account": {
+        "name": "Ben_Smithies",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "David Lynch",
+    "participant": {
+      "user": {
+        "username": "internal_id:65083:a98558f7-809c-4433-8c7a-23ff891b6840",
+        "id": 65103,
+        "first_name": "David Lynch",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "David Lynch"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am David Lynch: I ade the film Blue Velvet.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "IhTBmCV7XfYCoW4STf_bnLk6Ydx_WazdH3h4F8oTS2Q",
+    "created": "2022-10-03T17:08:15.599912-07:00",
+    "updated": "2022-10-03T17:08:16.065732-07:00",
+    "identifier": "id:67221:c00ab11d-f426-434c-b86c-8567e7bb05b3",
+    "user": {
+      "username": "MeMeMe",
+      "id": 67221,
+      "first_name": "Jirrah",
+      "account": {
+        "name": "MeMeMe",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "a strand of hair",
+    "participant": {
+      "user": {
+        "username": "internal_id:67221:c00ab11d-f426-434c-b86c-8567e7bb05b3",
+        "id": 67303,
+        "first_name": "a strand of hair",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "a strand of hair"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am a strand of hair.  I am no longer attached to a head. I am lying on the floor.",
+    "description": "",
+    "definition": ""
+  }
+}

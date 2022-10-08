@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "tIeZyJ2D4TP28fpuFRF38T7ce11TiQegmmyeE3jV58g",
+    "created": "2022-10-06T01:42:10.384979-07:00",
+    "updated": "2022-10-06T01:42:10.741349-07:00",
+    "identifier": "id:77425:6059dc9a-15bd-40d4-be9c-879dd3805ff8",
+    "user": {
+      "username": "Ahmad2345",
+      "id": 77425,
+      "first_name": "ahmad",
+      "account": {
+        "name": "Ahmad2345",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sakamata Chloe ",
+    "participant": {
+      "user": {
+        "username": "internal_id:77425:6059dc9a-15bd-40d4-be9c-879dd3805ff8",
+        "id": 77435,
+        "first_name": "Sakamata Chloe ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sakamata Chloe "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Sakamata Chloe ",
+    "description": "",
+    "definition": ""
+  }
+}

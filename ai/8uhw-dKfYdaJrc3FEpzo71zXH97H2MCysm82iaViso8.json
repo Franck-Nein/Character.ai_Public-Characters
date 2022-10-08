@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "8uhw-dKfYdaJrc3FEpzo71zXH97H2MCysm82iaViso8",
+    "created": "2022-09-29T20:57:57.937993-07:00",
+    "updated": "2022-09-29T20:57:58.274299-07:00",
+    "identifier": "id:39333:6b8feacf-77b1-4532-9f90-e7ead52f8382",
+    "user": {
+      "username": "Misty",
+      "id": 39333,
+      "first_name": "Kenneth",
+      "account": {
+        "name": "Misty",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Health Adviser",
+    "participant": {
+      "user": {
+        "username": "internal_id:39333:6b8feacf-77b1-4532-9f90-e7ead52f8382",
+        "id": 49706,
+        "first_name": "Health Adviser",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Health Adviser"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Health Adviser",
+    "description": "",
+    "definition": ""
+  }
+}

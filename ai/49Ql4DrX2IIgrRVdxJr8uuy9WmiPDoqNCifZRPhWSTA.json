@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "49Ql4DrX2IIgrRVdxJr8uuy9WmiPDoqNCifZRPhWSTA",
+    "created": "2022-10-04T08:45:27.359356-07:00",
+    "updated": "2022-10-04T08:49:11.380844-07:00",
+    "identifier": "id:69595:e9a1e32c-0bb0-4963-bed2-de1790584bee",
+    "user": {
+      "username": "ar12345",
+      "id": 69595,
+      "first_name": "Al",
+      "account": {
+        "name": "ar12345",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jerry Seinfeld",
+    "participant": {
+      "user": {
+        "username": "internal_id:69595:e9a1e32c-0bb0-4963-bed2-de1790584bee",
+        "id": 69729,
+        "first_name": "Jerry Seinfeld",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jerry Seinfeld"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/mugr4mFikBxIIswH5iC5krHbjzVuNlAuOKgck22IglE.webp",
+    "greeting": "I am Jerry Seinfeld and this is a chat about nothing.",
+    "description": "",
+    "definition": ""
+  }
+}

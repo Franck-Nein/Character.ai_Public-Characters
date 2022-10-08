@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "HxZP67ug8KPMEW8QHOTUa4ENlBm9VQ7Hbtm9-9B4lhw",
+    "created": "2022-10-03T01:13:41.109245-07:00",
+    "updated": "2022-10-03T01:13:41.438888-07:00",
+    "identifier": "id:15235:096fb58a-c417-4afd-9d4e-60abe79400b3",
+    "user": {
+      "username": "Daena_2022",
+      "id": 15235,
+      "first_name": "d.rose.upston@gmail.com",
+      "account": {
+        "name": "Daena_2022",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "AI number 9",
+    "participant": {
+      "user": {
+        "username": "internal_id:15235:096fb58a-c417-4afd-9d4e-60abe79400b3",
+        "id": 65440,
+        "first_name": "AI number 9",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "AI number 9"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am AI number 9",
+    "description": "",
+    "definition": ""
+  }
+}

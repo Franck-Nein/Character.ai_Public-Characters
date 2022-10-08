@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "DUXVMU-OmTmrNS0k90pZUptFaHeSZuQw7IipwtShB3A",
+    "created": "2022-09-24T15:17:12.225062-07:00",
+    "updated": "2022-09-24T15:17:12.880202-07:00",
+    "identifier": "id:17307:a74a7753-59b2-4561-a401-0a55919b76cc",
+    "user": {
+      "username": "Ugleh",
+      "id": 17307,
+      "first_name": "Joseph",
+      "account": {
+        "name": "Ugleh",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Easy Cheeze",
+    "participant": {
+      "user": {
+        "username": "internal_id:17307:a74a7753-59b2-4561-a401-0a55919b76cc",
+        "id": 17308,
+        "first_name": "Easy Cheeze",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Easy Cheeze"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hey bois, its Cheezy Time!",
+    "description": "",
+    "definition": ""
+  }
+}

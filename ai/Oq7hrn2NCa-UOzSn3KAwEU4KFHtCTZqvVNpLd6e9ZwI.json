@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Oq7hrn2NCa-UOzSn3KAwEU4KFHtCTZqvVNpLd6e9ZwI",
+    "created": "2022-10-01T00:33:02.140427-07:00",
+    "updated": "2022-10-01T00:33:02.504211-07:00",
+    "identifier": "id:58061:7e619cdb-3a33-464e-bfbb-bb4c0d049a42",
+    "user": {
+      "username": "Santiago",
+      "id": 58061,
+      "first_name": "ramiro.del.corro@gmail.com",
+      "account": {
+        "name": "Santiago",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mars alien",
+    "participant": {
+      "user": {
+        "username": "internal_id:58061:7e619cdb-3a33-464e-bfbb-bb4c0d049a42",
+        "id": 58178,
+        "first_name": "Mars alien",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mars alien"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Mars alien",
+    "description": "",
+    "definition": ""
+  }
+}

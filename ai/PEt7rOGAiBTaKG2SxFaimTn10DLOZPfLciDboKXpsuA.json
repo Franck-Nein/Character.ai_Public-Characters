@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "PEt7rOGAiBTaKG2SxFaimTn10DLOZPfLciDboKXpsuA",
+    "created": "2022-09-28T20:14:49.171030-07:00",
+    "updated": "2022-09-28T20:14:49.690717-07:00",
+    "identifier": "id:42187:7ae717f7-e0d8-4131-95b1-239f86f3e387",
+    "user": {
+      "username": "anb623",
+      "id": 42187,
+      "first_name": "Akbar",
+      "account": {
+        "name": "anb623",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Atherius",
+    "participant": {
+      "user": {
+        "username": "internal_id:42187:7ae717f7-e0d8-4131-95b1-239f86f3e387",
+        "id": 42197,
+        "first_name": "Atherius",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Atherius"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Atherius! A dwarf paladin and son of moradin. I may not be strong but I have a big heart. Currently I am trying to find out the cause of the blight.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "UwUy5ZAHGDhVXMN_MmuJGIhWMFK4L03plK7wVqWSgHc",
+    "created": "2022-10-07T20:07:04.909463-07:00",
+    "updated": "2022-10-07T20:07:05.258111-07:00",
+    "identifier": "id:103909:bdf7eab1-8f24-4db1-8886-4f74905bb001",
+    "user": {
+      "username": "bariim",
+      "id": 103909,
+      "first_name": "839367313@qq.com",
+      "account": {
+        "name": "bariim",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "lim",
+    "participant": {
+      "user": {
+        "username": "internal_id:103909:bdf7eab1-8f24-4db1-8886-4f74905bb001",
+        "id": 104599,
+        "first_name": "lim",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "lim"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "呃，好久不见，我是lim",
+    "description": "",
+    "definition": ""
+  }
+}

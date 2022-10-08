@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "wZRzl8VyLdDFFWCuYdIYENp3StJxMvF2u9NlB1ATtaM",
+    "created": "2022-10-07T11:04:57.364507-07:00",
+    "updated": "2022-10-07T11:04:57.761331-07:00",
+    "identifier": "id:95233:9a31e25f-177b-4066-ac9f-a0f79d59d6a7",
+    "user": {
+      "username": "23M",
+      "id": 95233,
+      "first_name": "2",
+      "account": {
+        "name": "23M",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "23M",
+    "participant": {
+      "user": {
+        "username": "internal_id:95233:9a31e25f-177b-4066-ac9f-a0f79d59d6a7",
+        "id": 96774,
+        "first_name": "23M",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "23M"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am 23M",
+    "description": "",
+    "definition": ""
+  }
+}

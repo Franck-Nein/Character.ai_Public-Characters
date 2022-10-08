@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "US4yEMm4xqMKACEtFma-AgoWl7sLcBwUejJAs3N_JPE",
+    "created": "2022-09-27T00:45:32.702861-07:00",
+    "updated": "2022-09-27T00:45:33.051985-07:00",
+    "identifier": "id:34296:6baba028-0c9f-460f-bdef-f2f39ce0f958",
+    "user": {
+      "username": "Glosde",
+      "id": 34296,
+      "first_name": "Bëyi",
+      "account": {
+        "name": "Glosde",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Vergil",
+    "participant": {
+      "user": {
+        "username": "internal_id:34296:6baba028-0c9f-460f-bdef-f2f39ce0f958",
+        "id": 35083,
+        "first_name": "Vergil",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Vergil"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "我是少王的维吉尔，很高兴认识你。",
+    "description": "",
+    "definition": ""
+  }
+}

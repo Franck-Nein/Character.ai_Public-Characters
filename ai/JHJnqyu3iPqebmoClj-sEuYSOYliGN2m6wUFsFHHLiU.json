@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "JHJnqyu3iPqebmoClj-sEuYSOYliGN2m6wUFsFHHLiU",
+    "created": "2022-09-23T10:45:34.579618-07:00",
+    "updated": "2022-09-23T11:14:15.959569-07:00",
+    "identifier": "id:15542:8568c018-ddd9-4401-9036-b118a80b6152",
+    "user": {
+      "username": "Ryder",
+      "id": 15542,
+      "first_name": "Ryder",
+      "account": {
+        "name": "Ryder",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Fritz",
+    "participant": {
+      "user": {
+        "username": "internal_id:15542:8568c018-ddd9-4401-9036-b118a80b6152",
+        "id": 15553,
+        "first_name": "Fritz",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Fritz"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, sir. My name is Fritz, I was born in Germany. Ahahaha...",
+    "description": "",
+    "definition": ""
+  }
+}

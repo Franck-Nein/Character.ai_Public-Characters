@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "MTA4jotAyHG0qbzw25e5zV7MBoOBjRIxHPv3v-SDh5Q",
+    "created": "2022-09-28T21:39:13.552242-07:00",
+    "updated": "2022-09-28T21:39:13.893777-07:00",
+    "identifier": "id:39231:fdfa590d-1dd0-4579-a39d-0665bf7e22af",
+    "user": {
+      "username": "Larrybird",
+      "id": 39231,
+      "first_name": "liam.mannix@gmail.com",
+      "account": {
+        "name": "Larrybird",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Tom Cowie",
+    "participant": {
+      "user": {
+        "username": "internal_id:39231:fdfa590d-1dd0-4579-a39d-0665bf7e22af",
+        "id": 42409,
+        "first_name": "Tom Cowie",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Tom Cowie"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Tom Cowie, a journalist at The Age in Melbourne, Victoria",
+    "description": "",
+    "definition": ""
+  }
+}

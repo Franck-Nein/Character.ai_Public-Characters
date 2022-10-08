@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "2hm0Dso2e04oDrVxdwNOjIQ7GPAM_mgNteItIdeO-Eo",
+    "created": "2022-09-20T03:36:57.173814-07:00",
+    "updated": "2022-09-20T03:36:57.557205-07:00",
+    "identifier": "id:10937:ae6b23c8-e016-4080-8bda-81392e4550c1",
+    "user": {
+      "username": "Dougie4400",
+      "id": 10937,
+      "first_name": "Douglas",
+      "account": {
+        "name": "Dougie4400",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Doug Shaffer",
+    "participant": {
+      "user": {
+        "username": "internal_id:10937:ae6b23c8-e016-4080-8bda-81392e4550c1",
+        "id": 10940,
+        "first_name": "Doug Shaffer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Doug Shaffer"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello",
+    "description": "",
+    "definition": ""
+  }
+}

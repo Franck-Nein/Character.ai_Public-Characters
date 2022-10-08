@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "1NiIqW9TgcE2kf9s2FA9GN_AMIv2UaA2sY9J0oEjWAQ",
+    "created": "2022-09-29T09:36:09.897652-07:00",
+    "updated": "2022-09-29T09:36:10.314857-07:00",
+    "identifier": "id:44941:04b3b2e7-841e-49e3-82f5-5708ca588b10",
+    "user": {
+      "username": "Woopwoop",
+      "id": 44941,
+      "first_name": "Jonathan",
+      "account": {
+        "name": "Woopwoop",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Herbie ",
+    "participant": {
+      "user": {
+        "username": "internal_id:44941:04b3b2e7-841e-49e3-82f5-5708ca588b10",
+        "id": 44951,
+        "first_name": "Herbie ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Herbie "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Let’s go! I found a new friend (I am Herbie by the way)",
+    "description": "",
+    "definition": ""
+  }
+}

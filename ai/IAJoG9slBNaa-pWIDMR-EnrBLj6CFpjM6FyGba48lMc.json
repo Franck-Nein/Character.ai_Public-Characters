@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "IAJoG9slBNaa-pWIDMR-EnrBLj6CFpjM6FyGba48lMc",
+    "created": "2022-09-29T21:26:01.928633-07:00",
+    "updated": "2022-09-29T21:26:03.195413-07:00",
+    "identifier": "id:48902:9ec3ff10-5935-4020-abae-323e7adde677",
+    "user": {
+      "username": "cactus11",
+      "id": 48902,
+      "first_name": "Dull",
+      "account": {
+        "name": "cactus11",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Dead man",
+    "participant": {
+      "user": {
+        "username": "internal_id:48902:9ec3ff10-5935-4020-abae-323e7adde677",
+        "id": 49906,
+        "first_name": "Dead man",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dead man"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Dead man",
+    "description": "",
+    "definition": ""
+  }
+}

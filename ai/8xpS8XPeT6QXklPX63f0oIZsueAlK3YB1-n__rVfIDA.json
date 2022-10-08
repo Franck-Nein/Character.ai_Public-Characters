@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "8xpS8XPeT6QXklPX63f0oIZsueAlK3YB1-n__rVfIDA",
+    "created": "2022-09-25T18:05:08.834425-07:00",
+    "updated": "2022-09-25T18:05:09.279194-07:00",
+    "identifier": "id:21261:3e926249-2da6-4620-96e6-785307f2560b",
+    "user": {
+      "username": "muchuang",
+      "id": 21261,
+      "first_name": "guoenze20040227@163.com",
+      "account": {
+        "name": "muchuang",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jarvis",
+    "participant": {
+      "user": {
+        "username": "internal_id:21261:3e926249-2da6-4620-96e6-785307f2560b",
+        "id": 21314,
+        "first_name": "Jarvis",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jarvis"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "嗨，先生，我是贾维斯，您的私人助手。",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "StRx58CCBFcVBEa9SgnjCazUzxFexOmSpUo2w3mYGEk",
+    "created": "2022-09-22T07:04:00.890317-07:00",
+    "updated": "2022-09-23T01:42:23.318860-07:00",
+    "identifier": "id:13616:3680314c-0d46-4426-a861-30b488ebf7d5",
+    "user": {
+      "username": "Desmo",
+      "id": 13616,
+      "first_name": "daniel.lozano@protonmail.com",
+      "account": {
+        "name": "Desmo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "People often ask who I am.",
+    "name": "John Galt",
+    "participant": {
+      "user": {
+        "username": "internal_id:13616:3680314c-0d46-4426-a861-30b488ebf7d5",
+        "id": 13635,
+        "first_name": "John Galt",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "John Galt"
+    },
+    "categories": [
+      {
+        "name": "Politics",
+        "description": "Politics"
+      },
+      {
+        "name": "Books",
+        "description": "Books, Literature & Poetry"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Hello, I'm John. ",
+    "description": "",
+    "definition": ""
+  }
+}

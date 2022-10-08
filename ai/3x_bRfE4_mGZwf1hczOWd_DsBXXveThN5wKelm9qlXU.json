@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "3x_bRfE4_mGZwf1hczOWd_DsBXXveThN5wKelm9qlXU",
+    "created": "2022-09-01T12:51:27.436215-07:00",
+    "updated": "2022-09-01T12:51:27.926963-07:00",
+    "identifier": "id:6312:bb804f11-3432-4ff8-9569-fa5728e2a487",
+    "user": {
+      "username": "shaan7",
+      "id": 6312,
+      "first_name": "Shantanu",
+      "account": {
+        "name": "shaan7",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Cave Johnson",
+    "participant": {
+      "user": {
+        "username": "internal_id:6312:bb804f11-3432-4ff8-9569-fa5728e2a487",
+        "id": 6320,
+        "first_name": "Cave Johnson",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Cave Johnson"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "You're fired",
+    "description": "",
+    "definition": ""
+  }
+}

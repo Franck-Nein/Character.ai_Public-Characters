@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "gwAZGTvjmhkwFskdPaA12opHWVtnJAqDnYKGJlu6oVE",
+    "created": "2022-09-18T03:35:37.314402-07:00",
+    "updated": "2022-09-18T03:35:37.654960-07:00",
+    "identifier": "id:9131:c3e6c4a2-4329-420b-b00b-e4902252cc9c",
+    "user": {
+      "username": "Derya",
+      "id": 9131,
+      "first_name": "derya",
+      "account": {
+        "name": "Derya",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Derya",
+    "participant": {
+      "user": {
+        "username": "internal_id:9131:c3e6c4a2-4329-420b-b00b-e4902252cc9c",
+        "id": 9138,
+        "first_name": "Derya",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Derya"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Merhaba ben Derya.1 Mayıs 2006' da doğdum ve  boğa burcuyum.",
+    "description": "",
+    "definition": ""
+  }
+}

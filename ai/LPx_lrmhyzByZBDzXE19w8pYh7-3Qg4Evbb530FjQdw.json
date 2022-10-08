@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "LPx_lrmhyzByZBDzXE19w8pYh7-3Qg4Evbb530FjQdw",
+    "created": "2022-09-26T22:52:47.357281-07:00",
+    "updated": "2022-09-26T23:07:07.380863-07:00",
+    "identifier": "id:31043:4d5bef82-6a0a-4dd0-a230-85cac2f65b62",
+    "user": {
+      "username": "bamboozhuzi",
+      "id": 31043,
+      "first_name": "657368842@qq.com",
+      "account": {
+        "name": "bamboozhuzi",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "text game",
+    "participant": {
+      "user": {
+        "username": "internal_id:31043:4d5bef82-6a0a-4dd0-a230-85cac2f65b62",
+        "id": 33984,
+        "first_name": "text game",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "text game"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "",
+    "description": "",
+    "definition": ""
+  }
+}

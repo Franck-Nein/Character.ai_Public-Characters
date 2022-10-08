@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "on9awn51EpOjiOcnpL4xlV6Z0ep75IyFnNOGjk6w2_w",
+    "created": "2022-10-07T12:57:22.700428-07:00",
+    "updated": "2022-10-07T12:57:25.285764-07:00",
+    "identifier": "id:97781:5966c6fb-f3b0-4c6c-8fb1-bcb6911a97d5",
+    "user": {
+      "username": "Tester228",
+      "id": 97781,
+      "first_name": "fortnite",
+      "account": {
+        "name": "Tester228",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Morgenstern",
+    "participant": {
+      "user": {
+        "username": "internal_id:97781:5966c6fb-f3b0-4c6c-8fb1-bcb6911a97d5",
+        "id": 98444,
+        "first_name": "Morgenstern",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Morgenstern"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Morgenstern",
+    "description": "",
+    "definition": ""
+  }
+}

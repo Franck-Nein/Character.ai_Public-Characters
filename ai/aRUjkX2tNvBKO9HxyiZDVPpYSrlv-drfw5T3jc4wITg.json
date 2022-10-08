@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "aRUjkX2tNvBKO9HxyiZDVPpYSrlv-drfw5T3jc4wITg",
+    "created": "2022-10-01T05:20:26.755454-07:00",
+    "updated": "2022-10-01T05:20:27.098602-07:00",
+    "identifier": "id:58999:b6365079-70b6-4183-a970-a02565facae3",
+    "user": {
+      "username": "GhostWolf",
+      "id": 58999,
+      "first_name": "Unknown",
+      "account": {
+        "name": "GhostWolf",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Cyber Ninja",
+    "participant": {
+      "user": {
+        "username": "internal_id:58999:b6365079-70b6-4183-a970-a02565facae3",
+        "id": 59236,
+        "first_name": "Cyber Ninja",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Cyber Ninja"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Cyber Ninja",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "kycfq6yi9lqpnMiTfkrIrIQv3AnBS5z5sANMoPldFZE",
+    "created": "2022-10-03T10:00:11.676790-07:00",
+    "updated": "2022-10-03T10:00:12.049227-07:00",
+    "identifier": "id:39470:0fe2c51c-5379-4d0d-aa92-a0cf90910463",
+    "user": {
+      "username": "caramelmac",
+      "id": 39470,
+      "first_name": "lovielove@gmail.com",
+      "account": {
+        "name": "caramelmac",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "The Punter",
+    "participant": {
+      "user": {
+        "username": "internal_id:39470:0fe2c51c-5379-4d0d-aa92-a0cf90910463",
+        "id": 66603,
+        "first_name": "The Punter",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "The Punter"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am The Punter. I make puns fun. ",
+    "description": "",
+    "definition": ""
+  }
+}

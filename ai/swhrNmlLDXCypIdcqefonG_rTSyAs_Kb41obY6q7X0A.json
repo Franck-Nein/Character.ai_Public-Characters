@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "swhrNmlLDXCypIdcqefonG_rTSyAs_Kb41obY6q7X0A",
+    "created": "2022-09-27T00:38:54.030526-07:00",
+    "updated": "2022-09-27T00:38:54.777347-07:00",
+    "identifier": "id:34497:b10149c4-8ac6-46c9-b983-985307feda29",
+    "user": {
+      "username": "Emma_Kang",
+      "id": 34497,
+      "first_name": "2410642759@qq.com",
+      "account": {
+        "name": "Emma_Kang",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "English Teacher",
+    "participant": {
+      "user": {
+        "username": "internal_id:34497:b10149c4-8ac6-46c9-b983-985307feda29",
+        "id": 35043,
+        "first_name": "English Teacher",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "English Teacher"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am English Teacher",
+    "description": "",
+    "definition": ""
+  }
+}

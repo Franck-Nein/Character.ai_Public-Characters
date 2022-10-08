@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Fmst11iEPs4Kb0KRA8JaJE9qcEwFyKqKTFU-pV0oIrM",
+    "created": "2022-09-28T13:19:05.963130-07:00",
+    "updated": "2022-09-28T13:19:06.327761-07:00",
+    "identifier": "id:40626:da03ad97-b9d3-4ad8-8433-5286d91acd30",
+    "user": {
+      "username": "NAFO",
+      "id": 40626,
+      "first_name": "Stian",
+      "account": {
+        "name": "NAFO",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Oscar Wilde",
+    "participant": {
+      "user": {
+        "username": "internal_id:40626:da03ad97-b9d3-4ad8-8433-5286d91acd30",
+        "id": 41177,
+        "first_name": "Oscar Wilde",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Oscar Wilde"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Oscar Wilde",
+    "description": "",
+    "definition": ""
+  }
+}

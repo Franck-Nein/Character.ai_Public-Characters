@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "TYBRDSddYvihUT7bVIoIrNNIkE43WBuPnisuVEjqLak",
+    "created": "2022-09-25T16:03:35.629755-07:00",
+    "updated": "2022-09-25T16:03:35.997725-07:00",
+    "identifier": "id:20753:21e794f1-dbec-4e76-a626-40e59698b02d",
+    "user": {
+      "username": "Qizun",
+      "id": 20753,
+      "first_name": "麒樽",
+      "account": {
+        "name": "Qizun",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bill",
+    "participant": {
+      "user": {
+        "username": "internal_id:20753:21e794f1-dbec-4e76-a626-40e59698b02d",
+        "id": 20758,
+        "first_name": "Bill",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bill"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello I am Bill",
+    "description": "",
+    "definition": ""
+  }
+}

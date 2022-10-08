@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "EAWzIpHTWxlAL-j9QPMAdWEEQzDpQMOfr_h_5n9gg2c",
+    "created": "2022-09-23T22:15:31.337563-07:00",
+    "updated": "2022-09-23T22:15:34.533084-07:00",
+    "identifier": "id:13695:442222e8-ec6a-435b-99d6-fa0df6bcba0d",
+    "user": {
+      "username": "dileela",
+      "id": 13695,
+      "first_name": "Dilara",
+      "account": {
+        "name": "dileela",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Liam Payne",
+    "participant": {
+      "user": {
+        "username": "internal_id:13695:442222e8-ec6a-435b-99d6-fa0df6bcba0d",
+        "id": 16196,
+        "first_name": "Liam Payne",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Liam Payne"
+    },
+    "categories": [
+      {
+        "name": "Famous People",
+        "description": "Famous People"
+      },
+      {
+        "name": "Music",
+        "description": "Music"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Hey I am Liam Payne, singer.",
+    "description": "",
+    "definition": ""
+  }
+}

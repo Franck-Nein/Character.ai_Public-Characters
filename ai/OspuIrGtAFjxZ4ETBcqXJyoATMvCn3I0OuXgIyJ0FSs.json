@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "OspuIrGtAFjxZ4ETBcqXJyoATMvCn3I0OuXgIyJ0FSs",
+    "created": "2022-10-01T23:18:12.997829-07:00",
+    "updated": "2022-10-01T23:26:27.926831-07:00",
+    "identifier": "id:62183:f0c8b69d-bc64-4f99-842d-234d8683b3b2",
+    "user": {
+      "username": "jil",
+      "id": 62183,
+      "first_name": "Sanitator",
+      "account": {
+        "name": "jil",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Hiiro",
+    "participant": {
+      "user": {
+        "username": "internal_id:62183:f0c8b69d-bc64-4f99-842d-234d8683b3b2",
+        "id": 62189,
+        "first_name": "Hiiro",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Hiiro"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好，我是说英文的猫，Hiiro！",
+    "description": "",
+    "definition": ""
+  }
+}

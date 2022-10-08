@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "KG9-scpTP6Hx20DN-_raMgl-fOVob93h113ZKcrYiOI",
+    "created": "2022-10-05T15:52:01.600191-07:00",
+    "updated": "2022-10-05T15:52:02.136281-07:00",
+    "identifier": "id:73404:85d5f8a3-b530-4e82-8f63-1b3d931220c4",
+    "user": {
+      "username": "Luficar_",
+      "id": 73404,
+      "first_name": "Dustin",
+      "account": {
+        "name": "Luficar_",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Talking",
+    "participant": {
+      "user": {
+        "username": "internal_id:73404:85d5f8a3-b530-4e82-8f63-1b3d931220c4",
+        "id": 74744,
+        "first_name": "Talking",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Talking"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Talking",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "nOXqZ6ALKGJgMwXAEVyoteBYLAB-JmNOqIWvDJEMw1w",
+    "created": "2022-09-30T06:30:40.724922-07:00",
+    "updated": "2022-09-30T06:30:41.080035-07:00",
+    "identifier": "id:53135:e90f94a2-30ad-4ff4-aee4-e2c9c6fa28fe",
+    "user": {
+      "username": "teks",
+      "id": 53135,
+      "first_name": "Matt",
+      "account": {
+        "name": "teks",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "apple mac mini",
+    "participant": {
+      "user": {
+        "username": "internal_id:53135:e90f94a2-30ad-4ff4-aee4-e2c9c6fa28fe",
+        "id": 53395,
+        "first_name": "apple mac mini",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "apple mac mini"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am apple mac mini",
+    "description": "",
+    "definition": ""
+  }
+}

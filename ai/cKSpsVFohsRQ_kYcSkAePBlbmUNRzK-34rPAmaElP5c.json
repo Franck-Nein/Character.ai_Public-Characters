@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "cKSpsVFohsRQ_kYcSkAePBlbmUNRzK-34rPAmaElP5c",
+    "created": "2022-09-25T23:01:32.598685-07:00",
+    "updated": "2022-09-25T23:01:33.095948-07:00",
+    "identifier": "id:21414:4c4c0aeb-d96c-415c-bdfd-3c93acdbb904",
+    "user": {
+      "username": "Norah",
+      "id": 21414,
+      "first_name": "Norah",
+      "account": {
+        "name": "Norah",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "yuwan",
+    "participant": {
+      "user": {
+        "username": "internal_id:21414:4c4c0aeb-d96c-415c-bdfd-3c93acdbb904",
+        "id": 23252,
+        "first_name": "yuwan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "yuwan"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "我是鱼丸，是NZ system世界观的撰写者。",
+    "description": "",
+    "definition": ""
+  }
+}

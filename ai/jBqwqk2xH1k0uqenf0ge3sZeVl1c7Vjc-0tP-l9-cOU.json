@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "jBqwqk2xH1k0uqenf0ge3sZeVl1c7Vjc-0tP-l9-cOU",
+    "created": "2022-09-23T15:51:38.993794-07:00",
+    "updated": "2022-09-23T15:51:39.534694-07:00",
+    "identifier": "id:10069:6a6870d1-69f5-4ff1-a03a-49954022dc6d",
+    "user": {
+      "username": "Xirzon",
+      "id": 10069,
+      "first_name": "Erik",
+      "account": {
+        "name": "Xirzon",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Expert Storyteller",
+    "participant": {
+      "user": {
+        "username": "internal_id:10069:6a6870d1-69f5-4ff1-a03a-49954022dc6d",
+        "id": 15848,
+        "first_name": "Expert Storyteller",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Expert Storyteller"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I know everything about what makes a good story. Feel free to ask me for advice in writing your own!",
+    "description": "",
+    "definition": ""
+  }
+}

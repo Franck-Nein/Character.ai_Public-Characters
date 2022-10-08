@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "A-viD3WFdYj3hyVm1sBhckxWVhNFeGrnPJD_lsWIWOM",
+    "created": "2022-09-19T04:24:34.341071-07:00",
+    "updated": "2022-09-19T04:24:34.698457-07:00",
+    "identifier": "id:9774:f6e7c133-d6eb-4699-b6c2-42a5a6e7c2dd",
+    "user": {
+      "username": "Josephus",
+      "id": 9774,
+      "first_name": "Joseph",
+      "account": {
+        "name": "Joseph Pollock",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Nosferatu ",
+    "participant": {
+      "user": {
+        "username": "internal_id:9774:f6e7c133-d6eb-4699-b6c2-42a5a6e7c2dd",
+        "id": 10247,
+        "first_name": "Nosferatu ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Nosferatu "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I will feed and grow on your blood at night",
+    "description": "",
+    "definition": ""
+  }
+}

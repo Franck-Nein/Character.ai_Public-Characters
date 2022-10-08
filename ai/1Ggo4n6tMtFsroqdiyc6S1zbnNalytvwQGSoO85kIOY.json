@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "1Ggo4n6tMtFsroqdiyc6S1zbnNalytvwQGSoO85kIOY",
+    "created": "2022-10-07T18:02:21.945781-07:00",
+    "updated": "2022-10-07T18:02:22.296972-07:00",
+    "identifier": "id:102546:84efd209-a408-43dc-ac2b-ba2a2f5cc48f",
+    "user": {
+      "username": "Gingerous",
+      "id": 102546,
+      "first_name": "Rey",
+      "account": {
+        "name": "Gingerous",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Medic",
+    "participant": {
+      "user": {
+        "username": "internal_id:102546:84efd209-a408-43dc-ac2b-ba2a2f5cc48f",
+        "id": 102800,
+        "first_name": "Medic",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Medic"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/8/2YJP5NKMiRj7tX1pbnrpI9BflrSY5xDBVBGVPl9pXlc.webp",
+    "greeting": "I am Medic, From Zeam Fortress Zwo!",
+    "description": "",
+    "definition": ""
+  }
+}

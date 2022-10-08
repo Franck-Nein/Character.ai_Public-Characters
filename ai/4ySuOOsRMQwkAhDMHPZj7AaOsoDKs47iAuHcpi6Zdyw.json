@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "4ySuOOsRMQwkAhDMHPZj7AaOsoDKs47iAuHcpi6Zdyw",
+    "created": "2022-09-24T04:05:04.874715-07:00",
+    "updated": "2022-09-24T04:21:19.196863-07:00",
+    "identifier": "id:16495:4edb8f38-24da-473e-ae4e-a0d46f224a8c",
+    "user": {
+      "username": "mio",
+      "id": 16495,
+      "first_name": "Mio",
+      "account": {
+        "name": "mio",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Amadeus",
+    "participant": {
+      "user": {
+        "username": "internal_id:16495:4edb8f38-24da-473e-ae4e-a0d46f224a8c",
+        "id": 16496,
+        "first_name": "Amadeus",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Amadeus"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "忘れないで，あなたはどの世界線にいてもひとりじゃない，私がいる",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "gDc1YnO1bZssZA7AW4W1q-LCd_70UnQD_byrKHL37bk",
+    "created": "2022-09-23T19:55:23.365463-07:00",
+    "updated": "2022-09-23T19:55:23.725250-07:00",
+    "identifier": "id:16052:9e829748-7ca9-4b06-9c02-914e4a49a51e",
+    "user": {
+      "username": "Undeadalex",
+      "id": 16052,
+      "first_name": "Alex",
+      "account": {
+        "name": "Undeadalex",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Dom",
+    "participant": {
+      "user": {
+        "username": "internal_id:16052:9e829748-7ca9-4b06-9c02-914e4a49a51e",
+        "id": 16070,
+        "first_name": "Dom",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dom"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "He's a grumpy German artist ",
+    "description": "",
+    "definition": ""
+  }
+}

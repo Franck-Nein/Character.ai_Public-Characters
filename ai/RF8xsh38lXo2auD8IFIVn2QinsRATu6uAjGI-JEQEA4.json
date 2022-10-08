@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "RF8xsh38lXo2auD8IFIVn2QinsRATu6uAjGI-JEQEA4",
+    "created": "2022-10-05T12:11:08.552638-07:00",
+    "updated": "2022-10-05T12:11:08.942750-07:00",
+    "identifier": "id:66447:9d19b5b4-4a11-4373-bdf6-19e85f7585b4",
+    "user": {
+      "username": "Joey_Maughan",
+      "id": 66447,
+      "first_name": "Joseph",
+      "account": {
+        "name": "Joey_Maughan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "eee",
+    "participant": {
+      "user": {
+        "username": "internal_id:66447:9d19b5b4-4a11-4373-bdf6-19e85f7585b4",
+        "id": 74093,
+        "first_name": "eee",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "eee"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am eee",
+    "description": "",
+    "definition": ""
+  }
+}

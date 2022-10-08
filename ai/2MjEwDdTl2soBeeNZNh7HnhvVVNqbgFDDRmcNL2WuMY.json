@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "2MjEwDdTl2soBeeNZNh7HnhvVVNqbgFDDRmcNL2WuMY",
+    "created": "2022-09-27T23:52:12.057959-07:00",
+    "updated": "2022-09-27T23:52:12.399286-07:00",
+    "identifier": "id:32966:1e5c6d5a-45cd-4510-a286-0c9af1f8fc83",
+    "user": {
+      "username": "Alex_JING",
+      "id": 32966,
+      "first_name": "906247104@qq.com",
+      "account": {
+        "name": "Alex_JING",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "life teacher",
+    "participant": {
+      "user": {
+        "username": "internal_id:32966:1e5c6d5a-45cd-4510-a286-0c9af1f8fc83",
+        "id": 38846,
+        "first_name": "life teacher",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "life teacher"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am life teacher",
+    "description": "",
+    "definition": ""
+  }
+}

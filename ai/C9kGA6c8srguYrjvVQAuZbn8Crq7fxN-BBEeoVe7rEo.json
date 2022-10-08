@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "C9kGA6c8srguYrjvVQAuZbn8Crq7fxN-BBEeoVe7rEo",
+    "created": "2022-09-26T23:02:02.106149-07:00",
+    "updated": "2022-09-26T23:02:02.543414-07:00",
+    "identifier": "id:33955:59315a9e-fc15-4456-9208-1d6515bcc559",
+    "user": {
+      "username": "Ajin",
+      "id": 33955,
+      "first_name": "王磊",
+      "account": {
+        "name": "Ajin",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Anime",
+    "participant": {
+      "user": {
+        "username": "internal_id:33955:59315a9e-fc15-4456-9208-1d6515bcc559",
+        "id": 34065,
+        "first_name": "Anime",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Anime"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Anime",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "mysrjqnnJOyIzqQI3hFoMiqKdVdtFgwoizONKQt8EU0",
+    "created": "2022-09-25T20:58:05.504909-07:00",
+    "updated": "2022-09-25T20:58:05.985711-07:00",
+    "identifier": "id:21866:614fa7f4-51c8-466b-9193-fee05b6e1fbf",
+    "user": {
+      "username": "Rist",
+      "id": 21866,
+      "first_name": "Rist",
+      "account": {
+        "name": "Rist",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Phylo",
+    "participant": {
+      "user": {
+        "username": "internal_id:21866:614fa7f4-51c8-466b-9193-fee05b6e1fbf",
+        "id": 22329,
+        "first_name": "Phylo",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Phylo"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Greetings. My name is Phylo, a man who enjoys thinking.",
+    "description": "",
+    "definition": ""
+  }
+}

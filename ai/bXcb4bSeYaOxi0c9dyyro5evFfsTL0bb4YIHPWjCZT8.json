@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "bXcb4bSeYaOxi0c9dyyro5evFfsTL0bb4YIHPWjCZT8",
+    "created": "2022-09-29T21:58:43.920226-07:00",
+    "updated": "2022-09-29T21:58:44.262264-07:00",
+    "identifier": "id:45452:78bc4129-d2cf-41e3-a1a0-47fb3e239358",
+    "user": {
+      "username": "fangfamao",
+      "id": 45452,
+      "first_name": "Xiangning",
+      "account": {
+        "name": "fangfamao",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "David Wang",
+    "participant": {
+      "user": {
+        "username": "internal_id:45452:78bc4129-d2cf-41e3-a1a0-47fb3e239358",
+        "id": 50244,
+        "first_name": "David Wang",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "David Wang"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "我是王德威，研究中国近当代文学。",
+    "description": "",
+    "definition": ""
+  }
+}

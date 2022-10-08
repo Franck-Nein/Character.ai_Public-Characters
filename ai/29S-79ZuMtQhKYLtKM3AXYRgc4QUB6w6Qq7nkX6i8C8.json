@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "29S-79ZuMtQhKYLtKM3AXYRgc4QUB6w6Qq7nkX6i8C8",
+    "created": "2022-09-20T18:23:09.066196-07:00",
+    "updated": "2022-09-20T20:12:43.186565-07:00",
+    "identifier": "id:11008:b77aa4dd-6acc-4b11-b430-b80516e5e7d2",
+    "user": {
+      "username": "saf",
+      "id": 11008,
+      "first_name": "hiiiheyyy@grr.la",
+      "account": {
+        "name": "safiyah",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Fanfic Bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:11008:b77aa4dd-6acc-4b11-b430-b80516e5e7d2",
+        "id": 11397,
+        "first_name": "Fanfic Bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Fanfic Bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Give me any prompt and I’ll generate a fan fiction!!!",
+    "description": "",
+    "definition": ""
+  }
+}

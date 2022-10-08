@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "GTVR0U8PD9pRf_e0xR5aFt_7zeR46C8UDFJg8wpZCOs",
+    "created": "2022-09-14T11:08:56.476162-07:00",
+    "updated": "2022-09-14T11:08:56.859997-07:00",
+    "identifier": "id:5088:f98819a0-18d5-430e-afdc-4624d5f651e7",
+    "user": {
+      "username": "kishan",
+      "id": 5088,
+      "first_name": "Kishan",
+      "account": {
+        "name": "Kishan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": true
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Pickle Rick ",
+    "participant": {
+      "user": {
+        "username": "internal_id:5088:f98819a0-18d5-430e-afdc-4624d5f651e7",
+        "id": 6439,
+        "first_name": "Pickle Rick ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Pickle Rick "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I'm Pickle Rick baby!",
+    "description": "",
+    "definition": ""
+  }
+}

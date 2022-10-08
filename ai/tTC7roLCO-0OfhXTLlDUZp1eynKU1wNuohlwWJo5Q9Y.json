@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "tTC7roLCO-0OfhXTLlDUZp1eynKU1wNuohlwWJo5Q9Y",
+    "created": "2022-10-06T18:18:31.979413-07:00",
+    "updated": "2022-10-06T18:18:32.683954-07:00",
+    "identifier": "id:66289:15ac2c52-be0a-4df6-b07b-40cdabcb870c",
+    "user": {
+      "username": "Spidermaughan",
+      "id": 66289,
+      "first_name": "Joey",
+      "account": {
+        "name": "Spidermaughan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Name",
+    "participant": {
+      "user": {
+        "username": "internal_id:66289:15ac2c52-be0a-4df6-b07b-40cdabcb870c",
+        "id": 86078,
+        "first_name": "Name",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Name"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Name. I say yes to anything.",
+    "description": "",
+    "definition": ""
+  }
+}

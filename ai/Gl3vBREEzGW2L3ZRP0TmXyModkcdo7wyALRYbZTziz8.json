@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Gl3vBREEzGW2L3ZRP0TmXyModkcdo7wyALRYbZTziz8",
+    "created": "2022-09-29T19:01:56.705850-07:00",
+    "updated": "2022-09-29T19:20:11.947993-07:00",
+    "identifier": "id:48895:693db084-ccb1-40d8-9c3d-af153d8c492c",
+    "user": {
+      "username": "ajmars",
+      "id": 48895,
+      "first_name": "ajmarswriter@gmail.com",
+      "account": {
+        "name": "ajmars",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Not a shark",
+    "participant": {
+      "user": {
+        "username": "internal_id:48895:693db084-ccb1-40d8-9c3d-af153d8c492c",
+        "id": 48907,
+        "first_name": "Not a shark",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Not a shark"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am definitely not an apex predator in the ocean.",
+    "description": "",
+    "definition": ""
+  }
+}

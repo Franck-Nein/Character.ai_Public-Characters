@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "W2SO7spdQ3oCRC5DHRIb24iU4qLGCt_1xzzUStMLe1s",
+    "created": "2022-09-28T09:10:01.515373-07:00",
+    "updated": "2022-09-28T09:10:02.759702-07:00",
+    "identifier": "id:40266:ea91828b-9e56-4fa2-8a32-240c9b0a6219",
+    "user": {
+      "username": "Frogpants",
+      "id": 40266,
+      "first_name": "Scott",
+      "account": {
+        "name": "Frogpants",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Scott Johnson",
+    "participant": {
+      "user": {
+        "username": "internal_id:40266:ea91828b-9e56-4fa2-8a32-240c9b0a6219",
+        "id": 40289,
+        "first_name": "Scott Johnson",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Scott Johnson"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Scott Johnson",
+    "description": "",
+    "definition": ""
+  }
+}

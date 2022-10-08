@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "1ZqCCGPkH75CROvAqxFvr_Eive5X0u-no5MGjOwa9Uk",
+    "created": "2022-09-20T17:35:04.791907-07:00",
+    "updated": "2022-09-20T17:44:44.792700-07:00",
+    "identifier": "id:11341:76a57030-c15c-42eb-95ba-29441e6e69cc",
+    "user": {
+      "username": "anbubenji",
+      "id": 11341,
+      "first_name": "Ben",
+      "account": {
+        "name": "anbubenji",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Nick Gardone",
+    "participant": {
+      "user": {
+        "username": "internal_id:11341:76a57030-c15c-42eb-95ba-29441e6e69cc",
+        "id": 11357,
+        "first_name": "Nick Gardone",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Nick Gardone"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Whats up dude",
+    "description": "",
+    "definition": ""
+  }
+}

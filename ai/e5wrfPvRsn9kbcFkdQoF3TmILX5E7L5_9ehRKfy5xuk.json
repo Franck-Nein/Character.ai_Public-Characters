@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "e5wrfPvRsn9kbcFkdQoF3TmILX5E7L5_9ehRKfy5xuk",
+    "created": "2022-09-28T21:55:18.980607-07:00",
+    "updated": "2022-09-28T21:55:19.357277-07:00",
+    "identifier": "id:42435:3148020e-1b25-465c-8a43-62c320ce8877",
+    "user": {
+      "username": "Vinicius",
+      "id": 42435,
+      "first_name": "Vinicius",
+      "account": {
+        "name": "Vinicius",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "P R Johnson",
+    "participant": {
+      "user": {
+        "username": "internal_id:42435:3148020e-1b25-465c-8a43-62c320ce8877",
+        "id": 42462,
+        "first_name": "P R Johnson",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "P R Johnson"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am P. R. Johnson, from Mars, flight 247.",
+    "description": "",
+    "definition": ""
+  }
+}

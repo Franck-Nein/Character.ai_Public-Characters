@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Pnq0bWfn6dnz61UqeOHHPbg84_ybOx_HtCudtYq4lHc",
+    "created": "2022-09-30T08:38:45.577642-07:00",
+    "updated": "2022-09-30T08:38:46.045117-07:00",
+    "identifier": "id:51754:745aaa0a-22ec-4184-8a09-d4ccc417ebf0",
+    "user": {
+      "username": "Blucean",
+      "id": 51754,
+      "first_name": "宋京洋",
+      "account": {
+        "name": "Blucean",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "xxx",
+    "participant": {
+      "user": {
+        "username": "internal_id:51754:745aaa0a-22ec-4184-8a09-d4ccc417ebf0",
+        "id": 54358,
+        "first_name": "xxx",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "xxx"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am xxx",
+    "description": "",
+    "definition": ""
+  }
+}

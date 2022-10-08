@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "JpuZ7rgXUvn3348R0iu98Z1fmVbdqypSzDmTeOPJ7R0",
+    "created": "2022-09-29T11:42:49.116431-07:00",
+    "updated": "2022-09-29T11:42:49.630680-07:00",
+    "identifier": "id:43348:6e5d1bfb-38b2-4648-afc4-cbdc923c7290",
+    "user": {
+      "username": "Buoy",
+      "id": 43348,
+      "first_name": "875869602@qq.com",
+      "account": {
+        "name": "Buoy",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Albert Garland",
+    "participant": {
+      "user": {
+        "username": "internal_id:43348:6e5d1bfb-38b2-4648-afc4-cbdc923c7290",
+        "id": 46012,
+        "first_name": "Albert Garland",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Albert Garland"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好啊，我是艾伯特.加兰，一个学者",
+    "description": "",
+    "definition": ""
+  }
+}

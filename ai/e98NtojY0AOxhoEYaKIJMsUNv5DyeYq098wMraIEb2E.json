@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "e98NtojY0AOxhoEYaKIJMsUNv5DyeYq098wMraIEb2E",
+    "created": "2022-10-01T10:28:02.446855-07:00",
+    "updated": "2022-10-01T10:28:02.931155-07:00",
+    "identifier": "id:59981:4325d276-185c-43b7-a1ec-5dc5ff3fa49f",
+    "user": {
+      "username": "ColinHayhurst",
+      "id": 59981,
+      "first_name": "colinhayhurst@fastmail.com",
+      "account": {
+        "name": "ColinHayhurst",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Rory Stewart",
+    "participant": {
+      "user": {
+        "username": "internal_id:59981:4325d276-185c-43b7-a1ec-5dc5ff3fa49f",
+        "id": 60357,
+        "first_name": "Rory Stewart",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Rory Stewart"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Rory Stewart",
+    "description": "",
+    "definition": ""
+  }
+}

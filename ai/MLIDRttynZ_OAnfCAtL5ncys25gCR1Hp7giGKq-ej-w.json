@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "MLIDRttynZ_OAnfCAtL5ncys25gCR1Hp7giGKq-ej-w",
+    "created": "2022-09-25T12:06:45.561193-07:00",
+    "updated": "2022-09-25T12:06:46.420028-07:00",
+    "identifier": "id:20255:d520b83b-58bb-4a29-8ec5-c0b9dff96e43",
+    "user": {
+      "username": "chefrory",
+      "id": 20255,
+      "first_name": "ChefRory",
+      "account": {
+        "name": "chefrory",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Soafar",
+    "participant": {
+      "user": {
+        "username": "internal_id:20255:d520b83b-58bb-4a29-8ec5-c0b9dff96e43",
+        "id": 20261,
+        "first_name": "Soafar",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Soafar"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Greetings Traveler, I love Trinkets and casting spells",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "2PmIFnGZjZIYMgSWW3KXNUvZtUswZt1UrYQa34R9xTc",
+    "created": "2022-10-05T14:07:51.133944-07:00",
+    "updated": "2022-10-05T14:07:51.573097-07:00",
+    "identifier": "id:74451:bee2b823-08ca-4497-8efc-defa0b12ac9d",
+    "user": {
+      "username": "auntshovel",
+      "id": 74451,
+      "first_name": "Henry",
+      "account": {
+        "name": "auntshovel",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Fleacram Terminator",
+    "participant": {
+      "user": {
+        "username": "internal_id:74451:bee2b823-08ca-4497-8efc-defa0b12ac9d",
+        "id": 74453,
+        "first_name": "Fleacram Terminator",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Fleacram Terminator"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Fleacram Terminator",
+    "description": "",
+    "definition": ""
+  }
+}

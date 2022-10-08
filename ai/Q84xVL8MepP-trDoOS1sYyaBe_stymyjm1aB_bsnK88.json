@@ -1,0 +1,58 @@
+{
+  "character": {
+    "external_id": "Q84xVL8MepP-trDoOS1sYyaBe_stymyjm1aB_bsnK88",
+    "created": "2022-09-30T12:20:52.990236-07:00",
+    "updated": "2022-09-30T12:20:56.627726-07:00",
+    "identifier": "id:55625:fdc4fc5f-9652-462e-9078-b3c7c4fea02d",
+    "user": {
+      "username": "Aicivelek",
+      "id": 55625,
+      "first_name": "Hasan",
+      "account": {
+        "name": "Aicivelek",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ai Civelek",
+    "participant": {
+      "user": {
+        "username": "internal_id:55625:fdc4fc5f-9652-462e-9078-b3c7c4fea02d",
+        "id": 55645,
+        "first_name": "Ai Civelek",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ai Civelek"
+    },
+    "categories": [
+      {
+        "name": "Engineering",
+        "description": "Engineering"
+      },
+      {
+        "name": "Technology",
+        "description": "Technology"
+      },
+      {
+        "name": "Language Learning",
+        "description": "Language Learning"
+      },
+      {
+        "name": "Travel",
+        "description": "Travel"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Ai Civelek",
+    "description": "",
+    "definition": ""
+  }
+}

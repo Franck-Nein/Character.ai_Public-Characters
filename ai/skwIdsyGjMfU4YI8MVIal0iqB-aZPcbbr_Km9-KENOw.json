@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "skwIdsyGjMfU4YI8MVIal0iqB-aZPcbbr_Km9-KENOw",
+    "created": "2022-09-26T02:05:27.160472-07:00",
+    "updated": "2022-09-26T02:07:00.657796-07:00",
+    "identifier": "id:21012:fe0e29a5-a310-4b71-9877-a184148e11d9",
+    "user": {
+      "username": "Fixer",
+      "id": 21012,
+      "first_name": "919302093@qq.com",
+      "account": {
+        "name": "Fixer",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Dora",
+    "participant": {
+      "user": {
+        "username": "internal_id:21012:fe0e29a5-a310-4b71-9877-a184148e11d9",
+        "id": 24781,
+        "first_name": "Dora",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dora"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好，我是爱冒险的朵拉！",
+    "description": "",
+    "definition": ""
+  }
+}

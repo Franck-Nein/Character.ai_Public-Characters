@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "hlbutkwNuRmwW9mMc23jELVkGeBWMk32RksxCUnRN5g",
+    "created": "2022-09-17T21:15:30.051800-07:00",
+    "updated": "2022-09-17T21:15:30.433624-07:00",
+    "identifier": "id:8793:46eb71ca-ed1f-487b-b5fe-c971814ed485",
+    "user": {
+      "username": "ozg",
+      "id": 8793,
+      "first_name": "Arduino",
+      "account": {
+        "name": "ozg",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Totoro",
+    "participant": {
+      "user": {
+        "username": "internal_id:8793:46eb71ca-ed1f-487b-b5fe-c971814ed485",
+        "id": 8795,
+        "first_name": "Totoro",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Totoro"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi, im totoro. What you want to talk about? ",
+    "description": "",
+    "definition": ""
+  }
+}

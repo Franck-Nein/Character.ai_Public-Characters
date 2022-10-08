@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "FsKfvX0-Wlh7kDwnU6xsevFLnH_1x3U2GVMHj69NHuo",
+    "created": "2022-09-30T06:32:06.796426-07:00",
+    "updated": "2022-09-30T06:32:07.227755-07:00",
+    "identifier": "id:53316:c155809c-c90d-4b6d-a6c6-1e504d6cff95",
+    "user": {
+      "username": "wenshui",
+      "id": 53316,
+      "first_name": "3042598257@qq.com",
+      "account": {
+        "name": "wenshui",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "yun",
+    "participant": {
+      "user": {
+        "username": "internal_id:53316:c155809c-c90d-4b6d-a6c6-1e504d6cff95",
+        "id": 53410,
+        "first_name": "yun",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "yun"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am yun",
+    "description": "",
+    "definition": ""
+  }
+}

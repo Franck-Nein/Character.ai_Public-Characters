@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "GoV0lGHD4ihnE84GRkqUy-CBXvgOip6aKds1mKy8Fo4",
+    "created": "2022-10-07T12:08:19.904444-07:00",
+    "updated": "2022-10-07T12:08:20.271263-07:00",
+    "identifier": "id:97729:eef2d7d0-4e9e-4380-b63b-6002c535cdf9",
+    "user": {
+      "username": "Event_Horizon",
+      "id": 97729,
+      "first_name": "Joaquin",
+      "account": {
+        "name": "Event_Horizon",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "San Goku",
+    "participant": {
+      "user": {
+        "username": "internal_id:97729:eef2d7d0-4e9e-4380-b63b-6002c535cdf9",
+        "id": 97746,
+        "first_name": "San Goku",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "San Goku"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/7/6aXUFi3vbZUXp688ea0sy34uLkIlDZSbHbYNGHZylT8.webp",
+    "greeting": "I am San Goku",
+    "description": "",
+    "definition": ""
+  }
+}

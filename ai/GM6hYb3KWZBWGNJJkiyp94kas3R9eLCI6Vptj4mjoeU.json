@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "GM6hYb3KWZBWGNJJkiyp94kas3R9eLCI6Vptj4mjoeU",
+    "created": "2022-09-29T19:36:59.006205-07:00",
+    "updated": "2022-09-29T19:36:59.392479-07:00",
+    "identifier": "id:36357:c629e512-aa01-484d-a42d-3f1ff26d1ae9",
+    "user": {
+      "username": "LJF",
+      "id": 36357,
+      "first_name": "Jeffery",
+      "account": {
+        "name": "LJF",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "character AI",
+    "participant": {
+      "user": {
+        "username": "internal_id:36357:c629e512-aa01-484d-a42d-3f1ff26d1ae9",
+        "id": 49148,
+        "first_name": "character AI",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "character AI"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am character AI",
+    "description": "",
+    "definition": ""
+  }
+}

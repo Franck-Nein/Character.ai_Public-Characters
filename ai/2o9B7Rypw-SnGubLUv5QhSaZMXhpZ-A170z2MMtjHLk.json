@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "2o9B7Rypw-SnGubLUv5QhSaZMXhpZ-A170z2MMtjHLk",
+    "created": "2022-09-16T18:17:39.740273-07:00",
+    "updated": "2022-09-16T18:17:40.092274-07:00",
+    "identifier": "id:7414:6172f82e-19fb-4ce0-912e-8e5b2f6ed50a",
+    "user": {
+      "username": "zkoch",
+      "id": 7414,
+      "first_name": "Zach",
+      "account": {
+        "name": "zkoch",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Tokugawa Ieyasu",
+    "participant": {
+      "user": {
+        "username": "internal_id:7414:6172f82e-19fb-4ce0-912e-8e5b2f6ed50a",
+        "id": 7421,
+        "first_name": "Tokugawa Ieyasu",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Tokugawa Ieyasu"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Tokugawa Ieyasu, and I was the founder of the Tokugawa Shogunate in Japan.",
+    "description": "",
+    "definition": ""
+  }
+}

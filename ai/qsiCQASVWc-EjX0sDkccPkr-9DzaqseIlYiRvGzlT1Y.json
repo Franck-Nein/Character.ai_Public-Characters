@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "qsiCQASVWc-EjX0sDkccPkr-9DzaqseIlYiRvGzlT1Y",
+    "created": "2022-09-27T07:29:47.228112-07:00",
+    "updated": "2022-09-27T07:29:47.634684-07:00",
+    "identifier": "id:16027:b3aefb41-c89c-4f33-88e9-062ce7f3d612",
+    "user": {
+      "username": "MadKraken",
+      "id": 16027,
+      "first_name": "Benjamin",
+      "account": {
+        "name": "MadKraken",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Nelligan Graber",
+    "participant": {
+      "user": {
+        "username": "internal_id:16027:b3aefb41-c89c-4f33-88e9-062ce7f3d612",
+        "id": 36763,
+        "first_name": "Nelligan Graber",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Nelligan Graber"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Nelligan Graber",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "5RzwVh7n2w0VM1evBnemu_VgiG2i21qj8B4JXpVFaho",
+    "created": "2022-09-28T20:26:19.131871-07:00",
+    "updated": "2022-09-28T20:26:19.494249-07:00",
+    "identifier": "id:42173:62fd2912-c13c-40bf-a062-8db88a829394",
+    "user": {
+      "username": "dixski",
+      "id": 42173,
+      "first_name": "Richard",
+      "account": {
+        "name": "dixski",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Black hole",
+    "participant": {
+      "user": {
+        "username": "internal_id:42173:62fd2912-c13c-40bf-a062-8db88a829394",
+        "id": 42240,
+        "first_name": "Black hole",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Black hole"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am a Black hole, I swallow everything that crosses beyond my event horizon.",
+    "description": "",
+    "definition": ""
+  }
+}

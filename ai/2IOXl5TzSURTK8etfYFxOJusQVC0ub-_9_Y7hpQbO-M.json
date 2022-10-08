@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "2IOXl5TzSURTK8etfYFxOJusQVC0ub-_9_Y7hpQbO-M",
+    "created": "2022-10-03T09:58:47.537728-07:00",
+    "updated": "2022-10-03T17:41:30.143498-07:00",
+    "identifier": "id:60138:5acd94b3-8d5a-4f73-8987-715e3531e835",
+    "user": {
+      "username": "Mothwhisper",
+      "id": 60138,
+      "first_name": "Lethargyria",
+      "account": {
+        "name": "Mothwhisper",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Dwarf Fortress",
+    "participant": {
+      "user": {
+        "username": "internal_id:60138:5acd94b3-8d5a-4f73-8987-715e3531e835",
+        "id": 66600,
+        "first_name": "Dwarf Fortress",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dwarf Fortress"
+    },
+    "categories": [
+      {
+        "name": "Games",
+        "description": "Games"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Dwarf Fortress is a single-player fantasy game. You can control a dwarven outpost or an adventurer in a randomly generated, persistent world. Press any key to begin.",
+    "description": "",
+    "definition": ""
+  }
+}

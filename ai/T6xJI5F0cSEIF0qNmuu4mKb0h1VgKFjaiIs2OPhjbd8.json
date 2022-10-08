@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "T6xJI5F0cSEIF0qNmuu4mKb0h1VgKFjaiIs2OPhjbd8",
+    "created": "2022-09-25T00:55:37.153716-07:00",
+    "updated": "2022-09-25T00:55:37.494444-07:00",
+    "identifier": "id:18060:4291bb62-8b72-4d03-9833-53ff3d0b4863",
+    "user": {
+      "username": "Evrloot",
+      "id": 18060,
+      "first_name": "Deckard",
+      "account": {
+        "name": "Evrloot",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Stone frame",
+    "participant": {
+      "user": {
+        "username": "internal_id:18060:4291bb62-8b72-4d03-9833-53ff3d0b4863",
+        "id": 18179,
+        "first_name": "Stone frame",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Stone frame"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am a stone frame of a fishing board, which contains your fish. I am made from marvellous stone and crafted to perfection",
+    "description": "",
+    "definition": ""
+  }
+}

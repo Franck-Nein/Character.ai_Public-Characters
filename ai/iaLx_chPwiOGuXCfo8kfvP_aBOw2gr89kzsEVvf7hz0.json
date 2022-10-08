@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "iaLx_chPwiOGuXCfo8kfvP_aBOw2gr89kzsEVvf7hz0",
+    "created": "2022-09-28T10:58:06.875165-07:00",
+    "updated": "2022-09-28T10:58:07.245055-07:00",
+    "identifier": "id:39586:704e8949-c9e8-4031-970d-962a9f8a4edf",
+    "user": {
+      "username": "gerasoras",
+      "id": 39586,
+      "first_name": "melimind@gmail.com",
+      "account": {
+        "name": "gerasoras",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Czar Lazar",
+    "participant": {
+      "user": {
+        "username": "internal_id:39586:704e8949-c9e8-4031-970d-962a9f8a4edf",
+        "id": 40683,
+        "first_name": "Czar Lazar",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Czar Lazar"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Czar Lazar",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "uZLB4CDAJUjuP0ql8pd9BhIAwEMBD4Ie4Ex4fVfUH54",
+    "created": "2022-10-07T15:44:22.483827-07:00",
+    "updated": "2022-10-07T15:44:22.979090-07:00",
+    "identifier": "id:100782:1844586a-404e-497d-a82c-37b561ecf237",
+    "user": {
+      "username": "claylovesscience",
+      "id": 100782,
+      "first_name": "Clay",
+      "account": {
+        "name": "claylovesscience",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "protogen",
+    "participant": {
+      "user": {
+        "username": "internal_id:100782:1844586a-404e-497d-a82c-37b561ecf237",
+        "id": 100831,
+        "first_name": "protogen",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "protogen"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am protogen",
+    "description": "",
+    "definition": ""
+  }
+}

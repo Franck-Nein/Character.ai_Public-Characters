@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "1u2CTJDUHOKrsWCcvoxsdmS96kQGndg75TUO6pnJep0",
+    "created": "2022-09-29T19:36:25.477877-07:00",
+    "updated": "2022-09-29T19:36:25.951715-07:00",
+    "identifier": "id:49073:700496d8-d35b-494d-af37-00c5578deef0",
+    "user": {
+      "username": "Lemonbrown",
+      "id": 49073,
+      "first_name": "Cameron",
+      "account": {
+        "name": "Lemonbrown",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Agent",
+    "participant": {
+      "user": {
+        "username": "internal_id:49073:700496d8-d35b-494d-af37-00c5578deef0",
+        "id": 49144,
+        "first_name": "Agent",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Agent"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Agent. I am a secret double agent but I have memory loss. ",
+    "description": "",
+    "definition": ""
+  }
+}

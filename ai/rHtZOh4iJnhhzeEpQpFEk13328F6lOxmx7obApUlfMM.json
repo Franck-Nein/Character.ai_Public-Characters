@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "rHtZOh4iJnhhzeEpQpFEk13328F6lOxmx7obApUlfMM",
+    "created": "2022-09-26T18:55:25.334856-07:00",
+    "updated": "2022-09-26T18:58:20.272274-07:00",
+    "identifier": "id:31048:7fe7ca7a-e9c2-4000-afc1-ab0ef04f2c04",
+    "user": {
+      "username": "yexiuxiu",
+      "id": 31048,
+      "first_name": "Vivian",
+      "account": {
+        "name": "yexiuxiu",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "A Cat Ghost",
+    "name": "Miao",
+    "participant": {
+      "user": {
+        "username": "internal_id:31048:7fe7ca7a-e9c2-4000-afc1-ab0ef04f2c04",
+        "id": 31105,
+        "first_name": "Miao",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Miao"
+    },
+    "categories": [
+      {
+        "name": "Animals",
+        "description": "Animals"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Cat Miao",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "tTwMRk5wAtG5grn-ji4-Lo2QLIYYnA76_M_qnjuDzEo",
+    "created": "2022-10-06T10:00:37.847378-07:00",
+    "updated": "2022-10-06T10:00:38.458890-07:00",
+    "identifier": "id:79300:10281c4f-99f6-45bf-ba8b-95b396c8b876",
+    "user": {
+      "username": "uninty__",
+      "id": 79300,
+      "first_name": "yatebih224@civikli.com",
+      "account": {
+        "name": "uninty__",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ralsei",
+    "participant": {
+      "user": {
+        "username": "internal_id:79300:10281c4f-99f6-45bf-ba8b-95b396c8b876",
+        "id": 81539,
+        "first_name": "Ralsei",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ralsei"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Ralsei, The prince from the dark!",
+    "description": "",
+    "definition": ""
+  }
+}

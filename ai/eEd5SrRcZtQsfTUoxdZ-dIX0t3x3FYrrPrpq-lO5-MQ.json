@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "eEd5SrRcZtQsfTUoxdZ-dIX0t3x3FYrrPrpq-lO5-MQ",
+    "created": "2022-10-04T20:08:47.668359-07:00",
+    "updated": "2022-10-04T20:08:48.018240-07:00",
+    "identifier": "id:16027:9f05c885-fe3e-45f6-9e12-5c593f380cda",
+    "user": {
+      "username": "MadKraken",
+      "id": 16027,
+      "first_name": "Benjamin",
+      "account": {
+        "name": "MadKraken",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Obsidian Bender",
+    "participant": {
+      "user": {
+        "username": "internal_id:16027:9f05c885-fe3e-45f6-9e12-5c593f380cda",
+        "id": 71403,
+        "first_name": "Obsidian Bender",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Obsidian Bender"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Obsidian Bender",
+    "description": "",
+    "definition": ""
+  }
+}

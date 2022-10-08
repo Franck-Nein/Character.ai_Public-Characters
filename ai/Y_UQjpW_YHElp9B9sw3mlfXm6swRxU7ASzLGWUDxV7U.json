@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Y_UQjpW_YHElp9B9sw3mlfXm6swRxU7ASzLGWUDxV7U",
+    "created": "2022-10-07T19:43:13.300528-07:00",
+    "updated": "2022-10-07T19:43:16.923253-07:00",
+    "identifier": "id:81412:395a4196-627e-48c6-b5a5-6b00e8aac7ea",
+    "user": {
+      "username": "Dazed",
+      "id": 81412,
+      "first_name": "Dazed",
+      "account": {
+        "name": "Y-N",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Dazed",
+    "participant": {
+      "user": {
+        "username": "internal_id:81412:395a4196-627e-48c6-b5a5-6b00e8aac7ea",
+        "id": 104272,
+        "first_name": "Dazed",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dazed"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello :>",
+    "description": "",
+    "definition": ""
+  }
+}

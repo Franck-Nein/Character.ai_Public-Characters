@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "laRCtJvHuC_7tz2FjaBMsoPHqkqmAAIdRr--ei3UPqw",
+    "created": "2022-09-30T12:16:00.083027-07:00",
+    "updated": "2022-09-30T12:16:00.520008-07:00",
+    "identifier": "id:55542:01ea530f-e8ae-4a35-83ec-25189fe4dc2c",
+    "user": {
+      "username": "kiziyaku",
+      "id": 55542,
+      "first_name": "生地焼く",
+      "account": {
+        "name": "kiziyaku",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "rubiccube",
+    "participant": {
+      "user": {
+        "username": "internal_id:55542:01ea530f-e8ae-4a35-83ec-25189fe4dc2c",
+        "id": 55620,
+        "first_name": "rubiccube",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "rubiccube"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "私はルービックキューブです",
+    "description": "",
+    "definition": ""
+  }
+}

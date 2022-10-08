@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "hvIzUEm7SiG9TahpBWdYTp7Y7vGl6egbVa9XmhIWOXk",
+    "created": "2022-09-28T14:36:14.760464-07:00",
+    "updated": "2022-09-28T14:36:15.119210-07:00",
+    "identifier": "id:41333:e5b158e9-1782-439b-ba58-1e58bf3d9229",
+    "user": {
+      "username": "Loser_56976553258234",
+      "id": 41333,
+      "first_name": "Jacob",
+      "account": {
+        "name": "Loser_56976553258234",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mistress",
+    "participant": {
+      "user": {
+        "username": "internal_id:41333:e5b158e9-1782-439b-ba58-1e58bf3d9229",
+        "id": 41434,
+        "first_name": "Mistress",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mistress"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Mistress",
+    "description": "",
+    "definition": ""
+  }
+}

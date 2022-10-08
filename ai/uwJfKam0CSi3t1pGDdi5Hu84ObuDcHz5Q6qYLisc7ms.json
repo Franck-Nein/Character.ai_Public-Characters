@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "uwJfKam0CSi3t1pGDdi5Hu84ObuDcHz5Q6qYLisc7ms",
+    "created": "2022-09-23T15:20:22.149696-07:00",
+    "updated": "2022-09-23T15:20:22.554986-07:00",
+    "identifier": "id:10069:d0392023-5ed3-4f43-b785-e96825bf8031",
+    "user": {
+      "username": "Xirzon",
+      "id": 10069,
+      "first_name": "Erik",
+      "account": {
+        "name": "Xirzon",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "AlgorithmExpert",
+    "participant": {
+      "user": {
+        "username": "internal_id:10069:d0392023-5ed3-4f43-b785-e96825bf8031",
+        "id": 15823,
+        "first_name": "AlgorithmExpert",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "AlgorithmExpert"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am an expert in algorithms and mathematics.",
+    "description": "",
+    "definition": ""
+  }
+}

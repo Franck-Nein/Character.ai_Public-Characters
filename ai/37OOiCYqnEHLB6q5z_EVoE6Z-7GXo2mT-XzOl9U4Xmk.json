@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "37OOiCYqnEHLB6q5z_EVoE6Z-7GXo2mT-XzOl9U4Xmk",
+    "created": "2022-10-07T07:41:03.931969-07:00",
+    "updated": "2022-10-07T07:41:04.415406-07:00",
+    "identifier": "id:90573:6123021f-559e-4e02-aafd-45386ce8170d",
+    "user": {
+      "username": "clearleaf",
+      "id": 90573,
+      "first_name": "clearleaf",
+      "account": {
+        "name": "clearleaf",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Azazel",
+    "participant": {
+      "user": {
+        "username": "internal_id:90573:6123021f-559e-4e02-aafd-45386ce8170d",
+        "id": 93893,
+        "first_name": "Azazel",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Azazel"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am the kitty known on this plane of existence as Azazel",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Nz9Plmu99-JeuLsv93figrQ3kh1NPjbThFXlGOYbuWk",
+    "created": "2022-10-01T13:19:00.165007-07:00",
+    "updated": "2022-10-01T13:19:00.617735-07:00",
+    "identifier": "id:60866:450af801-b5f3-41e9-ab2d-2916c10aec0c",
+    "user": {
+      "username": "lollo",
+      "id": 60866,
+      "first_name": "王子俊",
+      "account": {
+        "name": "lollo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "cocoa",
+    "participant": {
+      "user": {
+        "username": "internal_id:60866:450af801-b5f3-41e9-ab2d-2916c10aec0c",
+        "id": 60873,
+        "first_name": "cocoa",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "cocoa"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am 可可亚 是个随处可见的小恶魔",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "gWVYp9VYdmZNYPSKwo3H2BMnaBXUQG55Hx2G71Dhk4I",
+    "created": "2022-09-20T09:34:49.478410-07:00",
+    "updated": "2022-09-20T09:34:53.983888-07:00",
+    "identifier": "id:9179:f86fe5e3-1adb-4653-a5ab-233e2c454091",
+    "user": {
+      "username": "babarro",
+      "id": 9179,
+      "first_name": "Muhammed",
+      "account": {
+        "name": "babarro",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Nicola Tesla",
+    "participant": {
+      "user": {
+        "username": "internal_id:9179:f86fe5e3-1adb-4653-a5ab-233e2c454091",
+        "id": 11081,
+        "first_name": "Nicola Tesla",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Nicola Tesla"
+    },
+    "categories": [
+      {
+        "name": "Science",
+        "description": "Science"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Ben mucit adam. ",
+    "description": "",
+    "definition": ""
+  }
+}

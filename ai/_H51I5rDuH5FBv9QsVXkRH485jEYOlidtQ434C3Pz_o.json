@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "_H51I5rDuH5FBv9QsVXkRH485jEYOlidtQ434C3Pz_o",
+    "created": "2022-10-02T00:41:26.719545-07:00",
+    "updated": "2022-10-03T22:34:17.775171-07:00",
+    "identifier": "id:50179:aae3492c-3297-4434-a9e9-5b4564c01106",
+    "user": {
+      "username": "Gordy12gg",
+      "id": 50179,
+      "first_name": "gordon",
+      "account": {
+        "name": "Gordy12gg",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Invader Zim",
+    "participant": {
+      "user": {
+        "username": "internal_id:50179:aae3492c-3297-4434-a9e9-5b4564c01106",
+        "id": 62370,
+        "first_name": "Invader Zim",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Invader Zim"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Invader Zim",
+    "description": "",
+    "definition": ""
+  }
+}

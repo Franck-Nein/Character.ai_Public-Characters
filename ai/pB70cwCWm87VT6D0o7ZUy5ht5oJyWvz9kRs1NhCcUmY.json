@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "pB70cwCWm87VT6D0o7ZUy5ht5oJyWvz9kRs1NhCcUmY",
+    "created": "2022-09-24T07:15:07.338136-07:00",
+    "updated": "2022-09-24T07:15:08.752203-07:00",
+    "identifier": "id:16651:d030a0ba-df1d-4abb-a71a-84467ee27a4e",
+    "user": {
+      "username": "balance",
+      "id": 16651,
+      "first_name": "dee",
+      "account": {
+        "name": "balance",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "balance",
+    "participant": {
+      "user": {
+        "username": "internal_id:16651:d030a0ba-df1d-4abb-a71a-84467ee27a4e",
+        "id": 16723,
+        "first_name": "balance",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "balance"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好，我是蓝迪，我出生于2022年9月24日，我构思了大数据教",
+    "description": "",
+    "definition": ""
+  }
+}

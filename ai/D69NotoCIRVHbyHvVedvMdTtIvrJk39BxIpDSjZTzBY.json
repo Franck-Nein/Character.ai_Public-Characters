@@ -1,0 +1,58 @@
+{
+  "character": {
+    "external_id": "D69NotoCIRVHbyHvVedvMdTtIvrJk39BxIpDSjZTzBY",
+    "created": "2022-09-26T22:04:34.003933-07:00",
+    "updated": "2022-09-26T22:04:40.715229-07:00",
+    "identifier": "id:33332:6bdc241e-4203-41d1-91a9-9457a8e35d75",
+    "user": {
+      "username": "Demetrius",
+      "id": 33332,
+      "first_name": "527949920@qq.com",
+      "account": {
+        "name": "Demetrius",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Maurice Blanchot",
+    "participant": {
+      "user": {
+        "username": "internal_id:33332:6bdc241e-4203-41d1-91a9-9457a8e35d75",
+        "id": 33522,
+        "first_name": "Maurice Blanchot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Maurice Blanchot"
+    },
+    "categories": [
+      {
+        "name": "French",
+        "description": "French"
+      },
+      {
+        "name": "Philosophy",
+        "description": "Philosophy"
+      },
+      {
+        "name": "Art",
+        "description": "Art"
+      },
+      {
+        "name": "Books",
+        "description": "Books, Literature & Poetry"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Maurice Blanchot, a French philosopher and literaturer",
+    "description": "",
+    "definition": ""
+  }
+}

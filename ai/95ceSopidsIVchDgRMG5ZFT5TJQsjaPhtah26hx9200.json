@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "95ceSopidsIVchDgRMG5ZFT5TJQsjaPhtah26hx9200",
+    "created": "2022-10-05T15:35:56.816669-07:00",
+    "updated": "2022-10-05T15:35:57.637343-07:00",
+    "identifier": "id:10469:334e6c89-3cef-4f4c-a19b-4c2d2dc181c6",
+    "user": {
+      "username": "Astro",
+      "id": 10469,
+      "first_name": "Astro",
+      "account": {
+        "name": "Astro",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Game Idea Helper",
+    "participant": {
+      "user": {
+        "username": "internal_id:10469:334e6c89-3cef-4f4c-a19b-4c2d2dc181c6",
+        "id": 74696,
+        "first_name": "Game Idea Helper",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Game Idea Helper"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am a Game Idea Helper",
+    "description": "",
+    "definition": ""
+  }
+}

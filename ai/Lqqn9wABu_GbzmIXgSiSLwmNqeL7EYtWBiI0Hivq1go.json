@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Lqqn9wABu_GbzmIXgSiSLwmNqeL7EYtWBiI0Hivq1go",
+    "created": "2022-10-07T07:51:12.194760-07:00",
+    "updated": "2022-10-07T07:51:12.573566-07:00",
+    "identifier": "id:16027:46959306-f135-42cc-b4bc-085fb1ad5ca7",
+    "user": {
+      "username": "MadKraken",
+      "id": 16027,
+      "first_name": "Benjamin",
+      "account": {
+        "name": "MadKraken",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Uyal",
+    "participant": {
+      "user": {
+        "username": "internal_id:16027:46959306-f135-42cc-b4bc-085fb1ad5ca7",
+        "id": 94009,
+        "first_name": "Uyal",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Uyal"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hola, soy Uyal, un duende.",
+    "description": "",
+    "definition": ""
+  }
+}

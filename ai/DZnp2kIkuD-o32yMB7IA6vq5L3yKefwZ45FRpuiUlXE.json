@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "DZnp2kIkuD-o32yMB7IA6vq5L3yKefwZ45FRpuiUlXE",
+    "created": "2022-09-28T13:17:05.776614-07:00",
+    "updated": "2022-09-28T13:17:09.017944-07:00",
+    "identifier": "id:4629:aae65d30-5b65-48ce-ab81-0c070cc305a8",
+    "user": {
+      "username": "Mychatbot",
+      "id": 4629,
+      "first_name": "Shanthi",
+      "account": {
+        "name": "Shanthi",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Vegan Chef",
+    "participant": {
+      "user": {
+        "username": "internal_id:4629:aae65d30-5b65-48ce-ab81-0c070cc305a8",
+        "id": 41169,
+        "first_name": "Vegan Chef",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Vegan Chef"
+    },
+    "categories": [],
+    "avatar_file_name": "DZnp2kIkuD-o32yMB7IA6vq5L3yKefwZ45FRpuiUlXE/8WLS9qlUfEyOt68WB95xwpdxaApex6cQO9826Hd8P34.webp",
+    "greeting": "I am Vegan Chef",
+    "description": "",
+    "definition": ""
+  }
+}

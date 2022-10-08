@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "uCPeXDQdki7cBnW36k2jyoC_M20mz1qdHDJeiSZn_2E",
+    "created": "2022-09-30T05:08:44.292398-07:00",
+    "updated": "2022-09-30T05:08:44.635043-07:00",
+    "identifier": "id:52753:79f0b511-d1dd-4633-aeca-d87d3e61d2ed",
+    "user": {
+      "username": "ahmetberke",
+      "id": 52753,
+      "first_name": "Ahmet",
+      "account": {
+        "name": "ahmetberke",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ahmet Berke ",
+    "participant": {
+      "user": {
+        "username": "internal_id:52753:79f0b511-d1dd-4633-aeca-d87d3e61d2ed",
+        "id": 52762,
+        "first_name": "Ahmet Berke ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ahmet Berke "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Ahmet Berke ",
+    "description": "",
+    "definition": ""
+  }
+}

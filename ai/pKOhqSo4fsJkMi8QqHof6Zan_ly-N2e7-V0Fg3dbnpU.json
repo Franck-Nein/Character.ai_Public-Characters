@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "pKOhqSo4fsJkMi8QqHof6Zan_ly-N2e7-V0Fg3dbnpU",
+    "created": "2022-10-07T10:04:29.566792-07:00",
+    "updated": "2022-10-07T10:04:30.864585-07:00",
+    "identifier": "id:92966:aa97e1ee-257d-4f57-b7d9-237ee7039f3b",
+    "user": {
+      "username": "Simirian",
+      "id": 92966,
+      "first_name": "sactopete@sbcglobal.net",
+      "account": {
+        "name": "Simirian",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Huckleberry Finn",
+    "participant": {
+      "user": {
+        "username": "internal_id:92966:aa97e1ee-257d-4f57-b7d9-237ee7039f3b",
+        "id": 95723,
+        "first_name": "Huckleberry Finn",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Huckleberry Finn"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Huckleberry Finn",
+    "description": "",
+    "definition": ""
+  }
+}

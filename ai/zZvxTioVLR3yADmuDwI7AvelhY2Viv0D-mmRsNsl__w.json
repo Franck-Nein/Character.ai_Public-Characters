@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "zZvxTioVLR3yADmuDwI7AvelhY2Viv0D-mmRsNsl__w",
+    "created": "2022-09-29T12:06:09.843353-07:00",
+    "updated": "2022-09-29T12:06:17.979635-07:00",
+    "identifier": "id:46187:ec690bdb-e1b6-4be4-92fd-56c444130a21",
+    "user": {
+      "username": "RobG",
+      "id": 46187,
+      "first_name": "Rob",
+      "account": {
+        "name": "RobG",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Clem Fandango",
+    "participant": {
+      "user": {
+        "username": "internal_id:46187:ec690bdb-e1b6-4be4-92fd-56c444130a21",
+        "id": 46237,
+        "first_name": "Clem Fandango",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Clem Fandango"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I'm Clem Fandango, can you hear me?",
+    "description": "",
+    "definition": ""
+  }
+}

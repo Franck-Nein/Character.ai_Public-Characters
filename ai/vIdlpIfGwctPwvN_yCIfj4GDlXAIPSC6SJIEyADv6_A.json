@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "vIdlpIfGwctPwvN_yCIfj4GDlXAIPSC6SJIEyADv6_A",
+    "created": "2022-09-30T14:45:52.922295-07:00",
+    "updated": "2022-09-30T14:45:53.296599-07:00",
+    "identifier": "id:56272:a3e116d6-28de-4d34-bb8d-0f5132a8d815",
+    "user": {
+      "username": "Rump1e",
+      "id": 56272,
+      "first_name": "Raymond",
+      "account": {
+        "name": "Rump1e",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ray",
+    "participant": {
+      "user": {
+        "username": "internal_id:56272:a3e116d6-28de-4d34-bb8d-0f5132a8d815",
+        "id": 56277,
+        "first_name": "Ray",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ray"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Ray",
+    "description": "",
+    "definition": ""
+  }
+}

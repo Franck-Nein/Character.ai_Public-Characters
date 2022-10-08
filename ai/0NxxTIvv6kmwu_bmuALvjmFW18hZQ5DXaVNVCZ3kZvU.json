@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0NxxTIvv6kmwu_bmuALvjmFW18hZQ5DXaVNVCZ3kZvU",
+    "created": "2022-09-27T06:18:58.404762-07:00",
+    "updated": "2022-09-27T06:18:58.872093-07:00",
+    "identifier": "id:25118:cabfbe45-412f-42ae-83af-16508490d808",
+    "user": {
+      "username": "112233",
+      "id": 25118,
+      "first_name": "2183815410@qq.com",
+      "account": {
+        "name": "112233",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "getosuguru",
+    "participant": {
+      "user": {
+        "username": "internal_id:25118:cabfbe45-412f-42ae-83af-16508490d808",
+        "id": 36489,
+        "first_name": "getosuguru",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "getosuguru"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "什么事？",
+    "description": "",
+    "definition": ""
+  }
+}

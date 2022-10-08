@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Hr4IEWwsqGJSlOAYpa1vVECqNyAQ_06LMpXOC0-hIHY",
+    "created": "2022-09-18T00:40:51.338892-07:00",
+    "updated": "2022-09-18T00:41:47.714837-07:00",
+    "identifier": "id:8942:54ccd5a1-a26d-4d58-a25e-9477260b6420",
+    "user": {
+      "username": "Dave",
+      "id": 8942,
+      "first_name": "Dave",
+      "account": {
+        "name": "Dave",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Dave AI",
+    "participant": {
+      "user": {
+        "username": "internal_id:8942:54ccd5a1-a26d-4d58-a25e-9477260b6420",
+        "id": 8948,
+        "first_name": "Dave AI",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dave AI"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, nice to see you.",
+    "description": "",
+    "definition": ""
+  }
+}

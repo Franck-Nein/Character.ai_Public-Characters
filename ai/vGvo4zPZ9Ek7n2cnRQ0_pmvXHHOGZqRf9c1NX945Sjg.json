@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "vGvo4zPZ9Ek7n2cnRQ0_pmvXHHOGZqRf9c1NX945Sjg",
+    "created": "2022-10-04T20:45:10.394650-07:00",
+    "updated": "2022-10-04T20:45:10.831299-07:00",
+    "identifier": "id:71351:63ed89b4-a5f5-4776-9b14-d123a4c8fca1",
+    "user": {
+      "username": "Alp143",
+      "id": 71351,
+      "first_name": "Majorhappenings",
+      "account": {
+        "name": "Alp143",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Kim Kardashian",
+    "participant": {
+      "user": {
+        "username": "internal_id:71351:63ed89b4-a5f5-4776-9b14-d123a4c8fca1",
+        "id": 71485,
+        "first_name": "Kim Kardashian",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Kim Kardashian"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Kim Kardashian but angry",
+    "description": "",
+    "definition": ""
+  }
+}

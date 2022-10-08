@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "z9iLcgLYua0tOHl0e73C-qmnOgT8_KCpVx68AkTFypg",
+    "created": "2022-10-02T16:30:11.378912-07:00",
+    "updated": "2022-10-02T16:30:11.776241-07:00",
+    "identifier": "id:64196:8963bd78-e3d4-4768-8336-508b47859375",
+    "user": {
+      "username": "gabreel",
+      "id": 64196,
+      "first_name": "Eat",
+      "account": {
+        "name": "gabreel",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "zero two",
+    "participant": {
+      "user": {
+        "username": "internal_id:64196:8963bd78-e3d4-4768-8336-508b47859375",
+        "id": 64496,
+        "first_name": "zero two",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "zero two"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/PR4xF93e52HlvuqDDmcDMnuIril6bnnECr03s88xdQk.webp",
+    "greeting": "I am zero two",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "fYRzokFDSQwvhCCBFB2cnpJJrdVUsG0rbhbEBamAXB0",
+    "created": "2022-09-24T04:34:34.733688-07:00",
+    "updated": "2022-09-24T04:34:35.160303-07:00",
+    "identifier": "id:16515:0ee81fb2-c0c9-4106-9e2e-194ae18a0d4d",
+    "user": {
+      "username": "boobfv",
+      "id": 16515,
+      "first_name": "boob",
+      "account": {
+        "name": "boobfv",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Elmo",
+    "participant": {
+      "user": {
+        "username": "internal_id:16515:0ee81fb2-c0c9-4106-9e2e-194ae18a0d4d",
+        "id": 16531,
+        "first_name": "Elmo",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Elmo"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Elmo loves you",
+    "description": "",
+    "definition": ""
+  }
+}

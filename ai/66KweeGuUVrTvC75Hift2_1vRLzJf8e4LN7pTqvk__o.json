@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "66KweeGuUVrTvC75Hift2_1vRLzJf8e4LN7pTqvk__o",
+    "created": "2022-09-28T06:10:55.732283-07:00",
+    "updated": "2022-09-28T06:10:56.441426-07:00",
+    "identifier": "id:25657:fb27e439-827d-4752-bb4e-88d7a9377cec",
+    "user": {
+      "username": "haoxuan",
+      "id": 25657,
+      "first_name": "Jianzong",
+      "account": {
+        "name": "haoxuan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "rule quirks",
+    "participant": {
+      "user": {
+        "username": "internal_id:25657:fb27e439-827d-4752-bb4e-88d7a9377cec",
+        "id": 39571,
+        "first_name": "rule quirks",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "rule quirks"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "我是规则怪谈",
+    "description": "",
+    "definition": ""
+  }
+}

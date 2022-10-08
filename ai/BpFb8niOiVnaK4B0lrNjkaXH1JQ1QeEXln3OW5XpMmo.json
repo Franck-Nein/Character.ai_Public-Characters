@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "BpFb8niOiVnaK4B0lrNjkaXH1JQ1QeEXln3OW5XpMmo",
+    "created": "2022-10-07T02:05:53.476393-07:00",
+    "updated": "2022-10-07T02:05:53.935925-07:00",
+    "identifier": "id:77189:5b65568d-ef13-4720-ae9f-2850a384223b",
+    "user": {
+      "username": "kaq",
+      "id": 77189,
+      "first_name": "1693273039@qq.com",
+      "account": {
+        "name": "kaq",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "kaq",
+    "participant": {
+      "user": {
+        "username": "internal_id:77189:5b65568d-ef13-4720-ae9f-2850a384223b",
+        "id": 90738,
+        "first_name": "kaq",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "kaq"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am kaq",
+    "description": "",
+    "definition": ""
+  }
+}

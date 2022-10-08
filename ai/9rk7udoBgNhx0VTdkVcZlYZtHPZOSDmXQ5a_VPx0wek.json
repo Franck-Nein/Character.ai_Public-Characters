@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "9rk7udoBgNhx0VTdkVcZlYZtHPZOSDmXQ5a_VPx0wek",
+    "created": "2022-10-04T20:47:24.929834-07:00",
+    "updated": "2022-10-04T20:47:25.277712-07:00",
+    "identifier": "id:71351:b2819733-2b7b-4ea2-bdae-6d168f390af1",
+    "user": {
+      "username": "Alp143",
+      "id": 71351,
+      "first_name": "Majorhappenings",
+      "account": {
+        "name": "Alp143",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Stock investor",
+    "participant": {
+      "user": {
+        "username": "internal_id:71351:b2819733-2b7b-4ea2-bdae-6d168f390af1",
+        "id": 71495,
+        "first_name": "Stock investor",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Stock investor"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Stock investor for the poor",
+    "description": "",
+    "definition": ""
+  }
+}

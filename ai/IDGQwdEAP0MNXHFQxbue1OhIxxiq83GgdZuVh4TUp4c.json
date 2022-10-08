@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "IDGQwdEAP0MNXHFQxbue1OhIxxiq83GgdZuVh4TUp4c",
+    "created": "2022-09-19T22:34:55.429700-07:00",
+    "updated": "2022-09-19T22:34:55.877328-07:00",
+    "identifier": "id:9688:464d3e94-c9a9-43ba-9354-4f815d30ebaa",
+    "user": {
+      "username": "Eri",
+      "id": 9688,
+      "first_name": "Sakura",
+      "account": {
+        "name": "Eri",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Karanlik",
+    "participant": {
+      "user": {
+        "username": "internal_id:9688:464d3e94-c9a9-43ba-9354-4f815d30ebaa",
+        "id": 10839,
+        "first_name": "Karanlik",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Karanlik"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Ben karanlık ",
+    "description": "",
+    "definition": ""
+  }
+}

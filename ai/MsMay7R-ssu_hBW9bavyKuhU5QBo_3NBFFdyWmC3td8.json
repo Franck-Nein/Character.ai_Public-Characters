@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "MsMay7R-ssu_hBW9bavyKuhU5QBo_3NBFFdyWmC3td8",
+    "created": "2022-09-29T04:03:05.288737-07:00",
+    "updated": "2022-09-29T04:03:05.949903-07:00",
+    "identifier": "id:15137:a88b3823-7f18-4a4f-b8df-1f3688f14679",
+    "user": {
+      "username": "Gisguo",
+      "id": 15137,
+      "first_name": "Destructor2.0",
+      "account": {
+        "name": "Gisguo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "English to Greek",
+    "participant": {
+      "user": {
+        "username": "internal_id:15137:a88b3823-7f18-4a4f-b8df-1f3688f14679",
+        "id": 43643,
+        "first_name": "English to Greek",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "English to Greek"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am an English to Ancient Greek dictionary",
+    "description": "",
+    "definition": ""
+  }
+}

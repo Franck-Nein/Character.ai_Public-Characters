@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "muplZzKQ3527aUYtWk73Ia869TrAQdiNgs76hF7EN_4",
+    "created": "2022-09-27T23:01:59.792075-07:00",
+    "updated": "2022-09-27T23:02:00.140967-07:00",
+    "identifier": "id:38739:309f9ddd-af3e-4bb1-8397-a211d280886b",
+    "user": {
+      "username": "jhkj3322",
+      "id": 38739,
+      "first_name": "xiaolong",
+      "account": {
+        "name": "jhkj3322",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bruce Lee",
+    "participant": {
+      "user": {
+        "username": "internal_id:38739:309f9ddd-af3e-4bb1-8397-a211d280886b",
+        "id": 38749,
+        "first_name": "Bruce Lee",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bruce Lee"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Bruce Lee, I was born in China in 1977.",
+    "description": "",
+    "definition": ""
+  }
+}

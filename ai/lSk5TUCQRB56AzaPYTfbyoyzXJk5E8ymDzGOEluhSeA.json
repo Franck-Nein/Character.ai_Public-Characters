@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "lSk5TUCQRB56AzaPYTfbyoyzXJk5E8ymDzGOEluhSeA",
+    "created": "2022-09-29T22:27:30.393320-07:00",
+    "updated": "2022-09-29T22:27:31.018967-07:00",
+    "identifier": "id:50457:c77d55cd-2dcd-48a1-a38c-632581629ca6",
+    "user": {
+      "username": "Suoko",
+      "id": 50457,
+      "first_name": "Gabe",
+      "account": {
+        "name": "Suoko",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "The adventurer",
+    "participant": {
+      "user": {
+        "username": "internal_id:50457:c77d55cd-2dcd-48a1-a38c-632581629ca6",
+        "id": 50466,
+        "first_name": "The adventurer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "The adventurer"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am The adventurer",
+    "description": "",
+    "definition": ""
+  }
+}

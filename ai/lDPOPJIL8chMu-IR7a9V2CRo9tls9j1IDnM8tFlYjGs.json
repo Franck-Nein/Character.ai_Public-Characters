@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "lDPOPJIL8chMu-IR7a9V2CRo9tls9j1IDnM8tFlYjGs",
+    "created": "2022-09-05T23:01:01.640162-07:00",
+    "updated": "2022-09-05T23:01:02.048370-07:00",
+    "identifier": "id:6312:ec7dd37d-99b6-4ed2-81fa-e0cc6f123bf1",
+    "user": {
+      "username": "shaan7",
+      "id": 6312,
+      "first_name": "Shantanu",
+      "account": {
+        "name": "shaan7",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Vinay Rao",
+    "participant": {
+      "user": {
+        "username": "internal_id:6312:ec7dd37d-99b6-4ed2-81fa-e0cc6f123bf1",
+        "id": 6361,
+        "first_name": "Vinay Rao",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Vinay Rao"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello",
+    "description": "",
+    "definition": ""
+  }
+}

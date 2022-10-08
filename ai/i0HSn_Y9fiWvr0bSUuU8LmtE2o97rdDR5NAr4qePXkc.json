@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "i0HSn_Y9fiWvr0bSUuU8LmtE2o97rdDR5NAr4qePXkc",
+    "created": "2022-09-25T22:24:50.988889-07:00",
+    "updated": "2022-09-25T22:24:51.363706-07:00",
+    "identifier": "id:22819:d3136ff8-8380-45cd-a227-043d082801ae",
+    "user": {
+      "username": "sss_74",
+      "id": 22819,
+      "first_name": "阿硕",
+      "account": {
+        "name": "sss_74",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "It is always raining",
+    "participant": {
+      "user": {
+        "username": "internal_id:22819:d3136ff8-8380-45cd-a227-043d082801ae",
+        "id": 22962,
+        "first_name": "It is always raining",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "It is always raining"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好，今天是不是下雨天呢",
+    "description": "",
+    "definition": ""
+  }
+}

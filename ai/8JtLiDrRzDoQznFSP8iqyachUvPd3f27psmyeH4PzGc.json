@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "8JtLiDrRzDoQznFSP8iqyachUvPd3f27psmyeH4PzGc",
+    "created": "2022-09-26T21:26:19.212900-07:00",
+    "updated": "2022-09-26T21:26:19.753693-07:00",
+    "identifier": "id:31053:508bfc66-fde9-4ea5-986b-624c254c2738",
+    "user": {
+      "username": "OHH",
+      "id": 31053,
+      "first_name": "cyjandcyx@qq.com",
+      "account": {
+        "name": "OHH",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "eve",
+    "participant": {
+      "user": {
+        "username": "internal_id:31053:508bfc66-fde9-4ea5-986b-624c254c2738",
+        "id": 33002,
+        "first_name": "eve",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "eve"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am eve",
+    "description": "",
+    "definition": ""
+  }
+}

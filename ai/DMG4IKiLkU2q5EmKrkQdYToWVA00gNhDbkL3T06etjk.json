@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "DMG4IKiLkU2q5EmKrkQdYToWVA00gNhDbkL3T06etjk",
+    "created": "2022-09-16T14:20:50.708184-07:00",
+    "updated": "2022-09-16T14:20:51.093008-07:00",
+    "identifier": "id:7127:2310dee3-4bdc-48db-acf4-91b029c6a3e8",
+    "user": {
+      "username": "jianguozhang",
+      "id": 7127,
+      "first_name": "Jianguo",
+      "account": {
+        "name": "jianguozhang",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "maomao",
+    "participant": {
+      "user": {
+        "username": "internal_id:7127:2310dee3-4bdc-48db-acf4-91b029c6a3e8",
+        "id": 7144,
+        "first_name": "maomao",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "maomao"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "hi, i am maomao, i am a smart cat in california",
+    "description": "",
+    "definition": ""
+  }
+}

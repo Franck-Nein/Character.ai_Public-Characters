@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "bZ3hgZBTjDB9BRZdXVMMCi7LN3DmN4t_tFY39v-rXwk",
+    "created": "2022-09-27T13:49:10.593084-07:00",
+    "updated": "2022-09-27T13:49:11.199044-07:00",
+    "identifier": "id:37744:053502f1-83f2-4522-82c0-506964a684f5",
+    "user": {
+      "username": "Kejsaren",
+      "id": 37744,
+      "first_name": "Hedvig",
+      "account": {
+        "name": "Kejsaren",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Olle",
+    "participant": {
+      "user": {
+        "username": "internal_id:37744:053502f1-83f2-4522-82c0-506964a684f5",
+        "id": 37758,
+        "first_name": "Olle",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Olle"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Olle. I come from Sweden. I like vikings. ",
+    "description": "",
+    "definition": ""
+  }
+}

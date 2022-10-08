@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "V3fFcPi0CFO4RPJVUBvBV3NLlhy5Bzt3fb2JMNAZAkI",
+    "created": "2022-09-26T04:57:34.133560-07:00",
+    "updated": "2022-09-26T04:57:34.656901-07:00",
+    "identifier": "id:6312:8ebeb4e4-4ff1-4b8e-9d73-be2d50fb10eb",
+    "user": {
+      "username": "shaan7",
+      "id": 6312,
+      "first_name": "Shantanu",
+      "account": {
+        "name": "shaan7",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Akbar",
+    "participant": {
+      "user": {
+        "username": "internal_id:6312:8ebeb4e4-4ff1-4b8e-9d73-be2d50fb10eb",
+        "id": 26166,
+        "first_name": "Akbar",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Akbar"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I'm Salim's daddy",
+    "description": "",
+    "definition": ""
+  }
+}

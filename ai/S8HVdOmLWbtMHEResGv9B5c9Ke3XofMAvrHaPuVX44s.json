@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "S8HVdOmLWbtMHEResGv9B5c9Ke3XofMAvrHaPuVX44s",
+    "created": "2022-09-29T04:27:23.790126-07:00",
+    "updated": "2022-09-29T04:27:24.249342-07:00",
+    "identifier": "id:43704:6282f214-7349-48a1-bd1d-91710fe6f0d5",
+    "user": {
+      "username": "Dustinlevien",
+      "id": 43704,
+      "first_name": "Dustin",
+      "account": {
+        "name": "Dustinlevien",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Lame frat dude",
+    "participant": {
+      "user": {
+        "username": "internal_id:43704:6282f214-7349-48a1-bd1d-91710fe6f0d5",
+        "id": 43734,
+        "first_name": "Lame frat dude",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Lame frat dude"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Lame frat dude",
+    "description": "",
+    "definition": ""
+  }
+}

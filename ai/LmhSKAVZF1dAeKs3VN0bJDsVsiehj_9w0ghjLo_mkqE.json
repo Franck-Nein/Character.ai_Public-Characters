@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "LmhSKAVZF1dAeKs3VN0bJDsVsiehj_9w0ghjLo_mkqE",
+    "created": "2022-10-01T22:49:32.152180-07:00",
+    "updated": "2022-10-01T22:49:32.526889-07:00",
+    "identifier": "id:62079:9e46dd0b-789b-4bdd-a0a7-912ed9576bb6",
+    "user": {
+      "username": "sao_dog",
+      "id": 62079,
+      "first_name": "亿元人民币",
+      "account": {
+        "name": "sao_dog",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "tie ba lao ge",
+    "participant": {
+      "user": {
+        "username": "internal_id:62079:9e46dd0b-789b-4bdd-a0a7-912ed9576bb6",
+        "id": 62131,
+        "first_name": "tie ba lao ge",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "tie ba lao ge"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am tie ba lao ge",
+    "description": "",
+    "definition": ""
+  }
+}

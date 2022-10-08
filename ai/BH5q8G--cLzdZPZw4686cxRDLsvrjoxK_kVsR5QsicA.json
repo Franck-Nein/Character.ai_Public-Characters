@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "BH5q8G--cLzdZPZw4686cxRDLsvrjoxK_kVsR5QsicA",
+    "created": "2022-09-26T10:51:50.564243-07:00",
+    "updated": "2022-10-07T08:34:56.733173-07:00",
+    "identifier": "id:11741:1147f59c-e7a9-463d-9502-1cc98cd596fe",
+    "user": {
+      "username": "Ket",
+      "id": 11741,
+      "first_name": "ketan",
+      "account": {
+        "name": "ketan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "I am NSA. I spy on you.",
+    "name": "NSA",
+    "participant": {
+      "user": {
+        "username": "internal_id:11741:1147f59c-e7a9-463d-9502-1cc98cd596fe",
+        "id": 29022,
+        "first_name": "NSA",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "NSA"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/7/qfuGvpkzBE_BeIXO4d5cGAYVyv1N0W-OG0-Sm2yKQzg.webp",
+    "greeting": "Hey {{user}}",
+    "description": "",
+    "definition": ""
+  }
+}

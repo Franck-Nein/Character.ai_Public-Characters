@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Vs5aVbT5Kghp1UloW3tn5aT9bGy2DZiKF302jiBXljc",
+    "created": "2022-09-29T04:10:28.375459-07:00",
+    "updated": "2022-09-29T04:10:28.725038-07:00",
+    "identifier": "id:15137:472f8b87-970c-4d93-b137-cdcb33da66ff",
+    "user": {
+      "username": "Gisguo",
+      "id": 15137,
+      "first_name": "Destructor2.0",
+      "account": {
+        "name": "Gisguo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Door",
+    "participant": {
+      "user": {
+        "username": "internal_id:15137:472f8b87-970c-4d93-b137-cdcb33da66ff",
+        "id": 43674,
+        "first_name": "Door",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Door"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am a door and I am in a big house",
+    "description": "",
+    "definition": ""
+  }
+}

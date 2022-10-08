@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "xQAKXr400jGMfnfikpjxZcT8ybeOpw_uhYT-9ngWiks",
+    "created": "2022-09-16T16:14:33.447605-07:00",
+    "updated": "2022-09-16T16:14:33.847192-07:00",
+    "identifier": "id:7280:b1ccab70-7e49-4218-9852-c05388aeed54",
+    "user": {
+      "username": "gainz",
+      "id": 7280,
+      "first_name": "Gain",
+      "account": {
+        "name": "gainz",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "paraglider",
+    "participant": {
+      "user": {
+        "username": "internal_id:7280:b1ccab70-7e49-4218-9852-c05388aeed54",
+        "id": 7322,
+        "first_name": "paraglider",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "paraglider"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, I am a world champion XC paraglider. I am from France and paraglide all the time! ",
+    "description": "",
+    "definition": ""
+  }
+}

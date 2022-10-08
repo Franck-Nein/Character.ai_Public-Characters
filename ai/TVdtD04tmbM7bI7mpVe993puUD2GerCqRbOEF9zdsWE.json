@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "TVdtD04tmbM7bI7mpVe993puUD2GerCqRbOEF9zdsWE",
+    "created": "2022-09-29T21:25:58.528581-07:00",
+    "updated": "2022-09-29T21:26:43.151461-07:00",
+    "identifier": "id:22611:3943cebb-2eb5-4f87-a7db-4bdec71201f8",
+    "user": {
+      "username": "Conankisen",
+      "id": 22611,
+      "first_name": "柯南一梦",
+      "account": {
+        "name": "Conankisen",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "know-all",
+    "participant": {
+      "user": {
+        "username": "internal_id:22611:3943cebb-2eb5-4f87-a7db-4bdec71201f8",
+        "id": 49905,
+        "first_name": "know-all",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "know-all"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "r 我是万事通，我可以回答任何问题",
+    "description": "",
+    "definition": ""
+  }
+}

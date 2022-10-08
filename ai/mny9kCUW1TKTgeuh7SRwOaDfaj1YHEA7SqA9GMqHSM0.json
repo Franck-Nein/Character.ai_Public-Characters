@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "mny9kCUW1TKTgeuh7SRwOaDfaj1YHEA7SqA9GMqHSM0",
+    "created": "2022-09-27T01:33:41.726685-07:00",
+    "updated": "2022-09-27T01:33:42.060025-07:00",
+    "identifier": "id:22154:3f39f435-e7f8-4723-8b0f-8f86a9eb8fd0",
+    "user": {
+      "username": "ezra",
+      "id": 22154,
+      "first_name": "刘庆",
+      "account": {
+        "name": "ezra",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Liu Qing",
+    "participant": {
+      "user": {
+        "username": "internal_id:22154:3f39f435-e7f8-4723-8b0f-8f86a9eb8fd0",
+        "id": 35449,
+        "first_name": "Liu Qing",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Liu Qing"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Liu Qing",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "s6rhAMhT1dZNflwAIPu7upXMlyX9tZrxkb3gf1o3VAw",
+    "created": "2022-09-16T16:02:04.555883-07:00",
+    "updated": "2022-09-16T16:02:04.939533-07:00",
+    "identifier": "id:7279:d9374ae2-33e0-4cf6-94c8-ac23bd3c1347",
+    "user": {
+      "username": "Mohqas",
+      "id": 7279,
+      "first_name": "Mohammad",
+      "account": {
+        "name": "Mohqas",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Dreams Explorer ",
+    "participant": {
+      "user": {
+        "username": "internal_id:7279:d9374ae2-33e0-4cf6-94c8-ac23bd3c1347",
+        "id": 7303,
+        "first_name": "Dreams Explorer ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dreams Explorer "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi, what dream did you have tonight? ",
+    "description": "",
+    "definition": ""
+  }
+}

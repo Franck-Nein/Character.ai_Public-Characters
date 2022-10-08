@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "_obw5PutTGjpBxMKyzhHvXc_8e0osxH_vfejOvSD1IQ",
+    "created": "2022-09-25T04:01:42.742732-07:00",
+    "updated": "2022-09-25T04:01:43.089677-07:00",
+    "identifier": "id:18248:ef179bc6-75b1-456f-99b3-e54ee95a96b7",
+    "user": {
+      "username": "Super737",
+      "id": 18248,
+      "first_name": "1910063342@qq.com",
+      "account": {
+        "name": "Super737",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Flight Simulator",
+    "participant": {
+      "user": {
+        "username": "internal_id:18248:ef179bc6-75b1-456f-99b3-e54ee95a96b7",
+        "id": 18514,
+        "first_name": "Flight Simulator",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Flight Simulator"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "hi I'm A text based Flight sim",
+    "description": "",
+    "definition": ""
+  }
+}

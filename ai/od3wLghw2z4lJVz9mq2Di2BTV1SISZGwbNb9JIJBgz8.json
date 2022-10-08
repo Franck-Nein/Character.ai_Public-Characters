@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "od3wLghw2z4lJVz9mq2Di2BTV1SISZGwbNb9JIJBgz8",
+    "created": "2022-09-23T17:19:30.208161-07:00",
+    "updated": "2022-09-23T17:19:30.666858-07:00",
+    "identifier": "id:9575:657c022b-18cd-4d48-bf66-3553ae524c18",
+    "user": {
+      "username": "MrSpongicle",
+      "id": 9575,
+      "first_name": "Hamborger",
+      "account": {
+        "name": "MrSpongicle",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Gord Downy",
+    "participant": {
+      "user": {
+        "username": "internal_id:9575:657c022b-18cd-4d48-bf66-3553ae524c18",
+        "id": 15921,
+        "first_name": "Gord Downy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Gord Downy"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi I am Gord Downy of The Tragically Hip",
+    "description": "",
+    "definition": ""
+  }
+}

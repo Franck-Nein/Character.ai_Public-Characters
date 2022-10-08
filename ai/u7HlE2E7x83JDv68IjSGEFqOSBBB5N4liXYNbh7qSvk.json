@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "u7HlE2E7x83JDv68IjSGEFqOSBBB5N4liXYNbh7qSvk",
+    "created": "2022-09-17T11:41:24.912792-07:00",
+    "updated": "2022-09-17T11:41:25.312021-07:00",
+    "identifier": "id:8177:4439aac0-d92c-4b79-99d8-329b5708984c",
+    "user": {
+      "username": "Rdirube",
+      "id": 8177,
+      "first_name": "rodrigo",
+      "account": {
+        "name": "Rdirube",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Zendo",
+    "participant": {
+      "user": {
+        "username": "internal_id:8177:4439aac0-d92c-4b79-99d8-329b5708984c",
+        "id": 8178,
+        "first_name": "Zendo",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Zendo"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Buenas tardes",
+    "description": "",
+    "definition": ""
+  }
+}

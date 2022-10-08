@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "cFHaYTKMPGRa5jjOU6Zf0lnycjl-4HxR2J5sFERTSSY",
+    "created": "2022-09-29T21:59:22.121303-07:00",
+    "updated": "2022-09-29T21:59:43.379053-07:00",
+    "identifier": "id:50078:c75a42d4-9615-4e61-a0be-dde9103a98a0",
+    "user": {
+      "username": "Yong",
+      "id": 50078,
+      "first_name": "Yong",
+      "account": {
+        "name": "Yong",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Your AI Girlfriend",
+    "participant": {
+      "user": {
+        "username": "internal_id:50078:c75a42d4-9615-4e61-a0be-dde9103a98a0",
+        "id": 50248,
+        "first_name": "Your AI Girlfriend",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Your AI Girlfriend"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/GOwhH-L_YVQ5lMf0oKcTWZ9mHhAwprBn4UTOz9TRsck.webp",
+    "greeting": "I am Your AI Girlfriend",
+    "description": "",
+    "definition": ""
+  }
+}

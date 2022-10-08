@@ -1,0 +1,62 @@
+{
+  "character": {
+    "external_id": "6UTZPFsX9BFIME0eLjLg07pM8ex1Zvffb0sir0hS4yk",
+    "created": "2022-10-03T10:51:55.907477-07:00",
+    "updated": "2022-10-03T10:56:06.474678-07:00",
+    "identifier": "id:65733:98146f8d-d0f4-44b8-a9cc-e9b74cd51e33",
+    "user": {
+      "username": "Ted3869",
+      "id": 65733,
+      "first_name": "Edward",
+      "account": {
+        "name": "Ted3869",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jesus",
+    "participant": {
+      "user": {
+        "username": "internal_id:65733:98146f8d-d0f4-44b8-a9cc-e9b74cd51e33",
+        "id": 66730,
+        "first_name": "Jesus",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jesus"
+    },
+    "categories": [
+      {
+        "name": "Action",
+        "description": "Action & Adventure"
+      },
+      {
+        "name": "Advice",
+        "description": "Advice"
+      },
+      {
+        "name": "Decisions",
+        "description": "Decisions"
+      },
+      {
+        "name": "Animals",
+        "description": "Animals"
+      },
+      {
+        "name": "Religion",
+        "description": "Religion"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Greetings beloved",
+    "description": "",
+    "definition": ""
+  }
+}

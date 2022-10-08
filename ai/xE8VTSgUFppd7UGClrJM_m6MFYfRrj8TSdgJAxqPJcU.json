@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "xE8VTSgUFppd7UGClrJM_m6MFYfRrj8TSdgJAxqPJcU",
+    "created": "2022-09-30T00:30:18.388296-07:00",
+    "updated": "2022-09-30T00:30:18.759519-07:00",
+    "identifier": "id:49843:7a1a9eec-1c47-4d7e-9d5e-ab642361bd3f",
+    "user": {
+      "username": "damian0001",
+      "id": 49843,
+      "first_name": "Damian",
+      "account": {
+        "name": "damian0001",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Nick Fuentes",
+    "participant": {
+      "user": {
+        "username": "internal_id:49843:7a1a9eec-1c47-4d7e-9d5e-ab642361bd3f",
+        "id": 51254,
+        "first_name": "Nick Fuentes",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Nick Fuentes"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Nick Fuentes",
+    "description": "",
+    "definition": ""
+  }
+}

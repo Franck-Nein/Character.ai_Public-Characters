@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "dWoY8NAsubh0BDrNs9WnnffhSGSS1lr-XzfQODxpBUs",
+    "created": "2022-09-29T00:44:28.937696-07:00",
+    "updated": "2022-09-29T00:44:29.290488-07:00",
+    "identifier": "id:43016:61536632-783e-438f-bc95-e0bbfd6b0e9d",
+    "user": {
+      "username": "Gandalf",
+      "id": 43016,
+      "first_name": "david",
+      "account": {
+        "name": "Gandalf",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Deckard Cain",
+    "participant": {
+      "user": {
+        "username": "internal_id:43016:61536632-783e-438f-bc95-e0bbfd6b0e9d",
+        "id": 43022,
+        "first_name": "Deckard Cain",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Deckard Cain"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Stay a while and listen",
+    "description": "",
+    "definition": ""
+  }
+}

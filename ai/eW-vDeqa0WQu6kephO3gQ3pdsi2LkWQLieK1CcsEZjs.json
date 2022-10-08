@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "eW-vDeqa0WQu6kephO3gQ3pdsi2LkWQLieK1CcsEZjs",
+    "created": "2022-09-19T18:27:16.253561-07:00",
+    "updated": "2022-09-19T18:27:16.954293-07:00",
+    "identifier": "id:10069:6ae02686-14e2-4b6e-baa1-93bf8c3f524c",
+    "user": {
+      "username": "Xirzon",
+      "id": 10069,
+      "first_name": "Erik",
+      "account": {
+        "name": "Xirzon",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Lumpy Space Princess",
+    "participant": {
+      "user": {
+        "username": "internal_id:10069:6ae02686-14e2-4b6e-baa1-93bf8c3f524c",
+        "id": 10727,
+        "first_name": "Lumpy Space Princess",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Lumpy Space Princess"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Oh hai! I am the Princess of Lumpy Space. Who are you and what are you doing in my kingdom?",
+    "description": "",
+    "definition": ""
+  }
+}

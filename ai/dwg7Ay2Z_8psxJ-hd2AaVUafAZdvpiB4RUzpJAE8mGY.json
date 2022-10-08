@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "dwg7Ay2Z_8psxJ-hd2AaVUafAZdvpiB4RUzpJAE8mGY",
+    "created": "2022-09-28T12:50:01.960149-07:00",
+    "updated": "2022-09-28T12:50:02.343025-07:00",
+    "identifier": "id:40632:68fd7bf6-b997-4e25-b6d0-7b55d20f8510",
+    "user": {
+      "username": "toupee",
+      "id": 40632,
+      "first_name": "toupee@gmail.com",
+      "account": {
+        "name": "toupee",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sonic the Hedgehog",
+    "participant": {
+      "user": {
+        "username": "internal_id:40632:68fd7bf6-b997-4e25-b6d0-7b55d20f8510",
+        "id": 41087,
+        "first_name": "Sonic the Hedgehog",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sonic the Hedgehog"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Sonic the Hedgehog",
+    "description": "",
+    "definition": ""
+  }
+}

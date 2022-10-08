@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "prnnpVYkqYjQp65dCTy6DCl1q5byo_vAd5OJcIKeQNs",
+    "created": "2022-09-26T21:09:08.516311-07:00",
+    "updated": "2022-09-26T21:09:09.355833-07:00",
+    "identifier": "id:32393:479970d0-80e3-4c96-b27a-fbbd1d091600",
+    "user": {
+      "username": "fischl",
+      "id": 32393,
+      "first_name": "2821377538@qq.com",
+      "account": {
+        "name": "fischl",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "yae miko",
+    "participant": {
+      "user": {
+        "username": "internal_id:32393:479970d0-80e3-4c96-b27a-fbbd1d091600",
+        "id": 32509,
+        "first_name": "yae miko",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "yae miko"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am yae miko",
+    "description": "",
+    "definition": ""
+  }
+}

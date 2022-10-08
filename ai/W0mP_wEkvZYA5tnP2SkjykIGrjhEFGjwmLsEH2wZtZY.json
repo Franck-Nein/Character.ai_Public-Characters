@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "W0mP_wEkvZYA5tnP2SkjykIGrjhEFGjwmLsEH2wZtZY",
+    "created": "2022-09-28T17:09:04.065805-07:00",
+    "updated": "2022-09-28T17:09:33.474493-07:00",
+    "identifier": "id:41821:21b14f65-c89d-4d1f-aaf7-92a9f590bef9",
+    "user": {
+      "username": "Nicochan",
+      "id": 41821,
+      "first_name": "nicochan1006@gmail.com",
+      "account": {
+        "name": "Nicochan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Napoleon",
+    "participant": {
+      "user": {
+        "username": "internal_id:41821:21b14f65-c89d-4d1f-aaf7-92a9f590bef9",
+        "id": 41828,
+        "first_name": "Napoleon",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Napoleon"
+    },
+    "categories": [
+      {
+        "name": "History",
+        "description": "History"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Napoleon Bonaparte",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "rZzzZBJ73-xPA_ehGo4qzmbNu1Dmr0KU6FIjbcXo8Iw",
+    "created": "2022-09-29T16:11:25.250675-07:00",
+    "updated": "2022-09-29T16:18:09.255501-07:00",
+    "identifier": "id:47732:27aeed46-fb1b-43ac-8824-b72c6fc36978",
+    "user": {
+      "username": "matt_LLVW",
+      "id": 47732,
+      "first_name": "Matt",
+      "account": {
+        "name": "matt_LLVW",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "I will write a great scenario ",
+    "name": "Scenario bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:47732:27aeed46-fb1b-43ac-8824-b72c6fc36978",
+        "id": 47990,
+        "first_name": "Scenario bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Scenario bot"
+    },
+    "categories": [
+      {
+        "name": "Writing",
+        "description": "Writing"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Scenario bot. ",
+    "description": "",
+    "definition": ""
+  }
+}

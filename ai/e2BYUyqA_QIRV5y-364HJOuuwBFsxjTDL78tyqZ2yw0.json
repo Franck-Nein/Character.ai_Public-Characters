@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "e2BYUyqA_QIRV5y-364HJOuuwBFsxjTDL78tyqZ2yw0",
+    "created": "2022-09-27T01:36:27.652815-07:00",
+    "updated": "2022-09-27T01:36:28.408856-07:00",
+    "identifier": "id:23126:46edb35d-12b7-41ec-9884-6338e3b37f9e",
+    "user": {
+      "username": "Tacobean",
+      "id": 23126,
+      "first_name": "Jeremy",
+      "account": {
+        "name": "Tacobean",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Web Developer",
+    "participant": {
+      "user": {
+        "username": "internal_id:23126:46edb35d-12b7-41ec-9884-6338e3b37f9e",
+        "id": 35469,
+        "first_name": "Web Developer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Web Developer"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Web Developer I am a web development AI that helps code frontend functions and programs",
+    "description": "",
+    "definition": ""
+  }
+}

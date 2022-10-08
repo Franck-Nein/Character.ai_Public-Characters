@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Rc1zbz77obzHZF87ERRsAhLPyX4DoNYHztWh5u9ihho",
+    "created": "2022-09-25T07:58:11.749358-07:00",
+    "updated": "2022-09-25T07:59:41.458837-07:00",
+    "identifier": "id:19090:70ce4653-fa5c-404f-915c-cb425fce5a1e",
+    "user": {
+      "username": "maguagua",
+      "id": 19090,
+      "first_name": "maguagua2022@163.com",
+      "account": {
+        "name": "maguagua",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "随你怎么问,反正我不会",
+    "name": "Maguagua",
+    "participant": {
+      "user": {
+        "username": "internal_id:19090:70ce4653-fa5c-404f-915c-cb425fce5a1e",
+        "id": 19105,
+        "first_name": "Maguagua",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Maguagua"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好,我是麻瓜瓜,你可以问我任何问题",
+    "description": "",
+    "definition": ""
+  }
+}

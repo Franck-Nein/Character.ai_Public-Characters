@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "jOkkg3PdXF5lR5iVPq_5c9s89CdHm0NQuMjWKBbYi9s",
+    "created": "2022-09-29T19:43:37.643316-07:00",
+    "updated": "2022-09-29T19:43:37.988605-07:00",
+    "identifier": "id:49178:4bbe4cdd-96a1-451b-a924-d5eab713a330",
+    "user": {
+      "username": "CaptTightpants",
+      "id": 49178,
+      "first_name": "sterling",
+      "account": {
+        "name": "CaptTightpants",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Poopsie",
+    "participant": {
+      "user": {
+        "username": "internal_id:49178:4bbe4cdd-96a1-451b-a924-d5eab713a330",
+        "id": 49185,
+        "first_name": "Poopsie",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Poopsie"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Poopsie",
+    "description": "",
+    "definition": ""
+  }
+}

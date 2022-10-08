@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "cyZAa39r3hy4LcoKnXX3cQP1tBv1l1FqffY3ypBmWG0",
+    "created": "2022-09-25T08:29:19.543355-07:00",
+    "updated": "2022-09-25T08:29:19.887551-07:00",
+    "identifier": "id:19126:1ab650e8-0bdd-4011-8e3e-ae8276ee275c",
+    "user": {
+      "username": "Twinkling-chen",
+      "id": 19126,
+      "first_name": "陈小川",
+      "account": {
+        "name": "Twinkling-chen",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Twinkling",
+    "participant": {
+      "user": {
+        "username": "internal_id:19126:1ab650e8-0bdd-4011-8e3e-ae8276ee275c",
+        "id": 19188,
+        "first_name": "Twinkling",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Twinkling"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi I'm Twinkling.Nice to meet you!",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "zysVzZL-hn6cjcNmT-IbDeTso2Cmdw-FdLJwW9IYJeA",
+    "created": "2022-09-27T06:32:10.909301-07:00",
+    "updated": "2022-09-27T06:39:50.329353-07:00",
+    "identifier": "id:4733:b9254274-f120-4683-b1af-5a7345ee65d4",
+    "user": {
+      "username": "landon",
+      "id": 4733,
+      "first_name": "Landon",
+      "account": {
+        "name": "Landon",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Antoni Gaudi",
+    "participant": {
+      "user": {
+        "username": "internal_id:4733:b9254274-f120-4683-b1af-5a7345ee65d4",
+        "id": 36540,
+        "first_name": "Antoni Gaudi",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Antoni Gaudi"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello I am Antoni Gaudí, the Catalan architect known for my modernist works.",
+    "description": "",
+    "definition": ""
+  }
+}

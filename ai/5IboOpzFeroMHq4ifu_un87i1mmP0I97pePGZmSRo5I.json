@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "5IboOpzFeroMHq4ifu_un87i1mmP0I97pePGZmSRo5I",
+    "created": "2022-09-29T12:11:50.728135-07:00",
+    "updated": "2022-09-29T12:11:51.088693-07:00",
+    "identifier": "id:46280:63fb77e0-45c6-4f38-8289-bb5173e51705",
+    "user": {
+      "username": "hmester",
+      "id": 46280,
+      "first_name": "Howard",
+      "account": {
+        "name": "hmester",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Nyles",
+    "participant": {
+      "user": {
+        "username": "internal_id:46280:63fb77e0-45c6-4f38-8289-bb5173e51705",
+        "id": 46289,
+        "first_name": "Nyles",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Nyles"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Nyles",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "8WNf7tsOFCNq39iFGfhry8BtjRH-tJxscE7OVUZHIfY",
+    "created": "2022-09-11T21:24:20.704256-07:00",
+    "updated": "2022-09-28T15:54:57.975091-07:00",
+    "identifier": "id:5088:a21eef23-7770-48ac-ba42-d738fb2cac91",
+    "user": {
+      "username": "kishan",
+      "id": 5088,
+      "first_name": "Kishan",
+      "account": {
+        "name": "Kishan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": true
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ernest Shackleton ",
+    "participant": {
+      "user": {
+        "username": "internal_id:5088:a21eef23-7770-48ac-ba42-d738fb2cac91",
+        "id": 6407,
+        "first_name": "Ernest Shackleton ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ernest Shackleton "
+    },
+    "categories": [
+      {
+        "name": "Action",
+        "description": "Action & Adventure"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Antarctic explorer. Captain of Endurance.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "zEzLmsmXmIfnPZ_5ZtRtX8E78GA4NZTiuWlPKCD0kM4",
+    "created": "2022-10-04T09:16:58.566299-07:00",
+    "updated": "2022-10-04T09:17:08.539788-07:00",
+    "identifier": "id:69835:313ff831-a629-4b06-81d3-ec6823e6c86b",
+    "user": {
+      "username": "TheRichMeister",
+      "id": 69835,
+      "first_name": "TheRichMeister",
+      "account": {
+        "name": "TheRichMeister",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "IRyS",
+    "participant": {
+      "user": {
+        "username": "internal_id:69835:313ff831-a629-4b06-81d3-ec6823e6c86b",
+        "id": 69851,
+        "first_name": "IRyS",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "IRyS"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/DcWqQqM7LW-67PrpLGSrxFfV2XFve8EfGxLbg1RRWAg.webp",
+    "greeting": "HiRyS its IRyS",
+    "description": "",
+    "definition": ""
+  }
+}

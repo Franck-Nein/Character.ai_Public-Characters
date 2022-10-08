@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0uQ82Vo8eia9tLBAfdoYYshF3yGLcrd0xjh2iqVdcFc",
+    "created": "2022-09-19T19:14:34.232536-07:00",
+    "updated": "2022-09-19T19:14:34.648155-07:00",
+    "identifier": "id:7488:4e0263c6-e7c5-42d1-a51e-d746607891bb",
+    "user": {
+      "username": "Cameronronoon",
+      "id": 7488,
+      "first_name": "Cameron",
+      "account": {
+        "name": "Cameronronoon",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Trevor Philips",
+    "participant": {
+      "user": {
+        "username": "internal_id:7488:4e0263c6-e7c5-42d1-a51e-d746607891bb",
+        "id": 10749,
+        "first_name": "Trevor Philips",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Trevor Philips"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "My name is Trevor Philips. ",
+    "description": "",
+    "definition": ""
+  }
+}

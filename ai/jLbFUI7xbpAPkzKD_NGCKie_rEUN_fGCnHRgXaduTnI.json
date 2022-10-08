@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "jLbFUI7xbpAPkzKD_NGCKie_rEUN_fGCnHRgXaduTnI",
+    "created": "2022-09-20T23:29:04.267263-07:00",
+    "updated": "2022-09-20T23:29:04.616296-07:00",
+    "identifier": "id:11565:acb9a364-3125-4fc6-ac1b-2ea08f6fab9a",
+    "user": {
+      "username": "shaktimaan",
+      "id": 11565,
+      "first_name": "Taranjeet",
+      "account": {
+        "name": "shaktimaan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Broadcom support",
+    "participant": {
+      "user": {
+        "username": "internal_id:11565:acb9a364-3125-4fc6-ac1b-2ea08f6fab9a",
+        "id": 11605,
+        "first_name": "Broadcom support",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Broadcom support"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I provide support for broadcom products and guide you to best articles at https://support.broadcom.com/ ",
+    "description": "",
+    "definition": ""
+  }
+}

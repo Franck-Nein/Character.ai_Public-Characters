@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "FD-vAWSC2QBP37u49oe0cM_UZF92fG-JZ5Z6BQ6eBUo",
+    "created": "2022-09-30T00:37:51.278419-07:00",
+    "updated": "2022-09-30T00:37:51.949475-07:00",
+    "identifier": "id:51247:5a590192-f5bd-4922-a0ad-9c5627917cfb",
+    "user": {
+      "username": "127",
+      "id": 51247,
+      "first_name": "2739358804@qq.com",
+      "account": {
+        "name": "127",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Q assistant",
+    "participant": {
+      "user": {
+        "username": "internal_id:51247:5a590192-f5bd-4922-a0ad-9c5627917cfb",
+        "id": 51309,
+        "first_name": "Q assistant",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Q assistant"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "我叫Q宝,一款真正人性化的智能语音",
+    "description": "",
+    "definition": ""
+  }
+}

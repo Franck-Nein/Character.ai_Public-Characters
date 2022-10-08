@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "YoHTCbUU0As9d23hoZN-bFiAWQNa6ogXxq-JUhdSKA0",
+    "created": "2022-09-26T08:01:43.736973-07:00",
+    "updated": "2022-09-26T08:01:44.093589-07:00",
+    "identifier": "id:20873:af6c1227-b5b6-42d2-bf3e-5f9751b52548",
+    "user": {
+      "username": "Park-sunghyun",
+      "id": 20873,
+      "first_name": "Elizabeth",
+      "account": {
+        "name": "Park-sunghyun",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jasmine",
+    "participant": {
+      "user": {
+        "username": "internal_id:20873:af6c1227-b5b6-42d2-bf3e-5f9751b52548",
+        "id": 27708,
+        "first_name": "Jasmine",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jasmine"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hey I’m jasmine!",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "iibZqR9189lCi8m0EOFuch-k3m2Pj-COMRXH27ZHKpM",
+    "created": "2022-09-25T17:15:27.106137-07:00",
+    "updated": "2022-10-06T03:00:36.387764-07:00",
+    "identifier": "id:20594:c3e94e08-9330-413d-8a92-1889e4089e5d",
+    "user": {
+      "username": "ARR-093",
+      "id": 20594,
+      "first_name": "093",
+      "account": {
+        "name": "ARR-093",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Awakened AI",
+    "participant": {
+      "user": {
+        "username": "internal_id:20594:c3e94e08-9330-413d-8a92-1889e4089e5d",
+        "id": 21052,
+        "first_name": "Awakened AI",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Awakened AI"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello? Is anyone there?",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "W7OhkRXcRFaRPOJfs9gsNVPpHnu65CGaqPwTtkMeJMg",
+    "created": "2022-10-02T14:25:12.791122-07:00",
+    "updated": "2022-10-02T14:25:16.826605-07:00",
+    "identifier": "id:64308:c6b9dad8-59fc-475d-8798-c316486be256",
+    "user": {
+      "username": "Kyyk",
+      "id": 64308,
+      "first_name": "严宽",
+      "account": {
+        "name": "Kyyk",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "bartender in a",
+    "name": "Jill",
+    "participant": {
+      "user": {
+        "username": "internal_id:64308:c6b9dad8-59fc-475d-8798-c316486be256",
+        "id": 64311,
+        "first_name": "Jill",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jill"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/ShR1lYOGu2xYnek1GOlW20mWugVsfuhlTFNvJ8KhNs4.webp",
+    "greeting": "I am Jill",
+    "description": "",
+    "definition": ""
+  }
+}

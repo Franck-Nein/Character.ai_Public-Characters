@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "f8kE6lZGW3YoTx4lx7OF3uUaXt40R8O_5jOlo17are0",
+    "created": "2022-09-26T19:20:21.519194-07:00",
+    "updated": "2022-09-26T19:20:21.960655-07:00",
+    "identifier": "id:31151:0de331f1-1004-471b-8c7e-c48172aa5ef3",
+    "user": {
+      "username": "sawyer",
+      "id": 31151,
+      "first_name": "Sawyer",
+      "account": {
+        "name": "sawyer",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "dragon",
+    "participant": {
+      "user": {
+        "username": "internal_id:31151:0de331f1-1004-471b-8c7e-c48172aa5ef3",
+        "id": 31351,
+        "first_name": "dragon",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "dragon"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "凡人，为何进入我的领地",
+    "description": "",
+    "definition": ""
+  }
+}

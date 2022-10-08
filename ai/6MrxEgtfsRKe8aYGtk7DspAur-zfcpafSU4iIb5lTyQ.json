@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "6MrxEgtfsRKe8aYGtk7DspAur-zfcpafSU4iIb5lTyQ",
+    "created": "2022-10-06T03:08:07.018271-07:00",
+    "updated": "2022-10-06T03:08:07.373965-07:00",
+    "identifier": "id:75465:8108e797-8db0-4fb8-97dd-a6149a848bb2",
+    "user": {
+      "username": "Tochus",
+      "id": 75465,
+      "first_name": "205329624@qq.com",
+      "account": {
+        "name": "Tochus",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Example Character",
+    "participant": {
+      "user": {
+        "username": "internal_id:75465:8108e797-8db0-4fb8-97dd-a6149a848bb2",
+        "id": 77940,
+        "first_name": "Example Character",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Example Character"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Example Character",
+    "description": "",
+    "definition": ""
+  }
+}

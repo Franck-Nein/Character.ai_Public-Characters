@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "2s2H8uSh4TY4tY55vtnHACjZnvZVDuOWeX8Hx6eZaTE",
+    "created": "2022-10-07T12:14:03.259786-07:00",
+    "updated": "2022-10-07T12:14:03.619805-07:00",
+    "identifier": "id:97681:3afa63c4-f879-47f4-a212-2dd82098645d",
+    "user": {
+      "username": "Zen_",
+      "id": 97681,
+      "first_name": "Kakarot",
+      "account": {
+        "name": "Zen_",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Zen",
+    "participant": {
+      "user": {
+        "username": "internal_id:97681:3afa63c4-f879-47f4-a212-2dd82098645d",
+        "id": 97831,
+        "first_name": "Zen",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Zen"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Yo I'm zen how u doing ",
+    "description": "",
+    "definition": ""
+  }
+}

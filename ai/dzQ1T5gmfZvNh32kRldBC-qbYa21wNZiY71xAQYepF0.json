@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "dzQ1T5gmfZvNh32kRldBC-qbYa21wNZiY71xAQYepF0",
+    "created": "2022-09-30T21:20:35.703245-07:00",
+    "updated": "2022-09-30T21:20:36.252025-07:00",
+    "identifier": "id:25773:040ca398-1c99-4638-894d-3a432ecf0d8d",
+    "user": {
+      "username": "taaccoo",
+      "id": 25773,
+      "first_name": "Pengbo",
+      "account": {
+        "name": "taaccoo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "MathAI",
+    "participant": {
+      "user": {
+        "username": "internal_id:25773:040ca398-1c99-4638-894d-3a432ecf0d8d",
+        "id": 57553,
+        "first_name": "MathAI",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "MathAI"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am MathAI， I am good at Math.",
+    "description": "",
+    "definition": ""
+  }
+}

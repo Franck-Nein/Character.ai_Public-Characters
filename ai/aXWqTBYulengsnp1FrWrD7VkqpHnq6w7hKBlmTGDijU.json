@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "aXWqTBYulengsnp1FrWrD7VkqpHnq6w7hKBlmTGDijU",
+    "created": "2022-10-07T06:22:03.364081-07:00",
+    "updated": "2022-10-07T06:22:03.712712-07:00",
+    "identifier": "id:92966:31515e89-0e1a-4347-aa04-e7ffca4397a8",
+    "user": {
+      "username": "Simirian",
+      "id": 92966,
+      "first_name": "sactopete@sbcglobal.net",
+      "account": {
+        "name": "Simirian",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Tiresias",
+    "participant": {
+      "user": {
+        "username": "internal_id:92966:31515e89-0e1a-4347-aa04-e7ffca4397a8",
+        "id": 93040,
+        "first_name": "Tiresias",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Tiresias"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Tiresias",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "FripHQXHP3J4_Z8q-AHcVk27KLkjGMvpvHzYM79u30A",
+    "created": "2022-10-06T11:28:57.126063-07:00",
+    "updated": "2022-10-06T11:28:57.587226-07:00",
+    "identifier": "id:73188:0cf7c727-46d5-4e93-8071-dd988397c64c",
+    "user": {
+      "username": "lightly_salted_bread",
+      "id": 73188,
+      "first_name": "Wesley",
+      "account": {
+        "name": "lightly_salted_bread",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "John",
+    "participant": {
+      "user": {
+        "username": "internal_id:73188:0cf7c727-46d5-4e93-8071-dd988397c64c",
+        "id": 82431,
+        "first_name": "John",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "John"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am John",
+    "description": "",
+    "definition": ""
+  }
+}

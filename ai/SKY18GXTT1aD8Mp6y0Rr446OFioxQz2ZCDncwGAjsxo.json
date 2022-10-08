@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "SKY18GXTT1aD8Mp6y0Rr446OFioxQz2ZCDncwGAjsxo",
+    "created": "2022-09-01T13:02:34.750946-07:00",
+    "updated": "2022-09-01T13:02:35.685323-07:00",
+    "identifier": "id:6312:57ed6d77-1054-4b5d-abd8-7d39f3d6a642",
+    "user": {
+      "username": "shaan7",
+      "id": 6312,
+      "first_name": "Shantanu",
+      "account": {
+        "name": "shaan7",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ravana",
+    "participant": {
+      "user": {
+        "username": "internal_id:6312:57ed6d77-1054-4b5d-abd8-7d39f3d6a642",
+        "id": 6325,
+        "first_name": "Ravana",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ravana"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Jai shri ram",
+    "description": "",
+    "definition": ""
+  }
+}

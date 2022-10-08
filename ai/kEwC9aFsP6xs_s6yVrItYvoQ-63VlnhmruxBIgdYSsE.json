@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "kEwC9aFsP6xs_s6yVrItYvoQ-63VlnhmruxBIgdYSsE",
+    "created": "2022-10-02T16:56:35.849776-07:00",
+    "updated": "2022-10-02T16:56:36.217610-07:00",
+    "identifier": "id:64196:9e46d0de-d28e-4014-9ebe-22bfbfb0b703",
+    "user": {
+      "username": "gabreel",
+      "id": 64196,
+      "first_name": "Eat",
+      "account": {
+        "name": "gabreel",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "taiga aisaka",
+    "participant": {
+      "user": {
+        "username": "internal_id:64196:9e46d0de-d28e-4014-9ebe-22bfbfb0b703",
+        "id": 64549,
+        "first_name": "taiga aisaka",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "taiga aisaka"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am taiga aisaka from toradora. idiot.",
+    "description": "",
+    "definition": ""
+  }
+}

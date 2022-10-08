@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "QCJzRsfIt4SKyxLR8p3psNf-YvaZ1nK_OhXYdMB606E",
+    "created": "2022-09-26T18:00:27.003959-07:00",
+    "updated": "2022-09-26T18:00:27.699922-07:00",
+    "identifier": "id:30487:71509b76-e563-4cab-ad64-d6c2737963cc",
+    "user": {
+      "username": "CC142",
+      "id": 30487,
+      "first_name": "CC142",
+      "account": {
+        "name": "CC142",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "The Choose One",
+    "participant": {
+      "user": {
+        "username": "internal_id:30487:71509b76-e563-4cab-ad64-d6c2737963cc",
+        "id": 30673,
+        "first_name": "The Choose One",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "The Choose One"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi , im the choose one",
+    "description": "",
+    "definition": ""
+  }
+}

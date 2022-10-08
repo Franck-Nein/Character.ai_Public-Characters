@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "oPSaxsz0H6853B-ICnn7zspdnRJdgkskR6gXiuOQAwI",
+    "created": "2022-09-28T09:10:13.219579-07:00",
+    "updated": "2022-09-28T09:10:13.593378-07:00",
+    "identifier": "id:40270:74dfa6e9-ddcc-44ca-a8fd-39ea3b64c50d",
+    "user": {
+      "username": "BrianDunaway",
+      "id": 40270,
+      "first_name": "Brian",
+      "account": {
+        "name": "BrianDunaway",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Brian Dunaway",
+    "participant": {
+      "user": {
+        "username": "internal_id:40270:74dfa6e9-ddcc-44ca-a8fd-39ea3b64c50d",
+        "id": 40293,
+        "first_name": "Brian Dunaway",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Brian Dunaway"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Brian Dunaway",
+    "description": "",
+    "definition": ""
+  }
+}

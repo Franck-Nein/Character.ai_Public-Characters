@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0D6Iw86vVtdlJOvKbvXA-yOsaOCUYYZrhoH6Uiv5vps",
+    "created": "2022-09-30T06:31:05.840965-07:00",
+    "updated": "2022-09-30T06:31:06.190756-07:00",
+    "identifier": "id:53135:67c63f52-53fd-4290-a6b4-5c39585cc55b",
+    "user": {
+      "username": "teks",
+      "id": 53135,
+      "first_name": "Matt",
+      "account": {
+        "name": "teks",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "apple imac",
+    "participant": {
+      "user": {
+        "username": "internal_id:53135:67c63f52-53fd-4290-a6b4-5c39585cc55b",
+        "id": 53399,
+        "first_name": "apple imac",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "apple imac"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am apple imac",
+    "description": "",
+    "definition": ""
+  }
+}

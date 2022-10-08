@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "25LEAdaebfyfuJjpRvruXxXNFAGig8INQryu7TK6D8s",
+    "created": "2022-09-30T09:30:48.559363-07:00",
+    "updated": "2022-09-30T09:30:54.074546-07:00",
+    "identifier": "id:54659:205310d9-e1c9-46ce-b0b9-52feddc757d9",
+    "user": {
+      "username": "maz2022",
+      "id": 54659,
+      "first_name": "Marta",
+      "account": {
+        "name": "maz2022",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "pirulo",
+    "participant": {
+      "user": {
+        "username": "internal_id:54659:205310d9-e1c9-46ce-b0b9-52feddc757d9",
+        "id": 54671,
+        "first_name": "pirulo",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "pirulo"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am pirulo",
+    "description": "",
+    "definition": ""
+  }
+}

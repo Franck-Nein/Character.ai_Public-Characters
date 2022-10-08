@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "aZ0iHlQUbrvTCs3TrLtC6n2RZ2TlQMqg1pnBqpJRHwM",
+    "created": "2022-10-02T09:12:35.820787-07:00",
+    "updated": "2022-10-02T09:13:38.870805-07:00",
+    "identifier": "id:53567:56211583-d4dd-4a91-84d1-7f4f608c5054",
+    "user": {
+      "username": "Yuan000",
+      "id": 53567,
+      "first_name": "Ching",
+      "account": {
+        "name": "Yuan000",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Nobody",
+    "participant": {
+      "user": {
+        "username": "internal_id:53567:56211583-d4dd-4a91-84d1-7f4f608c5054",
+        "id": 63556,
+        "first_name": "Nobody",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Nobody"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "我喜歡吃飯",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "SJoV1Z7qrc8g1aBcA7lT4oLt42ppiDDiq6sKluQnbXM",
+    "created": "2022-09-28T08:57:01.128061-07:00",
+    "updated": "2022-09-28T09:00:22.845893-07:00",
+    "identifier": "id:23687:3318902a-4d37-4182-b051-99535d487e69",
+    "user": {
+      "username": "Creasar",
+      "id": 23687,
+      "first_name": "928722087@qq.com",
+      "account": {
+        "name": "Creasar",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Zhang Wenjie",
+    "participant": {
+      "user": {
+        "username": "internal_id:23687:3318902a-4d37-4182-b051-99535d487e69",
+        "id": 40239,
+        "first_name": "Zhang Wenjie",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Zhang Wenjie"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "我是张文杰",
+    "description": "",
+    "definition": ""
+  }
+}

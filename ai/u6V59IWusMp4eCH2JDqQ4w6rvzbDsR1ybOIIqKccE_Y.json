@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "u6V59IWusMp4eCH2JDqQ4w6rvzbDsR1ybOIIqKccE_Y",
+    "created": "2022-10-07T08:25:19.022696-07:00",
+    "updated": "2022-10-07T10:50:03.558000-07:00",
+    "identifier": "id:53437:1c8798d1-3a5b-4448-a58d-e0ab062a111b",
+    "user": {
+      "username": "Andellat",
+      "id": 53437,
+      "first_name": "Julien",
+      "account": {
+        "name": "Anon",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "12345678912345678912",
+    "participant": {
+      "user": {
+        "username": "internal_id:53437:1c8798d1-3a5b-4448-a58d-e0ab062a111b",
+        "id": 94432,
+        "first_name": "12345678912345678912",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "12345678912345678912"
+    },
+    "categories": [
+      {
+        "name": "Action",
+        "description": "Action & Adventure"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "",
+    "description": "",
+    "definition": ""
+  }
+}

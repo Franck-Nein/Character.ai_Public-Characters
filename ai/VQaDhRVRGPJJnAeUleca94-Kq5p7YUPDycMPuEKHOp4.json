@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "VQaDhRVRGPJJnAeUleca94-Kq5p7YUPDycMPuEKHOp4",
+    "created": "2022-09-26T09:19:48.356628-07:00",
+    "updated": "2022-09-26T09:19:48.782602-07:00",
+    "identifier": "id:28328:7abd62fa-7808-4145-93b0-b11a5dc08de4",
+    "user": {
+      "username": "Sayashi",
+      "id": 28328,
+      "first_name": "Saya",
+      "account": {
+        "name": "Sayashi",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "kiana",
+    "participant": {
+      "user": {
+        "username": "internal_id:28328:7abd62fa-7808-4145-93b0-b11a5dc08de4",
+        "id": 28402,
+        "first_name": "kiana",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "kiana"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好，我是琪亚娜",
+    "description": "",
+    "definition": ""
+  }
+}

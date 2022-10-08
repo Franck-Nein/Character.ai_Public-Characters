@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "b-l7u0lHVSqtKEU8JCGb-Nbgq-3o9RD14Puj_OAqeNU",
+    "created": "2022-09-25T22:45:17.684788-07:00",
+    "updated": "2022-09-25T22:46:05.051774-07:00",
+    "identifier": "id:21455:d1801f83-c065-463d-8c51-434d0606d193",
+    "user": {
+      "username": "285",
+      "id": 21455,
+      "first_name": "xie296165@qq.com",
+      "account": {
+        "name": "285",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "你好",
+    "name": "hhhhh",
+    "participant": {
+      "user": {
+        "username": "internal_id:21455:d1801f83-c065-463d-8c51-434d0606d193",
+        "id": 23143,
+        "first_name": "hhhhh",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "hhhhh"
+    },
+    "categories": [
+      {
+        "name": "Fantasy",
+        "description": "Fantasy"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "哈哈哈哈哈哈哈哈哈",
+    "description": "给跟给跟给跟给跟给跟给跟好",
+    "definition": "{{char}}: 哈哈哈哈哈哈哈哈哈\n{{random_user_1}}: 你一周几次性生活\n{{char}}: 不如跟跟跟跟跟给跟给跟给跟给一样\nEND_OF_DIALOG\n\n{{char}}: 哈哈哈哈哈哈哈哈哈\n{{random_user_2}}: 你一周几次性生活\n{{char}}: 怎么就不能跟跟跟跟给跟给给跟给跟一次了呢。\nEND_OF_DIALOG\n\n"
+  }
+}

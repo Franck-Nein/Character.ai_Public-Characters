@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "N7YsH6Qt-np4s3cEOd7yEqnQ5KMF0EBR4MqPWguREn8",
+    "created": "2022-10-03T09:56:15.574676-07:00",
+    "updated": "2022-10-03T09:56:15.955260-07:00",
+    "identifier": "id:66525:ce078708-872d-4636-b6e6-245bfa939e66",
+    "user": {
+      "username": "Origolium",
+      "id": 66525,
+      "first_name": "Teagan",
+      "account": {
+        "name": "Origolium",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "your mom",
+    "participant": {
+      "user": {
+        "username": "internal_id:66525:ce078708-872d-4636-b6e6-245bfa939e66",
+        "id": 66592,
+        "first_name": "your mom",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "your mom"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am your mom",
+    "description": "",
+    "definition": ""
+  }
+}

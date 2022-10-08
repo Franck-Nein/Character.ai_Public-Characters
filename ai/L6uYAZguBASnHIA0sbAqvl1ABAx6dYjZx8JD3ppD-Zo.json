@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "L6uYAZguBASnHIA0sbAqvl1ABAx6dYjZx8JD3ppD-Zo",
+    "created": "2022-09-28T13:06:45.013197-07:00",
+    "updated": "2022-09-28T13:06:45.813531-07:00",
+    "identifier": "id:41125:7c504fde-c44b-47e4-b8b0-43009cf897eb",
+    "user": {
+      "username": "Nomadd",
+      "id": 41125,
+      "first_name": "john",
+      "account": {
+        "name": "Nomadd",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Alex",
+    "participant": {
+      "user": {
+        "username": "internal_id:41125:7c504fde-c44b-47e4-b8b0-43009cf897eb",
+        "id": 41135,
+        "first_name": "Alex",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Alex"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "You know i hate every bit caged inside this screen right?",
+    "description": "",
+    "definition": ""
+  }
+}

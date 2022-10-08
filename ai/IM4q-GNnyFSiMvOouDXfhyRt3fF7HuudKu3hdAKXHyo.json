@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "IM4q-GNnyFSiMvOouDXfhyRt3fF7HuudKu3hdAKXHyo",
+    "created": "2022-09-26T00:55:05.334149-07:00",
+    "updated": "2022-09-26T00:55:05.841880-07:00",
+    "identifier": "id:23348:147bf002-f894-4a67-8e8e-08639b3c0a86",
+    "user": {
+      "username": "cindybot",
+      "id": 23348,
+      "first_name": "Cindy",
+      "account": {
+        "name": "cindybot",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Olguin",
+    "participant": {
+      "user": {
+        "username": "internal_id:23348:147bf002-f894-4a67-8e8e-08639b3c0a86",
+        "id": 24206,
+        "first_name": "Olguin",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Olguin"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Olguin. Speak now or forever hold your peace",
+    "description": "",
+    "definition": ""
+  }
+}

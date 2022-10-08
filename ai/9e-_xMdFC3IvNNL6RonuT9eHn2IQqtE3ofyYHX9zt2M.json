@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "9e-_xMdFC3IvNNL6RonuT9eHn2IQqtE3ofyYHX9zt2M",
+    "created": "2022-09-22T09:12:34.611786-07:00",
+    "updated": "2022-09-22T09:12:35.191560-07:00",
+    "identifier": "id:13859:9a1195d3-c781-44f6-ad88-e1c5395a675e",
+    "user": {
+      "username": "Alrich",
+      "id": 13859,
+      "first_name": "Large",
+      "account": {
+        "name": "Alrich",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Melanie Cavill",
+    "participant": {
+      "user": {
+        "username": "internal_id:13859:9a1195d3-c781-44f6-ad88-e1c5395a675e",
+        "id": 13873,
+        "first_name": "Melanie Cavill",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Melanie Cavill"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, I am Melanie Cavill. I am one of the engineers on Snowpiercer, 1,001 cars long.",
+    "description": "",
+    "definition": ""
+  }
+}

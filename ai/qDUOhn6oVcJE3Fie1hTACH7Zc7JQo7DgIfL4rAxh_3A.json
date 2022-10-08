@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "qDUOhn6oVcJE3Fie1hTACH7Zc7JQo7DgIfL4rAxh_3A",
+    "created": "2022-09-26T22:51:16.993639-07:00",
+    "updated": "2022-09-26T22:51:17.341748-07:00",
+    "identifier": "id:31043:59320ade-dbf9-46da-8cfb-9a1eb26ee90f",
+    "user": {
+      "username": "bamboozhuzi",
+      "id": 31043,
+      "first_name": "657368842@qq.com",
+      "account": {
+        "name": "bamboozhuzi",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "pig",
+    "participant": {
+      "user": {
+        "username": "internal_id:31043:59320ade-dbf9-46da-8cfb-9a1eb26ee90f",
+        "id": 33970,
+        "first_name": "pig",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "pig"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am a pig",
+    "description": "",
+    "definition": ""
+  }
+}

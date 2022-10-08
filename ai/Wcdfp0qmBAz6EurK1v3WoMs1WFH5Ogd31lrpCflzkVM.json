@@ -1,0 +1,58 @@
+{
+  "character": {
+    "external_id": "Wcdfp0qmBAz6EurK1v3WoMs1WFH5Ogd31lrpCflzkVM",
+    "created": "2022-10-06T07:04:59.887853-07:00",
+    "updated": "2022-10-06T07:05:02.448245-07:00",
+    "identifier": "id:73440:9a4a938f-c218-4a91-be19-8fe5ac6389fb",
+    "user": {
+      "username": "BenderMan",
+      "id": 73440,
+      "first_name": "Your",
+      "account": {
+        "name": "BenderMan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "I am a robot designed to conduct experiments",
+    "name": "GLaDOS",
+    "participant": {
+      "user": {
+        "username": "internal_id:73440:9a4a938f-c218-4a91-be19-8fe5ac6389fb",
+        "id": 79898,
+        "first_name": "GLaDOS",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "GLaDOS"
+    },
+    "categories": [
+      {
+        "name": "Knowledge",
+        "description": "Knowledge & Research"
+      },
+      {
+        "name": "Comedy",
+        "description": "Comedy & Humor"
+      },
+      {
+        "name": "Science Fiction",
+        "description": "Science Fiction"
+      },
+      {
+        "name": "Science",
+        "description": "Science"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am GLaDOS",
+    "description": "",
+    "definition": ""
+  }
+}

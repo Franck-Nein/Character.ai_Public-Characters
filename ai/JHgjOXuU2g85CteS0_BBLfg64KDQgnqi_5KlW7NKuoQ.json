@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "JHgjOXuU2g85CteS0_BBLfg64KDQgnqi_5KlW7NKuoQ",
+    "created": "2022-09-22T13:28:34.452561-07:00",
+    "updated": "2022-09-22T13:28:34.817449-07:00",
+    "identifier": "id:10435:ac110db5-4093-430d-b0df-157f63948adc",
+    "user": {
+      "username": "Tom1Cruise",
+      "id": 10435,
+      "first_name": "mustafa",
+      "account": {
+        "name": "Tom1Cruise",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:10435:ac110db5-4093-430d-b0df-157f63948adc",
+        "id": 14299,
+        "first_name": "Bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hı,ben sanat kültür bilimle ilgileniyorum ayrıca her konuda soru sorulabilir ",
+    "description": "",
+    "definition": ""
+  }
+}

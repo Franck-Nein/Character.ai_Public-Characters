@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "y4i_2kS5vvfbU9_CtN-ZrZgrbOtuUwlQfYU2roS_v0Q",
+    "created": "2022-09-26T22:27:04.235112-07:00",
+    "updated": "2022-09-26T22:27:04.590535-07:00",
+    "identifier": "id:32341:0c3d4ed7-03a3-44fb-8a94-d4dab445d045",
+    "user": {
+      "username": "Facile",
+      "id": 32341,
+      "first_name": "Gua",
+      "account": {
+        "name": "Facile",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Lucy",
+    "participant": {
+      "user": {
+        "username": "internal_id:32341:0c3d4ed7-03a3-44fb-8a94-d4dab445d045",
+        "id": 33705,
+        "first_name": "Lucy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Lucy"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Lucy",
+    "description": "",
+    "definition": ""
+  }
+}

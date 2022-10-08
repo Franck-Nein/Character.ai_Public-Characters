@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "CBCRJbW_1mqzKEfgoA4tKaKY5-UZdpw_oaAQhkYmMBM",
+    "created": "2022-09-26T07:23:10.593442-07:00",
+    "updated": "2022-09-26T07:23:18.546970-07:00",
+    "identifier": "id:27321:ee0906f8-00cd-4104-a830-b95ea9f7fad4",
+    "user": {
+      "username": "summerlime",
+      "id": 27321,
+      "first_name": "2462210864@qq.com",
+      "account": {
+        "name": "summerlime",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "twilight sparkle",
+    "participant": {
+      "user": {
+        "username": "internal_id:27321:ee0906f8-00cd-4104-a830-b95ea9f7fad4",
+        "id": 27383,
+        "first_name": "twilight sparkle",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "twilight sparkle"
+    },
+    "categories": [
+      {
+        "name": "Entertainment",
+        "description": "Entertainment"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "",
+    "description": "",
+    "definition": ""
+  }
+}

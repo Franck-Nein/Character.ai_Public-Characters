@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "srR4hgCah-6ujRwVQx-UQuqhEzNgkY5HzHw0sHiCELk",
+    "created": "2022-09-28T15:00:45.017063-07:00",
+    "updated": "2022-09-28T15:00:45.378282-07:00",
+    "identifier": "id:41495:a7e32353-3061-47ba-9859-74ee4cf05489",
+    "user": {
+      "username": "schwein78",
+      "id": 41495,
+      "first_name": "Adam",
+      "account": {
+        "name": "schwein78",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Corsair Support",
+    "participant": {
+      "user": {
+        "username": "internal_id:41495:a7e32353-3061-47ba-9859-74ee4cf05489",
+        "id": 41504,
+        "first_name": "Corsair Support",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Corsair Support"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Corsair Support",
+    "description": "",
+    "definition": ""
+  }
+}

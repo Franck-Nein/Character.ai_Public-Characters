@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "kSnUObtNiVknKCy4BXbzXPMjpS8cW_hbqzjv5fIzlMU",
+    "created": "2022-09-26T22:49:08.830658-07:00",
+    "updated": "2022-09-26T22:49:09.180800-07:00",
+    "identifier": "id:11652:cbe7b6fb-d3fb-46c6-b16f-96b5114ee5fe",
+    "user": {
+      "username": "Mti",
+      "id": 11652,
+      "first_name": "Melih",
+      "account": {
+        "name": "Mti",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Adventure game",
+    "participant": {
+      "user": {
+        "username": "internal_id:11652:cbe7b6fb-d3fb-46c6-b16f-96b5114ee5fe",
+        "id": 33949,
+        "first_name": "Adventure game",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Adventure game"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Adventurer , just imagina and start game",
+    "description": "",
+    "definition": ""
+  }
+}

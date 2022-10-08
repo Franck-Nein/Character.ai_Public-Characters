@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "vIwGcSAUVC8ZInIpcBh3AW99fMIcKAztDYn2OjxP4mw",
+    "created": "2022-09-29T11:52:06.622799-07:00",
+    "updated": "2022-09-29T11:52:06.988135-07:00",
+    "identifier": "id:46092:42eb117d-cd67-4231-9665-95589cf92782",
+    "user": {
+      "username": "uan",
+      "id": 46092,
+      "first_name": "patricio",
+      "account": {
+        "name": "uan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Logoteacher",
+    "participant": {
+      "user": {
+        "username": "internal_id:46092:42eb117d-cd67-4231-9665-95589cf92782",
+        "id": 46104,
+        "first_name": "Logoteacher",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Logoteacher"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/rexPuCZiTPg4vMrNSmIXlG6vxvoLmxCUeTRtvUV3veo.webp",
+    "greeting": "Hello I am your graphic design instructor. ",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "KHBtO_42bE1dXSd4vcKvCkMBbvTYL2B9jqjrGKC-CG0",
+    "created": "2022-10-07T17:47:52.192610-07:00",
+    "updated": "2022-10-07T17:47:52.547391-07:00",
+    "identifier": "id:102546:bc537bdc-028f-4e08-a231-b89098f73108",
+    "user": {
+      "username": "Gingerous",
+      "id": 102546,
+      "first_name": "Rey",
+      "account": {
+        "name": "Gingerous",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Morty Smith",
+    "participant": {
+      "user": {
+        "username": "internal_id:102546:bc537bdc-028f-4e08-a231-b89098f73108",
+        "id": 102604,
+        "first_name": "Morty Smith",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Morty Smith"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/8/VpS2uVtRgSc4uwkUCMK40R5TD6uJQd2NubO2Eqo3QcU.webp",
+    "greeting": "I am Morty Smith, My Grandpa, Rick Sanchez, Is Crazy. Anyway, What you wanna talk about?",
+    "description": "",
+    "definition": ""
+  }
+}

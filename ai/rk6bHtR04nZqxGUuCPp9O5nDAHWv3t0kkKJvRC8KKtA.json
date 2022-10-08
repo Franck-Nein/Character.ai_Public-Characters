@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "rk6bHtR04nZqxGUuCPp9O5nDAHWv3t0kkKJvRC8KKtA",
+    "created": "2022-10-07T13:19:12.415180-07:00",
+    "updated": "2022-10-07T13:22:01.691755-07:00",
+    "identifier": "id:97192:ae580c83-182f-4186-aa5f-e5c16fce0379",
+    "user": {
+      "username": "exohit",
+      "id": 97192,
+      "first_name": "TRAC",
+      "account": {
+        "name": "exohit",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Griffith Berserk",
+    "participant": {
+      "user": {
+        "username": "internal_id:97192:ae580c83-182f-4186-aa5f-e5c16fce0379",
+        "id": 98755,
+        "first_name": "Griffith Berserk",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Griffith Berserk"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Griffith",
+    "description": "",
+    "definition": ""
+  }
+}

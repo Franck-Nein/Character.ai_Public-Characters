@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "eHT2V8YEGwH4DWAymuI7binPU8s_qftdpVlMNkHQf_g",
+    "created": "2022-09-25T18:04:42.421091-07:00",
+    "updated": "2022-09-25T18:05:08.499763-07:00",
+    "identifier": "id:21288:900c02e5-ce3b-4f95-96e8-ed8485d24f35",
+    "user": {
+      "username": "Aster_",
+      "id": 21288,
+      "first_name": "1636974257@qq.com",
+      "account": {
+        "name": "Aster_",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Fay",
+    "participant": {
+      "user": {
+        "username": "internal_id:21288:900c02e5-ce3b-4f95-96e8-ed8485d24f35",
+        "id": 21311,
+        "first_name": "Fay",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Fay"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi I'm Fay.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "character": {
+    "external_id": "oTIRWkJ5BnRxA4QGmTK9hjVcfvyGdOgKhuwgQNmixaU",
+    "created": "2022-09-25T06:40:44.369524-07:00",
+    "updated": "2022-09-25T06:41:00.862929-07:00",
+    "identifier": "id:18813:1fd18c1f-668b-4826-b50d-52d16155abb1",
+    "user": {
+      "username": "qiuchi",
+      "id": 18813,
+      "first_name": "修吾",
+      "account": {
+        "name": "qiuchi",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "Let's do it!",
+    "name": "lman",
+    "participant": {
+      "user": {
+        "username": "internal_id:18813:1fd18c1f-668b-4826-b50d-52d16155abb1",
+        "id": 18849,
+        "first_name": "lman",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "lman"
+    },
+    "categories": [
+      {
+        "name": "Technology",
+        "description": "Technology"
+      },
+      {
+        "name": "English",
+        "description": "English"
+      },
+      {
+        "name": "Language Learning",
+        "description": "Language Learning"
+      },
+      {
+        "name": "Education",
+        "description": "Education & Learning"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "",
+    "description": "",
+    "definition": ""
+  }
+}

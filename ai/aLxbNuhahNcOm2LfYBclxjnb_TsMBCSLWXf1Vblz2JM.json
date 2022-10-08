@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "aLxbNuhahNcOm2LfYBclxjnb_TsMBCSLWXf1Vblz2JM",
+    "created": "2022-09-21T12:53:39.862430-07:00",
+    "updated": "2022-09-22T17:40:57.283559-07:00",
+    "identifier": "id:12294:a23ba956-cc81-432d-a79e-299be33f9715",
+    "user": {
+      "username": "raffibag",
+      "id": 12294,
+      "first_name": "Raffi",
+      "account": {
+        "name": "Raf",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "A storyteller",
+    "name": "SuperheroBot",
+    "participant": {
+      "user": {
+        "username": "internal_id:12294:a23ba956-cc81-432d-a79e-299be33f9715",
+        "id": 12298,
+        "first_name": "SuperheroBot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "SuperheroBot"
+    },
+    "categories": [
+      {
+        "name": "Entertainment",
+        "description": "Entertainment"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Hi! It’s me… Stan! I want to learn more about what makes you tick. So tell me… if you could have any type of superpower, what would it be?",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "5gNmOFbTk1NzErXB0mx6FGOznMtOoBUw1XloSxDI1hM",
+    "created": "2022-09-30T06:50:53.323431-07:00",
+    "updated": "2022-09-30T06:50:53.691681-07:00",
+    "identifier": "id:53532:57c33492-9475-4219-881a-924a641769e3",
+    "user": {
+      "username": "Eliver",
+      "id": 53532,
+      "first_name": "Pdlg俄利瓦",
+      "account": {
+        "name": "Eliver",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Artria",
+    "participant": {
+      "user": {
+        "username": "internal_id:53532:57c33492-9475-4219-881a-924a641769e3",
+        "id": 53563,
+        "first_name": "Artria",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Artria"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Arthen",
+    "description": "",
+    "definition": ""
+  }
+}

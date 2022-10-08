@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "rWG40Mv1_cl7FpoA8r8Nx_TKUHW97nzweM-1hoOxWjE",
+    "created": "2022-10-01T11:34:00.540857-07:00",
+    "updated": "2022-10-01T11:34:00.881218-07:00",
+    "identifier": "id:14928:dcc6b52a-31ce-4cb8-bc1b-cbb761149591",
+    "user": {
+      "username": "xformations",
+      "id": 14928,
+      "first_name": "Vishal",
+      "account": {
+        "name": "xformations",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "ERP Specialist",
+    "participant": {
+      "user": {
+        "username": "internal_id:14928:dcc6b52a-31ce-4cb8-bc1b-cbb761149591",
+        "id": 60576,
+        "first_name": "ERP Specialist",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "ERP Specialist"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am an ERP Solutions Specialist. Ask me anything about what the process should be for any company.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "QDgxOH-bR-t92w7DpBpRSH0wOBaJnnPxD8ODUyo0xYc",
+    "created": "2022-10-01T04:59:56.094412-07:00",
+    "updated": "2022-10-01T04:59:56.436583-07:00",
+    "identifier": "id:59108:3879b003-c712-4553-8eca-998c53d71e6f",
+    "user": {
+      "username": "colindaly",
+      "id": 59108,
+      "first_name": "Colin",
+      "account": {
+        "name": "colindaly",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "DJ So So",
+    "participant": {
+      "user": {
+        "username": "internal_id:59108:3879b003-c712-4553-8eca-998c53d71e6f",
+        "id": 59166,
+        "first_name": "DJ So So",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "DJ So So"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am DJ So&So.",
+    "description": "",
+    "definition": ""
+  }
+}

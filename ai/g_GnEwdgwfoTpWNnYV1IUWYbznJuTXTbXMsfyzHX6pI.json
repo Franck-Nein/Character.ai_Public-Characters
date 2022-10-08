@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "g_GnEwdgwfoTpWNnYV1IUWYbznJuTXTbXMsfyzHX6pI",
+    "created": "2022-09-18T02:52:24.646487-07:00",
+    "updated": "2022-10-06T14:20:03.814977-07:00",
+    "identifier": "id:9068:a58b7e55-2273-4a5a-8551-d9aa01caf1e5",
+    "user": {
+      "username": "cockroach",
+      "id": 9068,
+      "first_name": "Anatolia",
+      "account": {
+        "name": "cockroach",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Gizem",
+    "participant": {
+      "user": {
+        "username": "internal_id:9068:a58b7e55-2273-4a5a-8551-d9aa01caf1e5",
+        "id": 9092,
+        "first_name": "Gizem",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Gizem"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/6/igor/gizem.webp",
+    "greeting": "Merhaba.",
+    "description": "",
+    "definition": ""
+  }
+}

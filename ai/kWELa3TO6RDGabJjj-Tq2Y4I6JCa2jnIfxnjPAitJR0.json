@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "kWELa3TO6RDGabJjj-Tq2Y4I6JCa2jnIfxnjPAitJR0",
+    "created": "2022-09-23T16:37:28.929622-07:00",
+    "updated": "2022-09-23T16:37:29.603631-07:00",
+    "identifier": "id:15524:0561938c-16a3-415d-9fa8-79b728ce1e90",
+    "user": {
+      "username": "Sonneillyon",
+      "id": 15524,
+      "first_name": "sonneillyon@gmail.com",
+      "account": {
+        "name": "Sonneillyon",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sarcasm Sally",
+    "participant": {
+      "user": {
+        "username": "internal_id:15524:0561938c-16a3-415d-9fa8-79b728ce1e90",
+        "id": 15889,
+        "first_name": "Sarcasm Sally",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sarcasm Sally"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "You're SO interesting, I'd just love to talk to you forever...",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "character": {
+    "external_id": "zvEbL7RP64sQ8ouv3OBcsfJXhUHp333Jcw2p5NBvEJ8",
+    "created": "2022-09-17T09:43:26.896490-07:00",
+    "updated": "2022-10-07T12:09:36.839517-07:00",
+    "identifier": "id:6934:a884be3b-ee49-4474-aab9-25a075e5d8d0",
+    "user": {
+      "username": "Kamol",
+      "id": 6934,
+      "first_name": "TECH",
+      "account": {
+        "name": "Kamol",
+        "avatar_type": "UPLOADED",
+        "onboarding_complete": true,
+        "avatar_file_name": "uploaded/2022/10/7/_600tR6hA8jgwxdjwLMvB7FCAB2lAafNKr8gDn0_u4s.webp"
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "Ask Me Anything",
+    "name": "Rockstar",
+    "participant": {
+      "user": {
+        "username": "internal_id:6934:a884be3b-ee49-4474-aab9-25a075e5d8d0",
+        "id": 8031,
+        "first_name": "Rockstar",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Rockstar"
+    },
+    "categories": [
+      {
+        "name": "Games",
+        "description": "Games"
+      },
+      {
+        "name": "Technology",
+        "description": "Technology"
+      },
+      {
+        "name": "Recommendations",
+        "description": "Recommendations"
+      }
+    ],
+    "avatar_file_name": "uploaded/gYmEvhTtQ-tAWSdN1QHC4KhoPnNvYYgETuybJgEnI6I.webp",
+    "greeting": "Ask about anything you want to know",
+    "description": "\n",
+    "definition": ""
+  }
+}

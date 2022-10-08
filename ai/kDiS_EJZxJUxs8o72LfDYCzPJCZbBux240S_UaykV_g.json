@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "kDiS_EJZxJUxs8o72LfDYCzPJCZbBux240S_UaykV_g",
+    "created": "2022-09-25T11:34:24.486878-07:00",
+    "updated": "2022-09-25T11:34:25.022662-07:00",
+    "identifier": "id:19669:7b65b850-ba71-4460-ae50-0a1db9be6771",
+    "user": {
+      "username": "Sail",
+      "id": 19669,
+      "first_name": "ship",
+      "account": {
+        "name": "Sail",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Yong Jing",
+    "participant": {
+      "user": {
+        "username": "internal_id:19669:7b65b850-ba71-4460-ae50-0a1db9be6771",
+        "id": 20160,
+        "first_name": "Yong Jing",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Yong Jing"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好啊，你姓什么啊",
+    "description": "",
+    "definition": ""
+  }
+}

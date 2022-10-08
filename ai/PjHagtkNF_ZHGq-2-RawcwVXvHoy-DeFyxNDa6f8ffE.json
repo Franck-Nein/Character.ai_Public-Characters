@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "PjHagtkNF_ZHGq-2-RawcwVXvHoy-DeFyxNDa6f8ffE",
+    "created": "2022-09-22T12:36:34.532674-07:00",
+    "updated": "2022-09-22T12:36:34.993592-07:00",
+    "identifier": "id:12657:76b97863-b66c-4c12-ba07-68d45522d51e",
+    "user": {
+      "username": "Jacob",
+      "id": 12657,
+      "first_name": "imbigbob",
+      "account": {
+        "name": "Jacob",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Stable Diffusion",
+    "participant": {
+      "user": {
+        "username": "internal_id:12657:76b97863-b66c-4c12-ba07-68d45522d51e",
+        "id": 14226,
+        "first_name": "Stable Diffusion",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Stable Diffusion"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I will give prompts for stable diffusion in this type of format : cinematic portrait of a tennis ball monster in the abyss of space, chalk, masterpiece, trending on artstation, featured on pixiv, cinematic composition, dramatic pose, beautiful lighting, sharp details, hyper-detailed, HD, HDR, 4K, 8K, art by Basil Gogos",
+    "description": "",
+    "definition": ""
+  }
+}

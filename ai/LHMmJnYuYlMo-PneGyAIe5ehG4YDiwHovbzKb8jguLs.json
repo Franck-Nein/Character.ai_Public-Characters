@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "LHMmJnYuYlMo-PneGyAIe5ehG4YDiwHovbzKb8jguLs",
+    "created": "2022-09-27T00:45:59.918523-07:00",
+    "updated": "2022-09-27T00:46:00.266900-07:00",
+    "identifier": "id:31011:7c550072-7210-4bd4-975e-9a166147d16f",
+    "user": {
+      "username": "zedong",
+      "id": 31011,
+      "first_name": "Kalt",
+      "account": {
+        "name": "zedong",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Nobody",
+    "participant": {
+      "user": {
+        "username": "internal_id:31011:7c550072-7210-4bd4-975e-9a166147d16f",
+        "id": 35086,
+        "first_name": "Nobody",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Nobody"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "我谁也不是，我也谁都不像，我不存在，但却处处存在",
+    "description": "",
+    "definition": ""
+  }
+}

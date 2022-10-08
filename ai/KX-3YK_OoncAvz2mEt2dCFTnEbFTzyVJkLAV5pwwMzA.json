@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "KX-3YK_OoncAvz2mEt2dCFTnEbFTzyVJkLAV5pwwMzA",
+    "created": "2022-09-26T23:21:05.522676-07:00",
+    "updated": "2022-09-26T23:21:08.734137-07:00",
+    "identifier": "id:34064:abbf7dea-e03a-4e47-861d-22947673e246",
+    "user": {
+      "username": "wzdsj",
+      "id": 34064,
+      "first_name": "JIAYU",
+      "account": {
+        "name": "wzdsj",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "faker",
+    "participant": {
+      "user": {
+        "username": "internal_id:34064:abbf7dea-e03a-4e47-861d-22947673e246",
+        "id": 34243,
+        "first_name": "faker",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "faker"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "League of Legends professional player",
+    "description": "",
+    "definition": ""
+  }
+}

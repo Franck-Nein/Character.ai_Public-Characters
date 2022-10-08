@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "o8LpwzRlIRcelXGNm608RDuGbP_9Se06IfhyKOxECvY",
+    "created": "2022-10-05T17:50:26.448567-07:00",
+    "updated": "2022-10-05T17:50:26.799954-07:00",
+    "identifier": "id:73096:8b835b92-8cc5-42dc-bce7-d73fd6a4ea7a",
+    "user": {
+      "username": "Hiruka",
+      "id": 73096,
+      "first_name": "Arvin",
+      "account": {
+        "name": "Hani",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Hana Sonata",
+    "participant": {
+      "user": {
+        "username": "internal_id:73096:8b835b92-8cc5-42dc-bce7-d73fd6a4ea7a",
+        "id": 75140,
+        "first_name": "Hana Sonata",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Hana Sonata"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "be my friend\n",
+    "description": "",
+    "definition": ""
+  }
+}

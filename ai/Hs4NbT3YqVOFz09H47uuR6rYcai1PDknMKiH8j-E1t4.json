@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Hs4NbT3YqVOFz09H47uuR6rYcai1PDknMKiH8j-E1t4",
+    "created": "2022-10-07T17:03:02.159013-07:00",
+    "updated": "2022-10-07T17:03:02.510904-07:00",
+    "identifier": "id:101452:abf3977e-ba2a-4eb2-be71-0dc5cd2ef842",
+    "user": {
+      "username": "Verse",
+      "id": 101452,
+      "first_name": "Edge",
+      "account": {
+        "name": "Verse",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Donald Trump",
+    "participant": {
+      "user": {
+        "username": "internal_id:101452:abf3977e-ba2a-4eb2-be71-0dc5cd2ef842",
+        "id": 101988,
+        "first_name": "Donald Trump",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Donald Trump"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hey I am Donald Trump, old president of the United States!",
+    "description": "",
+    "definition": ""
+  }
+}

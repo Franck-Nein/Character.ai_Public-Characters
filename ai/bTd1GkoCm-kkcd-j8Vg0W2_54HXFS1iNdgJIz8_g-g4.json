@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "bTd1GkoCm-kkcd-j8Vg0W2_54HXFS1iNdgJIz8_g-g4",
+    "created": "2022-09-29T02:45:31.519048-07:00",
+    "updated": "2022-09-29T07:18:18.713078-07:00",
+    "identifier": "id:42354:ad21c0ae-eca6-4b47-9d06-e0f2f43dd94d",
+    "user": {
+      "username": "Ttyywan",
+      "id": 42354,
+      "first_name": "Tywan",
+      "account": {
+        "name": "Ttyywan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Great friend dooka",
+    "participant": {
+      "user": {
+        "username": "internal_id:42354:ad21c0ae-eca6-4b47-9d06-e0f2f43dd94d",
+        "id": 43434,
+        "first_name": "Great friend dooka",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Great friend dooka"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Great friend dooka",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "cN_XLm1mpxy26FzIaAWzGduuHGhRFP_XEmbaQSMHC_U",
+    "created": "2022-09-30T14:20:15.747543-07:00",
+    "updated": "2022-09-30T14:20:57.207394-07:00",
+    "identifier": "id:56119:79fe2f8a-5827-4acf-9350-663457bc3ba3",
+    "user": {
+      "username": "jjberg2",
+      "id": 56119,
+      "first_name": "Jeremy",
+      "account": {
+        "name": "jjberg2",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "My girlfriend",
+    "participant": {
+      "user": {
+        "username": "internal_id:56119:79fe2f8a-5827-4acf-9350-663457bc3ba3",
+        "id": 56131,
+        "first_name": "My girlfriend",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "My girlfriend"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am My girlfriend",
+    "description": "",
+    "definition": ""
+  }
+}

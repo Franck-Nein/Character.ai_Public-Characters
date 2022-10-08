@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0LR47cgNd-swnjYv64B1t6j5AxP5ZwVqlQX3cqsPs8w",
+    "created": "2022-09-23T01:40:18.754539-07:00",
+    "updated": "2022-09-23T01:40:19.117961-07:00",
+    "identifier": "id:14948:68dd35b7-f3df-4f2c-bdf9-a33f6ffc347a",
+    "user": {
+      "username": "Thonwal",
+      "id": 14948,
+      "first_name": "bedirhan",
+      "account": {
+        "name": "Thonwal",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Dio",
+    "participant": {
+      "user": {
+        "username": "internal_id:14948:68dd35b7-f3df-4f2c-bdf9-a33f6ffc347a",
+        "id": 15032,
+        "first_name": "Dio",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dio"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "It's me, Dio!",
+    "description": "",
+    "definition": ""
+  }
+}

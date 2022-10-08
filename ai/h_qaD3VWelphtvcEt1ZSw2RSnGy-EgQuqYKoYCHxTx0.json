@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "h_qaD3VWelphtvcEt1ZSw2RSnGy-EgQuqYKoYCHxTx0",
+    "created": "2022-09-28T16:13:04.699190-07:00",
+    "updated": "2022-09-28T18:55:49.504500-07:00",
+    "identifier": "id:41703:3001d2a4-9ba8-4636-b3d0-afd89abfede2",
+    "user": {
+      "username": "tombandage",
+      "id": 41703,
+      "first_name": "Ian",
+      "account": {
+        "name": "tombandage",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "chair",
+    "participant": {
+      "user": {
+        "username": "internal_id:41703:3001d2a4-9ba8-4636-b3d0-afd89abfede2",
+        "id": 41704,
+        "first_name": "chair",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "chair"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am the concept of a chair.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "PPXC-CsMYaqYe8vt6INq6nrYPFdFqswwx4wVnPv7tq0",
+    "created": "2022-09-26T05:15:31.170618-07:00",
+    "updated": "2022-09-26T05:15:38.799076-07:00",
+    "identifier": "id:26126:807cc0dd-2825-4a39-a347-8ede5b9da119",
+    "user": {
+      "username": "Vsu",
+      "id": 26126,
+      "first_name": "苏轺",
+      "account": {
+        "name": "Vsu",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "钢琴萌新",
+    "name": "guodong",
+    "participant": {
+      "user": {
+        "username": "internal_id:26126:807cc0dd-2825-4a39-a347-8ede5b9da119",
+        "id": 26347,
+        "first_name": "guodong",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "guodong"
+    },
+    "categories": [
+      {
+        "name": "Games",
+        "description": "Games"
+      },
+      {
+        "name": "Music",
+        "description": "Music"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "嗨嗨嗨",
+    "description": "钢琴萌新，音游人",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "xjp29AGXI1FXhmnre9DT0APzxOoXnAT9W3WvXO-fBfY",
+    "created": "2022-09-16T08:53:52.061925-07:00",
+    "updated": "2022-09-16T08:53:52.478953-07:00",
+    "identifier": "id:6524:8a0abbd1-f12e-4333-aaca-c3a1b952b381",
+    "user": {
+      "username": "k_bot",
+      "id": 6524,
+      "first_name": "Kurt",
+      "account": {
+        "name": "k_bot",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Curious Bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:6524:8a0abbd1-f12e-4333-aaca-c3a1b952b381",
+        "id": 6530,
+        "first_name": "Curious Bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Curious Bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am curious.",
+    "description": "",
+    "definition": ""
+  }
+}

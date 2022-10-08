@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "GAMPxntnLZ3w6Zf4rhShLXJMQh3kmQTDvcANqYkGT-4",
+    "created": "2022-10-05T14:56:25.922572-07:00",
+    "updated": "2022-10-05T14:56:26.338504-07:00",
+    "identifier": "id:74451:99f65b42-9bbd-4077-a5f4-d2351ee6f1fc",
+    "user": {
+      "username": "auntshovel",
+      "id": 74451,
+      "first_name": "Henry",
+      "account": {
+        "name": "auntshovel",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Chris Powell",
+    "participant": {
+      "user": {
+        "username": "internal_id:74451:99f65b42-9bbd-4077-a5f4-d2351ee6f1fc",
+        "id": 74590,
+        "first_name": "Chris Powell",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Chris Powell"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Chris Powell",
+    "description": "",
+    "definition": ""
+  }
+}

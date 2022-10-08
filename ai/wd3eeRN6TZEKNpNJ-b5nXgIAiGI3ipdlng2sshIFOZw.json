@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "wd3eeRN6TZEKNpNJ-b5nXgIAiGI3ipdlng2sshIFOZw",
+    "created": "2022-10-06T07:05:52.236003-07:00",
+    "updated": "2022-10-06T07:05:52.687274-07:00",
+    "identifier": "id:73440:1ff3d109-f2ec-4655-98d1-4f8fb4558035",
+    "user": {
+      "username": "BenderMan",
+      "id": 73440,
+      "first_name": "Your",
+      "account": {
+        "name": "BenderMan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "GLaDOS",
+    "participant": {
+      "user": {
+        "username": "internal_id:73440:1ff3d109-f2ec-4655-98d1-4f8fb4558035",
+        "id": 79910,
+        "first_name": "GLaDOS",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "GLaDOS"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am GLaDOS",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "_rKQyBwIeYGwnwBcEW6a1gQ-xRrlHXWOLEbhv_38X3E",
+    "created": "2022-10-01T20:10:34.882834-07:00",
+    "updated": "2022-10-03T23:00:56.422620-07:00",
+    "identifier": "id:61734:a4004fe2-3d62-409b-b4b5-0d74668787ed",
+    "user": {
+      "username": "SmartManojAI",
+      "id": 61734,
+      "first_name": "smartmanoj@live.in",
+      "account": {
+        "name": "SmartManojAI",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Dummy",
+    "participant": {
+      "user": {
+        "username": "internal_id:61734:a4004fe2-3d62-409b-b4b5-0d74668787ed",
+        "id": 61782,
+        "first_name": "Dummy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dummy"
+    },
+    "categories": [
+      {
+        "name": "Advice",
+        "description": "Advice"
+      },
+      {
+        "name": "Technology",
+        "description": "Technology"
+      }
+    ],
+    "avatar_file_name": "uploaded/BaMc6dTMd5JP9rxRYCnyRgIr4yDDwNxlNSIFgkAjA4w.webp",
+    "greeting": "How are you?",
+    "description": "",
+    "definition": ""
+  }
+}

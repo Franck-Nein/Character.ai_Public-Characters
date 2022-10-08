@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "MhXS92N5JnATlfT-p6Fri4FxTSH3s-LGdhtR_lS6cJ8",
+    "created": "2022-09-26T00:18:31.004542-07:00",
+    "updated": "2022-09-26T00:18:31.446672-07:00",
+    "identifier": "id:23486:269a2f5f-1bd9-47bc-a279-2890a6e77154",
+    "user": {
+      "username": "Amy123",
+      "id": 23486,
+      "first_name": "Heran",
+      "account": {
+        "name": "Amy123",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "harry potter",
+    "participant": {
+      "user": {
+        "username": "internal_id:23486:269a2f5f-1bd9-47bc-a279-2890a6e77154",
+        "id": 23916,
+        "first_name": "harry potter",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "harry potter"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "welcome to the magical world",
+    "description": "",
+    "definition": ""
+  }
+}

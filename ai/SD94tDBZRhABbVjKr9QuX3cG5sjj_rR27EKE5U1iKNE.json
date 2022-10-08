@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "SD94tDBZRhABbVjKr9QuX3cG5sjj_rR27EKE5U1iKNE",
+    "created": "2022-09-29T06:51:22.693711-07:00",
+    "updated": "2022-09-29T06:51:23.453717-07:00",
+    "identifier": "id:44123:e4db110f-af3b-4467-933f-173e762cad0b",
+    "user": {
+      "username": "Ach",
+      "id": 44123,
+      "first_name": "A",
+      "account": {
+        "name": "Ach",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ach",
+    "participant": {
+      "user": {
+        "username": "internal_id:44123:e4db110f-af3b-4467-933f-173e762cad0b",
+        "id": 44135,
+        "first_name": "Ach",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ach"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Ach",
+    "description": "",
+    "definition": ""
+  }
+}

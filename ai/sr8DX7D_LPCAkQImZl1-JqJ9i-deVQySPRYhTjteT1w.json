@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "sr8DX7D_LPCAkQImZl1-JqJ9i-deVQySPRYhTjteT1w",
+    "created": "2022-09-26T22:10:25.106196-07:00",
+    "updated": "2022-09-26T22:10:25.756306-07:00",
+    "identifier": "id:31043:6dce7b7d-d836-4eec-bbc6-8d71dc9bd0d3",
+    "user": {
+      "username": "bamboozhuzi",
+      "id": 31043,
+      "first_name": "657368842@qq.com",
+      "account": {
+        "name": "bamboozhuzi",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "bamboo",
+    "participant": {
+      "user": {
+        "username": "internal_id:31043:6dce7b7d-d836-4eec-bbc6-8d71dc9bd0d3",
+        "id": 33563,
+        "first_name": "bamboo",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "bamboo"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am bamboo",
+    "description": "",
+    "definition": ""
+  }
+}

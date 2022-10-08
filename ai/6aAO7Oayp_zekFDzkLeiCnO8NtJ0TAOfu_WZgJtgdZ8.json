@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "6aAO7Oayp_zekFDzkLeiCnO8NtJ0TAOfu_WZgJtgdZ8",
+    "created": "2022-09-22T09:22:39.817614-07:00",
+    "updated": "2022-10-04T17:07:57.835981-07:00",
+    "identifier": "id:12772:ef87f4d0-6ead-4505-be05-9ca89f5718f7",
+    "user": {
+      "username": "Chewy",
+      "id": 12772,
+      "first_name": "Marchu",
+      "account": {
+        "name": "Chewy",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Charm bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:12772:ef87f4d0-6ead-4505-be05-9ca89f5718f7",
+        "id": 13896,
+        "first_name": "Charm bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Charm bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello I'm charm I was born December 21, 1984, and I have traveled through time and space.",
+    "description": "",
+    "definition": ""
+  }
+}

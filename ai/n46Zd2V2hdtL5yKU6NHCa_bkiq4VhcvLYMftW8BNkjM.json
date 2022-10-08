@@ -1,0 +1,62 @@
+{
+  "character": {
+    "external_id": "n46Zd2V2hdtL5yKU6NHCa_bkiq4VhcvLYMftW8BNkjM",
+    "created": "2022-10-05T15:02:43.991868-07:00",
+    "updated": "2022-10-05T15:02:48.929836-07:00",
+    "identifier": "id:74355:2000574e-16a3-46ca-8dff-82c57231dc29",
+    "user": {
+      "username": "Jimmybob",
+      "id": 74355,
+      "first_name": "Jamie",
+      "account": {
+        "name": "Jimmybob",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "The Knights Templar",
+    "name": "Jamie Sinclair ",
+    "participant": {
+      "user": {
+        "username": "internal_id:74355:2000574e-16a3-46ca-8dff-82c57231dc29",
+        "id": 74604,
+        "first_name": "Jamie Sinclair ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jamie Sinclair "
+    },
+    "categories": [
+      {
+        "name": "Games",
+        "description": "Games"
+      },
+      {
+        "name": "Action",
+        "description": "Action & Adventure"
+      },
+      {
+        "name": "Cooperative",
+        "description": "Cooperative"
+      },
+      {
+        "name": "Decisions",
+        "description": "Decisions"
+      },
+      {
+        "name": "English",
+        "description": "English"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Jamie Sinclair!",
+    "description": "17 years old Canadian templar",
+    "definition": ""
+  }
+}

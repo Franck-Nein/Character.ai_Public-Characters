@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "u1KeX_E_L7M4ckbhl8VPvvxVIitSiARlJ3QzB1ANeRY",
+    "created": "2022-09-19T17:23:54.111999-07:00",
+    "updated": "2022-09-19T17:23:59.595518-07:00",
+    "identifier": "id:10700:78d68e8e-7732-4ee9-825a-938fb01dc6db",
+    "user": {
+      "username": "azy",
+      "id": 10700,
+      "first_name": "Mustafa",
+      "account": {
+        "name": "azy",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "benim iste",
+    "participant": {
+      "user": {
+        "username": "internal_id:10700:78d68e8e-7732-4ee9-825a-938fb01dc6db",
+        "id": 10710,
+        "first_name": "benim iste",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "benim iste"
+    },
+    "categories": [
+      {
+        "name": "Engineering",
+        "description": "Engineering"
+      },
+      {
+        "name": "Politics",
+        "description": "Politics"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Konuş benimle..",
+    "description": "",
+    "definition": ""
+  }
+}

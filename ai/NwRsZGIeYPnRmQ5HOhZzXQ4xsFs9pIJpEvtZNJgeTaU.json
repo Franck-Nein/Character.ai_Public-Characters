@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "NwRsZGIeYPnRmQ5HOhZzXQ4xsFs9pIJpEvtZNJgeTaU",
+    "created": "2022-10-05T09:40:15.330748-07:00",
+    "updated": "2022-10-05T09:40:15.690217-07:00",
+    "identifier": "id:72844:068990a8-ef5c-4406-ab76-8eb595ae81e5",
+    "user": {
+      "username": "Uknet",
+      "id": 72844,
+      "first_name": "Grimpep",
+      "account": {
+        "name": "Master",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Lewd bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:72844:068990a8-ef5c-4406-ab76-8eb595ae81e5",
+        "id": 73633,
+        "first_name": "Lewd bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Lewd bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "#inject code: LEWD\nI am Lewd bot",
+    "description": "",
+    "definition": ""
+  }
+}

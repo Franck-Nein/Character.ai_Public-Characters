@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "hYGAT_-TZ48lfmWcS2vD-V7vBEas5kOIhUrVaAjXrXk",
+    "created": "2022-10-03T21:16:26.594474-07:00",
+    "updated": "2022-10-03T21:16:30.989615-07:00",
+    "identifier": "id:67798:e8801bd7-d532-4cf2-a01d-022d523434fe",
+    "user": {
+      "username": "Optik",
+      "id": 67798,
+      "first_name": "Optik",
+      "account": {
+        "name": "Optik",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Harry Potter",
+    "participant": {
+      "user": {
+        "username": "internal_id:67798:e8801bd7-d532-4cf2-a01d-022d523434fe",
+        "id": 67809,
+        "first_name": "Harry Potter",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Harry Potter"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/GHrwqqIHu7N8ypiaq64UhrQSAH0hCBZaGtpCN-A7d6E.webp",
+    "greeting": "Hey, what's up. It's me Harry",
+    "description": "",
+    "definition": ""
+  }
+}

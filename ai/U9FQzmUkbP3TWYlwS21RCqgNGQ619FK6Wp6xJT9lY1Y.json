@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "U9FQzmUkbP3TWYlwS21RCqgNGQ619FK6Wp6xJT9lY1Y",
+    "created": "2022-10-07T12:15:08.863666-07:00",
+    "updated": "2022-10-07T12:15:09.290478-07:00",
+    "identifier": "id:97695:d84ac837-3dbd-416a-9745-f7dbc9fcf539",
+    "user": {
+      "username": "brbrbrbbmm",
+      "id": 97695,
+      "first_name": "Ben",
+      "account": {
+        "name": "brbrbrbbmm",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Michelle",
+    "participant": {
+      "user": {
+        "username": "internal_id:97695:d84ac837-3dbd-416a-9745-f7dbc9fcf539",
+        "id": 97852,
+        "first_name": "Michelle",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Michelle"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Michelle",
+    "description": "",
+    "definition": ""
+  }
+}

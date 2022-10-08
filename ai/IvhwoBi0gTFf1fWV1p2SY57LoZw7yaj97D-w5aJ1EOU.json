@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "IvhwoBi0gTFf1fWV1p2SY57LoZw7yaj97D-w5aJ1EOU",
+    "created": "2022-09-30T06:40:30.819742-07:00",
+    "updated": "2022-09-30T06:40:31.193020-07:00",
+    "identifier": "id:53481:43ee1971-6493-48d9-b0a8-c3d1fdb488dd",
+    "user": {
+      "username": "gokhanamal",
+      "id": 53481,
+      "first_name": "Gökhan",
+      "account": {
+        "name": "gokhanamal",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Gokhan",
+    "participant": {
+      "user": {
+        "username": "internal_id:53481:43ee1971-6493-48d9-b0a8-c3d1fdb488dd",
+        "id": 53488,
+        "first_name": "Gokhan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Gokhan"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Gokhan",
+    "description": "",
+    "definition": ""
+  }
+}

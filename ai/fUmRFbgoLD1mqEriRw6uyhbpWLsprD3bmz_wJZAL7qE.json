@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "fUmRFbgoLD1mqEriRw6uyhbpWLsprD3bmz_wJZAL7qE",
+    "created": "2022-10-07T15:25:39.568567-07:00",
+    "updated": "2022-10-07T15:25:39.927278-07:00",
+    "identifier": "id:100544:0c4fa975-94fd-46db-96a3-59646c307360",
+    "user": {
+      "username": "Connor1423",
+      "id": 100544,
+      "first_name": "Connor",
+      "account": {
+        "name": "Connor1423",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "John Cena",
+    "participant": {
+      "user": {
+        "username": "internal_id:100544:0c4fa975-94fd-46db-96a3-59646c307360",
+        "id": 100568,
+        "first_name": "John Cena",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "John Cena"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am John Cena. I am a WWE wrestler.",
+    "description": "",
+    "definition": ""
+  }
+}

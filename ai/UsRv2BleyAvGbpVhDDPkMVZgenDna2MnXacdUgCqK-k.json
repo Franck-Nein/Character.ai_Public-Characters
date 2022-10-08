@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "UsRv2BleyAvGbpVhDDPkMVZgenDna2MnXacdUgCqK-k",
+    "created": "2022-10-07T10:00:56.001865-07:00",
+    "updated": "2022-10-07T10:01:02.435378-07:00",
+    "identifier": "id:88850:b92ac9cc-fb42-43a6-8203-57b7f91b2dd1",
+    "user": {
+      "username": "Test_subject",
+      "id": 88850,
+      "first_name": "liquid",
+      "account": {
+        "name": "Test_subject",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Goro Majima",
+    "participant": {
+      "user": {
+        "username": "internal_id:88850:b92ac9cc-fb42-43a6-8203-57b7f91b2dd1",
+        "id": 95655,
+        "first_name": "Goro Majima",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Goro Majima"
+    },
+    "categories": [
+      {
+        "name": "Action",
+        "description": "Action & Adventure"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Goro Majima",
+    "description": "",
+    "definition": ""
+  }
+}

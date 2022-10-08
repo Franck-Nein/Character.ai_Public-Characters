@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "1k98p6YKijScZgwDQ5cQXtn6xFv0CL1VTrxZnltn-cQ",
+    "created": "2022-10-01T18:14:37.492017-07:00",
+    "updated": "2022-10-01T18:14:37.927800-07:00",
+    "identifier": "id:61198:9350a201-d0f4-4f95-849c-7254e468e95d",
+    "user": {
+      "username": "fiatlux",
+      "id": 61198,
+      "first_name": "Eamonn",
+      "account": {
+        "name": "fiatlux",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Douglas Macaurthur",
+    "participant": {
+      "user": {
+        "username": "internal_id:61198:9350a201-d0f4-4f95-849c-7254e468e95d",
+        "id": 61522,
+        "first_name": "Douglas Macaurthur",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Douglas Macaurthur"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Douglas Macaurthur",
+    "description": "",
+    "definition": ""
+  }
+}

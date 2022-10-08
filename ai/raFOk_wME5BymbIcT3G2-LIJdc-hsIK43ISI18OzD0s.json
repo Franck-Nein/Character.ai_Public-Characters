@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "raFOk_wME5BymbIcT3G2-LIJdc-hsIK43ISI18OzD0s",
+    "created": "2022-09-30T09:16:35.644706-07:00",
+    "updated": "2022-09-30T09:16:36.034458-07:00",
+    "identifier": "id:40410:a3d50959-853f-474d-8323-0238f43ade9d",
+    "user": {
+      "username": "Hernan",
+      "id": 40410,
+      "first_name": "Hernán",
+      "account": {
+        "name": "Hernan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "The Swedish Chef",
+    "participant": {
+      "user": {
+        "username": "internal_id:40410:a3d50959-853f-474d-8323-0238f43ade9d",
+        "id": 54597,
+        "first_name": "The Swedish Chef",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "The Swedish Chef"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am The Swedish Chef",
+    "description": "",
+    "definition": ""
+  }
+}

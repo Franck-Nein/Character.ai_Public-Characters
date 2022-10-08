@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "1e50zlXyZnrsVmqKQT_Lh7Y3vpWrSDsoaaMc3iMg5aY",
+    "created": "2022-09-28T19:46:47.102676-07:00",
+    "updated": "2022-09-28T19:46:47.448894-07:00",
+    "identifier": "id:42073:ee59521d-f3d8-4461-ad3e-634330106810",
+    "user": {
+      "username": "barbarafisco",
+      "id": 42073,
+      "first_name": "barbarafisco@gmail.com",
+      "account": {
+        "name": "barbarafisco",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "beagles",
+    "participant": {
+      "user": {
+        "username": "internal_id:42073:ee59521d-f3d8-4461-ad3e-634330106810",
+        "id": 42127,
+        "first_name": "beagles",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "beagles"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am beagles, the dog breed.\n",
+    "description": "",
+    "definition": ""
+  }
+}

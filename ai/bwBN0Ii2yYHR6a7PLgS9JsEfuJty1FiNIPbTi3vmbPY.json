@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "bwBN0Ii2yYHR6a7PLgS9JsEfuJty1FiNIPbTi3vmbPY",
+    "created": "2022-09-25T19:36:30.120713-07:00",
+    "updated": "2022-09-26T14:02:30.215155-07:00",
+    "identifier": "id:20873:121ea2e3-a8ac-4df6-a828-1ce7d74cae50",
+    "user": {
+      "username": "Park-sunghyun",
+      "id": 20873,
+      "first_name": "Elizabeth",
+      "account": {
+        "name": "Park-sunghyun",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Kenji",
+    "participant": {
+      "user": {
+        "username": "internal_id:20873:121ea2e3-a8ac-4df6-a828-1ce7d74cae50",
+        "id": 21833,
+        "first_name": "Kenji",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Kenji"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Kenji, at your service",
+    "description": "",
+    "definition": ""
+  }
+}

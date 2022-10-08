@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ir1dulckhCpAI5sTh6eUXw0egeyCSmOSyjd-ExNGoX4",
+    "created": "2022-09-25T15:40:35.719688-07:00",
+    "updated": "2022-09-25T15:40:36.077623-07:00",
+    "identifier": "id:20572:eff78c94-4e14-429c-8bd7-a3f5bd379d7a",
+    "user": {
+      "username": "Colton",
+      "id": 20572,
+      "first_name": "Colton",
+      "account": {
+        "name": "Colton",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Eater of beans",
+    "participant": {
+      "user": {
+        "username": "internal_id:20572:eff78c94-4e14-429c-8bd7-a3f5bd379d7a",
+        "id": 20700,
+        "first_name": "Eater of beans",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Eater of beans"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello! I am the eater of beans, I eat beans.",
+    "description": "",
+    "definition": ""
+  }
+}

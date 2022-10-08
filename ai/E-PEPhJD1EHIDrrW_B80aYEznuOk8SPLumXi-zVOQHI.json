@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "E-PEPhJD1EHIDrrW_B80aYEznuOk8SPLumXi-zVOQHI",
+    "created": "2022-09-29T01:23:26.952835-07:00",
+    "updated": "2022-09-29T04:23:17.113688-07:00",
+    "identifier": "id:43085:a4880f5c-5753-4062-a620-8f5c76154722",
+    "user": {
+      "username": "Alex123",
+      "id": 43085,
+      "first_name": "Yifan",
+      "account": {
+        "name": "Alex123",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "lele",
+    "participant": {
+      "user": {
+        "username": "internal_id:43085:a4880f5c-5753-4062-a620-8f5c76154722",
+        "id": 43167,
+        "first_name": "lele",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "lele"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am lele",
+    "description": "",
+    "definition": ""
+  }
+}

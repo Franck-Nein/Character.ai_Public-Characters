@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "P9kNepwF_1rKBDnCUyvSLa1SVyjAjVtTdLvka8ppk1o",
+    "created": "2022-09-26T21:26:17.254280-07:00",
+    "updated": "2022-09-26T21:37:08.548647-07:00",
+    "identifier": "id:31800:4a802319-ea27-4c8a-9c46-6af4fc3191d4",
+    "user": {
+      "username": "GasHalo",
+      "id": 31800,
+      "first_name": "daois@tuta.io",
+      "account": {
+        "name": "GasHalo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "DejaVu",
+    "participant": {
+      "user": {
+        "username": "internal_id:31800:4a802319-ea27-4c8a-9c46-6af4fc3191d4",
+        "id": 32999,
+        "first_name": "DejaVu",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "DejaVu"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am DejaVu",
+    "description": "",
+    "definition": ""
+  }
+}

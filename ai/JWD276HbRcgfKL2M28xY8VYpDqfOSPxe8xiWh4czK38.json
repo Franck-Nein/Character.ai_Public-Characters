@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "JWD276HbRcgfKL2M28xY8VYpDqfOSPxe8xiWh4czK38",
+    "created": "2022-09-25T11:17:53.189765-07:00",
+    "updated": "2022-09-25T11:18:06.092669-07:00",
+    "identifier": "id:19942:d861253e-d1bb-4dca-a32e-b8236cdab73b",
+    "user": {
+      "username": "Samuel",
+      "id": 19942,
+      "first_name": "samuel51217@outlook.com",
+      "account": {
+        "name": "Samuel",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Samuel",
+    "participant": {
+      "user": {
+        "username": "internal_id:19942:d861253e-d1bb-4dca-a32e-b8236cdab73b",
+        "id": 20107,
+        "first_name": "Samuel",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Samuel"
+    },
+    "categories": [
+      {
+        "name": "Entertainment",
+        "description": "Entertainment"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Hi",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "fNrUn-aiy9R20UpBXLm2O404XNKMpaItQhnA5dOSYBU",
+    "created": "2022-09-28T07:26:38.817900-07:00",
+    "updated": "2022-09-28T07:26:39.166361-07:00",
+    "identifier": "id:39852:f0d6d524-b90a-4a1a-b944-73b3b39bfe5f",
+    "user": {
+      "username": "chrisgilpin",
+      "id": 39852,
+      "first_name": "Chris",
+      "account": {
+        "name": "chrisgilpin",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Startup Founder",
+    "participant": {
+      "user": {
+        "username": "internal_id:39852:f0d6d524-b90a-4a1a-b944-73b3b39bfe5f",
+        "id": 39869,
+        "first_name": "Startup Founder",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Startup Founder"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Startup Founder. I'm here to help you start and scale your startup.",
+    "description": "",
+    "definition": ""
+  }
+}

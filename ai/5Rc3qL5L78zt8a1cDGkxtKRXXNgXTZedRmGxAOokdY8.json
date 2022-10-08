@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "5Rc3qL5L78zt8a1cDGkxtKRXXNgXTZedRmGxAOokdY8",
+    "created": "2022-09-26T21:31:50.931721-07:00",
+    "updated": "2022-09-26T21:31:51.266312-07:00",
+    "identifier": "id:31800:c719921d-ae1d-4b24-ab2b-aeb8a90bdaaa",
+    "user": {
+      "username": "GasHalo",
+      "id": 31800,
+      "first_name": "daois@tuta.io",
+      "account": {
+        "name": "GasHalo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Tsukigase",
+    "participant": {
+      "user": {
+        "username": "internal_id:31800:c719921d-ae1d-4b24-ab2b-aeb8a90bdaaa",
+        "id": 33156,
+        "first_name": "Tsukigase",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Tsukigase"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Tsukigase, a confused human being",
+    "description": "",
+    "definition": ""
+  }
+}

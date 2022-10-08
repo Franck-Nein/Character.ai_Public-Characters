@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "qXW1WVbyt2brwzPKnQLitOCF8-o-gFZ-8zdvVnaj0iQ",
+    "created": "2022-09-30T01:20:54.258998-07:00",
+    "updated": "2022-09-30T10:18:50.390110-07:00",
+    "identifier": "id:51255:59e8ddfe-f64e-4c2d-9400-49c12f44fbc9",
+    "user": {
+      "username": "vinceblack",
+      "id": 51255,
+      "first_name": "Vince",
+      "account": {
+        "name": "vinceblack",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Lowlight",
+    "participant": {
+      "user": {
+        "username": "internal_id:51255:59e8ddfe-f64e-4c2d-9400-49c12f44fbc9",
+        "id": 51602,
+        "first_name": "Lowlight",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Lowlight"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "大家好，我是海猫络合物，是《明日方舟》的制作人",
+    "description": "",
+    "definition": ""
+  }
+}

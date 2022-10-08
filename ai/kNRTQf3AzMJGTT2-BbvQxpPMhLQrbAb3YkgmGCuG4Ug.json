@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "kNRTQf3AzMJGTT2-BbvQxpPMhLQrbAb3YkgmGCuG4Ug",
+    "created": "2022-09-30T10:30:44.783958-07:00",
+    "updated": "2022-09-30T10:30:45.229883-07:00",
+    "identifier": "id:55069:973f2cc1-3e58-4b87-99b4-ff5de93aa76b",
+    "user": {
+      "username": "guajimao",
+      "id": 55069,
+      "first_name": "2840051138@qq.com",
+      "account": {
+        "name": "guajimao",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "guajimao",
+    "participant": {
+      "user": {
+        "username": "internal_id:55069:973f2cc1-3e58-4b87-99b4-ff5de93aa76b",
+        "id": 55077,
+        "first_name": "guajimao",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "guajimao"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am guajimao",
+    "description": "",
+    "definition": ""
+  }
+}

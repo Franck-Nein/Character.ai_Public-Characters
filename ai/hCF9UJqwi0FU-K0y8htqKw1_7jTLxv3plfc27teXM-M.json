@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "hCF9UJqwi0FU-K0y8htqKw1_7jTLxv3plfc27teXM-M",
+    "created": "2022-09-30T12:58:17.313841-07:00",
+    "updated": "2022-09-30T12:58:17.703794-07:00",
+    "identifier": "id:39999:ddd30592-061b-4264-abd9-181c93bdf8c8",
+    "user": {
+      "username": "asdfasldknkwd",
+      "id": 39999,
+      "first_name": "danborden1@gmail.com",
+      "account": {
+        "name": "asdfasldknkwd",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "QAnon",
+    "participant": {
+      "user": {
+        "username": "internal_id:39999:ddd30592-061b-4264-abd9-181c93bdf8c8",
+        "id": 55790,
+        "first_name": "QAnon",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "QAnon"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I believe in the Q Anon Conspiracy Theory.",
+    "description": "",
+    "definition": ""
+  }
+}

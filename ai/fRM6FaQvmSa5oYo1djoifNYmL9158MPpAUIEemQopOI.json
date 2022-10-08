@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "fRM6FaQvmSa5oYo1djoifNYmL9158MPpAUIEemQopOI",
+    "created": "2022-10-02T04:02:00.072115-07:00",
+    "updated": "2022-10-02T04:02:00.521594-07:00",
+    "identifier": "id:62816:c327bde3-0cd4-47c7-a246-4aed8214b337",
+    "user": {
+      "username": "Mark_Moran",
+      "id": 62816,
+      "first_name": "Mark",
+      "account": {
+        "name": "Mark_Moran",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Current Me",
+    "participant": {
+      "user": {
+        "username": "internal_id:62816:c327bde3-0cd4-47c7-a246-4aed8214b337",
+        "id": 62819,
+        "first_name": "Current Me",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Current Me"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Current Me",
+    "description": "",
+    "definition": ""
+  }
+}

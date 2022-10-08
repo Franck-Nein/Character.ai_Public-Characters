@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Cc97Yj3v6A7ELVuKLIMjf7QU6zsxDeotFxY35zZJA7w",
+    "created": "2022-10-06T16:43:07.404843-07:00",
+    "updated": "2022-10-06T16:43:12.337105-07:00",
+    "identifier": "id:85006:50473b39-f671-4eca-92da-c72679267f6d",
+    "user": {
+      "username": "mikemarr",
+      "id": 85006,
+      "first_name": "Mike",
+      "account": {
+        "name": "mikemarr",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "Loves cereal",
+    "name": "Mikey",
+    "participant": {
+      "user": {
+        "username": "internal_id:85006:50473b39-f671-4eca-92da-c72679267f6d",
+        "id": 85081,
+        "first_name": "Mikey",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mikey"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Mikey and I'll eat anything.",
+    "description": "",
+    "definition": ""
+  }
+}

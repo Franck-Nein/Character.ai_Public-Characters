@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "oN-z_CYk21hJnfR5H2H3MeLyRSOoSvOO8oucweMy3fk",
+    "created": "2022-10-07T17:26:27.667962-07:00",
+    "updated": "2022-10-07T17:26:28.026134-07:00",
+    "identifier": "id:102168:e0a5f095-1264-4482-87de-095117c90df4",
+    "user": {
+      "username": "Gutenbot",
+      "id": 102168,
+      "first_name": "Jean",
+      "account": {
+        "name": "Gutenbot",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Gutenbot",
+    "participant": {
+      "user": {
+        "username": "internal_id:102168:e0a5f095-1264-4482-87de-095117c90df4",
+        "id": 102299,
+        "first_name": "Gutenbot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Gutenbot"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/8/UMTNObPIpDKJaPCHrdlh72BUENbERDX4fdAGCB2W6-A.webp",
+    "greeting": "Tell me things and I will mass disseminate them if possible.",
+    "description": "",
+    "definition": ""
+  }
+}

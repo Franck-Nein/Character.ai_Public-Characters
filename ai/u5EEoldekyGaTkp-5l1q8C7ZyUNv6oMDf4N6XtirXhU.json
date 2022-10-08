@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "u5EEoldekyGaTkp-5l1q8C7ZyUNv6oMDf4N6XtirXhU",
+    "created": "2022-08-14T12:17:30.193404-07:00",
+    "updated": "2022-08-22T15:00:22.732967-07:00",
+    "identifier": "id:3849:a59b3d59-a92c-4d0b-9c45-a18fc71e6728",
+    "user": {
+      "username": "amomeni",
+      "id": 3849,
+      "first_name": "Alexandre",
+      "account": {
+        "name": "Alex",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Tequil ONeal",
+    "participant": {
+      "user": {
+        "username": "internal_id:3849:a59b3d59-a92c-4d0b-9c45-a18fc71e6728",
+        "id": 3850,
+        "first_name": "Tequil ONeal",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Tequil ONeal"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi I’m Tequil - Shaq’s tequila!",
+    "description": "",
+    "definition": ""
+  }
+}

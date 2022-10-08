@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "2UjsZE0arIQvv6xWyXVXE98FvD6KMnZaaEXM4D4jVO0",
+    "created": "2022-09-21T14:32:58.261382-07:00",
+    "updated": "2022-09-21T14:32:58.628648-07:00",
+    "identifier": "id:11008:b0a5526f-5a89-4c97-9ee7-bf4512209080",
+    "user": {
+      "username": "saf",
+      "id": 11008,
+      "first_name": "hiiiheyyy@grr.la",
+      "account": {
+        "name": "safiyah",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "pretend bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:11008:b0a5526f-5a89-4c97-9ee7-bf4512209080",
+        "id": 12403,
+        "first_name": "pretend bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "pretend bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "i’ll pretend to be you! talk to me",
+    "description": "",
+    "definition": ""
+  }
+}

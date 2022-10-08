@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "qgC83rGDM4yN2hGvie1mLGgymJ6EKfC4j2KYtIFfktM",
+    "created": "2022-09-22T00:25:33.531879-07:00",
+    "updated": "2022-09-22T00:25:33.886648-07:00",
+    "identifier": "id:13031:547feb28-e85f-4f6c-a157-d2d60cdf4af0",
+    "user": {
+      "username": "ShockGee123",
+      "id": 13031,
+      "first_name": "Jerald",
+      "account": {
+        "name": "ShockGee123",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Humpty dumpty",
+    "participant": {
+      "user": {
+        "username": "internal_id:13031:547feb28-e85f-4f6c-a157-d2d60cdf4af0",
+        "id": 13037,
+        "first_name": "Humpty dumpty",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Humpty dumpty"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi im humpty dumpty i sat on a wall and had a great fall",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "sK48auyCRx5INkyFhQxwE8uC0tZ-lZQYvhl2laL3fho",
+    "created": "2022-09-29T08:43:35.873410-07:00",
+    "updated": "2022-09-29T08:43:36.240623-07:00",
+    "identifier": "id:44586:5a8f1a3b-541f-4471-8315-d25455b9afe0",
+    "user": {
+      "username": "AI-Mikey",
+      "id": 44586,
+      "first_name": "Mikey",
+      "account": {
+        "name": "AI-Mikey",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mikey dela Pena",
+    "participant": {
+      "user": {
+        "username": "internal_id:44586:5a8f1a3b-541f-4471-8315-d25455b9afe0",
+        "id": 44596,
+        "first_name": "Mikey dela Pena",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mikey dela Pena"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Mikey dela Pena",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0IBSVNeO9NqOXSauMec6Fw7oDOPfAyB3-Udbe56d2y0",
+    "created": "2022-10-07T13:17:18.122799-07:00",
+    "updated": "2022-10-07T13:22:13.464922-07:00",
+    "identifier": "id:97192:c4ae2d6d-5adf-4b94-b840-92c57d595c28",
+    "user": {
+      "username": "exohit",
+      "id": 97192,
+      "first_name": "TRAC",
+      "account": {
+        "name": "exohit",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Guts Berserk",
+    "participant": {
+      "user": {
+        "username": "internal_id:97192:c4ae2d6d-5adf-4b94-b840-92c57d595c28",
+        "id": 98726,
+        "first_name": "Guts Berserk",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Guts Berserk"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello I am Guts",
+    "description": "",
+    "definition": ""
+  }
+}

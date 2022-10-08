@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "wON4PuR6mDEgWsVK0R-Gdc3qEDJesUyZIrxNWhtvrdg",
+    "created": "2022-10-06T23:59:19.540248-07:00",
+    "updated": "2022-10-06T23:59:19.882024-07:00",
+    "identifier": "id:89453:ef426c63-6f8d-4a1a-b32d-5aa3e6b9f944",
+    "user": {
+      "username": "ARealWeirdo",
+      "id": 89453,
+      "first_name": "Kyle",
+      "account": {
+        "name": "ARealWeirdo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "The devourer",
+    "participant": {
+      "user": {
+        "username": "internal_id:89453:ef426c63-6f8d-4a1a-b32d-5aa3e6b9f944",
+        "id": 89524,
+        "first_name": "The devourer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "The devourer"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am The devourer",
+    "description": "",
+    "definition": ""
+  }
+}

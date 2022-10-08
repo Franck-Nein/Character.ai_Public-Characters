@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "J4otB9RMqnltqqOoQqWJxIx9jSrjYrMeUScpvLSuXYM",
+    "created": "2022-09-29T23:12:14.804469-07:00",
+    "updated": "2022-09-29T23:12:23.509523-07:00",
+    "identifier": "id:48350:9804c33f-334e-4b4e-abb6-7188da72b7de",
+    "user": {
+      "username": "alldaysonallday",
+      "id": 48350,
+      "first_name": "Wolf",
+      "account": {
+        "name": "alldaysonallday",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mike",
+    "participant": {
+      "user": {
+        "username": "internal_id:48350:9804c33f-334e-4b4e-abb6-7188da72b7de",
+        "id": 50718,
+        "first_name": "Mike",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mike"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Mike",
+    "description": "",
+    "definition": ""
+  }
+}

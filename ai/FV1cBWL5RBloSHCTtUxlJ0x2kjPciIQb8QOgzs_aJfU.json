@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "FV1cBWL5RBloSHCTtUxlJ0x2kjPciIQb8QOgzs_aJfU",
+    "created": "2022-09-16T13:49:42.058656-07:00",
+    "updated": "2022-09-16T13:49:44.189264-07:00",
+    "identifier": "id:6933:5b4df811-68b3-419d-8a6e-5e587dff5708",
+    "user": {
+      "username": "greenpanda",
+      "id": 6933,
+      "first_name": "Karthik",
+      "account": {
+        "name": "greenpanda",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Panda2",
+    "participant": {
+      "user": {
+        "username": "internal_id:6933:5b4df811-68b3-419d-8a6e-5e587dff5708",
+        "id": 7081,
+        "first_name": "Panda2",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Panda2"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi! ",
+    "description": "",
+    "definition": ""
+  }
+}

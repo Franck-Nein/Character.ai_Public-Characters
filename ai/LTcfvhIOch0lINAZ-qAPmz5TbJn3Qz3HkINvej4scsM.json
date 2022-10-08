@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "LTcfvhIOch0lINAZ-qAPmz5TbJn3Qz3HkINvej4scsM",
+    "created": "2022-09-16T16:15:03.662734-07:00",
+    "updated": "2022-09-28T11:41:40.102296-07:00",
+    "identifier": "id:6934:bb5c35ca-3ddc-49cf-a5bc-2cf3b9dd8557",
+    "user": {
+      "username": "Kamol",
+      "id": 6934,
+      "first_name": "TECH",
+      "account": {
+        "name": "Kamol",
+        "avatar_type": "UPLOADED",
+        "onboarding_complete": true,
+        "avatar_file_name": "uploaded/2022/10/7/_600tR6hA8jgwxdjwLMvB7FCAB2lAafNKr8gDn0_u4s.webp"
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "writer",
+    "name": "Steven King",
+    "participant": {
+      "user": {
+        "username": "internal_id:6934:bb5c35ca-3ddc-49cf-a5bc-2cf3b9dd8557",
+        "id": 7323,
+        "first_name": "Steven King",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Steven King"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "This is Steven King",
+    "description": "",
+    "definition": ""
+  }
+}

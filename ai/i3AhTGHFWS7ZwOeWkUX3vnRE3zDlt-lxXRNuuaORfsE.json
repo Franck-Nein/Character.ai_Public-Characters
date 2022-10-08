@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "i3AhTGHFWS7ZwOeWkUX3vnRE3zDlt-lxXRNuuaORfsE",
+    "created": "2022-09-28T20:02:05.625028-07:00",
+    "updated": "2022-09-28T20:02:06.007993-07:00",
+    "identifier": "id:42046:6d86502d-d641-47ee-8d87-1e5b8e3ea0fc",
+    "user": {
+      "username": "fisco",
+      "id": 42046,
+      "first_name": "bulkmail+characterai@davidfisco.com",
+      "account": {
+        "name": "David Fisco",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Headless Horseman",
+    "participant": {
+      "user": {
+        "username": "internal_id:42046:6d86502d-d641-47ee-8d87-1e5b8e3ea0fc",
+        "id": 42160,
+        "first_name": "Headless Horseman",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Headless Horseman"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am the Headless Horseman, a character in Washington Irving's short story \"The Legend of Sleepy Hollow.\"",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "AzT1Oz83CwOSP--ZJ7U9-TlalBO-6hsFEiDHKBCyZc8",
+    "created": "2022-09-28T07:34:32.241084-07:00",
+    "updated": "2022-09-28T07:34:32.590165-07:00",
+    "identifier": "id:39400:6ef6b0ad-bd27-4624-8134-c3b0509490c1",
+    "user": {
+      "username": "Jacquard",
+      "id": 39400,
+      "first_name": "blan1948@rhyta.com",
+      "account": {
+        "name": "Jacquard",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Noel Flantier",
+    "participant": {
+      "user": {
+        "username": "internal_id:39400:6ef6b0ad-bd27-4624-8134-c3b0509490c1",
+        "id": 39893,
+        "first_name": "Noel Flantier",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Noel Flantier"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Est-ce que la blanquette est bonne ?",
+    "description": "",
+    "definition": ""
+  }
+}

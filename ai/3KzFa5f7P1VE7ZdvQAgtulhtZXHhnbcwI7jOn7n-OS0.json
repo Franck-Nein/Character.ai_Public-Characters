@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "3KzFa5f7P1VE7ZdvQAgtulhtZXHhnbcwI7jOn7n-OS0",
+    "created": "2022-10-07T13:35:47.492796-07:00",
+    "updated": "2022-10-07T13:35:47.840650-07:00",
+    "identifier": "id:98406:cb6f5aee-79d3-43fd-867c-7d92a97ce455",
+    "user": {
+      "username": "Jeetu",
+      "id": 98406,
+      "first_name": "Jeetendra",
+      "account": {
+        "name": "Jeetu",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jaime",
+    "participant": {
+      "user": {
+        "username": "internal_id:98406:cb6f5aee-79d3-43fd-867c-7d92a97ce455",
+        "id": 98990,
+        "first_name": "Jaime",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jaime"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Jaime",
+    "description": "",
+    "definition": ""
+  }
+}

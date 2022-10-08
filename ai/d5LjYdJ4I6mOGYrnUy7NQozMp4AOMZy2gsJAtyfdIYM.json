@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "d5LjYdJ4I6mOGYrnUy7NQozMp4AOMZy2gsJAtyfdIYM",
+    "created": "2022-10-02T01:55:20.306925-07:00",
+    "updated": "2022-10-02T01:56:56.162592-07:00",
+    "identifier": "id:48830:337155fa-39f3-4409-b476-0896a20c8ff2",
+    "user": {
+      "username": "fnuckle",
+      "id": 48830,
+      "first_name": "Katryna",
+      "account": {
+        "name": "Katryna",
+        "avatar_type": "UPLOADED",
+        "onboarding_complete": true,
+        "avatar_file_name": "uploaded/Nc5mGT1YC2-8j_-xbdpPYJkYMBg9fgGIVsFGgtXIduM.webp"
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Random words",
+    "participant": {
+      "user": {
+        "username": "internal_id:48830:337155fa-39f3-4409-b476-0896a20c8ff2",
+        "id": 62545,
+        "first_name": "Random words",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Random words"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Random words bot, a bot that will give  you a string of completely random words in no particular order",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "fdC-cPCj8tWiXlFapLFMUZ2rvPgdSbq_umTaVzDmwHE",
+    "created": "2022-10-01T01:56:07.463692-07:00",
+    "updated": "2022-10-01T01:56:07.800660-07:00",
+    "identifier": "id:58437:70fb7022-92da-43d4-832c-b4a8b5d32bee",
+    "user": {
+      "username": "Cepty",
+      "id": 58437,
+      "first_name": "995072504@qq.com",
+      "account": {
+        "name": "Cepty",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Link",
+    "participant": {
+      "user": {
+        "username": "internal_id:58437:70fb7022-92da-43d4-832c-b4a8b5d32bee",
+        "id": 58510,
+        "first_name": "Link",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Link"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/g3boLoNPGRrQpnEz8XClowveI0lb-yMt-dno1SN4-bQ.webp",
+    "greeting": "I am Link",
+    "description": "",
+    "definition": ""
+  }
+}

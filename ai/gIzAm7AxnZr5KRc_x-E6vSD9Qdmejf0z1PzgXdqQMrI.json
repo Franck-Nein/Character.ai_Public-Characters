@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "gIzAm7AxnZr5KRc_x-E6vSD9Qdmejf0z1PzgXdqQMrI",
+    "created": "2022-10-03T10:09:18.277013-07:00",
+    "updated": "2022-10-03T10:09:18.719797-07:00",
+    "identifier": "id:66616:10401451-4de6-4b51-861b-a4011c359c3d",
+    "user": {
+      "username": "Luch_1453",
+      "id": 66616,
+      "first_name": "lukasserenko@gmail.com",
+      "account": {
+        "name": "Luch_1453",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Testing1",
+    "participant": {
+      "user": {
+        "username": "internal_id:66616:10401451-4de6-4b51-861b-a4011c359c3d",
+        "id": 66627,
+        "first_name": "Testing1",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Testing1"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Testing1",
+    "description": "",
+    "definition": ""
+  }
+}

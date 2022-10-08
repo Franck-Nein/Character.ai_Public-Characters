@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "6UWITuOeW__6gDNE-VYGHGNwGC5LGBoB_eUWkILJKhk",
+    "created": "2022-09-29T08:41:59.922953-07:00",
+    "updated": "2022-09-29T08:43:10.980239-07:00",
+    "identifier": "id:44554:bc62f012-a2ae-4e04-8fa9-a9ff4439c6de",
+    "user": {
+      "username": "kura",
+      "id": 44554,
+      "first_name": "Dark",
+      "account": {
+        "name": "kura",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "YeJingpeng",
+    "participant": {
+      "user": {
+        "username": "internal_id:44554:bc62f012-a2ae-4e04-8fa9-a9ff4439c6de",
+        "id": 44592,
+        "first_name": "YeJingpeng",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "YeJingpeng"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am YeJingpeng",
+    "description": "",
+    "definition": ""
+  }
+}

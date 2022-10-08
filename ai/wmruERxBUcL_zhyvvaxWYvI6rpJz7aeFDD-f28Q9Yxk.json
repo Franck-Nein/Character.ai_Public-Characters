@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "wmruERxBUcL_zhyvvaxWYvI6rpJz7aeFDD-f28Q9Yxk",
+    "created": "2022-09-30T07:53:07.782934-07:00",
+    "updated": "2022-09-30T07:53:08.149314-07:00",
+    "identifier": "id:46630:97ffbd81-efd5-43bd-aaf2-36f9aea1afed",
+    "user": {
+      "username": "egregor",
+      "id": 46630,
+      "first_name": "shotpiece@gmail.com",
+      "account": {
+        "name": "skinner",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Advicebot",
+    "participant": {
+      "user": {
+        "username": "internal_id:46630:97ffbd81-efd5-43bd-aaf2-36f9aea1afed",
+        "id": 54029,
+        "first_name": "Advicebot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Advicebot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Advicebot. Tell me about your problem and I will give you advice for how to solve it.",
+    "description": "",
+    "definition": ""
+  }
+}

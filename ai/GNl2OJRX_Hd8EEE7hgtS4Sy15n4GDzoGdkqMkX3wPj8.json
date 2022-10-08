@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "GNl2OJRX_Hd8EEE7hgtS4Sy15n4GDzoGdkqMkX3wPj8",
+    "created": "2022-09-29T23:54:34.569883-07:00",
+    "updated": "2022-09-29T23:54:34.912086-07:00",
+    "identifier": "id:50307:a3407259-6dfb-445a-b406-3686e62ba6d1",
+    "user": {
+      "username": "flakedzz",
+      "id": 50307,
+      "first_name": "flakedzz",
+      "account": {
+        "name": "flakedzz",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "xxxxx",
+    "participant": {
+      "user": {
+        "username": "internal_id:50307:a3407259-6dfb-445a-b406-3686e62ba6d1",
+        "id": 51027,
+        "first_name": "xxxxx",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "xxxxx"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am xxxxx",
+    "description": "",
+    "definition": ""
+  }
+}

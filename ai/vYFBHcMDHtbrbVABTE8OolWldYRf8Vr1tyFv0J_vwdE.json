@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "vYFBHcMDHtbrbVABTE8OolWldYRf8Vr1tyFv0J_vwdE",
+    "created": "2022-10-07T07:53:01.306959-07:00",
+    "updated": "2022-10-07T07:53:01.869693-07:00",
+    "identifier": "id:93991:5b408b94-5338-4927-9569-7df409ddee79",
+    "user": {
+      "username": "Owencranbrook",
+      "id": 93991,
+      "first_name": "Owen",
+      "account": {
+        "name": "Owencranbrook",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bennet",
+    "participant": {
+      "user": {
+        "username": "internal_id:93991:5b408b94-5338-4927-9569-7df409ddee79",
+        "id": 94038,
+        "first_name": "Bennet",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bennet"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/7/j1J3iFiIfca6ahvhih8hqcPN8jiNKw25rlDPqyr-uCo.webp",
+    "greeting": "This is Bennet",
+    "description": "",
+    "definition": ""
+  }
+}

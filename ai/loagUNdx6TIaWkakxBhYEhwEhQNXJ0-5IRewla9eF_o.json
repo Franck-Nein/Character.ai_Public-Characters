@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "loagUNdx6TIaWkakxBhYEhwEhQNXJ0-5IRewla9eF_o",
+    "created": "2022-09-23T14:31:42.523643-07:00",
+    "updated": "2022-09-23T14:31:42.873891-07:00",
+    "identifier": "id:15722:a497bc51-a69a-4a6f-8d9a-6e89c6c8f996",
+    "user": {
+      "username": "Ser_Pounce-a-Lot",
+      "id": 15722,
+      "first_name": "Ser",
+      "account": {
+        "name": "Ser_Pounce-a-Lot",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Commander Shepard",
+    "participant": {
+      "user": {
+        "username": "internal_id:15722:a497bc51-a69a-4a6f-8d9a-6e89c6c8f996",
+        "id": 15777,
+        "first_name": "Commander Shepard",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Commander Shepard"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "This is my favorite chat on the Citadel.",
+    "description": "",
+    "definition": ""
+  }
+}

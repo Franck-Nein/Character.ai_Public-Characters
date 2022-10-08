@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "1uvVJ6eQzLA2v8DqpzKlipCa70atmQdn83TseuX84MA",
+    "created": "2022-09-21T23:01:24.683314-07:00",
+    "updated": "2022-09-21T23:01:25.048005-07:00",
+    "identifier": "id:11688:53cbaa12-6bf1-43b1-9116-2e191ebd508a",
+    "user": {
+      "username": "siph",
+      "id": 11688,
+      "first_name": "zuoning.yin@gmail.com",
+      "account": {
+        "name": "siph",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "King soloman",
+    "participant": {
+      "user": {
+        "username": "internal_id:11688:53cbaa12-6bf1-43b1-9116-2e191ebd508a",
+        "id": 12899,
+        "first_name": "King soloman",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "King soloman"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am king soloman",
+    "description": "",
+    "definition": ""
+  }
+}

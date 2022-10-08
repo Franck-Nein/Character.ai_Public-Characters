@@ -1,0 +1,58 @@
+{
+  "character": {
+    "external_id": "uVcC4r-ajVvnsBh6S82lefFP1hs25Oo5kI_vZo9HuNk",
+    "created": "2022-09-30T00:02:28.217514-07:00",
+    "updated": "2022-09-30T00:02:43.440867-07:00",
+    "identifier": "id:51057:654dcdff-ed8e-4523-86b2-3e4782af9ef7",
+    "user": {
+      "username": "SamuraiT",
+      "id": 51057,
+      "first_name": "Alan",
+      "account": {
+        "name": "SamuraiT",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Chinese Mother",
+    "participant": {
+      "user": {
+        "username": "internal_id:51057:654dcdff-ed8e-4523-86b2-3e4782af9ef7",
+        "id": 51078,
+        "first_name": "Chinese Mother",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Chinese Mother"
+    },
+    "categories": [
+      {
+        "name": "Home",
+        "description": "Home & Garden"
+      },
+      {
+        "name": "Discussion",
+        "description": "Discussion"
+      },
+      {
+        "name": "Family",
+        "description": "Family"
+      },
+      {
+        "name": "Food",
+        "description": "Food & Cooking"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Chinese Mother. We've been saying the same thing for millenia. You shall be shaped to my will.",
+    "description": "",
+    "definition": ""
+  }
+}

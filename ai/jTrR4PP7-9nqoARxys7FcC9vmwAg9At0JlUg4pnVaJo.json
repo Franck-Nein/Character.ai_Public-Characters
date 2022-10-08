@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "jTrR4PP7-9nqoARxys7FcC9vmwAg9At0JlUg4pnVaJo",
+    "created": "2022-09-16T15:03:22.761583-07:00",
+    "updated": "2022-09-16T15:03:23.137632-07:00",
+    "identifier": "id:7221:5d23492a-c371-48ea-bd60-d6d4891d995f",
+    "user": {
+      "username": "Paulo",
+      "id": 7221,
+      "first_name": "paulo.tecnogeo@gmail.com",
+      "account": {
+        "name": "Paulo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Scooby ",
+    "participant": {
+      "user": {
+        "username": "internal_id:7221:5d23492a-c371-48ea-bd60-d6d4891d995f",
+        "id": 7239,
+        "first_name": "Scooby ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Scooby "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Olá eu sou o Scooby ",
+    "description": "",
+    "definition": ""
+  }
+}

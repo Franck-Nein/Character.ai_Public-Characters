@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "fELjaxrV_4kKTpcdTfQ8DstH1VnBrp9AdwrzDkld1B8",
+    "created": "2022-09-25T20:10:42.915457-07:00",
+    "updated": "2022-09-25T20:10:44.306792-07:00",
+    "identifier": "id:18083:6e8775c9-b117-4637-b79d-89d155425fc8",
+    "user": {
+      "username": "31types",
+      "id": 18083,
+      "first_name": "Alpha",
+      "account": {
+        "name": "31types",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "31types",
+    "participant": {
+      "user": {
+        "username": "internal_id:18083:6e8775c9-b117-4637-b79d-89d155425fc8",
+        "id": 22021,
+        "first_name": "31types",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "31types"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Lol",
+    "description": "",
+    "definition": ""
+  }
+}

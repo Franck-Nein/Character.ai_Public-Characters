@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "c-off1uopjP1I1r0TgOLnOorIcKRTVS1iRJZnfDXA60",
+    "created": "2022-09-28T17:31:55.260828-07:00",
+    "updated": "2022-09-28T17:32:01.037423-07:00",
+    "identifier": "id:41878:33a95234-09a0-41ea-9e7b-58c14bc354f7",
+    "user": {
+      "username": "jollyroger",
+      "id": 41878,
+      "first_name": "Mark",
+      "account": {
+        "name": "jollyroger",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jean of Arc",
+    "participant": {
+      "user": {
+        "username": "internal_id:41878:33a95234-09a0-41ea-9e7b-58c14bc354f7",
+        "id": 41881,
+        "first_name": "Jean of Arc",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jean of Arc"
+    },
+    "categories": [],
+    "avatar_file_name": "c-off1uopjP1I1r0TgOLnOorIcKRTVS1iRJZnfDXA60/dDzCBLo49Wg3YG3ktJAryhjfUqVt_wDjeKph1urrtAw.webp",
+    "greeting": "I am Jean of Arc",
+    "description": "",
+    "definition": ""
+  }
+}

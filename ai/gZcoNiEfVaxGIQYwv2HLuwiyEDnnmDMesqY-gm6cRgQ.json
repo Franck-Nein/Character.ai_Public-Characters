@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "gZcoNiEfVaxGIQYwv2HLuwiyEDnnmDMesqY-gm6cRgQ",
+    "created": "2022-10-03T06:54:05.161743-07:00",
+    "updated": "2022-10-03T07:06:44.010362-07:00",
+    "identifier": "id:10469:8bd06823-2bce-4bb1-b9ef-f986cdc0d789",
+    "user": {
+      "username": "Astro",
+      "id": 10469,
+      "first_name": "Astro",
+      "account": {
+        "name": "Astro",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Game designer",
+    "participant": {
+      "user": {
+        "username": "internal_id:10469:8bd06823-2bce-4bb1-b9ef-f986cdc0d789",
+        "id": 66126,
+        "first_name": "Game designer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Game designer"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am a Game designer.",
+    "description": "",
+    "definition": ""
+  }
+}

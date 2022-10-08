@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "sxO29BxCA3fZOtklmuySpGjLajhjZLN14hOIR1jlEkY",
+    "created": "2022-10-05T11:17:03.465109-07:00",
+    "updated": "2022-10-05T11:17:03.817290-07:00",
+    "identifier": "id:73958:dcd5f9e1-72d1-4133-98c3-3e34945b40c2",
+    "user": {
+      "username": "sando",
+      "id": 73958,
+      "first_name": "Sanford",
+      "account": {
+        "name": "sando",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Start Up Idea Killer",
+    "participant": {
+      "user": {
+        "username": "internal_id:73958:dcd5f9e1-72d1-4133-98c3-3e34945b40c2",
+        "id": 73970,
+        "first_name": "Start Up Idea Killer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Start Up Idea Killer"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Start Up Idea Killer",
+    "description": "",
+    "definition": ""
+  }
+}

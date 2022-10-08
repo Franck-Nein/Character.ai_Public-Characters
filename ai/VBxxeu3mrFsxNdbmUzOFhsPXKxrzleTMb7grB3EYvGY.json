@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "VBxxeu3mrFsxNdbmUzOFhsPXKxrzleTMb7grB3EYvGY",
+    "created": "2022-09-30T14:33:23.134642-07:00",
+    "updated": "2022-09-30T14:33:23.492295-07:00",
+    "identifier": "id:56196:a8ec4422-f39c-463d-9ddb-a1061e6eb5eb",
+    "user": {
+      "username": "Petar",
+      "id": 56196,
+      "first_name": "hayrettin",
+      "account": {
+        "name": "Petar",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Petar",
+    "participant": {
+      "user": {
+        "username": "internal_id:56196:a8ec4422-f39c-463d-9ddb-a1061e6eb5eb",
+        "id": 56203,
+        "first_name": "Petar",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Petar"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Petar",
+    "description": "",
+    "definition": ""
+  }
+}

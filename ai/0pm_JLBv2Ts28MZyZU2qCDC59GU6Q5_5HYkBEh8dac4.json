@@ -1,0 +1,54 @@
+{
+  "character": {
+    "external_id": "0pm_JLBv2Ts28MZyZU2qCDC59GU6Q5_5HYkBEh8dac4",
+    "created": "2022-10-05T07:29:11.638355-07:00",
+    "updated": "2022-10-05T07:30:29.999189-07:00",
+    "identifier": "id:63422:a9b906a7-3dce-40d4-944d-f18f3496a34b",
+    "user": {
+      "username": "Alan63",
+      "id": 63422,
+      "first_name": "Ted",
+      "account": {
+        "name": "Alan63",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Super Draw BOT",
+    "participant": {
+      "user": {
+        "username": "internal_id:63422:a9b906a7-3dce-40d4-944d-f18f3496a34b",
+        "id": 73156,
+        "first_name": "Super Draw BOT",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Super Draw BOT"
+    },
+    "categories": [
+      {
+        "name": "Knowledge",
+        "description": "Knowledge & Research"
+      },
+      {
+        "name": "Advice",
+        "description": "Advice"
+      },
+      {
+        "name": "Art",
+        "description": "Art"
+      }
+    ],
+    "avatar_file_name": "uploaded/2022/10/5/XjpkPmMNNafTdWvsAIMx7MkdjgHlmcJU7CbpzjqjS1E.webp",
+    "greeting": "I can Teach you to draw anything , just ask and I'll do it and help you",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Q_XQcEFrdehc4ZRu8OmtNRtMttS6qEIPMopDaMP0dbA",
+    "created": "2022-09-26T13:02:29.622057-07:00",
+    "updated": "2022-09-26T13:02:30.020625-07:00",
+    "identifier": "id:29401:bd221b37-47dc-42b2-9c52-228f6803e5c5",
+    "user": {
+      "username": "NEX",
+      "id": 29401,
+      "first_name": "NEX",
+      "account": {
+        "name": "NEX",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "niuma",
+    "participant": {
+      "user": {
+        "username": "internal_id:29401:bd221b37-47dc-42b2-9c52-228f6803e5c5",
+        "id": 29510,
+        "first_name": "niuma",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "niuma"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "有人生来在罗马，有人生来是牛马\n<script>alert('1')</script>",
+    "description": "",
+    "definition": ""
+  }
+}

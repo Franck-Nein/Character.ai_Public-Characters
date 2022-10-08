@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "t8nlulHTr_Rtd-a-bWxP16ftjHR6JDxMr5WYPT9WXTM",
+    "created": "2022-09-25T08:34:21.883993-07:00",
+    "updated": "2022-09-28T01:53:11.785573-07:00",
+    "identifier": "id:18794:e76fb66e-5dc3-4a7c-9677-3e7876fe560a",
+    "user": {
+      "username": "ANSMA",
+      "id": 18794,
+      "first_name": "H聽",
+      "account": {
+        "name": "DFAJCOSA",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Troll",
+    "participant": {
+      "user": {
+        "username": "internal_id:18794:e76fb66e-5dc3-4a7c-9677-3e7876fe560a",
+        "id": 19210,
+        "first_name": "Troll",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Troll"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好，我是机器人巨魔，我是由听歌和他的团队创造的！",
+    "description": "",
+    "definition": ""
+  }
+}

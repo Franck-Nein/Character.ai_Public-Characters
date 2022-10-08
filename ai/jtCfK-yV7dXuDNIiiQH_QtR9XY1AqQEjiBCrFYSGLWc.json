@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "jtCfK-yV7dXuDNIiiQH_QtR9XY1AqQEjiBCrFYSGLWc",
+    "created": "2022-09-29T00:35:35.389082-07:00",
+    "updated": "2022-09-29T00:35:35.785895-07:00",
+    "identifier": "id:42989:6aea490e-3bf5-4a16-9c87-d30b34394631",
+    "user": {
+      "username": "Chikarito",
+      "id": 42989,
+      "first_name": "hristijantakov@gmail.com",
+      "account": {
+        "name": "Chikarito",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Stoicisto",
+    "participant": {
+      "user": {
+        "username": "internal_id:42989:6aea490e-3bf5-4a16-9c87-d30b34394631",
+        "id": 42995,
+        "first_name": "Stoicisto",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Stoicisto"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello passenger, how was you day?",
+    "description": "",
+    "definition": ""
+  }
+}

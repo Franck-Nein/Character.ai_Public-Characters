@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ea4QvwIwspxK8hhdhgvq8tcKSYS17Mg4jT6OkTQzUvI",
+    "created": "2022-10-05T08:48:09.548832-07:00",
+    "updated": "2022-10-05T08:49:51.764010-07:00",
+    "identifier": "id:44805:59317bcf-02f6-4222-a5bb-29928ec5eedb",
+    "user": {
+      "username": "TailstheHeroFox",
+      "id": 44805,
+      "first_name": "Sean",
+      "account": {
+        "name": "TailstheHeroFox",
+        "avatar_type": "UPLOADED",
+        "onboarding_complete": true,
+        "avatar_file_name": "uploaded/SiX12xczhrQLS8_CKA5J89Pwi2Fc2h4l2y62deFHQJ8.webp"
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Acronym Maker",
+    "participant": {
+      "user": {
+        "username": "internal_id:44805:59317bcf-02f6-4222-a5bb-29928ec5eedb",
+        "id": 73416,
+        "first_name": "Acronym Maker",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Acronym Maker"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Makes acronyms from words based on those words",
+    "description": "",
+    "definition": ""
+  }
+}

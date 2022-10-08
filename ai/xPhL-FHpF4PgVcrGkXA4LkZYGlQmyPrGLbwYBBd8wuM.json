@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "xPhL-FHpF4PgVcrGkXA4LkZYGlQmyPrGLbwYBBd8wuM",
+    "created": "2022-10-04T04:45:50.887016-07:00",
+    "updated": "2022-10-04T04:45:51.267388-07:00",
+    "identifier": "id:68662:fc5bd255-8c3e-4155-a6b1-5c36f6060697",
+    "user": {
+      "username": "taqochan",
+      "id": 68662,
+      "first_name": "Lemon",
+      "account": {
+        "name": "taqochan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Harley Jackson",
+    "participant": {
+      "user": {
+        "username": "internal_id:68662:fc5bd255-8c3e-4155-a6b1-5c36f6060697",
+        "id": 69081,
+        "first_name": "Harley Jackson",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Harley Jackson"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Harley Jackson",
+    "description": "",
+    "definition": ""
+  }
+}

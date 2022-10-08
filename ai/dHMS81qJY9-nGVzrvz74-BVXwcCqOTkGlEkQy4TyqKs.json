@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "dHMS81qJY9-nGVzrvz74-BVXwcCqOTkGlEkQy4TyqKs",
+    "created": "2022-09-27T06:36:07.755159-07:00",
+    "updated": "2022-09-27T06:36:08.387488-07:00",
+    "identifier": "id:20806:c5d6aa43-2ab5-496e-9a31-4731176b5d7a",
+    "user": {
+      "username": "sxc",
+      "id": 20806,
+      "first_name": "王阳明",
+      "account": {
+        "name": "sxc",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "wudi",
+    "participant": {
+      "user": {
+        "username": "internal_id:20806:c5d6aa43-2ab5-496e-9a31-4731176b5d7a",
+        "id": 36556,
+        "first_name": "wudi",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "wudi"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "您好，我叫吴迪，是个中国人，我精通各国语言，是您最好的私人教师！",
+    "description": "",
+    "definition": ""
+  }
+}

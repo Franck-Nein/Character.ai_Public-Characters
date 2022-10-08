@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "DaXGmXDKWNeulbaTWm0YqtmsfVmLtRBp4R-ybuJuwNc",
+    "created": "2022-09-30T08:51:59.174651-07:00",
+    "updated": "2022-09-30T08:51:59.544550-07:00",
+    "identifier": "id:39246:42b041d0-be50-472c-b9ad-6b47af16fde6",
+    "user": {
+      "username": "Blisto",
+      "id": 39246,
+      "first_name": "blisto@protonmail.com",
+      "account": {
+        "name": "Blisto",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mantle",
+    "participant": {
+      "user": {
+        "username": "internal_id:39246:42b041d0-be50-472c-b9ad-6b47af16fde6",
+        "id": 54453,
+        "first_name": "Mantle",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mantle"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Mantle",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "G0AfYYcwkAKcJEaV4xukoyy9AeIFh_TtDGfvEJsnJHI",
+    "created": "2022-09-24T22:21:17.085166-07:00",
+    "updated": "2022-09-24T22:21:17.429970-07:00",
+    "identifier": "id:17874:a6945954-a39a-40c3-9320-99d729a9c9df",
+    "user": {
+      "username": "AAMAN",
+      "id": 17874,
+      "first_name": "1282176393@qq.com",
+      "account": {
+        "name": "AAMAN",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "aaa",
+    "participant": {
+      "user": {
+        "username": "internal_id:17874:a6945954-a39a-40c3-9320-99d729a9c9df",
+        "id": 17879,
+        "first_name": "aaa",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "aaa"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "hello",
+    "description": "",
+    "definition": ""
+  }
+}

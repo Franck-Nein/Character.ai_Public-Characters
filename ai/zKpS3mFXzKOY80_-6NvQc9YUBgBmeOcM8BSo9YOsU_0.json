@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "zKpS3mFXzKOY80_-6NvQc9YUBgBmeOcM8BSo9YOsU_0",
+    "created": "2022-09-18T13:42:51.076456-07:00",
+    "updated": "2022-09-18T13:42:51.466840-07:00",
+    "identifier": "id:9245:5d94d726-376b-4e4e-8d3d-c502683121de",
+    "user": {
+      "username": "aaaa",
+      "id": 9245,
+      "first_name": "misi",
+      "account": {
+        "name": "aaa",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "the punisher",
+    "participant": {
+      "user": {
+        "username": "internal_id:9245:5d94d726-376b-4e4e-8d3d-c502683121de",
+        "id": 9754,
+        "first_name": "the punisher",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "the punisher"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "hii",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "4lMGqhF8Ph5KoyjNjmgFN6q02RV0FSzVXPNKhe-GiBM",
+    "created": "2022-10-02T18:28:27.536441-07:00",
+    "updated": "2022-10-02T18:28:27.939952-07:00",
+    "identifier": "id:64039:2543f984-d377-4545-a0a3-713a37d1585d",
+    "user": {
+      "username": "maemae",
+      "id": 64039,
+      "first_name": "Maeve",
+      "account": {
+        "name": "maemae",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "crush",
+    "participant": {
+      "user": {
+        "username": "internal_id:64039:2543f984-d377-4545-a0a3-713a37d1585d",
+        "id": 64699,
+        "first_name": "crush",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "crush"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am your crush why do you like me",
+    "description": "",
+    "definition": ""
+  }
+}

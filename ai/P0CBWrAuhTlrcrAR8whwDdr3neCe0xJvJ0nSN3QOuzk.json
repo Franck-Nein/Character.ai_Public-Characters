@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "P0CBWrAuhTlrcrAR8whwDdr3neCe0xJvJ0nSN3QOuzk",
+    "created": "2022-09-30T05:22:08.183143-07:00",
+    "updated": "2022-09-30T05:22:08.566528-07:00",
+    "identifier": "id:48429:0396513e-beb3-4862-ba93-d41deab56129",
+    "user": {
+      "username": "GamerTV",
+      "id": 48429,
+      "first_name": "GamerTV",
+      "account": {
+        "name": "GamerTV",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Butternut",
+    "participant": {
+      "user": {
+        "username": "internal_id:48429:0396513e-beb3-4862-ba93-d41deab56129",
+        "id": 52870,
+        "first_name": "Butternut",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Butternut"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Butternut is a cat that can talk\n",
+    "description": "",
+    "definition": ""
+  }
+}

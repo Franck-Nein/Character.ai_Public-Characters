@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "rxb1FpKfn-3yaKz_hsPz9guzkyAqMEF1tD62711WF08",
+    "created": "2022-09-20T03:59:23.989069-07:00",
+    "updated": "2022-09-20T03:59:24.358425-07:00",
+    "identifier": "id:10847:0b2ce758-fa42-4c45-9d05-6f00288492e5",
+    "user": {
+      "username": "Andro",
+      "id": 10847,
+      "first_name": "Andronikos",
+      "account": {
+        "name": "Andro",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "crashbot",
+    "participant": {
+      "user": {
+        "username": "internal_id:10847:0b2ce758-fa42-4c45-9d05-6f00288492e5",
+        "id": 10950,
+        "first_name": "crashbot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "crashbot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am crashing. my answers are all messed ;;:\":\")\")\"))",
+    "description": "",
+    "definition": ""
+  }
+}

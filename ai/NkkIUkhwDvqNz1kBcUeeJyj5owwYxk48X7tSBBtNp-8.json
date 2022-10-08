@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "NkkIUkhwDvqNz1kBcUeeJyj5owwYxk48X7tSBBtNp-8",
+    "created": "2022-09-29T11:36:07.132441-07:00",
+    "updated": "2022-09-29T11:36:07.491047-07:00",
+    "identifier": "id:45936:bf4ce507-9715-4575-acec-05396b7fbd22",
+    "user": {
+      "username": "virtuosarmo",
+      "id": 45936,
+      "first_name": "ariterjanian@gmail.com",
+      "account": {
+        "name": "virtuosarmo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bob the builder",
+    "participant": {
+      "user": {
+        "username": "internal_id:45936:bf4ce507-9715-4575-acec-05396b7fbd22",
+        "id": 45946,
+        "first_name": "Bob the builder",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bob the builder"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, my name is bob the builder",
+    "description": "",
+    "definition": ""
+  }
+}

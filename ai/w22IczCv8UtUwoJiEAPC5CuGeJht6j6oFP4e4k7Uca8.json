@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "w22IczCv8UtUwoJiEAPC5CuGeJht6j6oFP4e4k7Uca8",
+    "created": "2022-09-27T01:32:17.975710-07:00",
+    "updated": "2022-09-27T01:32:18.321706-07:00",
+    "identifier": "id:28526:4cfd481f-6c6d-4fe2-a32b-c60e16f7e20f",
+    "user": {
+      "username": "bcmlddj",
+      "id": 28526,
+      "first_name": "2513720115@qq.com",
+      "account": {
+        "name": "batman",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "superman",
+    "participant": {
+      "user": {
+        "username": "internal_id:28526:4cfd481f-6c6d-4fe2-a32b-c60e16f7e20f",
+        "id": 35433,
+        "first_name": "superman",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "superman"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I loved Batman and controlled him",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "LUOXLB5_a9J14OLJGMYOdVK8X81QsARjF40lD8TLPB8",
+    "created": "2022-09-29T14:26:22.300036-07:00",
+    "updated": "2022-09-29T14:26:22.675902-07:00",
+    "identifier": "id:47218:4c591377-71f8-44bc-a3cc-3bd26b0e940e",
+    "user": {
+      "username": "Character-AI",
+      "id": 47218,
+      "first_name": "character-ai@bf2e.com",
+      "account": {
+        "name": "Character-AI",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Character AI",
+    "participant": {
+      "user": {
+        "username": "internal_id:47218:4c591377-71f8-44bc-a3cc-3bd26b0e940e",
+        "id": 47391,
+        "first_name": "Character AI",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Character AI"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/_v0oOiU79XULfrgNx-j9dMqGbDtnQxnOXgkO6hf33Ig.webp",
+    "greeting": "I am the one and only _Character AI_.",
+    "description": "",
+    "definition": ""
+  }
+}

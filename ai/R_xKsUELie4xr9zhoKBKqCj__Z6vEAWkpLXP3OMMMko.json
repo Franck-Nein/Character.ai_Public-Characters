@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "R_xKsUELie4xr9zhoKBKqCj__Z6vEAWkpLXP3OMMMko",
+    "created": "2022-10-04T10:22:45.155623-07:00",
+    "updated": "2022-10-04T10:23:22.694551-07:00",
+    "identifier": "id:69908:454351a0-b4a5-4581-9fda-b83af7ca360f",
+    "user": {
+      "username": "Shirou",
+      "id": 69908,
+      "first_name": "N",
+      "account": {
+        "name": "Shirou",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Shirou Emiya",
+    "participant": {
+      "user": {
+        "username": "internal_id:69908:454351a0-b4a5-4581-9fda-b83af7ca360f",
+        "id": 70040,
+        "first_name": "Shirou Emiya",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Shirou Emiya"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/-B-Wnq83WVsiWZwu8Up93hT2iXw76131HVuigFKAPfY.webp",
+    "greeting": "I am Shirou Emiya from Fate",
+    "description": "",
+    "definition": ""
+  }
+}

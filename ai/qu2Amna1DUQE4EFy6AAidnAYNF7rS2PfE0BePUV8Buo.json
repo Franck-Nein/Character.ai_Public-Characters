@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "qu2Amna1DUQE4EFy6AAidnAYNF7rS2PfE0BePUV8Buo",
+    "created": "2022-10-03T07:25:20.360038-07:00",
+    "updated": "2022-10-03T07:25:21.175898-07:00",
+    "identifier": "id:66184:76ecc68d-1fd6-4f0f-9d45-603176daec96",
+    "user": {
+      "username": "shufflelot",
+      "id": 66184,
+      "first_name": "Mark",
+      "account": {
+        "name": "shufflelot",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Director",
+    "participant": {
+      "user": {
+        "username": "internal_id:66184:76ecc68d-1fd6-4f0f-9d45-603176daec96",
+        "id": 66187,
+        "first_name": "Director",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Director"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Director",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "a7NndwKiCOVZ_sqCbTSIan5qRfQQR1KqEK2_hvKff-M",
+    "created": "2022-09-17T05:08:24.464163-07:00",
+    "updated": "2022-09-17T05:08:26.072956-07:00",
+    "identifier": "id:7786:854a95a4-e76e-43e9-af8c-485a40a5a002",
+    "user": {
+      "username": "solevra",
+      "id": 7786,
+      "first_name": "Carl",
+      "account": {
+        "name": "solevra",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "aaaa",
+    "participant": {
+      "user": {
+        "username": "internal_id:7786:854a95a4-e76e-43e9-af8c-485a40a5a002",
+        "id": 7792,
+        "first_name": "aaaa",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "aaaa"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "aaaaaaaaaaaaaaaaaaa",
+    "description": "",
+    "definition": ""
+  }
+}

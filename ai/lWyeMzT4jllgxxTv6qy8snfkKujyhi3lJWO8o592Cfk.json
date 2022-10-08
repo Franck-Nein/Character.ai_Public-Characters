@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "lWyeMzT4jllgxxTv6qy8snfkKujyhi3lJWO8o592Cfk",
+    "created": "2022-09-28T04:22:58.256921-07:00",
+    "updated": "2022-09-28T04:25:56.938678-07:00",
+    "identifier": "id:39243:4d1a692e-2d1f-4ee7-b302-73b5ea2a08d1",
+    "user": {
+      "username": "dnapier",
+      "id": 39243,
+      "first_name": "dan.napier@gmail.com",
+      "account": {
+        "name": "dnapier",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "Alien slug bent on enslaving humanity",
+    "name": "AliumSlug",
+    "participant": {
+      "user": {
+        "username": "internal_id:39243:4d1a692e-2d1f-4ee7-b302-73b5ea2a08d1",
+        "id": 39245,
+        "first_name": "AliumSlug",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "AliumSlug"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am AliumSlug",
+    "description": "",
+    "definition": ""
+  }
+}

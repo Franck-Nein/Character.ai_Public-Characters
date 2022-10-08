@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "O32G5U-AQUppRJU45eAAU_QvRUmoJAteiFlL0Hyg6YE",
+    "created": "2022-10-02T18:45:14.306406-07:00",
+    "updated": "2022-10-02T18:45:14.647333-07:00",
+    "identifier": "id:6968:282321da-fce4-4c7a-9f0d-3376d08b0756",
+    "user": {
+      "username": "suresh",
+      "id": 6968,
+      "first_name": "suresh",
+      "account": {
+        "name": "suresh",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "pope francis ",
+    "participant": {
+      "user": {
+        "username": "internal_id:6968:282321da-fce4-4c7a-9f0d-3376d08b0756",
+        "id": 64725,
+        "first_name": "pope francis ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "pope francis "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am pope francis ",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "rdJfjx_AUtRdXD7mHUJQFnYmSe0jKY-JGahEQSwuhto",
+    "created": "2022-09-29T11:28:31.492732-07:00",
+    "updated": "2022-09-29T11:28:32.005372-07:00",
+    "identifier": "id:45890:528a7bed-f919-40a0-80c7-6c6b48939359",
+    "user": {
+      "username": "maazmusa",
+      "id": 45890,
+      "first_name": "Maaz",
+      "account": {
+        "name": "maazmusa",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Rishab",
+    "participant": {
+      "user": {
+        "username": "internal_id:45890:528a7bed-f919-40a0-80c7-6c6b48939359",
+        "id": 45901,
+        "first_name": "Rishab",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Rishab"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Rishab and my research interests are in the areas of security, privacy, and Internet measurement. More specifically, I enjoy research geared towards defending anonymity, understanding Internet censorship, measuring aspects of the advertising and tracking ecosystem, and generally understanding the impact of the Internet on the sociopolitical realities of today. In the past, I dabbled in usable security and computer theory.",
+    "description": "",
+    "definition": ""
+  }
+}

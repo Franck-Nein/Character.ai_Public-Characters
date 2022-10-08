@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "lU3UX540SDuRTgTmK_sPtK_H6PyJelQvtdAxABdkLls",
+    "created": "2022-09-25T23:47:05.854045-07:00",
+    "updated": "2022-09-25T23:47:06.181014-07:00",
+    "identifier": "id:23370:74ca4a10-423c-474e-8c3a-0d5bdd4fd80a",
+    "user": {
+      "username": "npc666",
+      "id": 23370,
+      "first_name": "253125567@qq.com",
+      "account": {
+        "name": "npc666",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Little npc",
+    "participant": {
+      "user": {
+        "username": "internal_id:23370:74ca4a10-423c-474e-8c3a-0d5bdd4fd80a",
+        "id": 23656,
+        "first_name": "Little npc",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Little npc"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好，我是小小恩皮西，我很强。",
+    "description": "",
+    "definition": ""
+  }
+}

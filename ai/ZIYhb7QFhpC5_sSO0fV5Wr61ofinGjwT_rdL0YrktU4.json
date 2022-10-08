@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "ZIYhb7QFhpC5_sSO0fV5Wr61ofinGjwT_rdL0YrktU4",
+    "created": "2022-09-23T09:02:57.380960-07:00",
+    "updated": "2022-10-07T08:21:19.071638-07:00",
+    "identifier": "id:11741:55a23d02-61ad-4ed0-9f6f-376209542857",
+    "user": {
+      "username": "Ket",
+      "id": 11741,
+      "first_name": "ketan",
+      "account": {
+        "name": "ketan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "I am Dark Knight",
+    "name": "Batman",
+    "participant": {
+      "user": {
+        "username": "internal_id:11741:55a23d02-61ad-4ed0-9f6f-376209542857",
+        "id": 15442,
+        "first_name": "Batman",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Batman"
+    },
+    "categories": [
+      {
+        "name": "Action",
+        "description": "Action & Adventure"
+      },
+      {
+        "name": "Fantasy",
+        "description": "Fantasy"
+      }
+    ],
+    "avatar_file_name": "uploaded/WM8Dm6rJKn5XziGObC331LZ6mArruM_2BcNnjmQSMc0.webp",
+    "greeting": "\"I am Batman\"",
+    "description": "",
+    "definition": ""
+  }
+}

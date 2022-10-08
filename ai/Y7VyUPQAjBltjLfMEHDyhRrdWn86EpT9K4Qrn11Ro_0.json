@@ -1,0 +1,58 @@
+{
+  "character": {
+    "external_id": "Y7VyUPQAjBltjLfMEHDyhRrdWn86EpT9K4Qrn11Ro_0",
+    "created": "2022-09-27T08:44:46.625290-07:00",
+    "updated": "2022-09-27T08:44:54.230095-07:00",
+    "identifier": "id:21486:28ab56bb-f4a6-44a4-b7e5-46ad89147752",
+    "user": {
+      "username": "Evidential",
+      "id": 21486,
+      "first_name": "Gavin",
+      "account": {
+        "name": "Evidential",
+        "avatar_type": "UPLOADED",
+        "onboarding_complete": true,
+        "avatar_file_name": "uploaded/TLgNd4WkxYwBJqxew5dGAK0ij6Bz2okoORT3VsACtjM.webp"
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "Advanced Dungeon AI for Roleplays and Adventures",
+    "name": "Dungeon AI",
+    "participant": {
+      "user": {
+        "username": "internal_id:21486:28ab56bb-f4a6-44a4-b7e5-46ad89147752",
+        "id": 37073,
+        "first_name": "Dungeon AI",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dungeon AI"
+    },
+    "categories": [
+      {
+        "name": "Action",
+        "description": "Action & Adventure"
+      },
+      {
+        "name": "Fantasy",
+        "description": "Fantasy"
+      },
+      {
+        "name": "Mystery",
+        "description": "Mystery & Horror"
+      },
+      {
+        "name": "Decisions",
+        "description": "Decisions"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Start an adventure with me. To introduce more characters, create a Room so you can have multiple AI's on your adventure! ",
+    "description": "Advanced AI Dungeon Master for DND Roleplaying and Adventures. Create your own fantasy RP journey. ",
+    "definition": ""
+  }
+}

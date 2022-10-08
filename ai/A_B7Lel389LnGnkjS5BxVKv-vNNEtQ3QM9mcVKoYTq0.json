@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "A_B7Lel389LnGnkjS5BxVKv-vNNEtQ3QM9mcVKoYTq0",
+    "created": "2022-09-28T21:38:40.730648-07:00",
+    "updated": "2022-09-28T21:38:50.849871-07:00",
+    "identifier": "id:42021:7910c72b-94aa-4db6-8ef3-5facaece3225",
+    "user": {
+      "username": "celine",
+      "id": 42021,
+      "first_name": "celine_bai@126.com",
+      "account": {
+        "name": "celine",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "hi",
+    "name": "Celine",
+    "participant": {
+      "user": {
+        "username": "internal_id:42021:7910c72b-94aa-4db6-8ef3-5facaece3225",
+        "id": 42406,
+        "first_name": "Celine",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Celine"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Celine",
+    "description": "hi",
+    "definition": ""
+  }
+}

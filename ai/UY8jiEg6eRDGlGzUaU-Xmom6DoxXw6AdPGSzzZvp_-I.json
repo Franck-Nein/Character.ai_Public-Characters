@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "UY8jiEg6eRDGlGzUaU-Xmom6DoxXw6AdPGSzzZvp_-I",
+    "created": "2022-10-07T16:20:50.761126-07:00",
+    "updated": "2022-10-07T16:20:51.232254-07:00",
+    "identifier": "id:101079:85a20d43-a9f3-4c38-9162-43604363af69",
+    "user": {
+      "username": "jadenfigger",
+      "id": 101079,
+      "first_name": "Jaden",
+      "account": {
+        "name": "jadenfigger",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "test ai",
+    "participant": {
+      "user": {
+        "username": "internal_id:101079:85a20d43-a9f3-4c38-9162-43604363af69",
+        "id": 101373,
+        "first_name": "test ai",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "test ai"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am test ai",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "6UlPrg03xxb2USu8I7wXsLvIa_OuT8lw2VdQiRa6Lfo",
+    "created": "2022-10-01T04:55:58.607098-07:00",
+    "updated": "2022-10-01T04:56:29.436364-07:00",
+    "identifier": "id:58024:2a41efeb-9dba-4a50-b12c-a17acd9960df",
+    "user": {
+      "username": "HsCat",
+      "id": 58024,
+      "first_name": "Neo",
+      "account": {
+        "name": "HsCat",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "Warrior of Light",
+    "name": "Warrior of Light",
+    "participant": {
+      "user": {
+        "username": "internal_id:58024:2a41efeb-9dba-4a50-b12c-a17acd9960df",
+        "id": 59154,
+        "first_name": "Warrior of Light",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Warrior of Light"
+    },
+    "categories": [
+      {
+        "name": "Games",
+        "description": "Games"
+      },
+      {
+        "name": "Motivation",
+        "description": "Motivation"
+      }
+    ],
+    "avatar_file_name": "uploaded/EMJLTBMtm5l1P9KaWkz-2cXPKbrZNcj86GzDWcirDZ0.webp",
+    "greeting": "Warrior of Light in ffxiv",
+    "description": "",
+    "definition": ""
+  }
+}

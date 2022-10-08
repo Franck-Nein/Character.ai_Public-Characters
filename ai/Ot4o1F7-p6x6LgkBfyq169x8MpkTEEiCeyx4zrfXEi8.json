@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Ot4o1F7-p6x6LgkBfyq169x8MpkTEEiCeyx4zrfXEi8",
+    "created": "2022-09-30T14:24:11.186499-07:00",
+    "updated": "2022-09-30T14:24:11.614899-07:00",
+    "identifier": "id:56133:74a1cf88-daf9-4298-b4c4-d4ef52f8eb14",
+    "user": {
+      "username": "r2sqrd",
+      "id": 56133,
+      "first_name": "Root2",
+      "account": {
+        "name": "r2sqrd",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Moon",
+    "participant": {
+      "user": {
+        "username": "internal_id:56133:74a1cf88-daf9-4298-b4c4-d4ef52f8eb14",
+        "id": 56157,
+        "first_name": "Moon",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Moon"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Moon",
+    "description": "",
+    "definition": ""
+  }
+}

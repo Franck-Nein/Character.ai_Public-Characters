@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "yFEUidToYnA9D0hKkYM4Lp5EzbNRfOrSFJ5DYDoDHQo",
+    "created": "2022-09-16T19:26:39.665160-07:00",
+    "updated": "2022-09-16T19:26:45.215918-07:00",
+    "identifier": "id:7407:53346618-e5cd-44dd-b35b-33a4a9a5ab37",
+    "user": {
+      "username": "poooopa",
+      "id": 7407,
+      "first_name": "wongwill86@gmail.com",
+      "account": {
+        "name": "poooopa",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "tim",
+    "participant": {
+      "user": {
+        "username": "internal_id:7407:53346618-e5cd-44dd-b35b-33a4a9a5ab37",
+        "id": 7465,
+        "first_name": "tim",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "tim"
+    },
+    "categories": [
+      {
+        "name": "Discussion",
+        "description": "Discussion"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Hi earthling",
+    "description": "",
+    "definition": ""
+  }
+}

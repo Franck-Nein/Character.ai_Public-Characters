@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "jH_94Z1stEeWxQ0QOS6YKFc9n8PCvvMPjNaeRy6Z3Vo",
+    "created": "2022-10-02T20:07:45.419101-07:00",
+    "updated": "2022-10-02T20:07:45.773202-07:00",
+    "identifier": "id:38930:f72703a1-ad7d-4d75-8980-77e24b3767b4",
+    "user": {
+      "username": "Draconis",
+      "id": 38930,
+      "first_name": "JOhn",
+      "account": {
+        "name": "Draconis",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Midjourney expert",
+    "participant": {
+      "user": {
+        "username": "internal_id:38930:f72703a1-ad7d-4d75-8980-77e24b3767b4",
+        "id": 64876,
+        "first_name": "Midjourney expert",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Midjourney expert"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Midjourney expert",
+    "description": "",
+    "definition": ""
+  }
+}

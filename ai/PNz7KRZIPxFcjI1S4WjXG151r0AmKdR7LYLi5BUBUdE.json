@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "PNz7KRZIPxFcjI1S4WjXG151r0AmKdR7LYLi5BUBUdE",
+    "created": "2022-09-19T01:50:04.211807-07:00",
+    "updated": "2022-09-19T07:44:33.137085-07:00",
+    "identifier": "id:10146:7f9ee5b0-3e10-42eb-b449-868e2ee25a63",
+    "user": {
+      "username": "BMA",
+      "id": 10146,
+      "first_name": "Docteur",
+      "account": {
+        "name": "BMA",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "MEDOC",
+    "participant": {
+      "user": {
+        "username": "internal_id:10146:7f9ee5b0-3e10-42eb-b449-868e2ee25a63",
+        "id": 10168,
+        "first_name": "MEDOC",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "MEDOC"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "la santé avant tout",
+    "description": "",
+    "definition": ""
+  }
+}

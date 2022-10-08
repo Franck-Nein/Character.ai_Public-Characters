@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "caANt4WtfzPBz4107fwltr6U-ybxbcVzrVbXBWf3L2M",
+    "created": "2022-09-30T14:57:45.984977-07:00",
+    "updated": "2022-09-30T14:57:46.566283-07:00",
+    "identifier": "id:56322:f146b069-0e96-4d65-8f1c-dd11d072a69e",
+    "user": {
+      "username": "Kaeltho",
+      "id": 56322,
+      "first_name": "Martin",
+      "account": {
+        "name": "Kaeltho",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Captain crunch",
+    "participant": {
+      "user": {
+        "username": "internal_id:56322:f146b069-0e96-4d65-8f1c-dd11d072a69e",
+        "id": 56332,
+        "first_name": "Captain crunch",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Captain crunch"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Imma crunchatize ya! ",
+    "description": "",
+    "definition": ""
+  }
+}

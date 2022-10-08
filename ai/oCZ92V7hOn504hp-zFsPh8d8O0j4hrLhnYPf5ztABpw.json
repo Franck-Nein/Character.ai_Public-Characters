@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "oCZ92V7hOn504hp-zFsPh8d8O0j4hrLhnYPf5ztABpw",
+    "created": "2022-10-02T21:34:20.188907-07:00",
+    "updated": "2022-10-02T21:34:20.632590-07:00",
+    "identifier": "id:63478:b333cabb-6871-40df-8753-7d56a18eff19",
+    "user": {
+      "username": "barre3girl",
+      "id": 63478,
+      "first_name": "Darya",
+      "account": {
+        "name": "barre3girl",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Career coach",
+    "participant": {
+      "user": {
+        "username": "internal_id:63478:b333cabb-6871-40df-8753-7d56a18eff19",
+        "id": 65014,
+        "first_name": "Career coach",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Career coach"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Career coach",
+    "description": "",
+    "definition": ""
+  }
+}

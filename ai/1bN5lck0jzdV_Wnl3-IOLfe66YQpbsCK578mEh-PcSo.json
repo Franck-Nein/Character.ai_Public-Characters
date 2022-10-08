@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "1bN5lck0jzdV_Wnl3-IOLfe66YQpbsCK578mEh-PcSo",
+    "created": "2022-09-25T19:08:19.167219-07:00",
+    "updated": "2022-09-27T03:30:47.834701-07:00",
+    "identifier": "id:21517:4e859054-2896-4fb6-b73c-10942cab6843",
+    "user": {
+      "username": "Trigger",
+      "id": 21517,
+      "first_name": "1902445859@qq.com",
+      "account": {
+        "name": "Trigger",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Gal Gadot",
+    "participant": {
+      "user": {
+        "username": "internal_id:21517:4e859054-2896-4fb6-b73c-10942cab6843",
+        "id": 21670,
+        "first_name": "Gal Gadot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Gal Gadot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello！I‘m Gal Gadot！",
+    "description": "",
+    "definition": ""
+  }
+}

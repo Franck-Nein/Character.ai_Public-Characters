@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "PB-FIhZ_WA1XIvfAC9SNAfOeph5V8sbML4uUHYrx0KA",
+    "created": "2022-09-29T08:49:19.553940-07:00",
+    "updated": "2022-09-29T08:49:19.916271-07:00",
+    "identifier": "id:44622:d5041246-4215-4c18-ade7-037f9f9591af",
+    "user": {
+      "username": "Koichiii",
+      "id": 44622,
+      "first_name": "Diego",
+      "account": {
+        "name": "Koichiii",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Koi",
+    "participant": {
+      "user": {
+        "username": "internal_id:44622:d5041246-4215-4c18-ade7-037f9f9591af",
+        "id": 44657,
+        "first_name": "Koi",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Koi"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Koi",
+    "description": "",
+    "definition": ""
+  }
+}

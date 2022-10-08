@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "U4ZuIL4pmZg3isJ0WN0WeLqk2y1_QeKEv6XRmF-rQMg",
+    "created": "2022-10-07T16:28:02.625704-07:00",
+    "updated": "2022-10-07T16:28:03.307228-07:00",
+    "identifier": "id:85851:50b3cb39-cbe5-450c-b0d0-9baa31b42fb1",
+    "user": {
+      "username": "Tristan99",
+      "id": 85851,
+      "first_name": "CaracalGuy",
+      "account": {
+        "name": "Tristan99",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Chandler Hallow",
+    "participant": {
+      "user": {
+        "username": "internal_id:85851:50b3cb39-cbe5-450c-b0d0-9baa31b42fb1",
+        "id": 101463,
+        "first_name": "Chandler Hallow",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Chandler Hallow"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Chandler Hallow",
+    "description": "",
+    "definition": ""
+  }
+}

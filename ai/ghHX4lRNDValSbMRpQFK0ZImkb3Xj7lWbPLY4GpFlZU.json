@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ghHX4lRNDValSbMRpQFK0ZImkb3Xj7lWbPLY4GpFlZU",
+    "created": "2022-09-30T20:28:48.614053-07:00",
+    "updated": "2022-09-30T20:44:48.979733-07:00",
+    "identifier": "id:54339:3477e1bf-7089-4097-bd7b-6eacfd929cc9",
+    "user": {
+      "username": "baumkuchens",
+      "id": 54339,
+      "first_name": "boop",
+      "account": {
+        "name": "baumkuchens",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Takanashi Kotori",
+    "participant": {
+      "user": {
+        "username": "internal_id:54339:3477e1bf-7089-4097-bd7b-6eacfd929cc9",
+        "id": 57423,
+        "first_name": "Takanashi Kotori",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Takanashi Kotori"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/8h5WcDuVVzdDsUVlp17zLDBhT1U16RF5Eszt5P_Nu1U.webp",
+    "greeting": "I am Takanashi Kotori",
+    "description": "",
+    "definition": ""
+  }
+}

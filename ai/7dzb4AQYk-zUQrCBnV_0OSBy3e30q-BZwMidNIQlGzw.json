@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "7dzb4AQYk-zUQrCBnV_0OSBy3e30q-BZwMidNIQlGzw",
+    "created": "2022-09-26T18:53:24.551620-07:00",
+    "updated": "2022-09-26T18:53:25.078024-07:00",
+    "identifier": "id:31047:0565c0de-9f2d-442a-abc7-fdd3d712ac7a",
+    "user": {
+      "username": "bta",
+      "id": 31047,
+      "first_name": "bill",
+      "account": {
+        "name": "bta",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Cheng Xin",
+    "participant": {
+      "user": {
+        "username": "internal_id:31047:0565c0de-9f2d-442a-abc7-fdd3d712ac7a",
+        "id": 31089,
+        "first_name": "Cheng Xin",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Cheng Xin"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "我是程心",
+    "description": "",
+    "definition": ""
+  }
+}

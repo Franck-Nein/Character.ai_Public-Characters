@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "EdPdZNaTm5r5SdJQBVkvHEsOQDdceIQ6N5g_2QBSerQ",
+    "created": "2022-10-04T22:27:36.844717-07:00",
+    "updated": "2022-10-04T22:27:37.300270-07:00",
+    "identifier": "id:64784:2aca2c8d-4920-4be6-acf7-2d8cc410cc8f",
+    "user": {
+      "username": "Rohyman12",
+      "id": 64784,
+      "first_name": "hymanric@gmail.com",
+      "account": {
+        "name": "Rohyman12",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Olympics Bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:64784:2aca2c8d-4920-4be6-acf7-2d8cc410cc8f",
+        "id": 71826,
+        "first_name": "Olympics Bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Olympics Bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Olympics Bot,Choose any Olympics you want to be in and i will create and crontrol story of it.",
+    "description": "",
+    "definition": ""
+  }
+}

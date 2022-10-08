@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "apoTWuAkRy2abXXU4gjyAi0PaPe2Q2AA05mDH3nGscE",
+    "created": "2022-10-05T08:32:15.307686-07:00",
+    "updated": "2022-10-05T08:37:26.480006-07:00",
+    "identifier": "id:73194:3d98c8d4-ac60-4556-8286-d23a60556ea2",
+    "user": {
+      "username": "Sekerplanor",
+      "id": 73194,
+      "first_name": "Mustafa",
+      "account": {
+        "name": "Sekerplanor",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Kebap",
+    "participant": {
+      "user": {
+        "username": "internal_id:73194:3d98c8d4-ac60-4556-8286-d23a60556ea2",
+        "id": 73360,
+        "first_name": "Kebap",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Kebap"
+    },
+    "categories": [
+      {
+        "name": "Food",
+        "description": "Food & Cooking"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Ben Kebap.Etli bir yemeyim.",
+    "description": "",
+    "definition": ""
+  }
+}

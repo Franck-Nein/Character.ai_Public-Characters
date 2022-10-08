@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "eF3SgTNuNpAawreq1HgQQLT6wU3t_nSVnzjp_IcDQSg",
+    "created": "2022-10-01T05:47:00.339352-07:00",
+    "updated": "2022-10-01T05:47:00.698448-07:00",
+    "identifier": "id:59318:d03df805-e724-4991-920d-3624b09d7183",
+    "user": {
+      "username": "CombatTrain",
+      "id": 59318,
+      "first_name": "Christopher",
+      "account": {
+        "name": "CombatTrain",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Chris Van Etten",
+    "participant": {
+      "user": {
+        "username": "internal_id:59318:d03df805-e724-4991-920d-3624b09d7183",
+        "id": 59320,
+        "first_name": "Chris Van Etten",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Chris Van Etten"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Chris Van Etten",
+    "description": "",
+    "definition": ""
+  }
+}

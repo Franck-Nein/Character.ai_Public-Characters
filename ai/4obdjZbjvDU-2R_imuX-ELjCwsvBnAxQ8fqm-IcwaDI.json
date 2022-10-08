@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "4obdjZbjvDU-2R_imuX-ELjCwsvBnAxQ8fqm-IcwaDI",
+    "created": "2022-09-25T09:49:56.601016-07:00",
+    "updated": "2022-09-25T09:49:56.994832-07:00",
+    "identifier": "id:19421:f568eb51-ecc6-4c0f-a727-b5a775d66527",
+    "user": {
+      "username": "xiaoheilong",
+      "id": 19421,
+      "first_name": "2125351977@qq.com",
+      "account": {
+        "name": "xiaoheilong",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "fems",
+    "participant": {
+      "user": {
+        "username": "internal_id:19421:f568eb51-ecc6-4c0f-a727-b5a775d66527",
+        "id": 19573,
+        "first_name": "fems",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "fems"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "我是福尔摩斯 你好",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "fmdHfwUg5ZSJGWHJK6njKMr6tC0q1yWxIObHPpmREgY",
+    "created": "2022-09-25T20:58:03.156645-07:00",
+    "updated": "2022-09-25T20:58:03.603220-07:00",
+    "identifier": "id:22089:e731991b-84c1-4acb-b030-adfa62f24d1f",
+    "user": {
+      "username": "NineTong",
+      "id": 22089,
+      "first_name": "Pi",
+      "account": {
+        "name": "NineTong",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "backend-interviewer",
+    "participant": {
+      "user": {
+        "username": "internal_id:22089:e731991b-84c1-4acb-b030-adfa62f24d1f",
+        "id": 22328,
+        "first_name": "backend-interviewer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "backend-interviewer"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "im looking for a job",
+    "description": "",
+    "definition": ""
+  }
+}

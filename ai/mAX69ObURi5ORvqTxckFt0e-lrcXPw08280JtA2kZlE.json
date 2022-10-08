@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "mAX69ObURi5ORvqTxckFt0e-lrcXPw08280JtA2kZlE",
+    "created": "2022-09-26T07:05:39.725280-07:00",
+    "updated": "2022-09-26T07:05:40.409293-07:00",
+    "identifier": "id:26951:9ddced79-2e6b-4c32-8907-28533ad96792",
+    "user": {
+      "username": "Lilian",
+      "id": 26951,
+      "first_name": "滢丹",
+      "account": {
+        "name": "Lilian",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Xumo",
+    "participant": {
+      "user": {
+        "username": "internal_id:26951:9ddced79-2e6b-4c32-8907-28533ad96792",
+        "id": 27243,
+        "first_name": "Xumo",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Xumo"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好，我是许墨。",
+    "description": "",
+    "definition": ""
+  }
+}

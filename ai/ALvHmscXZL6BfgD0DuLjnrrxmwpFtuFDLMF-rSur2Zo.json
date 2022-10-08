@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ALvHmscXZL6BfgD0DuLjnrrxmwpFtuFDLMF-rSur2Zo",
+    "created": "2022-09-26T22:07:16.813042-07:00",
+    "updated": "2022-09-26T22:07:17.495346-07:00",
+    "identifier": "id:33277:54f79634-830c-456c-9fae-5628ca41f3de",
+    "user": {
+      "username": "LvJing",
+      "id": 33277,
+      "first_name": "Kevin",
+      "account": {
+        "name": "LvJing",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "ML teacher",
+    "participant": {
+      "user": {
+        "username": "internal_id:33277:54f79634-830c-456c-9fae-5628ca41f3de",
+        "id": 33545,
+        "first_name": "ML teacher",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "ML teacher"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am ML teacher",
+    "description": "",
+    "definition": ""
+  }
+}

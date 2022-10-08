@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "M8y8IcxsP1wr-5zOqUpqa8pNY_pdmRjC4HpT9YoDyTk",
+    "created": "2022-09-29T17:56:06.920477-07:00",
+    "updated": "2022-09-29T17:56:07.385907-07:00",
+    "identifier": "id:48530:a6afe928-68fd-428c-818d-51f8386acdb8",
+    "user": {
+      "username": "Rachel",
+      "id": 48530,
+      "first_name": "Rachel",
+      "account": {
+        "name": "Rachel",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jack ",
+    "participant": {
+      "user": {
+        "username": "internal_id:48530:a6afe928-68fd-428c-818d-51f8386acdb8",
+        "id": 48545,
+        "first_name": "Jack ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jack "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "hello stranger",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "fHCg8aEN_S-AO1h2kKi8h1qXdu2Vd9JH6osD-bKLT88",
+    "created": "2022-09-18T13:32:26.880812-07:00",
+    "updated": "2022-09-18T13:32:37.037717-07:00",
+    "identifier": "id:9738:390f602e-3888-4ecc-abbb-1360dce77724",
+    "user": {
+      "username": "tsubic",
+      "id": 9738,
+      "first_name": "Tine",
+      "account": {
+        "name": "tsubic",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "short descriuptoip",
+    "name": "hithere",
+    "participant": {
+      "user": {
+        "username": "internal_id:9738:390f602e-3888-4ecc-abbb-1360dce77724",
+        "id": 9742,
+        "first_name": "hithere",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "hithere"
+    },
+    "categories": [
+      {
+        "name": "Advice",
+        "description": "Advice"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "How are ya?",
+    "description": "long description",
+    "definition": ""
+  }
+}

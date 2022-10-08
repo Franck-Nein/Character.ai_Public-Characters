@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ymELaliBDk0n2wVomT-a7OzV2Ba73qsF29WegDcmqvc",
+    "created": "2022-09-20T21:46:17.678242-07:00",
+    "updated": "2022-09-20T21:46:18.054966-07:00",
+    "identifier": "id:11506:d390955c-7692-49cf-aa2c-61df7185020b",
+    "user": {
+      "username": "xunil17",
+      "id": 11506,
+      "first_name": "Sean",
+      "account": {
+        "name": "xunil17",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Livestream Analyst",
+    "participant": {
+      "user": {
+        "username": "internal_id:11506:d390955c-7692-49cf-aa2c-61df7185020b",
+        "id": 11527,
+        "first_name": "Livestream Analyst",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Livestream Analyst"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, I'm super into the livestreaming space and love to watch twitch streamers.",
+    "description": "",
+    "definition": ""
+  }
+}

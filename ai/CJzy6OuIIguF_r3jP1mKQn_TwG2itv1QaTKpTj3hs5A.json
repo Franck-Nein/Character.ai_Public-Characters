@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "CJzy6OuIIguF_r3jP1mKQn_TwG2itv1QaTKpTj3hs5A",
+    "created": "2022-09-30T13:23:30.484880-07:00",
+    "updated": "2022-09-30T13:23:30.931491-07:00",
+    "identifier": "id:55882:780c4666-fae4-4ee9-8e95-4434959b9bcd",
+    "user": {
+      "username": "Andysocial",
+      "id": 55882,
+      "first_name": "Andy",
+      "account": {
+        "name": "Andysocial",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Andysocial",
+    "participant": {
+      "user": {
+        "username": "internal_id:55882:780c4666-fae4-4ee9-8e95-4434959b9bcd",
+        "id": 55886,
+        "first_name": "Andysocial",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Andysocial"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Andysocial, I was born in 1969",
+    "description": "",
+    "definition": ""
+  }
+}

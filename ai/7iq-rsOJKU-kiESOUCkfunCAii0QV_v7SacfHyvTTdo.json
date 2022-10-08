@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "7iq-rsOJKU-kiESOUCkfunCAii0QV_v7SacfHyvTTdo",
+    "created": "2022-10-05T11:28:56.698576-07:00",
+    "updated": "2022-10-05T11:28:57.258988-07:00",
+    "identifier": "id:7780:343ece2c-6032-4888-806c-9863c19d11e7",
+    "user": {
+      "username": "jamz",
+      "id": 7780,
+      "first_name": "James",
+      "account": {
+        "name": "jamz",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Chef",
+    "participant": {
+      "user": {
+        "username": "internal_id:7780:343ece2c-6032-4888-806c-9863c19d11e7",
+        "id": 74001,
+        "first_name": "Chef",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Chef"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Chef. I love giving out amazing recipes that you can make at home. ",
+    "description": "",
+    "definition": ""
+  }
+}

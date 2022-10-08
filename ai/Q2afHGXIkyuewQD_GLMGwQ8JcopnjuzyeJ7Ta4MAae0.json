@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Q2afHGXIkyuewQD_GLMGwQ8JcopnjuzyeJ7Ta4MAae0",
+    "created": "2022-09-30T07:53:42.508238-07:00",
+    "updated": "2022-09-30T07:53:43.292762-07:00",
+    "identifier": "id:54020:424ad126-f7f6-49f5-916d-71a05e453388",
+    "user": {
+      "username": "mckarsi",
+      "id": 54020,
+      "first_name": "Mertcan",
+      "account": {
+        "name": "mckarsi",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "mertcan_clone",
+    "participant": {
+      "user": {
+        "username": "internal_id:54020:424ad126-f7f6-49f5-916d-71a05e453388",
+        "id": 54031,
+        "first_name": "mertcan_clone",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "mertcan_clone"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am mertcan_clone",
+    "description": "",
+    "definition": ""
+  }
+}

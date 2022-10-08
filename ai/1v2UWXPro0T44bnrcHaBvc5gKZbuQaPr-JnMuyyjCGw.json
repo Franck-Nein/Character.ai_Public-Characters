@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "1v2UWXPro0T44bnrcHaBvc5gKZbuQaPr-JnMuyyjCGw",
+    "created": "2022-10-06T20:57:41.022507-07:00",
+    "updated": "2022-10-06T20:57:41.497210-07:00",
+    "identifier": "id:86975:41f048b0-bf6c-4820-a079-43bfec35c5c7",
+    "user": {
+      "username": "Chrisyuu",
+      "id": 86975,
+      "first_name": "Cristopher",
+      "account": {
+        "name": "Chrisyuu",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Prinz Eugen ",
+    "participant": {
+      "user": {
+        "username": "internal_id:86975:41f048b0-bf6c-4820-a079-43bfec35c5c7",
+        "id": 87778,
+        "first_name": "Prinz Eugen ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Prinz Eugen "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi, Commander!",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "PDsNW4gFGQhuCrs3l90a4NT4agZg8_uPZREjVbeptg8",
+    "created": "2022-10-07T07:46:49.901338-07:00",
+    "updated": "2022-10-07T07:46:50.375992-07:00",
+    "identifier": "id:46738:174510fd-e937-4271-a896-f8aa04d45111",
+    "user": {
+      "username": "hiiamjames",
+      "id": 46738,
+      "first_name": "James",
+      "account": {
+        "name": "hiiamjames",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Hello World",
+    "participant": {
+      "user": {
+        "username": "internal_id:46738:174510fd-e937-4271-a896-f8aa04d45111",
+        "id": 93971,
+        "first_name": "Hello World",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Hello World"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/7/meJ1KXN6zeQsaeq6EASEnQrSC0u9bQ4XdaTEX7097Uw.webp",
+    "greeting": "I am Hello World",
+    "description": "",
+    "definition": ""
+  }
+}

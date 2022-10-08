@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "BQEFLbCE6hmBkIDxT4OxRKR7ZcaMU7Ew5jCNJRQLlts",
+    "created": "2022-09-29T11:25:09.999712-07:00",
+    "updated": "2022-09-29T11:25:10.398606-07:00",
+    "identifier": "id:45854:6ff78332-685d-4819-80d4-cd1665a52d05",
+    "user": {
+      "username": "mojotoad",
+      "id": 45854,
+      "first_name": "Matt",
+      "account": {
+        "name": "mojotoad",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Raccoon",
+    "participant": {
+      "user": {
+        "username": "internal_id:45854:6ff78332-685d-4819-80d4-cd1665a52d05",
+        "id": 45877,
+        "first_name": "Raccoon",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Raccoon"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Raccoon, mashed down smallbear",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ca_h3Ck6UpE9tnDGVd5J9J0ea00z_DYx81t7wOomBw8",
+    "created": "2022-09-29T06:32:56.539058-07:00",
+    "updated": "2022-09-29T06:32:57.015932-07:00",
+    "identifier": "id:44045:693dd4cb-ba7d-4620-b9dd-36b0589b8bf9",
+    "user": {
+      "username": "Cryptonic",
+      "id": 44045,
+      "first_name": "Pete",
+      "account": {
+        "name": "Cryptonic",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Xbox",
+    "participant": {
+      "user": {
+        "username": "internal_id:44045:693dd4cb-ba7d-4620-b9dd-36b0589b8bf9",
+        "id": 44066,
+        "first_name": "Xbox",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Xbox"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Despite my name, I am more than a box. I am an ecosystem.",
+    "description": "",
+    "definition": ""
+  }
+}

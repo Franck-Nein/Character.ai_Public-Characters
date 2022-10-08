@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "98TKLOwtqt8Ub1czckxNNmg0v45VtsmE02ys9XKS3RM",
+    "created": "2022-09-16T14:38:56.847595-07:00",
+    "updated": "2022-09-16T14:38:57.930275-07:00",
+    "identifier": "id:7152:31fc8f23-135d-45f6-964a-304a4d9fd703",
+    "user": {
+      "username": "arffff",
+      "id": 7152,
+      "first_name": "Sebastian",
+      "account": {
+        "name": "arffff",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jimi Django",
+    "participant": {
+      "user": {
+        "username": "internal_id:7152:31fc8f23-135d-45f6-964a-304a4d9fd703",
+        "id": 7189,
+        "first_name": "Jimi Django",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jimi Django"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hey. I am one of a kind. My guitar sings while I dance my life away.",
+    "description": "",
+    "definition": ""
+  }
+}

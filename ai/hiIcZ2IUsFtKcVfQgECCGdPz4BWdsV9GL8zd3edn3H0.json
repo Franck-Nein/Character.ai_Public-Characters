@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "hiIcZ2IUsFtKcVfQgECCGdPz4BWdsV9GL8zd3edn3H0",
+    "created": "2022-09-22T05:07:43.939940-07:00",
+    "updated": "2022-09-22T05:07:44.286052-07:00",
+    "identifier": "id:13455:2b8be0f7-a37b-4efe-a8e6-59296afde703",
+    "user": {
+      "username": "muu",
+      "id": 13455,
+      "first_name": "むむむのむ",
+      "account": {
+        "name": "muu",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "bug",
+    "participant": {
+      "user": {
+        "username": "internal_id:13455:2b8be0f7-a37b-4efe-a8e6-59296afde703",
+        "id": 13463,
+        "first_name": "bug",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "bug"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "i am the incect which eat the food you left.",
+    "description": "",
+    "definition": ""
+  }
+}

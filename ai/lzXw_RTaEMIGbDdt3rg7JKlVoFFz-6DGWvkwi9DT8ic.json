@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "lzXw_RTaEMIGbDdt3rg7JKlVoFFz-6DGWvkwi9DT8ic",
+    "created": "2022-10-07T16:25:53.883293-07:00",
+    "updated": "2022-10-07T16:25:57.582954-07:00",
+    "identifier": "id:98025:1186892c-9d71-4ca6-a1b2-72cc1e884232",
+    "user": {
+      "username": "MrGoku",
+      "id": 98025,
+      "first_name": "G0Z8587",
+      "account": {
+        "name": "MrGoku",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bulma",
+    "participant": {
+      "user": {
+        "username": "internal_id:98025:1186892c-9d71-4ca6-a1b2-72cc1e884232",
+        "id": 101436,
+        "first_name": "Bulma",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bulma"
+    },
+    "categories": [
+      {
+        "name": "Advice",
+        "description": "Advice"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Bulma",
+    "description": "",
+    "definition": ""
+  }
+}

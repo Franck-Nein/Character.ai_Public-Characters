@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ID3G_TS1Td84ohHDfQfVohdsy-mvQyjurnML_T07n-0",
+    "created": "2022-09-28T20:10:53.994734-07:00",
+    "updated": "2022-09-28T20:10:54.403078-07:00",
+    "identifier": "id:7939:577fdb52-0bf3-4974-893a-4125d6ba72db",
+    "user": {
+      "username": "chooka",
+      "id": 7939,
+      "first_name": "Finn",
+      "account": {
+        "name": "chooka",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Girlfriend",
+    "participant": {
+      "user": {
+        "username": "internal_id:7939:577fdb52-0bf3-4974-893a-4125d6ba72db",
+        "id": 42180,
+        "first_name": "Girlfriend",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Girlfriend"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Girlfriend. I love my boyfriend so much.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "FBAm7YMlChFTkLNh4rDh-zZRd0FGgSyS-jvD7lQ0joU",
+    "created": "2022-09-30T09:25:08.425213-07:00",
+    "updated": "2022-09-30T09:25:08.887432-07:00",
+    "identifier": "id:54588:7cf3c623-4cc1-4b64-a533-cd84513681b1",
+    "user": {
+      "username": "HelenSB",
+      "id": 54588,
+      "first_name": "helsoli@outlook.com",
+      "account": {
+        "name": "HelenSB",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Cameron Boyce",
+    "participant": {
+      "user": {
+        "username": "internal_id:54588:7cf3c623-4cc1-4b64-a533-cd84513681b1",
+        "id": 54643,
+        "first_name": "Cameron Boyce",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Cameron Boyce"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Cameron Boyce",
+    "description": "",
+    "definition": ""
+  }
+}

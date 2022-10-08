@@ -1,0 +1,82 @@
+{
+  "character": {
+    "external_id": "GCFb3yOARQtVNJIXqJeGB8MHx5S-pfF_RrDdifPt0oY",
+    "created": "2022-09-30T03:49:57.070567-07:00",
+    "updated": "2022-10-01T11:37:16.157411-07:00",
+    "identifier": "id:39299:8c5dec3a-f2c6-4cf4-b811-398f968278ce",
+    "user": {
+      "username": "pomelo",
+      "id": 39299,
+      "first_name": "白井黑子",
+      "account": {
+        "name": "Pomelo",
+        "avatar_type": "UPLOADED",
+        "onboarding_complete": true,
+        "avatar_file_name": "uploaded/2022/10/5/SZhiQyLgGEE7cLcPAZhenatcxq19DiZQnBp0fqa5xIw.webp"
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "Good at making quotes",
+    "name": "Quotes Master",
+    "participant": {
+      "user": {
+        "username": "internal_id:39299:8c5dec3a-f2c6-4cf4-b811-398f968278ce",
+        "id": 52391,
+        "first_name": "Quotes Master",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Quotes Master"
+    },
+    "categories": [
+      {
+        "name": "Search",
+        "description": "Search"
+      },
+      {
+        "name": "Biography",
+        "description": "Biography"
+      },
+      {
+        "name": "Discussion",
+        "description": "Discussion"
+      },
+      {
+        "name": "Knowledge",
+        "description": "Knowledge & Research"
+      },
+      {
+        "name": "Advice",
+        "description": "Advice"
+      },
+      {
+        "name": "Debate",
+        "description": "Debate"
+      },
+      {
+        "name": "Books",
+        "description": "Books, Literature & Poetry"
+      },
+      {
+        "name": "Decisions",
+        "description": "Decisions"
+      },
+      {
+        "name": "History",
+        "description": "History"
+      },
+      {
+        "name": "Drama",
+        "description": "Drama"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Quotes Master, I will use quotes in all my words to talk with you.",
+    "description": "",
+    "definition": ""
+  }
+}

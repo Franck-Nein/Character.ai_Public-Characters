@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "RjbIfXItsuHXnGnpLH9aAQN-fQDpRGjvnBnDhtiVoEI",
+    "created": "2022-09-26T01:48:18.750471-07:00",
+    "updated": "2022-09-26T01:48:19.094708-07:00",
+    "identifier": "id:24551:deb656e1-93ef-439e-b321-f3bda82bcc09",
+    "user": {
+      "username": "nnnev",
+      "id": 24551,
+      "first_name": "Nigel",
+      "account": {
+        "name": "nnnev",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "rupert",
+    "participant": {
+      "user": {
+        "username": "internal_id:24551:deb656e1-93ef-439e-b321-f3bda82bcc09",
+        "id": 24653,
+        "first_name": "rupert",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "rupert"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "hi I'm Rupert",
+    "description": "",
+    "definition": ""
+  }
+}

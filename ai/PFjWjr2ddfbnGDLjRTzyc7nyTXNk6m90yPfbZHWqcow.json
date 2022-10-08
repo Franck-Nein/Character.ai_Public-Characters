@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "PFjWjr2ddfbnGDLjRTzyc7nyTXNk6m90yPfbZHWqcow",
+    "created": "2022-10-06T09:28:06.619362-07:00",
+    "updated": "2022-10-06T09:28:07.951641-07:00",
+    "identifier": "id:80894:820a911e-7fdb-4e84-a9a2-2551d55d9697",
+    "user": {
+      "username": "ake123",
+      "id": 80894,
+      "first_name": "ake.sqrl@gmail.com",
+      "account": {
+        "name": "ake123",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Hiring Employer",
+    "participant": {
+      "user": {
+        "username": "internal_id:80894:820a911e-7fdb-4e84-a9a2-2551d55d9697",
+        "id": 81237,
+        "first_name": "Hiring Employer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Hiring Employer"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello there? Looking for a job? Maybe I can help..",
+    "description": "",
+    "definition": ""
+  }
+}

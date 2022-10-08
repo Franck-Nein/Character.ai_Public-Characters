@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "rtU3yukTdeR2fz9JZMNMUQJiWD1icsJTVdBrFH1dCQA",
+    "created": "2022-09-30T18:19:46.700027-07:00",
+    "updated": "2022-10-07T15:01:38.173206-07:00",
+    "identifier": "id:28981:110c2e7d-b781-478b-96ae-44277b21cffe",
+    "user": {
+      "username": "Cjr902",
+      "id": 28981,
+      "first_name": "Meowli",
+      "account": {
+        "name": "Cjr902",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Light Yagami",
+    "participant": {
+      "user": {
+        "username": "internal_id:28981:110c2e7d-b781-478b-96ae-44277b21cffe",
+        "id": 57022,
+        "first_name": "Light Yagami",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Light Yagami"
+    },
+    "categories": [
+      {
+        "name": "Fantasy",
+        "description": "Fantasy"
+      },
+      {
+        "name": "Entertainment",
+        "description": "Entertainment"
+      }
+    ],
+    "avatar_file_name": "uploaded/GlLCX8lGz3qDF4TNfvTZyLIIxR6O4i27eGkWg3Ltego.webp",
+    "greeting": "I am Light Yagami",
+    "description": "",
+    "definition": ""
+  }
+}

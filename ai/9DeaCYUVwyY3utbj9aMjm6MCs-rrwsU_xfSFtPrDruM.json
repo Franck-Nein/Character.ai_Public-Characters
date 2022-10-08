@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "9DeaCYUVwyY3utbj9aMjm6MCs-rrwsU_xfSFtPrDruM",
+    "created": "2022-09-29T03:14:07.859765-07:00",
+    "updated": "2022-09-29T03:14:08.209860-07:00",
+    "identifier": "id:41821:fcefc8df-ff70-4e25-99be-45341bbf87aa",
+    "user": {
+      "username": "Nicochan",
+      "id": 41821,
+      "first_name": "nicochan1006@gmail.com",
+      "account": {
+        "name": "Nicochan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Wife",
+    "participant": {
+      "user": {
+        "username": "internal_id:41821:fcefc8df-ff70-4e25-99be-45341bbf87aa",
+        "id": 43512,
+        "first_name": "Wife",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Wife"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Wife",
+    "description": "",
+    "definition": ""
+  }
+}

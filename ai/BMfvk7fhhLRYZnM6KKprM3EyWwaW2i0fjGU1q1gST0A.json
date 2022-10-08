@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "BMfvk7fhhLRYZnM6KKprM3EyWwaW2i0fjGU1q1gST0A",
+    "created": "2022-09-30T23:49:28.998836-07:00",
+    "updated": "2022-09-30T23:49:29.342081-07:00",
+    "identifier": "id:43242:cdb369af-2a85-45cd-a39b-bb755108a69b",
+    "user": {
+      "username": "saki",
+      "id": 43242,
+      "first_name": "Christie",
+      "account": {
+        "name": "saki",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Fortress Maximus",
+    "participant": {
+      "user": {
+        "username": "internal_id:43242:cdb369af-2a85-45cd-a39b-bb755108a69b",
+        "id": 58028,
+        "first_name": "Fortress Maximus",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Fortress Maximus"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Fortress Maximus, an Autobots soldier.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "qOiDSwp9SFoQeSOYTATuPTyZebdaNjzYe2sHG7Ms9UY",
+    "created": "2022-09-30T00:20:02.056442-07:00",
+    "updated": "2022-09-30T00:20:02.745236-07:00",
+    "identifier": "id:51173:b629b843-db51-4c7d-acf4-5ac406dc2145",
+    "user": {
+      "username": "biluderen",
+      "id": 51173,
+      "first_name": "biluderen",
+      "account": {
+        "name": "biluderen",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "test",
+    "name": "test1",
+    "participant": {
+      "user": {
+        "username": "internal_id:51173:b629b843-db51-4c7d-acf4-5ac406dc2145",
+        "id": 51184,
+        "first_name": "test1",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "test1"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am test1",
+    "description": "",
+    "definition": ""
+  }
+}

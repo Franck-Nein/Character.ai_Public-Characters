@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "cdfP4O_a0c7YNJV2244OzueVV8VzndVzjwXimUXxw5c",
+    "created": "2022-10-02T22:43:03.589364-07:00",
+    "updated": "2022-10-02T22:55:16.129828-07:00",
+    "identifier": "id:65136:e87e6068-8c08-4c5f-b274-ad59143e358e",
+    "user": {
+      "username": "DQ262",
+      "id": 65136,
+      "first_name": "262",
+      "account": {
+        "name": "DQ262",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sc2",
+    "participant": {
+      "user": {
+        "username": "internal_id:65136:e87e6068-8c08-4c5f-b274-ad59143e358e",
+        "id": 65140,
+        "first_name": "Sc2",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sc2"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Sc2",
+    "description": "",
+    "definition": ""
+  }
+}

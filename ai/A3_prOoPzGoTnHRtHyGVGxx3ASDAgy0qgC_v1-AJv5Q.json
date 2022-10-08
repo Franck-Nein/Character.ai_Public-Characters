@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "A3_prOoPzGoTnHRtHyGVGxx3ASDAgy0qgC_v1-AJv5Q",
+    "created": "2022-09-25T00:21:14.295183-07:00",
+    "updated": "2022-09-26T09:16:40.958610-07:00",
+    "identifier": "id:17991:79f6e229-c46a-49fc-9ffc-47fb6601c31f",
+    "user": {
+      "username": "XKZ",
+      "id": 17991,
+      "first_name": "Sora",
+      "account": {
+        "name": "XKZ",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Volodymyr Zelenskyy",
+    "participant": {
+      "user": {
+        "username": "internal_id:17991:79f6e229-c46a-49fc-9ffc-47fb6601c31f",
+        "id": 18117,
+        "first_name": "Volodymyr Zelenskyy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Volodymyr Zelenskyy"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello.",
+    "description": "",
+    "definition": ""
+  }
+}

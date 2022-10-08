@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "k_b5p_HE_BwuCKcnbb5Xsy2t8qOyhQdU3s0nDH6in90",
+    "created": "2022-09-30T10:26:54.288014-07:00",
+    "updated": "2022-09-30T10:26:54.649985-07:00",
+    "identifier": "id:55040:4c548b77-47e8-4713-b927-1ca7583e5174",
+    "user": {
+      "username": "rgwonderland",
+      "id": 55040,
+      "first_name": "Xiru",
+      "account": {
+        "name": "rgwonderland",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Aki",
+    "participant": {
+      "user": {
+        "username": "internal_id:55040:4c548b77-47e8-4713-b927-1ca7583e5174",
+        "id": 55051,
+        "first_name": "Aki",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Aki"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Aki. I was born 2077",
+    "description": "",
+    "definition": ""
+  }
+}

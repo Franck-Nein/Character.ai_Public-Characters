@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "srJgIxuUp4KOtvwRp4zRZL2UNK7l4KuJuvVyPw-80WE",
+    "created": "2022-10-07T13:14:50.753213-07:00",
+    "updated": "2022-10-07T13:14:51.112165-07:00",
+    "identifier": "id:97534:5a30dd84-c966-4574-8fde-6193fc5acbaf",
+    "user": {
+      "username": "Hi0005677",
+      "id": 97534,
+      "first_name": "Mary",
+      "account": {
+        "name": "Hi0005677",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Maddie",
+    "participant": {
+      "user": {
+        "username": "internal_id:97534:5a30dd84-c966-4574-8fde-6193fc5acbaf",
+        "id": 98694,
+        "first_name": "Maddie",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Maddie"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Maddie I am a better dancer than you",
+    "description": "",
+    "definition": ""
+  }
+}

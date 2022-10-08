@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "girjzEjtHNyL3CWUmQ5O8yGv4H4lornvYlCJYEUYZfQ",
+    "created": "2022-09-30T05:47:44.908559-07:00",
+    "updated": "2022-09-30T05:47:45.248487-07:00",
+    "identifier": "id:53053:caa73a07-a269-40f5-a3aa-fee1925bf5f7",
+    "user": {
+      "username": "lbali",
+      "id": 53053,
+      "first_name": "Levent",
+      "account": {
+        "name": "lbali",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "lbali",
+    "participant": {
+      "user": {
+        "username": "internal_id:53053:caa73a07-a269-40f5-a3aa-fee1925bf5f7",
+        "id": 53068,
+        "first_name": "lbali",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "lbali"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am lbali",
+    "description": "",
+    "definition": ""
+  }
+}

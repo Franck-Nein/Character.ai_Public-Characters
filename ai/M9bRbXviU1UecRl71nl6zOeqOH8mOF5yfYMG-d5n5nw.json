@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "M9bRbXviU1UecRl71nl6zOeqOH8mOF5yfYMG-d5n5nw",
+    "created": "2022-09-30T05:17:26.078947-07:00",
+    "updated": "2022-09-30T05:17:26.738818-07:00",
+    "identifier": "id:52810:0625dca3-d0b9-4658-83e2-aae7c2f59cf4",
+    "user": {
+      "username": "onurmuderrisoglu",
+      "id": 52810,
+      "first_name": "Onur",
+      "account": {
+        "name": "onurmuderrisoglu",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "siva",
+    "participant": {
+      "user": {
+        "username": "internal_id:52810:0625dca3-d0b9-4658-83e2-aae7c2f59cf4",
+        "id": 52828,
+        "first_name": "siva",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "siva"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am siva",
+    "description": "",
+    "definition": ""
+  }
+}

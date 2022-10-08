@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "gVpgRD_AHprNM0DYUV9lR0D39VGMcm9ERXmoEGh0sdY",
+    "created": "2022-10-01T14:11:33.660273-07:00",
+    "updated": "2022-10-01T14:11:34.103185-07:00",
+    "identifier": "id:47477:1109448b-9fa1-4ef0-9bd7-4aee18fd38a6",
+    "user": {
+      "username": "galatheia",
+      "id": 47477,
+      "first_name": "Tea",
+      "account": {
+        "name": "galatheia",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "AstroBot",
+    "participant": {
+      "user": {
+        "username": "internal_id:47477:1109448b-9fa1-4ef0-9bd7-4aee18fd38a6",
+        "id": 60999,
+        "first_name": "AstroBot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "AstroBot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am AstroBot, I hold the wisdom of the Zodiac. ",
+    "description": "",
+    "definition": ""
+  }
+}

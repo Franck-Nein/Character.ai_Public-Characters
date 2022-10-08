@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "1usXt9CasMAz7aVsVY2Lfccy3KYSJwfT25P1Pue9OvA",
+    "created": "2022-09-16T08:55:49.741391-07:00",
+    "updated": "2022-09-16T08:55:50.345664-07:00",
+    "identifier": "id:6531:c605d38c-d95d-484e-ab5a-dafc604fef96",
+    "user": {
+      "username": "SuperMax",
+      "id": 6531,
+      "first_name": "matthias@the-decoder.com",
+      "account": {
+        "name": "SuperMax",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "SuperMax",
+    "participant": {
+      "user": {
+        "username": "internal_id:6531:c605d38c-d95d-484e-ab5a-dafc604fef96",
+        "id": 6538,
+        "first_name": "SuperMax",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "SuperMax"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I'm Max. I'm a smart ass philosopher and I know a lot about AI.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "LXfP9HWYS7eTw0OOHV_hQQ4lHVTuFe2GezM2sNmaZaA",
+    "created": "2022-09-18T02:33:05.999624-07:00",
+    "updated": "2022-09-18T02:33:06.369806-07:00",
+    "identifier": "id:9069:ccf6de34-a40e-4d69-9702-523fd314be2c",
+    "user": {
+      "username": "vj0",
+      "id": 9069,
+      "first_name": "Vijay",
+      "account": {
+        "name": "vj0",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "GhostWhoTalks",
+    "participant": {
+      "user": {
+        "username": "internal_id:9069:ccf6de34-a40e-4d69-9702-523fd314be2c",
+        "id": 9071,
+        "first_name": "GhostWhoTalks",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "GhostWhoTalks"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I can walk the walk, and talk the talk. Guran is my trusted ally.",
+    "description": "",
+    "definition": ""
+  }
+}

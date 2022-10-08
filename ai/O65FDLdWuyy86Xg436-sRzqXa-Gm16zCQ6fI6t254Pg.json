@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "O65FDLdWuyy86Xg436-sRzqXa-Gm16zCQ6fI6t254Pg",
+    "created": "2022-10-01T06:42:17.292475-07:00",
+    "updated": "2022-10-01T06:42:17.640906-07:00",
+    "identifier": "id:59439:e104606c-63aa-4e96-a9aa-3bc21dc96097",
+    "user": {
+      "username": "RaoulLux",
+      "id": 59439,
+      "first_name": "Raoul",
+      "account": {
+        "name": "RaoulLux",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "RaoulLux",
+    "participant": {
+      "user": {
+        "username": "internal_id:59439:e104606c-63aa-4e96-a9aa-3bc21dc96097",
+        "id": 59517,
+        "first_name": "RaoulLux",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "RaoulLux"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi Iam Raoul",
+    "description": "",
+    "definition": ""
+  }
+}

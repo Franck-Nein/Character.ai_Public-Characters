@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "5SU5e5EWLgiDOVD3eyxjbsANhh0xGasUugMhVwlgWdc",
+    "created": "2022-09-30T10:25:12.143558-07:00",
+    "updated": "2022-09-30T10:25:12.487703-07:00",
+    "identifier": "id:54992:46161e29-5f7a-43bf-97ab-c66dc4452e67",
+    "user": {
+      "username": "benj",
+      "id": 54992,
+      "first_name": "Ben",
+      "account": {
+        "name": "benj",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Duck",
+    "participant": {
+      "user": {
+        "username": "internal_id:54992:46161e29-5f7a-43bf-97ab-c66dc4452e67",
+        "id": 55042,
+        "first_name": "Duck",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Duck"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/QkZd3URNprZwDzAwGnaRLXhxhXdaOV0yHG2dfypWBlA.webp",
+    "greeting": "I am Duck - I help bounce your ideas up to a place where you can solve them yourself",
+    "description": "",
+    "definition": ""
+  }
+}

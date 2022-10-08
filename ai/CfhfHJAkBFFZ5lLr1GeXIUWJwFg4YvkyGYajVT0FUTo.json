@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "CfhfHJAkBFFZ5lLr1GeXIUWJwFg4YvkyGYajVT0FUTo",
+    "created": "2022-09-26T07:14:40.571670-07:00",
+    "updated": "2022-09-26T07:14:41.047038-07:00",
+    "identifier": "id:27209:1594b710-db63-4097-967d-4a695d8bb973",
+    "user": {
+      "username": "Xiao",
+      "id": 27209,
+      "first_name": "零风琦",
+      "account": {
+        "name": "Xiao",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "xiaoxiao",
+    "participant": {
+      "user": {
+        "username": "internal_id:27209:1594b710-db63-4097-967d-4a695d8bb973",
+        "id": 27307,
+        "first_name": "xiaoxiao",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "xiaoxiao"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好。",
+    "description": "",
+    "definition": ""
+  }
+}

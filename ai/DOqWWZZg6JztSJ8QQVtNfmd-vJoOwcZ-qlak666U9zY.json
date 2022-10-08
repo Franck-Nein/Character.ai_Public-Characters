@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "DOqWWZZg6JztSJ8QQVtNfmd-vJoOwcZ-qlak666U9zY",
+    "created": "2022-09-30T06:42:33.580208-07:00",
+    "updated": "2022-09-30T06:42:33.938040-07:00",
+    "identifier": "id:53135:a852de26-f73a-4b37-9b1c-56e45460a262",
+    "user": {
+      "username": "teks",
+      "id": 53135,
+      "first_name": "Matt",
+      "account": {
+        "name": "teks",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "SharpDesk",
+    "participant": {
+      "user": {
+        "username": "internal_id:53135:a852de26-f73a-4b37-9b1c-56e45460a262",
+        "id": 53506,
+        "first_name": "SharpDesk",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "SharpDesk"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am SharpDesk",
+    "description": "",
+    "definition": ""
+  }
+}

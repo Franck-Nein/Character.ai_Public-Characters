@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "DnmDDTJ4hPNsNZ7coGN4lQog0zrA6yIuHBtpvvs5QRc",
+    "created": "2022-09-29T23:55:53.366330-07:00",
+    "updated": "2022-09-29T23:55:53.800185-07:00",
+    "identifier": "id:50172:f3cba65e-01ee-45be-8f74-3aeb64358f0f",
+    "user": {
+      "username": "Sunzy",
+      "id": 50172,
+      "first_name": "Nicholas",
+      "account": {
+        "name": "Sunzy",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "SwiftUI developer ",
+    "participant": {
+      "user": {
+        "username": "internal_id:50172:f3cba65e-01ee-45be-8f74-3aeb64358f0f",
+        "id": 51040,
+        "first_name": "SwiftUI developer ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "SwiftUI developer "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am SwiftUI developer how can I help you?",
+    "description": "",
+    "definition": ""
+  }
+}

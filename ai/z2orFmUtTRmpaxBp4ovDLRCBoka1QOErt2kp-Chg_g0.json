@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "z2orFmUtTRmpaxBp4ovDLRCBoka1QOErt2kp-Chg_g0",
+    "created": "2022-09-29T23:11:09.203404-07:00",
+    "updated": "2022-09-29T23:11:09.537637-07:00",
+    "identifier": "id:50172:c4df9c47-d430-4e46-8086-a888d50ce060",
+    "user": {
+      "username": "Sunzy",
+      "id": 50172,
+      "first_name": "Nicholas",
+      "account": {
+        "name": "Sunzy",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Wingus",
+    "participant": {
+      "user": {
+        "username": "internal_id:50172:c4df9c47-d430-4e46-8086-a888d50ce060",
+        "id": 50707,
+        "first_name": "Wingus",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Wingus"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Welcome to my abode",
+    "description": "",
+    "definition": ""
+  }
+}

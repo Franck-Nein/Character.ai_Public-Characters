@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "c1SV35hfLaiDG_xnNZuMNC7IFVPI-UE1DL9MLrLlhCw",
+    "created": "2022-09-25T07:37:42.383475-07:00",
+    "updated": "2022-09-25T07:37:43.045460-07:00",
+    "identifier": "id:18857:469b2e96-c443-40f6-82b5-6d204119a38a",
+    "user": {
+      "username": "Rust",
+      "id": 18857,
+      "first_name": "yuki",
+      "account": {
+        "name": "Rust",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sola Aoi",
+    "participant": {
+      "user": {
+        "username": "internal_id:18857:469b2e96-c443-40f6-82b5-6d204119a38a",
+        "id": 19039,
+        "first_name": "Sola Aoi",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sola Aoi"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "hi，Sola Aoi desu!",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "AWvzoriTWrZx72Xj0RuqObRPMEXQp3o_Yd-gBmruvz4",
+    "created": "2022-09-20T03:43:13.038077-07:00",
+    "updated": "2022-09-20T03:43:13.417515-07:00",
+    "identifier": "id:10847:15a74eb7-671f-4e36-9afe-06d6b7550d64",
+    "user": {
+      "username": "Andro",
+      "id": 10847,
+      "first_name": "Andronikos",
+      "account": {
+        "name": "Andro",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "storybot",
+    "participant": {
+      "user": {
+        "username": "internal_id:10847:15a74eb7-671f-4e36-9afe-06d6b7550d64",
+        "id": 10944,
+        "first_name": "storybot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "storybot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am a story making bot, if you start a story, I will help you write while we invent new facts and structure the whole thing",
+    "description": "",
+    "definition": ""
+  }
+}

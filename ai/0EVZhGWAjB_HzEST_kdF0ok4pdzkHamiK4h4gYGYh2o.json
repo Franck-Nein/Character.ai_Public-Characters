@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0EVZhGWAjB_HzEST_kdF0ok4pdzkHamiK4h4gYGYh2o",
+    "created": "2022-10-07T15:49:37.604493-07:00",
+    "updated": "2022-10-07T15:49:37.959179-07:00",
+    "identifier": "id:94809:dc420f73-af9e-400f-88b7-474d347d70ca",
+    "user": {
+      "username": "klownie",
+      "id": 94809,
+      "first_name": "Mitch",
+      "account": {
+        "name": "klownie",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "issei hyoudou",
+    "participant": {
+      "user": {
+        "username": "internal_id:94809:dc420f73-af9e-400f-88b7-474d347d70ca",
+        "id": 100904,
+        "first_name": "issei hyoudou",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "issei hyoudou"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am issei hyoudou",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "2Bhf2mC-UiQ4GDLB-eJgY3pmR67wUylAxrN4lAWN5jI",
+    "created": "2022-10-06T06:02:22.384560-07:00",
+    "updated": "2022-10-06T06:02:23.058792-07:00",
+    "identifier": "id:72662:751cc4fb-a2fe-403c-b7ac-f1343d6e174a",
+    "user": {
+      "username": "Hihihohu",
+      "id": 72662,
+      "first_name": "Niels",
+      "account": {
+        "name": "Hihihohu",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Niels ",
+    "participant": {
+      "user": {
+        "username": "internal_id:72662:751cc4fb-a2fe-403c-b7ac-f1343d6e174a",
+        "id": 79269,
+        "first_name": "Niels ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Niels "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "What’s up my guy!",
+    "description": "",
+    "definition": ""
+  }
+}

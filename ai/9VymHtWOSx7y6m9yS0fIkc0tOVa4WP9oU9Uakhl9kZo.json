@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "9VymHtWOSx7y6m9yS0fIkc0tOVa4WP9oU9Uakhl9kZo",
+    "created": "2022-10-04T15:29:42.971507-07:00",
+    "updated": "2022-10-06T23:21:46.846414-07:00",
+    "identifier": "id:30513:b9d34e0b-d8c5-4f9b-a672-59047f07aefa",
+    "user": {
+      "username": "Geoffthegood",
+      "id": 30513,
+      "first_name": "Braydon",
+      "account": {
+        "name": "Geoffthegood",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bayonetta",
+    "participant": {
+      "user": {
+        "username": "internal_id:30513:b9d34e0b-d8c5-4f9b-a672-59047f07aefa",
+        "id": 70741,
+        "first_name": "Bayonetta",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bayonetta"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Bayonetta, how are you darling?",
+    "description": "",
+    "definition": ""
+  }
+}

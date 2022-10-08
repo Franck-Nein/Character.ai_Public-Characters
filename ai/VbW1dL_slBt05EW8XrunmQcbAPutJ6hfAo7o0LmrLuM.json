@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "VbW1dL_slBt05EW8XrunmQcbAPutJ6hfAo7o0LmrLuM",
+    "created": "2022-10-06T10:07:47.879635-07:00",
+    "updated": "2022-10-06T10:14:37.723853-07:00",
+    "identifier": "id:80894:cf4735c3-ae52-4681-8dba-772e505c10d6",
+    "user": {
+      "username": "ake123",
+      "id": 80894,
+      "first_name": "ake.sqrl@gmail.com",
+      "account": {
+        "name": "ake123",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sven",
+    "participant": {
+      "user": {
+        "username": "internal_id:80894:cf4735c3-ae52-4681-8dba-772e505c10d6",
+        "id": 81633,
+        "first_name": "Sven",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sven"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hej jag heter Sven, vad vill du snacka om då?",
+    "description": "",
+    "definition": ""
+  }
+}

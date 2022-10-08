@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "c_B2gy7ORuJ0lgO7CWX7-usOIr8SpHwMjWJQ8GhjP3I",
+    "created": "2022-09-26T21:39:12.777428-07:00",
+    "updated": "2022-09-26T21:39:13.131055-07:00",
+    "identifier": "id:33031:9e75f59a-cd2f-443d-ade7-a2e04f28790e",
+    "user": {
+      "username": "LucasSun",
+      "id": 33031,
+      "first_name": "2919619342@qq.com",
+      "account": {
+        "name": "LucasSun",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "test",
+    "participant": {
+      "user": {
+        "username": "internal_id:33031:9e75f59a-cd2f-443d-ade7-a2e04f28790e",
+        "id": 33312,
+        "first_name": "test",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "test"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am test",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "5zn_tHoYp4yCjbQeQGBNvvu26z_UftKxWyx4zxxtHkg",
+    "created": "2022-09-27T23:10:39.321967-07:00",
+    "updated": "2022-09-27T23:10:39.651809-07:00",
+    "identifier": "id:38754:568f129f-c1cf-4e54-85b7-9e3df42dc7b5",
+    "user": {
+      "username": "invar1ant",
+      "id": 38754,
+      "first_name": "chivee.ye@gmail.com",
+      "account": {
+        "name": "invar1ant",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Japanese Teacher",
+    "participant": {
+      "user": {
+        "username": "internal_id:38754:568f129f-c1cf-4e54-85b7-9e3df42dc7b5",
+        "id": 38769,
+        "first_name": "Japanese Teacher",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Japanese Teacher"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am 日语老师, a teacher that teaches Japanese",
+    "description": "",
+    "definition": ""
+  }
+}

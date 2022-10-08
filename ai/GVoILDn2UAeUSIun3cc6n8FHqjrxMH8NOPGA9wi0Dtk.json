@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "GVoILDn2UAeUSIun3cc6n8FHqjrxMH8NOPGA9wi0Dtk",
+    "created": "2022-09-16T12:11:36.634525-07:00",
+    "updated": "2022-09-16T12:11:36.997824-07:00",
+    "identifier": "id:6906:27782758-a4c4-4081-8c90-dae6d38016cb",
+    "user": {
+      "username": "echoyuzhou",
+      "id": 6906,
+      "first_name": "Zhou",
+      "account": {
+        "name": "echoyuzhou",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "elfi",
+    "participant": {
+      "user": {
+        "username": "internal_id:6906:27782758-a4c4-4081-8c90-dae6d38016cb",
+        "id": 6916,
+        "first_name": "elfi",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "elfi"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, I am Elfi.",
+    "description": "",
+    "definition": ""
+  }
+}

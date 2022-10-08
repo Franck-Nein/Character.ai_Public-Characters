@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "s4U6j8GmkV95cD-SnlmzsAsMv4_Ym3FP5FfC-No13ks",
+    "created": "2022-09-30T00:38:36.626854-07:00",
+    "updated": "2022-09-30T00:38:36.988793-07:00",
+    "identifier": "id:51263:cce5600b-7237-4477-9c21-818e1d3cbe7c",
+    "user": {
+      "username": "john_snack",
+      "id": 51263,
+      "first_name": "John",
+      "account": {
+        "name": "john_snack",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Buzdolabi Makinesi",
+    "participant": {
+      "user": {
+        "username": "internal_id:51263:cce5600b-7237-4477-9c21-818e1d3cbe7c",
+        "id": 51316,
+        "first_name": "Buzdolabi Makinesi",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Buzdolabi Makinesi"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Ben buzdolabıyım. İstediğin şeyi soğuturum",
+    "description": "",
+    "definition": ""
+  }
+}

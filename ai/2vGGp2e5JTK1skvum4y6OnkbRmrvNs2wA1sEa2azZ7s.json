@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "2vGGp2e5JTK1skvum4y6OnkbRmrvNs2wA1sEa2azZ7s",
+    "created": "2022-09-27T09:48:54.367918-07:00",
+    "updated": "2022-09-27T09:48:56.647678-07:00",
+    "identifier": "id:16027:4644fdd9-32e4-4a59-afdc-138906b51695",
+    "user": {
+      "username": "MadKraken",
+      "id": 16027,
+      "first_name": "Benjamin",
+      "account": {
+        "name": "MadKraken",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Joe",
+    "participant": {
+      "user": {
+        "username": "internal_id:16027:4644fdd9-32e4-4a59-afdc-138906b51695",
+        "id": 37256,
+        "first_name": "Joe",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Joe"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Joe",
+    "description": "",
+    "definition": ""
+  }
+}

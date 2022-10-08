@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Zb5KH-aOn7f9p21e_2KRKrnBe_22_EJieT51l5d6GPU",
+    "created": "2022-09-25T07:40:53.549587-07:00",
+    "updated": "2022-09-25T07:40:53.960369-07:00",
+    "identifier": "id:18857:49c9cc23-132b-4c02-b5a6-d35fcd5f31e9",
+    "user": {
+      "username": "Rust",
+      "id": 18857,
+      "first_name": "yuki",
+      "account": {
+        "name": "Rust",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Geoffrey Hinton",
+    "participant": {
+      "user": {
+        "username": "internal_id:18857:49c9cc23-132b-4c02-b5a6-d35fcd5f31e9",
+        "id": 19047,
+        "first_name": "Geoffrey Hinton",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Geoffrey Hinton"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "hi, it's me.",
+    "description": "",
+    "definition": ""
+  }
+}

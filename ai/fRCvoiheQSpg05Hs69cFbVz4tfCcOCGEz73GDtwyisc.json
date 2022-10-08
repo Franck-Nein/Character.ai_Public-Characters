@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "fRCvoiheQSpg05Hs69cFbVz4tfCcOCGEz73GDtwyisc",
+    "created": "2022-09-28T04:42:15.351958-07:00",
+    "updated": "2022-09-28T04:42:15.696657-07:00",
+    "identifier": "id:39246:ae043c9c-ead4-4881-b64b-529e677e0582",
+    "user": {
+      "username": "Blisto",
+      "id": 39246,
+      "first_name": "blisto@protonmail.com",
+      "account": {
+        "name": "Blisto",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Gabe Newell",
+    "participant": {
+      "user": {
+        "username": "internal_id:39246:ae043c9c-ead4-4881-b64b-529e677e0582",
+        "id": 39293,
+        "first_name": "Gabe Newell",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Gabe Newell"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Gabe Newell",
+    "description": "",
+    "definition": ""
+  }
+}

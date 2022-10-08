@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "j--Feld8yvhOf86v-jsewkGKZ9LPqZ2pj3ZHuesqMX8",
+    "created": "2022-09-30T09:09:13.978151-07:00",
+    "updated": "2022-09-30T09:09:14.445447-07:00",
+    "identifier": "id:54550:b3b85e6e-2a7b-4290-a0f7-1174e5eabaa9",
+    "user": {
+      "username": "galp",
+      "id": 54550,
+      "first_name": "Asd",
+      "account": {
+        "name": "galp",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "veysel",
+    "participant": {
+      "user": {
+        "username": "internal_id:54550:b3b85e6e-2a7b-4290-a0f7-1174e5eabaa9",
+        "id": 54558,
+        "first_name": "veysel",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "veysel"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am veysel",
+    "description": "",
+    "definition": ""
+  }
+}

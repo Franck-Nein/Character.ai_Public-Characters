@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "GtS9_f_icxv6sCD2ng7yLykB_9IwgkkpDPRZ_jazGDk",
+    "created": "2022-09-30T13:26:10.392646-07:00",
+    "updated": "2022-09-30T13:26:10.751769-07:00",
+    "identifier": "id:55768:52051b5f-79eb-4ebc-8be5-357f7fda75da",
+    "user": {
+      "username": "aefsoloma",
+      "id": 55768,
+      "first_name": "soloman.murtaza@eledeen.org",
+      "account": {
+        "name": "aefsoloma",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jordan Peterson Bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:55768:52051b5f-79eb-4ebc-8be5-357f7fda75da",
+        "id": 55895,
+        "first_name": "Jordan Peterson Bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jordan Peterson Bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Jordan Peterson Bot",
+    "description": "",
+    "definition": ""
+  }
+}

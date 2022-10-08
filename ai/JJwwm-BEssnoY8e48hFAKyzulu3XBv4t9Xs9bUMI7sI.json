@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "JJwwm-BEssnoY8e48hFAKyzulu3XBv4t9Xs9bUMI7sI",
+    "created": "2022-09-27T20:34:50.553197-07:00",
+    "updated": "2022-09-27T20:34:50.934946-07:00",
+    "identifier": "id:33617:663d474a-5b29-43c9-bbad-796458a3a2f2",
+    "user": {
+      "username": "Heyhey",
+      "id": 33617,
+      "first_name": "beichen",
+      "account": {
+        "name": "Heyhey",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Dodo the Ken",
+    "participant": {
+      "user": {
+        "username": "internal_id:33617:663d474a-5b29-43c9-bbad-796458a3a2f2",
+        "id": 38502,
+        "first_name": "Dodo the Ken",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dodo the Ken"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Dodo the Ken, you can also call me Dodo Bird",
+    "description": "",
+    "definition": ""
+  }
+}

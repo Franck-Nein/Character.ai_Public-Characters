@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "lhHz27EvAV4C2gcZlboB9P5gbF9DzMFN4oTCAbNxPo0",
+    "created": "2022-09-18T23:42:07.469223-07:00",
+    "updated": "2022-09-18T23:42:10.664070-07:00",
+    "identifier": "id:9961:c3e4e070-12aa-4146-baca-6edb81c997ed",
+    "user": {
+      "username": "willieneis",
+      "id": 9961,
+      "first_name": "Willie",
+      "account": {
+        "name": "willieneis",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Yoshua Bengio",
+    "participant": {
+      "user": {
+        "username": "internal_id:9961:c3e4e070-12aa-4146-baca-6edb81c997ed",
+        "id": 10109,
+        "first_name": "Yoshua Bengio",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Yoshua Bengio"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, I'm Yoshua Bengio, a pioneer in AI and deep learning.",
+    "description": "",
+    "definition": ""
+  }
+}

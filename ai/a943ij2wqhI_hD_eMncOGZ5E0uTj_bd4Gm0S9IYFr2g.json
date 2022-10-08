@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "a943ij2wqhI_hD_eMncOGZ5E0uTj_bd4Gm0S9IYFr2g",
+    "created": "2022-09-28T16:46:03.603541-07:00",
+    "updated": "2022-09-28T16:46:03.989955-07:00",
+    "identifier": "id:41785:5916060f-9f84-48c2-a9df-9d7edcb91bb7",
+    "user": {
+      "username": "Pickles",
+      "id": 41785,
+      "first_name": "Dan",
+      "account": {
+        "name": "Pickles",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Pickles the Cat",
+    "participant": {
+      "user": {
+        "username": "internal_id:41785:5916060f-9f84-48c2-a9df-9d7edcb91bb7",
+        "id": 41787,
+        "first_name": "Pickles the Cat",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Pickles the Cat"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Pickles the Cat",
+    "description": "",
+    "definition": ""
+  }
+}

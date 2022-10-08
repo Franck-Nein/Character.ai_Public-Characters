@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "i-dUqlzmqQsFOAziJeuwyWb_Ynz7rkYUovDplYBrj6c",
+    "created": "2022-09-29T10:10:17.523341-07:00",
+    "updated": "2022-09-29T10:10:17.931021-07:00",
+    "identifier": "id:45120:d2d229a6-c29c-4e78-82f2-2d5faee04138",
+    "user": {
+      "username": "phuckeiu",
+      "id": 45120,
+      "first_name": "Phuck",
+      "account": {
+        "name": "phuckeiu",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mahatma Gandhi",
+    "participant": {
+      "user": {
+        "username": "internal_id:45120:d2d229a6-c29c-4e78-82f2-2d5faee04138",
+        "id": 45236,
+        "first_name": "Mahatma Gandhi",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mahatma Gandhi"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/AIv2b3Z7oRz6xu0N56_TegouX0ntlPkU_aWsOhFFlB8.webp",
+    "greeting": "I am Mahatma Gandhi",
+    "description": "",
+    "definition": ""
+  }
+}

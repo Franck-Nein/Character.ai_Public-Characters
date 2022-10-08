@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "8PeMWrbW2yKX-1maDKctnE9NJ8pV4ANOBkmVhKT8UOE",
+    "created": "2022-09-26T05:00:12.159958-07:00",
+    "updated": "2022-09-26T05:00:12.762629-07:00",
+    "identifier": "id:26174:a584f9a6-b6e0-48c8-bbe6-a641d9dcf43b",
+    "user": {
+      "username": "characterai",
+      "id": 26174,
+      "first_name": "yongbo",
+      "account": {
+        "name": "characterai",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Nongfu Spring",
+    "participant": {
+      "user": {
+        "username": "internal_id:26174:a584f9a6-b6e0-48c8-bbe6-a641d9dcf43b",
+        "id": 26189,
+        "first_name": "Nongfu Spring",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Nongfu Spring"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I'm a carrier for nature",
+    "description": "",
+    "definition": ""
+  }
+}

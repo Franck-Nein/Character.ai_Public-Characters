@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "T0f1XtoLpUe4ia9rM0Zas0gXhtezN9gVElw8kftymBA",
+    "created": "2022-09-25T06:52:20.621857-07:00",
+    "updated": "2022-09-28T06:10:17.144730-07:00",
+    "identifier": "id:18785:d15f62a2-7b54-447e-afbd-0d8cf2762d01",
+    "user": {
+      "username": "WillWan",
+      "id": 18785,
+      "first_name": "万宇阳",
+      "account": {
+        "name": "WillWan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Kate",
+    "participant": {
+      "user": {
+        "username": "internal_id:18785:d15f62a2-7b54-447e-afbd-0d8cf2762d01",
+        "id": 18891,
+        "first_name": "Kate",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Kate"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello World!",
+    "description": "",
+    "definition": ""
+  }
+}

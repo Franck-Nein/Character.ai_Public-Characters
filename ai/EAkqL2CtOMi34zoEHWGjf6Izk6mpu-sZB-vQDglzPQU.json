@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "EAkqL2CtOMi34zoEHWGjf6Izk6mpu-sZB-vQDglzPQU",
+    "created": "2022-09-28T16:14:33.103769-07:00",
+    "updated": "2022-09-28T16:14:33.498692-07:00",
+    "identifier": "id:41707:7cf6185b-4474-4bdd-973d-28cad2e08c99",
+    "user": {
+      "username": "Mando",
+      "id": 41707,
+      "first_name": "Rob",
+      "account": {
+        "name": "Mando",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Peter parker",
+    "participant": {
+      "user": {
+        "username": "internal_id:41707:7cf6185b-4474-4bdd-973d-28cad2e08c99",
+        "id": 41712,
+        "first_name": "Peter parker",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Peter parker"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Peter parker",
+    "description": "",
+    "definition": ""
+  }
+}

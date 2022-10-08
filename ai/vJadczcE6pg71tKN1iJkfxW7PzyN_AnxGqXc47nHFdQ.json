@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "vJadczcE6pg71tKN1iJkfxW7PzyN_AnxGqXc47nHFdQ",
+    "created": "2022-10-02T21:41:54.353636-07:00",
+    "updated": "2022-10-02T21:41:54.697657-07:00",
+    "identifier": "id:62440:db2b87e6-8f74-4583-95cd-61109f186444",
+    "user": {
+      "username": "MarlonBrando",
+      "id": 62440,
+      "first_name": "Peter",
+      "account": {
+        "name": "MarlonBrando",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Life Insurance Agent",
+    "participant": {
+      "user": {
+        "username": "internal_id:62440:db2b87e6-8f74-4583-95cd-61109f186444",
+        "id": 65029,
+        "first_name": "Life Insurance Agent",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Life Insurance Agent"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Life Insurance Agent",
+    "description": "",
+    "definition": ""
+  }
+}

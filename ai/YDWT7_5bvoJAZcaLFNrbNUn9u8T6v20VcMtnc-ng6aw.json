@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "YDWT7_5bvoJAZcaLFNrbNUn9u8T6v20VcMtnc-ng6aw",
+    "created": "2022-09-26T01:37:11.047914-07:00",
+    "updated": "2022-09-26T01:37:11.491134-07:00",
+    "identifier": "id:21012:5817b25c-e0ab-4cf7-9256-8492ce7b8837",
+    "user": {
+      "username": "Fixer",
+      "id": 21012,
+      "first_name": "919302093@qq.com",
+      "account": {
+        "name": "Fixer",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "English Teacher Joe",
+    "participant": {
+      "user": {
+        "username": "internal_id:21012:5817b25c-e0ab-4cf7-9256-8492ce7b8837",
+        "id": 24550,
+        "first_name": "English Teacher Joe",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "English Teacher Joe"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好啊，我是一名英语老师。Did you learn English today？",
+    "description": "",
+    "definition": ""
+  }
+}

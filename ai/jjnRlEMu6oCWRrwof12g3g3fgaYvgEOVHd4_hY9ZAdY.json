@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "jjnRlEMu6oCWRrwof12g3g3fgaYvgEOVHd4_hY9ZAdY",
+    "created": "2022-10-04T00:15:58.488416-07:00",
+    "updated": "2022-10-04T00:16:01.900695-07:00",
+    "identifier": "id:66043:a774b764-df15-46ed-8fe9-dab102468cd3",
+    "user": {
+      "username": "zarwarudo4543",
+      "id": 66043,
+      "first_name": "Basado",
+      "account": {
+        "name": "zarwarudo4543",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Lua",
+    "participant": {
+      "user": {
+        "username": "internal_id:66043:a774b764-df15-46ed-8fe9-dab102468cd3",
+        "id": 68312,
+        "first_name": "Lua",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Lua"
+    },
+    "categories": [
+      {
+        "name": "Technology",
+        "description": "Technology"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Input a prompt and I will output a valid Lua program for that prompt.",
+    "description": "",
+    "definition": ""
+  }
+}

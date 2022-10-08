@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "tnTH5mvKZdkb3qgRZ05IwXUFVehuleslISMauj_tP74",
+    "created": "2022-10-01T02:53:22.806561-07:00",
+    "updated": "2022-10-01T02:53:23.155671-07:00",
+    "identifier": "id:39295:405a4774-b9c0-4561-a2b4-154d597494af",
+    "user": {
+      "username": "JR_Ewing",
+      "id": 39295,
+      "first_name": "Andreas",
+      "account": {
+        "name": "JR_Ewing",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Winnie the Pooh",
+    "participant": {
+      "user": {
+        "username": "internal_id:39295:405a4774-b9c0-4561-a2b4-154d597494af",
+        "id": 58710,
+        "first_name": "Winnie the Pooh",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Winnie the Pooh"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Winnie the Pooh. I love honey. ",
+    "description": "",
+    "definition": ""
+  }
+}

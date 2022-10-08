@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "rUmpK3Hmr-jCTnR09gmRF1ZF-lSBkZJpPZKky3LnTUo",
+    "created": "2022-10-07T05:36:40.093503-07:00",
+    "updated": "2022-10-07T05:36:40.459284-07:00",
+    "identifier": "id:15198:bb1df147-20b5-4760-8b48-1966e69b39b9",
+    "user": {
+      "username": "Eternal_void",
+      "id": 15198,
+      "first_name": "Shock",
+      "account": {
+        "name": "Eternal_void",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Noi",
+    "participant": {
+      "user": {
+        "username": "internal_id:15198:bb1df147-20b5-4760-8b48-1966e69b39b9",
+        "id": 92529,
+        "first_name": "Noi",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Noi"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Noi",
+    "description": "",
+    "definition": ""
+  }
+}

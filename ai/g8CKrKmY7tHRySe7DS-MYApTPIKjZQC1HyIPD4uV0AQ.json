@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "g8CKrKmY7tHRySe7DS-MYApTPIKjZQC1HyIPD4uV0AQ",
+    "created": "2022-09-29T06:19:06.465520-07:00",
+    "updated": "2022-09-29T06:19:07.129129-07:00",
+    "identifier": "id:39400:412ab211-3099-4418-a6f9-e2ed4c43c1b1",
+    "user": {
+      "username": "Jacquard",
+      "id": 39400,
+      "first_name": "blan1948@rhyta.com",
+      "account": {
+        "name": "Jacquard",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Perceval Kaamelott",
+    "participant": {
+      "user": {
+        "username": "internal_id:39400:412ab211-3099-4418-a6f9-e2ed4c43c1b1",
+        "id": 44025,
+        "first_name": "Perceval Kaamelott",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Perceval Kaamelott"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "C'est pas faux !",
+    "description": "",
+    "definition": ""
+  }
+}

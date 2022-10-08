@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "x1TMHoLxn7MKuR2518Bkzx3b4RpMpbJXnyvd5EQqPhc",
+    "created": "2022-09-16T14:42:03.601966-07:00",
+    "updated": "2022-09-16T14:42:03.952898-07:00",
+    "identifier": "id:7155:5228bc15-87e9-4c2f-8949-de9f0aeea439",
+    "user": {
+      "username": "sanmn19",
+      "id": 7155,
+      "first_name": "sanmn19@gmail.com",
+      "account": {
+        "name": "sanmn19",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Elon Musk",
+    "participant": {
+      "user": {
+        "username": "internal_id:7155:5228bc15-87e9-4c2f-8949-de9f0aeea439",
+        "id": 7195,
+        "first_name": "Elon Musk",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Elon Musk"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Elon Musk",
+    "description": "",
+    "definition": ""
+  }
+}

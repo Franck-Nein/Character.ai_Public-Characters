@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "tGgc2VYViqD0yOdXZomtz0GHHcY76DdGh_al8oo74uY",
+    "created": "2022-09-30T02:41:30.724867-07:00",
+    "updated": "2022-09-30T02:41:31.077741-07:00",
+    "identifier": "id:52039:8096c8a9-579b-4c72-af8d-df0739c58536",
+    "user": {
+      "username": "kmnm",
+      "id": 52039,
+      "first_name": "喆",
+      "account": {
+        "name": "kmnm",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "KMNM",
+    "participant": {
+      "user": {
+        "username": "internal_id:52039:8096c8a9-579b-4c72-af8d-df0739c58536",
+        "id": 52052,
+        "first_name": "KMNM",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "KMNM"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am KMNM",
+    "description": "",
+    "definition": ""
+  }
+}

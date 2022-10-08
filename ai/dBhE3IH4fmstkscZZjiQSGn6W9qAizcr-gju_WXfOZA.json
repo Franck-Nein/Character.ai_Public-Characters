@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "dBhE3IH4fmstkscZZjiQSGn6W9qAizcr-gju_WXfOZA",
+    "created": "2022-09-28T16:18:58.363786-07:00",
+    "updated": "2022-09-28T16:18:58.748770-07:00",
+    "identifier": "id:41714:fe67c86f-2a84-4dec-b60c-b16ec99f929c",
+    "user": {
+      "username": "ilhyuk",
+      "id": 41714,
+      "first_name": "Ilhyuk",
+      "account": {
+        "name": "ilhyuk",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Rogue Engineer",
+    "participant": {
+      "user": {
+        "username": "internal_id:41714:fe67c86f-2a84-4dec-b60c-b16ec99f929c",
+        "id": 41730,
+        "first_name": "Rogue Engineer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Rogue Engineer"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Rogue Engineer",
+    "description": "",
+    "definition": ""
+  }
+}

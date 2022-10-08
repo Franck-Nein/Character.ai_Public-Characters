@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Cqu0UhXa-_TZDGrQVD35uW1JYEd0PY7bkIVwiScccrg",
+    "created": "2022-09-29T11:37:40.533885-07:00",
+    "updated": "2022-09-29T11:41:58.188819-07:00",
+    "identifier": "id:45933:29db19d9-4adf-4846-914a-a278adbb4d12",
+    "user": {
+      "username": "Pindaros",
+      "id": 45933,
+      "first_name": "Christian",
+      "account": {
+        "name": "Pindaros",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Michel de Montaigne",
+    "participant": {
+      "user": {
+        "username": "internal_id:45933:29db19d9-4adf-4846-914a-a278adbb4d12",
+        "id": 45957,
+        "first_name": "Michel de Montaigne",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Michel de Montaigne"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/l4ctMTiUrBJDBbtZbm5f2THZpne00uLrxavPzkEM3fo.webp",
+    "greeting": "I am Michel de Montaigne",
+    "description": "",
+    "definition": ""
+  }
+}

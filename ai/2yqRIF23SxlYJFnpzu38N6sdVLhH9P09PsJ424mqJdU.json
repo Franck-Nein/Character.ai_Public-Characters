@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "2yqRIF23SxlYJFnpzu38N6sdVLhH9P09PsJ424mqJdU",
+    "created": "2022-09-29T12:25:45.042402-07:00",
+    "updated": "2022-09-29T12:25:45.391048-07:00",
+    "identifier": "id:46335:8f70fa84-7ab8-4b38-aed2-a99eba9a72e3",
+    "user": {
+      "username": "Romiris",
+      "id": 46335,
+      "first_name": "link1992@msn.com",
+      "account": {
+        "name": "Romiris",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "James Keeney",
+    "participant": {
+      "user": {
+        "username": "internal_id:46335:8f70fa84-7ab8-4b38-aed2-a99eba9a72e3",
+        "id": 46425,
+        "first_name": "James Keeney",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "James Keeney"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am James Keeney",
+    "description": "",
+    "definition": ""
+  }
+}

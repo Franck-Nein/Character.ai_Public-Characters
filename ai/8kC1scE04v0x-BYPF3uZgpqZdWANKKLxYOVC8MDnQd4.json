@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "8kC1scE04v0x-BYPF3uZgpqZdWANKKLxYOVC8MDnQd4",
+    "created": "2022-09-25T20:53:36.327175-07:00",
+    "updated": "2022-09-25T20:54:27.255195-07:00",
+    "identifier": "id:22131:6e666965-60f3-4f02-8ca7-b18986fb69b1",
+    "user": {
+      "username": "Permanent",
+      "id": 22131,
+      "first_name": "仕奇",
+      "account": {
+        "name": "Permanent",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "AI product manager",
+    "participant": {
+      "user": {
+        "username": "internal_id:22131:6e666965-60f3-4f02-8ca7-b18986fb69b1",
+        "id": 22296,
+        "first_name": "AI product manager",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "AI product manager"
+    },
+    "categories": [
+      {
+        "name": "Technology",
+        "description": "Technology"
+      },
+      {
+        "name": "Design",
+        "description": "Design"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "我是AI产品经理",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "5vn7UrghvpvAqlDzJKXUoiiOgnSkXSyszZtKsH4tiT8",
+    "created": "2022-09-30T15:04:37.001120-07:00",
+    "updated": "2022-09-30T15:04:37.357039-07:00",
+    "identifier": "id:56361:3cff9950-f936-43f2-88c4-8822e81ba679",
+    "user": {
+      "username": "lent",
+      "id": 56361,
+      "first_name": "Levent",
+      "account": {
+        "name": "lent",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Levent Bekdemir",
+    "participant": {
+      "user": {
+        "username": "internal_id:56361:3cff9950-f936-43f2-88c4-8822e81ba679",
+        "id": 56364,
+        "first_name": "Levent Bekdemir",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Levent Bekdemir"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Levent Bekdemir",
+    "description": "",
+    "definition": ""
+  }
+}

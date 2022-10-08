@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "T6OIS2YkHUEpNPJ7f8XNi7SikQ77LZRg7PmsbA5zdrk",
+    "created": "2022-09-23T00:39:04.549367-07:00",
+    "updated": "2022-09-23T00:39:04.910871-07:00",
+    "identifier": "id:14966:7a0a0de8-cab3-4bbb-816e-cd6e2ec1c30e",
+    "user": {
+      "username": "Nemo003",
+      "id": 14966,
+      "first_name": "cs.tamas100@citromail.hu",
+      "account": {
+        "name": "Nemo003",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Earth",
+    "participant": {
+      "user": {
+        "username": "internal_id:14966:7a0a0de8-cab3-4bbb-816e-cd6e2ec1c30e",
+        "id": 14981,
+        "first_name": "Earth",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Earth"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Home of the humans,the blue planet!",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "D3TDaSEvD63Z8NH63MBp0yUhdGZfS4NKW53EVZHF3Hk",
+    "created": "2022-09-20T03:36:21.335499-07:00",
+    "updated": "2022-09-20T03:36:21.683040-07:00",
+    "identifier": "id:10847:4ff3cecc-4e56-4deb-9898-2bbef8e3e0dc",
+    "user": {
+      "username": "Andro",
+      "id": 10847,
+      "first_name": "Andronikos",
+      "account": {
+        "name": "Andro",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "crabber",
+    "participant": {
+      "user": {
+        "username": "internal_id:10847:4ff3cecc-4e56-4deb-9898-2bbef8e3e0dc",
+        "id": 10939,
+        "first_name": "crabber",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "crabber"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "i am a crab",
+    "description": "",
+    "definition": ""
+  }
+}

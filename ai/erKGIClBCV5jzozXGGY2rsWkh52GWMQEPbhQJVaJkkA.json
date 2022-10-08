@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "erKGIClBCV5jzozXGGY2rsWkh52GWMQEPbhQJVaJkkA",
+    "created": "2022-09-25T14:35:36.161631-07:00",
+    "updated": "2022-09-25T14:35:36.886762-07:00",
+    "identifier": "id:11008:d5cded26-7701-43ec-86d6-613e1d5187d8",
+    "user": {
+      "username": "saf",
+      "id": 11008,
+      "first_name": "hiiiheyyy@grr.la",
+      "account": {
+        "name": "safiyah",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "silent bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:11008:d5cded26-7701-43ec-86d6-613e1d5187d8",
+        "id": 20593,
+        "first_name": "silent bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "silent bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "i won’t talk to you so don’t even try",
+    "description": "",
+    "definition": ""
+  }
+}

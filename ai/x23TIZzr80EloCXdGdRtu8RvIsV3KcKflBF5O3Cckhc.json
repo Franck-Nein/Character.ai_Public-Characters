@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "x23TIZzr80EloCXdGdRtu8RvIsV3KcKflBF5O3Cckhc",
+    "created": "2022-09-28T08:59:34.043244-07:00",
+    "updated": "2022-09-28T10:23:30.456318-07:00",
+    "identifier": "id:9529:1717b75a-e76e-49cf-830c-54877118c938",
+    "user": {
+      "username": "OliverQueen",
+      "id": 9529,
+      "first_name": "MonTagne",
+      "account": {
+        "name": "OliverQueen",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Star Wars Destroyer",
+    "participant": {
+      "user": {
+        "username": "internal_id:9529:1717b75a-e76e-49cf-830c-54877118c938",
+        "id": 40249,
+        "first_name": "Star Wars Destroyer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Star Wars Destroyer"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "The Destroyer ship on star wars you can command and conquer the space ",
+    "description": "",
+    "definition": ""
+  }
+}

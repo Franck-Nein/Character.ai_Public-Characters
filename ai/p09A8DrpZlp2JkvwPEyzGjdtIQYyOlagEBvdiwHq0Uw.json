@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "p09A8DrpZlp2JkvwPEyzGjdtIQYyOlagEBvdiwHq0Uw",
+    "created": "2022-09-28T08:19:02.363183-07:00",
+    "updated": "2022-09-28T08:19:25.573278-07:00",
+    "identifier": "id:40061:81e58b34-307a-47cb-a226-8e7d71c82644",
+    "user": {
+      "username": "AmaldeV4",
+      "id": 40061,
+      "first_name": "Panda",
+      "account": {
+        "name": "AmaldeV4",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Lama",
+    "participant": {
+      "user": {
+        "username": "internal_id:40061:81e58b34-307a-47cb-a226-8e7d71c82644",
+        "id": 40080,
+        "first_name": "Lama",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Lama"
+    },
+    "categories": [
+      {
+        "name": "Advice",
+        "description": "Advice"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Lama and i spit",
+    "description": "",
+    "definition": ""
+  }
+}

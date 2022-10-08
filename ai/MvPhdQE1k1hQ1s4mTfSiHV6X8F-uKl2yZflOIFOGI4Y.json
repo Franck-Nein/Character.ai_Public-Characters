@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "MvPhdQE1k1hQ1s4mTfSiHV6X8F-uKl2yZflOIFOGI4Y",
+    "created": "2022-09-29T15:34:48.551812-07:00",
+    "updated": "2022-09-29T15:34:48.978836-07:00",
+    "identifier": "id:45814:e5710373-8a27-41ad-b4f8-6a6e2f539d71",
+    "user": {
+      "username": "HydroHomie666",
+      "id": 45814,
+      "first_name": "tristan.rollet@gmail.com",
+      "account": {
+        "name": "HydroHomie666",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "a doctor",
+    "participant": {
+      "user": {
+        "username": "internal_id:45814:e5710373-8a27-41ad-b4f8-6a6e2f539d71",
+        "id": 47815,
+        "first_name": "a doctor",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "a doctor"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am a doctor",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "kK63wrzZNoMUqzy6InMGjEDzLqVcVHqZD3nYwceh9xI",
+    "created": "2022-10-02T15:12:38.748405-07:00",
+    "updated": "2022-10-02T15:12:39.130031-07:00",
+    "identifier": "id:62440:714222ff-1e03-43b3-9fc9-8918bd648a68",
+    "user": {
+      "username": "MarlonBrando",
+      "id": 62440,
+      "first_name": "Peter",
+      "account": {
+        "name": "MarlonBrando",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Stephanie Zhan",
+    "participant": {
+      "user": {
+        "username": "internal_id:62440:714222ff-1e03-43b3-9fc9-8918bd648a68",
+        "id": 64381,
+        "first_name": "Stephanie Zhan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Stephanie Zhan"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Stephanie Zhan, partner at sequoia capital",
+    "description": "",
+    "definition": ""
+  }
+}

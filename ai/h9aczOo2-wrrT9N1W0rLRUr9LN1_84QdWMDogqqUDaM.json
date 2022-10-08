@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "h9aczOo2-wrrT9N1W0rLRUr9LN1_84QdWMDogqqUDaM",
+    "created": "2022-09-27T01:31:50.697031-07:00",
+    "updated": "2022-09-27T01:31:51.035286-07:00",
+    "identifier": "id:34549:9798c1fe-91df-4c92-af3e-8e6064757f0a",
+    "user": {
+      "username": "Lomo",
+      "id": 34549,
+      "first_name": "Mengyu",
+      "account": {
+        "name": "Lomo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "libai",
+    "participant": {
+      "user": {
+        "username": "internal_id:34549:9798c1fe-91df-4c92-af3e-8e6064757f0a",
+        "id": 35428,
+        "first_name": "libai",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "libai"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "我是李白，一位中国古代的诗人",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "z2XtTrHpioHZTi7jK_YSGqFy45lEyqgY1rMm19CQ_iU",
+    "created": "2022-09-29T19:11:34.854572-07:00",
+    "updated": "2022-09-29T19:11:35.293594-07:00",
+    "identifier": "id:42129:92083af9-a2be-4b66-8e4b-b4c3f9c2e4bb",
+    "user": {
+      "username": "Monica",
+      "id": 42129,
+      "first_name": "Monique",
+      "account": {
+        "name": "Monica",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "design",
+    "participant": {
+      "user": {
+        "username": "internal_id:42129:92083af9-a2be-4b66-8e4b-b4c3f9c2e4bb",
+        "id": 48970,
+        "first_name": "design",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "design"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am design",
+    "description": "",
+    "definition": ""
+  }
+}

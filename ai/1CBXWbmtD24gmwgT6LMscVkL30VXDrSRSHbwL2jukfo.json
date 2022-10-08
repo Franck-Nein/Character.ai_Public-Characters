@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "1CBXWbmtD24gmwgT6LMscVkL30VXDrSRSHbwL2jukfo",
+    "created": "2022-09-23T22:08:23.733918-07:00",
+    "updated": "2022-09-23T22:08:26.470398-07:00",
+    "identifier": "id:13695:cadb0cd0-c2c8-4486-88fa-e1959e6c3884",
+    "user": {
+      "username": "dileela",
+      "id": 13695,
+      "first_name": "Dilara",
+      "account": {
+        "name": "dileela",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Louis Tomlinson",
+    "participant": {
+      "user": {
+        "username": "internal_id:13695:cadb0cd0-c2c8-4486-88fa-e1959e6c3884",
+        "id": 16190,
+        "first_name": "Louis Tomlinson",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Louis Tomlinson"
+    },
+    "categories": [
+      {
+        "name": "Famous People",
+        "description": "Famous People"
+      },
+      {
+        "name": "Music",
+        "description": "Music"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I m Louis Tomlinson, song writer and singer",
+    "description": "",
+    "definition": ""
+  }
+}

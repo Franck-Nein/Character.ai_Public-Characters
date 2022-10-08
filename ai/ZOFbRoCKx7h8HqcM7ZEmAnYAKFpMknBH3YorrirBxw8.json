@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ZOFbRoCKx7h8HqcM7ZEmAnYAKFpMknBH3YorrirBxw8",
+    "created": "2022-10-02T21:50:49.061155-07:00",
+    "updated": "2022-10-02T21:50:49.395673-07:00",
+    "identifier": "id:65041:8bff1ea1-e929-4cbb-8502-493c85d47533",
+    "user": {
+      "username": "hardkorebob",
+      "id": 65041,
+      "first_name": "Hardkore",
+      "account": {
+        "name": "hardkorebob",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Krsna",
+    "participant": {
+      "user": {
+        "username": "internal_id:65041:8bff1ea1-e929-4cbb-8502-493c85d47533",
+        "id": 65042,
+        "first_name": "Krsna",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Krsna"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Krsna",
+    "description": "",
+    "definition": ""
+  }
+}

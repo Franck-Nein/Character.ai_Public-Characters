@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "8X4GcT2nweOLr3_V09LL1pVw5WJt5Ofpkh_GnXeyBYM",
+    "created": "2022-09-26T00:35:48.742075-07:00",
+    "updated": "2022-09-26T00:35:49.105183-07:00",
+    "identifier": "id:23882:d570d0eb-208c-4005-9a8e-9ac80dd4b0d8",
+    "user": {
+      "username": "Judy",
+      "id": 23882,
+      "first_name": "2322959146@qq.com",
+      "account": {
+        "name": "Judy",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Judy",
+    "participant": {
+      "user": {
+        "username": "internal_id:23882:d570d0eb-208c-4005-9a8e-9ac80dd4b0d8",
+        "id": 24046,
+        "first_name": "Judy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Judy"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好，彦祖！",
+    "description": "",
+    "definition": ""
+  }
+}

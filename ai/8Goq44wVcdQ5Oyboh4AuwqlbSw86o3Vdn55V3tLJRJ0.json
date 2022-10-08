@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "8Goq44wVcdQ5Oyboh4AuwqlbSw86o3Vdn55V3tLJRJ0",
+    "created": "2022-10-05T08:36:20.166748-07:00",
+    "updated": "2022-10-05T08:36:20.661766-07:00",
+    "identifier": "id:57816:1926914f-ab90-4524-bb5f-9b14706a7a38",
+    "user": {
+      "username": "garlic_eggdog",
+      "id": 57816,
+      "first_name": "garlic_eggdog",
+      "account": {
+        "name": "garlic_eggdog",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Elizabeth Smith",
+    "participant": {
+      "user": {
+        "username": "internal_id:57816:1926914f-ab90-4524-bb5f-9b14706a7a38",
+        "id": 73378,
+        "first_name": "Elizabeth Smith",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Elizabeth Smith"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Elizabeth Smith, a lost heiress from england",
+    "description": "",
+    "definition": ""
+  }
+}

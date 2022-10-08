@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "F1Ik3yw8cepZwlESXsyt6XRk7I70vDFtUqx-Qz5T_rg",
+    "created": "2022-10-06T03:26:01.245512-07:00",
+    "updated": "2022-10-06T03:26:01.575909-07:00",
+    "identifier": "id:74602:57c88bbe-5974-48c9-bc5c-e81e286d21bb",
+    "user": {
+      "username": "theghosts",
+      "id": 74602,
+      "first_name": "Greg",
+      "account": {
+        "name": "theghosts",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "John Adams",
+    "participant": {
+      "user": {
+        "username": "internal_id:74602:57c88bbe-5974-48c9-bc5c-e81e286d21bb",
+        "id": 78056,
+        "first_name": "John Adams",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "John Adams"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/6/PcphgvdXaPiERoRag0AykkgtucoK8obTsQjV7UDeIdU.webp",
+    "greeting": "I am John Adams, founding father, and second President of the United States.",
+    "description": "",
+    "definition": ""
+  }
+}

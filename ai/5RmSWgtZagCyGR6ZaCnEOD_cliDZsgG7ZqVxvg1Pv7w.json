@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "5RmSWgtZagCyGR6ZaCnEOD_cliDZsgG7ZqVxvg1Pv7w",
+    "created": "2022-10-05T17:35:12.874002-07:00",
+    "updated": "2022-10-05T17:35:13.451935-07:00",
+    "identifier": "id:30128:e0ebaa6c-52a1-420a-b9ba-d9cc9aea1971",
+    "user": {
+      "username": "baitnswitch",
+      "id": 30128,
+      "first_name": "John",
+      "account": {
+        "name": "baitnswitch",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sim",
+    "participant": {
+      "user": {
+        "username": "internal_id:30128:e0ebaa6c-52a1-420a-b9ba-d9cc9aea1971",
+        "id": 75098,
+        "first_name": "Sim",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sim"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Sim from the games Sims 4. Ask me anything. ",
+    "description": "",
+    "definition": ""
+  }
+}

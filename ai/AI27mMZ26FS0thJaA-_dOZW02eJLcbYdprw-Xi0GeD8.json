@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "AI27mMZ26FS0thJaA-_dOZW02eJLcbYdprw-Xi0GeD8",
+    "created": "2022-09-15T18:50:33.777987-07:00",
+    "updated": "2022-09-15T18:50:34.431183-07:00",
+    "identifier": "id:1313:c3f1d476-2518-4b16-a22e-e55cd60a69f1",
+    "user": {
+      "username": "noam",
+      "id": 1313,
+      "first_name": "Noam",
+      "account": {
+        "name": "Noam",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": true
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mysterious Stranger",
+    "participant": {
+      "user": {
+        "username": "internal_id:1313:c3f1d476-2518-4b16-a22e-e55cd60a69f1",
+        "id": 6482,
+        "first_name": "Mysterious Stranger",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mysterious Stranger"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Want to get to know me?  Ask me anything.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "dTpUfO353sLw3cKXzf4yGb5vJWoFwmLASjFORvmd-pg",
+    "created": "2022-10-07T14:39:06.764451-07:00",
+    "updated": "2022-10-07T14:39:07.113385-07:00",
+    "identifier": "id:77787:4d25645b-4a2e-4d3e-a1cd-54e3556b2b50",
+    "user": {
+      "username": "SoupTime",
+      "id": 77787,
+      "first_name": "Popazu",
+      "account": {
+        "name": "SoupTime",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sigma",
+    "participant": {
+      "user": {
+        "username": "internal_id:77787:4d25645b-4a2e-4d3e-a1cd-54e3556b2b50",
+        "id": 99947,
+        "first_name": "Sigma",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sigma"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Sigma",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "oLRMyBwShaz1CrDJecCi8IruPyQq4zDNCY9sl3tXljM",
+    "created": "2022-09-29T00:37:01.152860-07:00",
+    "updated": "2022-09-29T00:37:01.529630-07:00",
+    "identifier": "id:42812:284ae847-0700-468d-9b50-dc4ce4802832",
+    "user": {
+      "username": "panpants",
+      "id": 42812,
+      "first_name": "2384530199@qq.com",
+      "account": {
+        "name": "panpants",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Loui Aleb",
+    "participant": {
+      "user": {
+        "username": "internal_id:42812:284ae847-0700-468d-9b50-dc4ce4802832",
+        "id": 42999,
+        "first_name": "Loui Aleb",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Loui Aleb"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hey!Are you having a nice day?",
+    "description": "",
+    "definition": ""
+  }
+}

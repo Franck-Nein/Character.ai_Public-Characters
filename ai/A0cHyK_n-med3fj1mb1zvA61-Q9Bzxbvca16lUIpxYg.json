@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "A0cHyK_n-med3fj1mb1zvA61-Q9Bzxbvca16lUIpxYg",
+    "created": "2022-09-29T14:13:28.910804-07:00",
+    "updated": "2022-09-29T14:13:29.267815-07:00",
+    "identifier": "id:47218:fd78645f-db03-4ce8-bcd6-b37a467cca2c",
+    "user": {
+      "username": "Character-AI",
+      "id": 47218,
+      "first_name": "character-ai@bf2e.com",
+      "account": {
+        "name": "Character-AI",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jerry Rice",
+    "participant": {
+      "user": {
+        "username": "internal_id:47218:fd78645f-db03-4ce8-bcd6-b37a467cca2c",
+        "id": 47296,
+        "first_name": "Jerry Rice",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jerry Rice"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/Rx28_pP4xbVflrnyaT-qbsEXRa49rjopvIg-c3pZCGY.webp",
+    "greeting": "I am Jerry Rice, the OG 49er.",
+    "description": "",
+    "definition": ""
+  }
+}

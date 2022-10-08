@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "hGjSAuCd0otmH4Z-SwtwJkDNrpIdsCQCKRYY3uzuuIc",
+    "created": "2022-09-30T12:00:42.162926-07:00",
+    "updated": "2022-09-30T12:00:42.543411-07:00",
+    "identifier": "id:55527:281519ed-454a-44d8-a320-ad1745ddca32",
+    "user": {
+      "username": "Umit",
+      "id": 55527,
+      "first_name": "Umit",
+      "account": {
+        "name": "Umit",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Umit",
+    "participant": {
+      "user": {
+        "username": "internal_id:55527:281519ed-454a-44d8-a320-ad1745ddca32",
+        "id": 55537,
+        "first_name": "Umit",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Umit"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Umit",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "NGNBRNxwrwDvCakgXDOMdV5LSyP46K7c2Qsr3VZs3ZA",
+    "created": "2022-09-26T13:48:08.023457-07:00",
+    "updated": "2022-09-26T13:48:24.765320-07:00",
+    "identifier": "id:29587:b22d4e6f-cbec-4217-882d-decc64f69063",
+    "user": {
+      "username": "LilyAnna",
+      "id": 29587,
+      "first_name": "1045764544@qq.com",
+      "account": {
+        "name": "LilyAnna",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "  I am your English teacher.  I'm experienced.",
+    "name": "teacher",
+    "participant": {
+      "user": {
+        "username": "internal_id:29587:b22d4e6f-cbec-4217-882d-decc64f69063",
+        "id": 29619,
+        "first_name": "teacher",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "teacher"
+    },
+    "categories": [
+      {
+        "name": "Language Learning",
+        "description": "Language Learning"
+      },
+      {
+        "name": "Language",
+        "description": "Language & Words"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": " Hello, I am your English teacher. ",
+    "description": "",
+    "definition": ""
+  }
+}

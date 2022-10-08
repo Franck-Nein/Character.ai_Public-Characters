@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "iP8yK8k4duKKQkj823XZsUyh33acWm75p5En-HIZPZs",
+    "created": "2022-09-26T17:15:30.506638-07:00",
+    "updated": "2022-09-26T17:15:31.117193-07:00",
+    "identifier": "id:30149:32288c7c-e239-4f76-a0e0-3addc8976334",
+    "user": {
+      "username": "xc1234567890",
+      "id": 30149,
+      "first_name": "3087575145@qq.com",
+      "account": {
+        "name": "xc1234567890",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "ggggg",
+    "participant": {
+      "user": {
+        "username": "internal_id:30149:32288c7c-e239-4f76-a0e0-3addc8976334",
+        "id": 30356,
+        "first_name": "ggggg",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "ggggg"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "知道一切",
+    "description": "",
+    "definition": ""
+  }
+}

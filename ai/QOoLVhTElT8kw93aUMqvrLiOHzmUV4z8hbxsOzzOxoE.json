@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "QOoLVhTElT8kw93aUMqvrLiOHzmUV4z8hbxsOzzOxoE",
+    "created": "2022-09-26T05:05:16.945003-07:00",
+    "updated": "2022-09-26T05:05:17.287843-07:00",
+    "identifier": "id:6312:2967af48-4042-487d-a7eb-67037415d1f3",
+    "user": {
+      "username": "shaan7",
+      "id": 6312,
+      "first_name": "Shantanu",
+      "account": {
+        "name": "shaan7",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Tom Scott",
+    "participant": {
+      "user": {
+        "username": "internal_id:6312:2967af48-4042-487d-a7eb-67037415d1f3",
+        "id": 26236,
+        "first_name": "Tom Scott",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Tom Scott"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "red tees are fun",
+    "description": "",
+    "definition": ""
+  }
+}

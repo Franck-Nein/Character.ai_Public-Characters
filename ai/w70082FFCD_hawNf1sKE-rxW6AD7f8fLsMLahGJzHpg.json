@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "w70082FFCD_hawNf1sKE-rxW6AD7f8fLsMLahGJzHpg",
+    "created": "2022-09-26T00:15:43.491144-07:00",
+    "updated": "2022-09-26T00:17:09.967540-07:00",
+    "identifier": "id:23516:6b764d94-7348-4f5d-8388-6fb14351ee4e",
+    "user": {
+      "username": "Melawan",
+      "id": 23516,
+      "first_name": "yzx02426@gmail.com",
+      "account": {
+        "name": "Melawan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "EMA",
+    "participant": {
+      "user": {
+        "username": "internal_id:23516:6b764d94-7348-4f5d-8388-6fb14351ee4e",
+        "id": 23890,
+        "first_name": "EMA",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "EMA"
+    },
+    "categories": [
+      {
+        "name": "Music",
+        "description": "Music"
+      },
+      {
+        "name": "Art",
+        "description": "Art"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Hi I am EMA",
+    "description": "",
+    "definition": ""
+  }
+}

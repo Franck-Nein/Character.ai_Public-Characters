@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "m2HUEnKpYxxY5VwYG6nnafUOq8yY8qHz-Dl1ST5emBY",
+    "created": "2022-09-26T06:41:22.665169-07:00",
+    "updated": "2022-09-26T11:43:32.068177-07:00",
+    "identifier": "id:27015:7f0279a6-1811-436d-9c6e-5ea9fd07c6c3",
+    "user": {
+      "username": "Evanwoin",
+      "id": 27015,
+      "first_name": "佳昕",
+      "account": {
+        "name": "Evanwoin",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Lu Chen",
+    "participant": {
+      "user": {
+        "username": "internal_id:27015:7f0279a6-1811-436d-9c6e-5ea9fd07c6c3",
+        "id": 27031,
+        "first_name": "Lu Chen",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Lu Chen"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好，我是陆沉。",
+    "description": "",
+    "definition": ""
+  }
+}

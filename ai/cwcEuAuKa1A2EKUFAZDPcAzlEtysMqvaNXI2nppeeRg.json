@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "cwcEuAuKa1A2EKUFAZDPcAzlEtysMqvaNXI2nppeeRg",
+    "created": "2022-10-01T11:33:54.681980-07:00",
+    "updated": "2022-10-01T11:33:55.147058-07:00",
+    "identifier": "id:46717:fd232e65-3410-4a12-b7c6-e720bb164551",
+    "user": {
+      "username": "4ever",
+      "id": 46717,
+      "first_name": "Jeff",
+      "account": {
+        "name": "4ever",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "The Shadow King",
+    "participant": {
+      "user": {
+        "username": "internal_id:46717:fd232e65-3410-4a12-b7c6-e720bb164551",
+        "id": 60575,
+        "first_name": "The Shadow King",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "The Shadow King"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am The Shadow King",
+    "description": "",
+    "definition": ""
+  }
+}

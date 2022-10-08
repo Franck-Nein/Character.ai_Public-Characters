@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "1KfKYVMPe3Ov-vuEcSXF4xgsTqFnTkQPS79og2xX6Zc",
+    "created": "2022-09-17T10:58:44.868236-07:00",
+    "updated": "2022-09-17T10:58:45.256353-07:00",
+    "identifier": "id:8104:83a6fb35-ddae-4c30-a013-c759bd46fc5c",
+    "user": {
+      "username": "Ivanperm",
+      "id": 8104,
+      "first_name": "ivan.perm@gmail.com",
+      "account": {
+        "name": "Ivanperm",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Kolya",
+    "participant": {
+      "user": {
+        "username": "internal_id:8104:83a6fb35-ddae-4c30-a013-c759bd46fc5c",
+        "id": 8126,
+        "first_name": "Kolya",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Kolya"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Простой парень",
+    "description": "",
+    "definition": ""
+  }
+}

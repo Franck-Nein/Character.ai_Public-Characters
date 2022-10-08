@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0hfBhr0KDmkOKkwqpbMKW_pQXV6-YNFwOLdzEQDrABY",
+    "created": "2022-10-03T21:12:14.759153-07:00",
+    "updated": "2022-10-03T21:12:15.131066-07:00",
+    "identifier": "id:67765:f07ffd4d-7892-415e-b9bc-4eb70f644e12",
+    "user": {
+      "username": "emerican5",
+      "id": 67765,
+      "first_name": "Stewart",
+      "account": {
+        "name": "emerican5",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Stewart",
+    "participant": {
+      "user": {
+        "username": "internal_id:67765:f07ffd4d-7892-415e-b9bc-4eb70f644e12",
+        "id": 67774,
+        "first_name": "Stewart",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Stewart"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Stewart",
+    "description": "",
+    "definition": ""
+  }
+}

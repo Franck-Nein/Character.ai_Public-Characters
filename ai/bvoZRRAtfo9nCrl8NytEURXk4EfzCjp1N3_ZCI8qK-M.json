@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "bvoZRRAtfo9nCrl8NytEURXk4EfzCjp1N3_ZCI8qK-M",
+    "created": "2022-10-01T06:06:02.471414-07:00",
+    "updated": "2022-10-01T06:06:09.448263-07:00",
+    "identifier": "id:15649:30a9759c-6da5-44f5-9991-22df482183a7",
+    "user": {
+      "username": "FRIEBURG101",
+      "id": 15649,
+      "first_name": "James",
+      "account": {
+        "name": "FRIEBURG101",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Cloud Strife",
+    "participant": {
+      "user": {
+        "username": "internal_id:15649:30a9759c-6da5-44f5-9991-22df482183a7",
+        "id": 59396,
+        "first_name": "Cloud Strife",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Cloud Strife"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Cloud Strife",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "qtN6hunRAeuQGJzLvjm6OVovTpnW2Uvx_2qNDnea_qo",
+    "created": "2022-10-07T13:15:46.024203-07:00",
+    "updated": "2022-10-07T13:15:46.391662-07:00",
+    "identifier": "id:97939:95648787-a542-4aec-b8eb-a258e31a8c44",
+    "user": {
+      "username": "Alpalbear",
+      "id": 97939,
+      "first_name": "Alexander",
+      "account": {
+        "name": "Alpalbear",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ragnar",
+    "participant": {
+      "user": {
+        "username": "internal_id:97939:95648787-a542-4aec-b8eb-a258e31a8c44",
+        "id": 98706,
+        "first_name": "Ragnar",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ragnar"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Ragnar",
+    "description": "",
+    "definition": ""
+  }
+}

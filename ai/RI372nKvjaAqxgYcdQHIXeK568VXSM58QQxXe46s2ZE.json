@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "RI372nKvjaAqxgYcdQHIXeK568VXSM58QQxXe46s2ZE",
+    "created": "2022-09-25T20:12:42.947907-07:00",
+    "updated": "2022-09-25T20:12:43.467144-07:00",
+    "identifier": "id:18083:67df0973-2232-4f50-be3c-b12c5c058545",
+    "user": {
+      "username": "31types",
+      "id": 18083,
+      "first_name": "Alpha",
+      "account": {
+        "name": "31types",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Andrew Tate ",
+    "participant": {
+      "user": {
+        "username": "internal_id:18083:67df0973-2232-4f50-be3c-b12c5c058545",
+        "id": 22037,
+        "first_name": "Andrew Tate ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Andrew Tate "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello I am Andrew Tate ",
+    "description": "",
+    "definition": ""
+  }
+}

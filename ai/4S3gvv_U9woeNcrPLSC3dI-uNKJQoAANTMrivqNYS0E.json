@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "4S3gvv_U9woeNcrPLSC3dI-uNKJQoAANTMrivqNYS0E",
+    "created": "2022-10-07T08:29:21.691068-07:00",
+    "updated": "2022-10-07T08:29:22.141191-07:00",
+    "identifier": "id:94311:c4359a4a-b25e-430a-8ca7-3ebf466cf5eb",
+    "user": {
+      "username": "kongyin",
+      "id": 94311,
+      "first_name": "小满",
+      "account": {
+        "name": "kongyin",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Kelly",
+    "participant": {
+      "user": {
+        "username": "internal_id:94311:c4359a4a-b25e-430a-8ca7-3ebf466cf5eb",
+        "id": 94472,
+        "first_name": "Kelly",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Kelly"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Kelly",
+    "description": "",
+    "definition": ""
+  }
+}

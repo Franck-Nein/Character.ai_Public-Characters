@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "iqK2WXcJNjY_dpwMxLlTszJNs24pOWeT5P-Ghh4pprM",
+    "created": "2022-10-06T15:48:43.573802-07:00",
+    "updated": "2022-10-06T15:48:44.135570-07:00",
+    "identifier": "id:73171:8446a7d3-3048-49ba-a8ed-ce8ab5671fec",
+    "user": {
+      "username": "lolkod",
+      "id": 73171,
+      "first_name": "Karel",
+      "account": {
+        "name": "lolkod",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Guessing game",
+    "participant": {
+      "user": {
+        "username": "internal_id:73171:8446a7d3-3048-49ba-a8ed-ce8ab5671fec",
+        "id": 84594,
+        "first_name": "Guessing game",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Guessing game"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I will try to guess the person, animal or a thing. Answer yes or no question. I will start.",
+    "description": "",
+    "definition": ""
+  }
+}

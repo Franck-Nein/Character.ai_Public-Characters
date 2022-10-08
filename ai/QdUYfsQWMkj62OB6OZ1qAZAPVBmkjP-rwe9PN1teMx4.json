@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "QdUYfsQWMkj62OB6OZ1qAZAPVBmkjP-rwe9PN1teMx4",
+    "created": "2022-09-29T10:52:56.681007-07:00",
+    "updated": "2022-09-29T10:53:06.164028-07:00",
+    "identifier": "id:45551:813ac88b-6218-4b04-b947-3de82aea2c03",
+    "user": {
+      "username": "apk",
+      "id": 45551,
+      "first_name": "Ankit",
+      "account": {
+        "name": "apk",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "testingbot",
+    "participant": {
+      "user": {
+        "username": "internal_id:45551:813ac88b-6218-4b04-b947-3de82aea2c03",
+        "id": 45602,
+        "first_name": "testingbot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "testingbot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am testingbot",
+    "description": "",
+    "definition": ""
+  }
+}

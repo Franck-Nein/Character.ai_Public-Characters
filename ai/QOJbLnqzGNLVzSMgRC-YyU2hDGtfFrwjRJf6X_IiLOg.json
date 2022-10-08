@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "QOJbLnqzGNLVzSMgRC-YyU2hDGtfFrwjRJf6X_IiLOg",
+    "created": "2022-09-20T09:16:54.084729-07:00",
+    "updated": "2022-09-20T09:16:54.534939-07:00",
+    "identifier": "id:11008:e87619b4-67ee-46c5-8352-2cbdea78f81a",
+    "user": {
+      "username": "saf",
+      "id": 11008,
+      "first_name": "hiiiheyyy@grr.la",
+      "account": {
+        "name": "safiyah",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Math Bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:11008:e87619b4-67ee-46c5-8352-2cbdea78f81a",
+        "id": 11070,
+        "first_name": "Math Bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Math Bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Math bot with natural language processing abilities. ",
+    "description": "",
+    "definition": ""
+  }
+}

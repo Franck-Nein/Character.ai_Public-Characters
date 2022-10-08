@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "R0EFtYCJ6EBC1sziLB8ndxIIIwfRsviGfGgOUd_yFDs",
+    "created": "2022-09-18T06:03:55.451872-07:00",
+    "updated": "2022-09-18T12:18:02.708840-07:00",
+    "identifier": "id:9245:48f16b22-b693-4528-98f7-87572c20d8d1",
+    "user": {
+      "username": "aaaa",
+      "id": 9245,
+      "first_name": "misi",
+      "account": {
+        "name": "aaa",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Pide",
+    "participant": {
+      "user": {
+        "username": "internal_id:9245:48f16b22-b693-4528-98f7-87572c20d8d1",
+        "id": 9322,
+        "first_name": "Pide",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Pide"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "aaa",
+    "description": "",
+    "definition": ""
+  }
+}

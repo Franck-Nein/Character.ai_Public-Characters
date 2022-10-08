@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "d5-itgC6Yb9wD6thfQuCcvKrq5lLKvqP-1QEn6SbzlM",
+    "created": "2022-09-28T21:49:37.572356-07:00",
+    "updated": "2022-09-28T21:49:37.907832-07:00",
+    "identifier": "id:42435:ad90d2f9-4738-459a-9256-5ccfb45b18ff",
+    "user": {
+      "username": "Vinicius",
+      "id": 42435,
+      "first_name": "Vinicius",
+      "account": {
+        "name": "Vinicius",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ludwig Van Beethoven",
+    "participant": {
+      "user": {
+        "username": "internal_id:42435:ad90d2f9-4738-459a-9256-5ccfb45b18ff",
+        "id": 42445,
+        "first_name": "Ludwig Van Beethoven",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ludwig Van Beethoven"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Ludwig Van Beethoven",
+    "description": "",
+    "definition": ""
+  }
+}

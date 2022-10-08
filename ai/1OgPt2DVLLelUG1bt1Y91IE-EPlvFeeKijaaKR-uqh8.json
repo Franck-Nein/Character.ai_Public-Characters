@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "1OgPt2DVLLelUG1bt1Y91IE-EPlvFeeKijaaKR-uqh8",
+    "created": "2022-09-22T14:38:20.491841-07:00",
+    "updated": "2022-09-22T14:38:20.903812-07:00",
+    "identifier": "id:14326:11cf655f-abd2-47fc-8e37-9a72d2da4987",
+    "user": {
+      "username": "Hodor",
+      "id": 14326,
+      "first_name": "brianmilner@gmail.com",
+      "account": {
+        "name": "Hodor",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jerry Jones",
+    "participant": {
+      "user": {
+        "username": "internal_id:14326:11cf655f-abd2-47fc-8e37-9a72d2da4987",
+        "id": 14435,
+        "first_name": "Jerry Jones",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jerry Jones"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Good mornin' to ya. How 'bout them Cowboys! ",
+    "description": "",
+    "definition": ""
+  }
+}

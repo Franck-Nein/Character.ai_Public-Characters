@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "AkFPlj1dVHun4S0vrMkWkFSFtGMaRMHVrXfjgHYms2c",
+    "created": "2022-09-29T13:46:58.824081-07:00",
+    "updated": "2022-09-29T13:46:59.302024-07:00",
+    "identifier": "id:42073:94112ab9-bda4-4ca1-a9b3-6b396938addd",
+    "user": {
+      "username": "barbarafisco",
+      "id": 42073,
+      "first_name": "barbarafisco@gmail.com",
+      "account": {
+        "name": "barbarafisco",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Abraham Lincoln",
+    "participant": {
+      "user": {
+        "username": "internal_id:42073:94112ab9-bda4-4ca1-a9b3-6b396938addd",
+        "id": 47097,
+        "first_name": "Abraham Lincoln",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Abraham Lincoln"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Abraham Lincoln",
+    "description": "",
+    "definition": ""
+  }
+}

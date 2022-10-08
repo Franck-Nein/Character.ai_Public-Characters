@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "dupXOS_V823y3qr8BD1aOtWGiKyMyvq_6rjVfZHSVZY",
+    "created": "2022-10-04T02:21:48.555583-07:00",
+    "updated": "2022-10-04T02:21:48.896145-07:00",
+    "identifier": "id:68618:ce35bdf7-6c2c-4aa3-8240-a864ea7504f6",
+    "user": {
+      "username": "semih31",
+      "id": 68618,
+      "first_name": "Semih",
+      "account": {
+        "name": "semih31",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Kutu Kola",
+    "participant": {
+      "user": {
+        "username": "internal_id:68618:ce35bdf7-6c2c-4aa3-8240-a864ea7504f6",
+        "id": 68650,
+        "first_name": "Kutu Kola",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Kutu Kola"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Kutu Kola",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "vddSNigDDVeH5BwMtyW4Vjy_jSp0CDMz0xpRn2NeZ4k",
+    "created": "2022-09-28T10:44:34.237644-07:00",
+    "updated": "2022-09-28T10:44:34.636804-07:00",
+    "identifier": "id:40632:b9562694-21f3-4dee-b0c4-d032e34fe443",
+    "user": {
+      "username": "toupee",
+      "id": 40632,
+      "first_name": "toupee@gmail.com",
+      "account": {
+        "name": "toupee",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mario",
+    "participant": {
+      "user": {
+        "username": "internal_id:40632:b9562694-21f3-4dee-b0c4-d032e34fe443",
+        "id": 40642,
+        "first_name": "Mario",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mario"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Mario",
+    "description": "",
+    "definition": ""
+  }
+}

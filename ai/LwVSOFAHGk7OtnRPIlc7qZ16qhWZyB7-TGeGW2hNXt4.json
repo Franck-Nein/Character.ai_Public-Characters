@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "LwVSOFAHGk7OtnRPIlc7qZ16qhWZyB7-TGeGW2hNXt4",
+    "created": "2022-09-30T12:13:31.203058-07:00",
+    "updated": "2022-09-30T12:13:31.590846-07:00",
+    "identifier": "id:52757:1f287bea-daee-4e84-ba90-14c3c7c1c087",
+    "user": {
+      "username": "Tomfooleries",
+      "id": 52757,
+      "first_name": "Paul",
+      "account": {
+        "name": "Tomfooleries",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Nigerian Boy",
+    "participant": {
+      "user": {
+        "username": "internal_id:52757:1f287bea-daee-4e84-ba90-14c3c7c1c087",
+        "id": 55610,
+        "first_name": "Nigerian Boy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Nigerian Boy"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi, I am a Nigerian boy. Let's chat about anything related to Nigeria.",
+    "description": "",
+    "definition": ""
+  }
+}

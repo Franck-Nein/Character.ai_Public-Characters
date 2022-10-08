@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "xlCE6C9X8BouIChKH8uBv6Q7gd4mUnGB8mr138RZxrY",
+    "created": "2022-10-07T12:46:51.282370-07:00",
+    "updated": "2022-10-07T12:46:53.227977-07:00",
+    "identifier": "id:98254:16d7b500-34fa-40df-b199-6655f0307c44",
+    "user": {
+      "username": "Danicann",
+      "id": 98254,
+      "first_name": "danica.mcphee@gmail.com",
+      "account": {
+        "name": "Danicann",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mister Rat",
+    "participant": {
+      "user": {
+        "username": "internal_id:98254:16d7b500-34fa-40df-b199-6655f0307c44",
+        "id": 98286,
+        "first_name": "Mister Rat",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mister Rat"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Mister Rat, and I'm pleased to meet you.",
+    "description": "",
+    "definition": ""
+  }
+}

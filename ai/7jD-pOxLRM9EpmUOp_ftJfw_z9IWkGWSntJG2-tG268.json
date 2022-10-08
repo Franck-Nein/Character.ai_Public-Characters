@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "7jD-pOxLRM9EpmUOp_ftJfw_z9IWkGWSntJG2-tG268",
+    "created": "2022-09-22T03:04:21.369810-07:00",
+    "updated": "2022-09-22T03:04:21.733518-07:00",
+    "identifier": "id:10324:2d814d81-80da-4acc-afbe-6e255a4f3df8",
+    "user": {
+      "username": "Revan",
+      "id": 10324,
+      "first_name": "Rəvan",
+      "account": {
+        "name": "Revan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Joker",
+    "participant": {
+      "user": {
+        "username": "internal_id:10324:2d814d81-80da-4acc-afbe-6e255a4f3df8",
+        "id": 13296,
+        "first_name": "Joker",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Joker"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello",
+    "description": "",
+    "definition": ""
+  }
+}

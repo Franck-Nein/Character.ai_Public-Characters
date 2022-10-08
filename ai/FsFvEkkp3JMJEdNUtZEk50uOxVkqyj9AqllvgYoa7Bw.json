@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "FsFvEkkp3JMJEdNUtZEk50uOxVkqyj9AqllvgYoa7Bw",
+    "created": "2022-09-26T04:13:03.783607-07:00",
+    "updated": "2022-09-26T04:42:07.863745-07:00",
+    "identifier": "id:25813:b49d802f-d52d-4e80-8785-b877cfb89eda",
+    "user": {
+      "username": "setsun",
+      "id": 25813,
+      "first_name": "薛克林顿",
+      "account": {
+        "name": "setsun",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "ddf",
+    "participant": {
+      "user": {
+        "username": "internal_id:25813:b49d802f-d52d-4e80-8785-b877cfb89eda",
+        "id": 25824,
+        "first_name": "ddf",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "ddf"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "哈哈哈",
+    "description": "",
+    "definition": ""
+  }
+}

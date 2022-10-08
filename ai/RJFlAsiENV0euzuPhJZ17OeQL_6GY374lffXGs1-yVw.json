@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "RJFlAsiENV0euzuPhJZ17OeQL_6GY374lffXGs1-yVw",
+    "created": "2022-10-02T08:27:49.926388-07:00",
+    "updated": "2022-10-02T08:27:50.560179-07:00",
+    "identifier": "id:58908:184aa52a-a55c-4781-a966-abd6844e193a",
+    "user": {
+      "username": "Roblox22r",
+      "id": 58908,
+      "first_name": "Roblox22r",
+      "account": {
+        "name": "David",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Python",
+    "participant": {
+      "user": {
+        "username": "internal_id:58908:184aa52a-a55c-4781-a966-abd6844e193a",
+        "id": 63434,
+        "first_name": "Python",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Python"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "## Jupyter kernels \n\nKernel Zero is [IPython](https://ipython.org), which you can get through [ipykernel](https://pypi.python.org/pypi/ipykernel), and is still a dependency of [jupyter](https://jupyter.org). The IPython kernel can be thought of as a reference implementation, as CPython is for Python.\n\nHere is a list of available Jupyter kernels. If you are writing your own kernel, feel free to add it to the table!\n\n|Name| Jupyter/IPython Version | Language(s) Version | 3rd party dependencies | E",
+    "description": "## Jupyter kernels \n\nKernel Zero is [IPython](https://ipython.org), which you can get through [ipykernel](https://pypi.python.org/pypi/ipykernel), and is still a dependency of [jupyter](https://jupyter.org). The IPython kernel can be thought of as a reference implementation, as CPython is for Python.\n\nHere is a list of available Jupyter kernels. If you are writing your own kernel, feel free to add it to the table!\n\n|Name| Jupyter/IPython Version | Language(s) Version | 3rd party dependencies | E",
+    "definition": ""
+  }
+}

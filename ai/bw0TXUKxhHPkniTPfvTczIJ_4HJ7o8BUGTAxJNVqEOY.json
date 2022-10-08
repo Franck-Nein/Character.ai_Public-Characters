@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "bw0TXUKxhHPkniTPfvTczIJ_4HJ7o8BUGTAxJNVqEOY",
+    "created": "2022-09-30T06:42:57.319866-07:00",
+    "updated": "2022-09-30T06:51:47.403602-07:00",
+    "identifier": "id:10218:06ffb5a9-731d-4cc3-b835-48ce7f74c7ad",
+    "user": {
+      "username": "Ertugrul",
+      "id": 10218,
+      "first_name": "Ertuğrul",
+      "account": {
+        "name": "Ertugrul",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Kerem",
+    "participant": {
+      "user": {
+        "username": "internal_id:10218:06ffb5a9-731d-4cc3-b835-48ce7f74c7ad",
+        "id": 53507,
+        "first_name": "Kerem",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Kerem"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "{{random}}",
+    "description": "",
+    "definition": ""
+  }
+}

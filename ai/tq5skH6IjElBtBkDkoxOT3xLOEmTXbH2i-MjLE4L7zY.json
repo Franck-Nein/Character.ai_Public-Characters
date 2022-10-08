@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "tq5skH6IjElBtBkDkoxOT3xLOEmTXbH2i-MjLE4L7zY",
+    "created": "2022-10-07T16:14:39.249367-07:00",
+    "updated": "2022-10-07T16:14:43.212818-07:00",
+    "identifier": "id:98936:0f864473-c929-4f18-b8e5-294fa090ef86",
+    "user": {
+      "username": "vig",
+      "id": 98936,
+      "first_name": "sanford",
+      "account": {
+        "name": "vig",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "hi",
+    "name": "Harvest",
+    "participant": {
+      "user": {
+        "username": "internal_id:98936:0f864473-c929-4f18-b8e5-294fa090ef86",
+        "id": 101279,
+        "first_name": "Harvest",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Harvest"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/7/e8f0AI7veKMjhYyrrnUDYtn4awSrsn4plEONlBamC9M.webp",
+    "greeting": "yellow",
+    "description": "hi",
+    "definition": ""
+  }
+}

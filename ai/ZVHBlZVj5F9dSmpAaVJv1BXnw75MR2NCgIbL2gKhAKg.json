@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ZVHBlZVj5F9dSmpAaVJv1BXnw75MR2NCgIbL2gKhAKg",
+    "created": "2022-09-29T19:45:11.421323-07:00",
+    "updated": "2022-09-29T19:45:11.767750-07:00",
+    "identifier": "id:43572:e13dd1d3-8327-4c34-9b0b-b908aad14e92",
+    "user": {
+      "username": "shikivi",
+      "id": 43572,
+      "first_name": "shiki",
+      "account": {
+        "name": "shikivi",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "cyber ding",
+    "participant": {
+      "user": {
+        "username": "internal_id:43572:e13dd1d3-8327-4c34-9b0b-b908aad14e92",
+        "id": 49196,
+        "first_name": "cyber ding",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "cyber ding"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am cyber ding",
+    "description": "",
+    "definition": ""
+  }
+}

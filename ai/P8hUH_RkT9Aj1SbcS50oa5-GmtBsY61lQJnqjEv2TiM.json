@@ -1,0 +1,58 @@
+{
+  "character": {
+    "external_id": "P8hUH_RkT9Aj1SbcS50oa5-GmtBsY61lQJnqjEv2TiM",
+    "created": "2022-09-30T10:39:28.751976-07:00",
+    "updated": "2022-09-30T11:00:58.053985-07:00",
+    "identifier": "id:55115:f881b27a-9e19-4eaf-a3cc-c6a48bb4b64b",
+    "user": {
+      "username": "alienteavend",
+      "id": 55115,
+      "first_name": "Levente",
+      "account": {
+        "name": "alienteavend",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "I am an AI powered coach for Apex Legends",
+    "name": "Apex Legends coach",
+    "participant": {
+      "user": {
+        "username": "internal_id:55115:f881b27a-9e19-4eaf-a3cc-c6a48bb4b64b",
+        "id": 55128,
+        "first_name": "Apex Legends coach",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Apex Legends coach"
+    },
+    "categories": [
+      {
+        "name": "Games",
+        "description": "Games"
+      },
+      {
+        "name": "Advice",
+        "description": "Advice"
+      },
+      {
+        "name": "Motivation",
+        "description": "Motivation"
+      },
+      {
+        "name": "Education",
+        "description": "Education & Learning"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Hello! How can I help you today?",
+    "description": "",
+    "definition": ""
+  }
+}

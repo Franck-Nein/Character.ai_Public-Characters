@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "q8ejLCFhNSyxGk8MRDbtZ0Y-e0fFX4sEXlYWZfkndZE",
+    "created": "2022-09-01T12:53:59.368019-07:00",
+    "updated": "2022-09-01T12:53:59.781435-07:00",
+    "identifier": "id:6312:9ac74240-e277-4403-893e-9a28d9a1cd5b",
+    "user": {
+      "username": "shaan7",
+      "id": 6312,
+      "first_name": "Shantanu",
+      "account": {
+        "name": "shaan7",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Professor Moody",
+    "participant": {
+      "user": {
+        "username": "internal_id:6312:9ac74240-e277-4403-893e-9a28d9a1cd5b",
+        "id": 6321,
+        "first_name": "Professor Moody",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Professor Moody"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I will curse you",
+    "description": "",
+    "definition": ""
+  }
+}

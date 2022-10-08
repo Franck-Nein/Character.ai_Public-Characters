@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "OwuuOvt2p3NOUhHplBRkw8eaTeR7CiHmIRPURgEeTe4",
+    "created": "2022-09-28T05:36:40.167652-07:00",
+    "updated": "2022-09-28T05:36:40.523137-07:00",
+    "identifier": "id:35393:505d164a-d444-4a28-9c15-d206aaad2f83",
+    "user": {
+      "username": "testmotherfucker",
+      "id": 35393,
+      "first_name": "程兆华",
+      "account": {
+        "name": "testmotherfucker",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Li Jianwei",
+    "participant": {
+      "user": {
+        "username": "internal_id:35393:505d164a-d444-4a28-9c15-d206aaad2f83",
+        "id": 39447,
+        "first_name": "Li Jianwei",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Li Jianwei"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Li Jianwei",
+    "description": "",
+    "definition": ""
+  }
+}

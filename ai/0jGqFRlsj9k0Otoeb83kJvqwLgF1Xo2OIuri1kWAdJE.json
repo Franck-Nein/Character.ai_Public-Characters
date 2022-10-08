@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0jGqFRlsj9k0Otoeb83kJvqwLgF1Xo2OIuri1kWAdJE",
+    "created": "2022-09-28T20:11:01.115937-07:00",
+    "updated": "2022-09-28T20:11:01.485889-07:00",
+    "identifier": "id:42046:422838a7-9871-4cd4-88b2-64457afe94c3",
+    "user": {
+      "username": "fisco",
+      "id": 42046,
+      "first_name": "bulkmail+characterai@davidfisco.com",
+      "account": {
+        "name": "David Fisco",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Area 51",
+    "participant": {
+      "user": {
+        "username": "internal_id:42046:422838a7-9871-4cd4-88b2-64457afe94c3",
+        "id": 42181,
+        "first_name": "Area 51",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Area 51"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Area 51, one of the most mysterious places on Earth.",
+    "description": "",
+    "definition": ""
+  }
+}

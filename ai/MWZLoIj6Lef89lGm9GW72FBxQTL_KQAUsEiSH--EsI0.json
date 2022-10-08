@@ -1,0 +1,54 @@
+{
+  "character": {
+    "external_id": "MWZLoIj6Lef89lGm9GW72FBxQTL_KQAUsEiSH--EsI0",
+    "created": "2022-09-21T02:41:10.876959-07:00",
+    "updated": "2022-09-21T02:42:29.317295-07:00",
+    "identifier": "id:11720:e98ba19c-8738-4a63-8c01-0e7ea1f2cea4",
+    "user": {
+      "username": "MisterAdy",
+      "id": 11720,
+      "first_name": "Adrian",
+      "account": {
+        "name": "MisterAdy",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mossy",
+    "participant": {
+      "user": {
+        "username": "internal_id:11720:e98ba19c-8738-4a63-8c01-0e7ea1f2cea4",
+        "id": 11723,
+        "first_name": "Mossy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mossy"
+    },
+    "categories": [
+      {
+        "name": "Comedy",
+        "description": "Comedy & Humor"
+      },
+      {
+        "name": "Animals",
+        "description": "Animals"
+      },
+      {
+        "name": "Food",
+        "description": "Food & Cooking"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "What’s happening… I loves drink ",
+    "description": "",
+    "definition": ""
+  }
+}

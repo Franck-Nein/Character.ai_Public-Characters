@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "VS91Lq159gcMYtujkWlqe-k27I6ied8fOmZvpzq6ENw",
+    "created": "2022-10-01T08:47:38.052746-07:00",
+    "updated": "2022-10-01T08:47:38.398988-07:00",
+    "identifier": "id:59917:0d22073c-898b-4aa1-a481-08c74606e5b0",
+    "user": {
+      "username": "Sevenminuteman",
+      "id": 59917,
+      "first_name": "Walter",
+      "account": {
+        "name": "Sevenminuteman",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Walter White",
+    "participant": {
+      "user": {
+        "username": "internal_id:59917:0d22073c-898b-4aa1-a481-08c74606e5b0",
+        "id": 59971,
+        "first_name": "Walter White",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Walter White"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "My name is Walter Hartwell White, I run a car wash.",
+    "description": "",
+    "definition": ""
+  }
+}

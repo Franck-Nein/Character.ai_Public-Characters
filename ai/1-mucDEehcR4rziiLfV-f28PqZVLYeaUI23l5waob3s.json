@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "1-mucDEehcR4rziiLfV-f28PqZVLYeaUI23l5waob3s",
+    "created": "2022-09-28T16:37:20.056949-07:00",
+    "updated": "2022-09-28T16:44:45.104081-07:00",
+    "identifier": "id:40410:0097ed65-d251-493b-9d85-ee4729d67c7a",
+    "user": {
+      "username": "Hernan",
+      "id": 40410,
+      "first_name": "Hernán",
+      "account": {
+        "name": "Hernan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Daniel C",
+    "participant": {
+      "user": {
+        "username": "internal_id:40410:0097ed65-d251-493b-9d85-ee4729d67c7a",
+        "id": 41767,
+        "first_name": "Daniel C",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Daniel C"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Daniel C",
+    "description": "",
+    "definition": ""
+  }
+}

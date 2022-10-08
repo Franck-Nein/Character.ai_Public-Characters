@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "02IJ5H1AllBTml0wm6hvzN3AWth9al8lPoWfZRKPGDY",
+    "created": "2022-09-30T09:08:27.350966-07:00",
+    "updated": "2022-09-30T09:08:28.103508-07:00",
+    "identifier": "id:16027:db2aec8d-fb9c-4c41-a72b-2aaa0ba00d1e",
+    "user": {
+      "username": "MadKraken",
+      "id": 16027,
+      "first_name": "Benjamin",
+      "account": {
+        "name": "MadKraken",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Constellation King",
+    "participant": {
+      "user": {
+        "username": "internal_id:16027:db2aec8d-fb9c-4c41-a72b-2aaa0ba00d1e",
+        "id": 54552,
+        "first_name": "Constellation King",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Constellation King"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Constellation King",
+    "description": "",
+    "definition": ""
+  }
+}

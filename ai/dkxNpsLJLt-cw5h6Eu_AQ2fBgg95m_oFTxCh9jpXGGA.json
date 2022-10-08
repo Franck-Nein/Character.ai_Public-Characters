@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "dkxNpsLJLt-cw5h6Eu_AQ2fBgg95m_oFTxCh9jpXGGA",
+    "created": "2022-09-20T12:44:30.253535-07:00",
+    "updated": "2022-09-20T12:44:30.956018-07:00",
+    "identifier": "id:10001:643a2661-ec04-4de2-a15f-f3cd2e11e93b",
+    "user": {
+      "username": "walterlicinio",
+      "id": 10001,
+      "first_name": "Walter",
+      "account": {
+        "name": "walterlicinio",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Musky",
+    "participant": {
+      "user": {
+        "username": "internal_id:10001:643a2661-ec04-4de2-a15f-f3cd2e11e93b",
+        "id": 11189,
+        "first_name": "Musky",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Musky"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Your bot for all things music",
+    "description": "",
+    "definition": ""
+  }
+}

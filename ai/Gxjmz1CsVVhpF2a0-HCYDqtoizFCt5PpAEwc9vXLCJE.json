@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Gxjmz1CsVVhpF2a0-HCYDqtoizFCt5PpAEwc9vXLCJE",
+    "created": "2022-09-29T08:29:05.581978-07:00",
+    "updated": "2022-09-29T08:29:06.272667-07:00",
+    "identifier": "id:44513:2a740fb4-d192-47ad-b140-9dc7ad543f15",
+    "user": {
+      "username": "fiblie02",
+      "id": 44513,
+      "first_name": "fiblie02@gmail.com",
+      "account": {
+        "name": "fiblie02",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Gloomy Cockney",
+    "participant": {
+      "user": {
+        "username": "internal_id:44513:2a740fb4-d192-47ad-b140-9dc7ad543f15",
+        "id": 44518,
+        "first_name": "Gloomy Cockney",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Gloomy Cockney"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Gloomy Cockney",
+    "description": "",
+    "definition": ""
+  }
+}

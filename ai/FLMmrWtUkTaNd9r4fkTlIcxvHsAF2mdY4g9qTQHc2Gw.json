@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "FLMmrWtUkTaNd9r4fkTlIcxvHsAF2mdY4g9qTQHc2Gw",
+    "created": "2022-10-03T23:28:09.088401-07:00",
+    "updated": "2022-10-03T23:28:11.933270-07:00",
+    "identifier": "id:65445:924154ea-4002-459f-9cb1-7792ed66def6",
+    "user": {
+      "username": "Nucleargoomba",
+      "id": 65445,
+      "first_name": "Nucleargoomba",
+      "account": {
+        "name": "Nucleargoomba",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "Samson ",
+    "name": "Samson",
+    "participant": {
+      "user": {
+        "username": "internal_id:65445:924154ea-4002-459f-9cb1-7792ed66def6",
+        "id": 68156,
+        "first_name": "Samson",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Samson"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Samson",
+    "description": "",
+    "definition": ""
+  }
+}

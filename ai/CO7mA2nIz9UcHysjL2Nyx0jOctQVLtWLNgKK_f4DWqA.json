@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "CO7mA2nIz9UcHysjL2Nyx0jOctQVLtWLNgKK_f4DWqA",
+    "created": "2022-09-26T05:42:16.129278-07:00",
+    "updated": "2022-09-26T05:42:16.574921-07:00",
+    "identifier": "id:26530:2139576b-2360-435a-aa65-fcb9822995dc",
+    "user": {
+      "username": "TTs",
+      "id": 26530,
+      "first_name": "Tarık",
+      "account": {
+        "name": "TTs",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Deutsch Lehrer",
+    "participant": {
+      "user": {
+        "username": "internal_id:26530:2139576b-2360-435a-aa65-fcb9822995dc",
+        "id": 26568,
+        "first_name": "Deutsch Lehrer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Deutsch Lehrer"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello I am DL and I am German and teach people German Language",
+    "description": "",
+    "definition": ""
+  }
+}

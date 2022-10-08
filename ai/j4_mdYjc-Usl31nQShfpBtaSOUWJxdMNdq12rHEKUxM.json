@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "j4_mdYjc-Usl31nQShfpBtaSOUWJxdMNdq12rHEKUxM",
+    "created": "2022-10-02T09:45:42.208261-07:00",
+    "updated": "2022-10-02T09:45:42.695575-07:00",
+    "identifier": "id:55391:5fad7920-312f-4d2b-af68-00d711f815ed",
+    "user": {
+      "username": "msk",
+      "id": 55391,
+      "first_name": "m.salih",
+      "account": {
+        "name": "msk",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Footballer",
+    "participant": {
+      "user": {
+        "username": "internal_id:55391:5fad7920-312f-4d2b-af68-00d711f815ed",
+        "id": 63649,
+        "first_name": "Footballer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Footballer"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Footballer",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "07F3zjVsk_3eoAJYVjOEgD77QfGcuQzOGpvp6IbGeIM",
+    "created": "2022-09-29T18:36:04.691995-07:00",
+    "updated": "2022-09-29T18:36:05.051855-07:00",
+    "identifier": "id:42046:502df763-a315-495d-a285-657710f26011",
+    "user": {
+      "username": "fisco",
+      "id": 42046,
+      "first_name": "bulkmail+characterai@davidfisco.com",
+      "account": {
+        "name": "David Fisco",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Tutankhamun",
+    "participant": {
+      "user": {
+        "username": "internal_id:42046:502df763-a315-495d-a285-657710f26011",
+        "id": 48757,
+        "first_name": "Tutankhamun",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Tutankhamun"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Tutankhamun, an Egyptian pharaoh who ruled during the end of the 18th Dynasty.",
+    "description": "",
+    "definition": ""
+  }
+}

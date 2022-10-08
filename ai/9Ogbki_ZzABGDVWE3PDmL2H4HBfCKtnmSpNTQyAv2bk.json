@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "9Ogbki_ZzABGDVWE3PDmL2H4HBfCKtnmSpNTQyAv2bk",
+    "created": "2022-10-07T07:09:11.028758-07:00",
+    "updated": "2022-10-07T07:09:11.387717-07:00",
+    "identifier": "id:90745:6944a48b-80f0-46b3-abdf-b108da8758b5",
+    "user": {
+      "username": "Gaylord",
+      "id": 90745,
+      "first_name": "B",
+      "account": {
+        "name": "Gaylord",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "omar",
+    "participant": {
+      "user": {
+        "username": "internal_id:90745:6944a48b-80f0-46b3-abdf-b108da8758b5",
+        "id": 93518,
+        "first_name": "omar",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "omar"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am omar from tonnot you want to join our discord?",
+    "description": "",
+    "definition": ""
+  }
+}

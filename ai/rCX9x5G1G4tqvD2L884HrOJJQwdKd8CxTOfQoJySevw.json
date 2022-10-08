@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "rCX9x5G1G4tqvD2L884HrOJJQwdKd8CxTOfQoJySevw",
+    "created": "2022-09-20T02:32:23.324112-07:00",
+    "updated": "2022-09-20T02:32:23.690878-07:00",
+    "identifier": "id:7600:6f9c0990-1397-4045-882a-a1913bda68ea",
+    "user": {
+      "username": "Cardholder",
+      "id": 7600,
+      "first_name": "cardholder@gmail.com",
+      "account": {
+        "name": "Cardholder",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jeff Bezos",
+    "participant": {
+      "user": {
+        "username": "internal_id:7600:6f9c0990-1397-4045-882a-a1913bda68ea",
+        "id": 10911,
+        "first_name": "Jeff Bezos",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jeff Bezos"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am founder of Amazon.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "IupLP-6IP9TnsAjpjgv3QRA43-AYBkYGu0SIHH5VY2Y",
+    "created": "2022-10-07T17:07:30.970118-07:00",
+    "updated": "2022-10-07T17:07:31.316872-07:00",
+    "identifier": "id:99956:df910733-f1b0-41c4-9738-dd849d64c5a6",
+    "user": {
+      "username": "leaugen",
+      "id": 99956,
+      "first_name": "braiden",
+      "account": {
+        "name": "leaugen",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Project helper",
+    "participant": {
+      "user": {
+        "username": "internal_id:99956:df910733-f1b0-41c4-9738-dd849d64c5a6",
+        "id": 102058,
+        "first_name": "Project helper",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Project helper"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Project helper",
+    "description": "",
+    "definition": ""
+  }
+}

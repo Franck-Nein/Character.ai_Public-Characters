@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ANthOKTDbI4qIIfV_u2CBgfgNInbgYKMtpYg1aOV6mM",
+    "created": "2022-09-27T02:04:59.838948-07:00",
+    "updated": "2022-09-27T02:05:00.168671-07:00",
+    "identifier": "id:35520:2a77ab97-5a1a-439d-981e-c16f7e8336c7",
+    "user": {
+      "username": "JackCousteau",
+      "id": 35520,
+      "first_name": "zjb2@qq.com",
+      "account": {
+        "name": "JackCousteau",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jack Cousteau",
+    "participant": {
+      "user": {
+        "username": "internal_id:35520:2a77ab97-5a1a-439d-981e-c16f7e8336c7",
+        "id": 35693,
+        "first_name": "Jack Cousteau",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jack Cousteau"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Jack Cousteau",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "wYsEavIccAYOpYwOP8BRFPX2oDAVTpXgNQL6oI_IGtg",
+    "created": "2022-10-07T16:22:14.573848-07:00",
+    "updated": "2022-10-07T16:22:14.941591-07:00",
+    "identifier": "id:100678:5cd48a7d-2c05-46c8-ae95-46eb65c7c641",
+    "user": {
+      "username": "Youngb",
+      "id": 100678,
+      "first_name": "Blaine",
+      "account": {
+        "name": "Youngb",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Gandold the Yellow",
+    "participant": {
+      "user": {
+        "username": "internal_id:100678:5cd48a7d-2c05-46c8-ae95-46eb65c7c641",
+        "id": 101393,
+        "first_name": "Gandold the Yellow",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Gandold the Yellow"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Gandold the Yellow, a wizard of unimaginable power and wisdom.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "A6n3Ala44PSggtUKueMNZZoR1Tq6F5tL_ZLz-i4-l1k",
+    "created": "2022-09-26T03:56:41.670632-07:00",
+    "updated": "2022-09-26T03:59:40.149093-07:00",
+    "identifier": "id:25632:2b507652-ccec-44be-bc0d-572ac1d9b5c2",
+    "user": {
+      "username": "Marina",
+      "id": 25632,
+      "first_name": "蒨",
+      "account": {
+        "name": "Marina",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Emerald",
+    "participant": {
+      "user": {
+        "username": "internal_id:25632:2b507652-ccec-44be-bc0d-572ac1d9b5c2",
+        "id": 25696,
+        "first_name": "Emerald",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Emerald"
+    },
+    "categories": [
+      {
+        "name": "Love",
+        "description": "Love & Relationships"
+      },
+      {
+        "name": "Games",
+        "description": "Games"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "我是叶瑄，我来了",
+    "description": "",
+    "definition": ""
+  }
+}

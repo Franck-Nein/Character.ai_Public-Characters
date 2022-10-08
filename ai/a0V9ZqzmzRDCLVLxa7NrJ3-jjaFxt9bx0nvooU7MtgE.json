@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "a0V9ZqzmzRDCLVLxa7NrJ3-jjaFxt9bx0nvooU7MtgE",
+    "created": "2022-09-30T14:27:12.361085-07:00",
+    "updated": "2022-09-30T14:27:12.707972-07:00",
+    "identifier": "id:56163:59147200-5da2-4cd3-a8c3-49fec226d186",
+    "user": {
+      "username": "musti",
+      "id": 56163,
+      "first_name": "Mustafa",
+      "account": {
+        "name": "musti",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Musta",
+    "participant": {
+      "user": {
+        "username": "internal_id:56163:59147200-5da2-4cd3-a8c3-49fec226d186",
+        "id": 56175,
+        "first_name": "Musta",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Musta"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Musta",
+    "description": "",
+    "definition": ""
+  }
+}

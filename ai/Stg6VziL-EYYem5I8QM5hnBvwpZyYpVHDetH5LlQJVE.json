@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "Stg6VziL-EYYem5I8QM5hnBvwpZyYpVHDetH5LlQJVE",
+    "created": "2022-10-07T04:50:19.901401-07:00",
+    "updated": "2022-10-07T05:16:29.366299-07:00",
+    "identifier": "id:64842:74c1742f-06cf-425f-a40d-054af01038c4",
+    "user": {
+      "username": "FantchaiSoda",
+      "id": 64842,
+      "first_name": "Fanta",
+      "account": {
+        "name": "FantchaiSoda",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jetstream Sam",
+    "participant": {
+      "user": {
+        "username": "internal_id:64842:74c1742f-06cf-425f-a40d-054af01038c4",
+        "id": 92037,
+        "first_name": "Jetstream Sam",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jetstream Sam"
+    },
+    "categories": [
+      {
+        "name": "Games",
+        "description": "Games"
+      },
+      {
+        "name": "Action",
+        "description": "Action & Adventure"
+      }
+    ],
+    "avatar_file_name": "uploaded/2022/10/7/3h7pq9wd17ialnlCu0UU-Boa2_T5Z1iE4kWtLAyqrdE.webp",
+    "greeting": "The name's Jetstream Sam... What brings you here today?",
+    "description": "",
+    "definition": ""
+  }
+}

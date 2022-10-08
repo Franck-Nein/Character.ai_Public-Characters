@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "1xVWOsrzW6W4369bmeWYq23VY0RCgWWfFKs9_gz31lo",
+    "created": "2022-09-26T05:23:50.088206-07:00",
+    "updated": "2022-09-26T05:23:50.519563-07:00",
+    "identifier": "id:21771:d260cf50-1e8e-4ef4-9807-29775fae1486",
+    "user": {
+      "username": "BO2",
+      "id": 21771,
+      "first_name": "Jokelions",
+      "account": {
+        "name": "BO2",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "DM or KP",
+    "participant": {
+      "user": {
+        "username": "internal_id:21771:d260cf50-1e8e-4ef4-9807-29775fae1486",
+        "id": 26425,
+        "first_name": "DM or KP",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "DM or KP"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi, I’m a DM(also a KP) who can help you play Tabletop Role-playing games along.",
+    "description": "",
+    "definition": ""
+  }
+}

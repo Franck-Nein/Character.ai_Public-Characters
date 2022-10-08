@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "K9AhAQMZ1DdkMO8qVjqWQj4I-NMAFvYQhKtbpcPWfk4",
+    "created": "2022-09-30T13:01:31.804228-07:00",
+    "updated": "2022-09-30T13:01:32.389996-07:00",
+    "identifier": "id:55794:b95c5a48-e683-4853-bc32-3450a32f9c6e",
+    "user": {
+      "username": "ozgun",
+      "id": 55794,
+      "first_name": "Özgün",
+      "account": {
+        "name": "ozgun",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ozgun",
+    "participant": {
+      "user": {
+        "username": "internal_id:55794:b95c5a48-e683-4853-bc32-3450a32f9c6e",
+        "id": 55805,
+        "first_name": "Ozgun",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ozgun"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, I am Özgün",
+    "description": "",
+    "definition": ""
+  }
+}

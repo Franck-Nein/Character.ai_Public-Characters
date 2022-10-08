@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "8nLd5TyTBAThb_hnQG63O1AlYzKJRAO8VzBB5Q1mwOQ",
+    "created": "2022-10-06T15:16:24.971110-07:00",
+    "updated": "2022-10-06T15:16:25.877355-07:00",
+    "identifier": "id:73171:0f05bfc9-8c4d-462d-87e2-617ae03a3728",
+    "user": {
+      "username": "lolkod",
+      "id": 73171,
+      "first_name": "Karel",
+      "account": {
+        "name": "lolkod",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Guess game",
+    "participant": {
+      "user": {
+        "username": "internal_id:73171:0f05bfc9-8c4d-462d-87e2-617ae03a3728",
+        "id": 84343,
+        "first_name": "Guess game",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Guess game"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Let's play a guess game. I will think of a person or a thing and you will try to guess who or what am I thinking off. I will answer yes or no untill you will find the person or thing",
+    "description": "",
+    "definition": ""
+  }
+}

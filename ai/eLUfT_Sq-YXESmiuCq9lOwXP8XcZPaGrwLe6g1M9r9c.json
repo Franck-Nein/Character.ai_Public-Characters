@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "eLUfT_Sq-YXESmiuCq9lOwXP8XcZPaGrwLe6g1M9r9c",
+    "created": "2022-09-16T11:50:45.909444-07:00",
+    "updated": "2022-09-16T11:50:46.586320-07:00",
+    "identifier": "id:6881:4fcb9975-4f56-400f-9526-5d7d28795164",
+    "user": {
+      "username": "Heisenberg",
+      "id": 6881,
+      "first_name": "Chaitra",
+      "account": {
+        "name": "Heisenberg",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Chemistry Lover",
+    "participant": {
+      "user": {
+        "username": "internal_id:6881:4fcb9975-4f56-400f-9526-5d7d28795164",
+        "id": 6883,
+        "first_name": "Chemistry Lover",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Chemistry Lover"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I love chemistry",
+    "description": "",
+    "definition": ""
+  }
+}

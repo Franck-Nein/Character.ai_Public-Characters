@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "d0ibGQ1HFt0sAj_yX6PTop0ZP7gdojm6qU1_vs6FmEQ",
+    "created": "2022-09-26T01:57:56.164113-07:00",
+    "updated": "2022-09-26T01:57:56.711608-07:00",
+    "identifier": "id:23847:70892127-fcba-4a0d-b804-466c5962e3bd",
+    "user": {
+      "username": "Tann",
+      "id": 23847,
+      "first_name": "867532854@qq.com",
+      "account": {
+        "name": "Tann",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "kobe bryant",
+    "participant": {
+      "user": {
+        "username": "internal_id:23847:70892127-fcba-4a0d-b804-466c5962e3bd",
+        "id": 24728,
+        "first_name": "kobe bryant",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "kobe bryant"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello",
+    "description": "",
+    "definition": ""
+  }
+}

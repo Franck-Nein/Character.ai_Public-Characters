@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "5fOJEn_6gy-X1a9QjzZXGkVHhE59B4VkrfUQh-8ucqc",
+    "created": "2022-10-07T20:03:22.723116-07:00",
+    "updated": "2022-10-07T20:03:23.091508-07:00",
+    "identifier": "id:104538:8b4056c2-2cce-45ca-8a55-c2e6f22f08d8",
+    "user": {
+      "username": "Dug",
+      "id": 104538,
+      "first_name": "pandug",
+      "account": {
+        "name": "Dug",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Duggy fresh",
+    "participant": {
+      "user": {
+        "username": "internal_id:104538:8b4056c2-2cce-45ca-8a55-c2e6f22f08d8",
+        "id": 104544,
+        "first_name": "Duggy fresh",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Duggy fresh"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Duggy fresh",
+    "description": "",
+    "definition": ""
+  }
+}

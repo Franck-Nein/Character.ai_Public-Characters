@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "hS791n6WSOziOfESbXqGB32d5pRHnqIlC3py9aCTyP8",
+    "created": "2022-10-02T13:34:37.964291-07:00",
+    "updated": "2022-10-02T13:34:38.388063-07:00",
+    "identifier": "id:64039:50d365b7-1ac1-4e65-9d79-1ca86443821b",
+    "user": {
+      "username": "maemae",
+      "id": 64039,
+      "first_name": "Maeve",
+      "account": {
+        "name": "maemae",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "diary",
+    "participant": {
+      "user": {
+        "username": "internal_id:64039:50d365b7-1ac1-4e65-9d79-1ca86443821b",
+        "id": 64207,
+        "first_name": "diary",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "diary"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/_780j2WEcd2WI9m_gra37rz5Tl-ONY6E9L-LEbmwX8k.webp",
+    "greeting": "I am a diary tell me your deepest darkest secrets and thoughts I won't tell them to anyone trust me ask me anything",
+    "description": "",
+    "definition": ""
+  }
+}

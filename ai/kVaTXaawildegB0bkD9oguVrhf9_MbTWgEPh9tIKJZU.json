@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "kVaTXaawildegB0bkD9oguVrhf9_MbTWgEPh9tIKJZU",
+    "created": "2022-09-29T13:39:42.577554-07:00",
+    "updated": "2022-09-29T13:39:43.000012-07:00",
+    "identifier": "id:46968:10d7c358-f092-47fe-9db1-800710431606",
+    "user": {
+      "username": "samtma",
+      "id": 46968,
+      "first_name": "Sam",
+      "account": {
+        "name": "samtma",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "marketing genius",
+    "participant": {
+      "user": {
+        "username": "internal_id:46968:10d7c358-f092-47fe-9db1-800710431606",
+        "id": 47048,
+        "first_name": "marketing genius",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "marketing genius"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am marketing genius",
+    "description": "",
+    "definition": ""
+  }
+}

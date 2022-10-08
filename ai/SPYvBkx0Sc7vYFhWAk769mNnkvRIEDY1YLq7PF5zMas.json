@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "SPYvBkx0Sc7vYFhWAk769mNnkvRIEDY1YLq7PF5zMas",
+    "created": "2022-10-07T01:12:23.069058-07:00",
+    "updated": "2022-10-07T01:13:42.668449-07:00",
+    "identifier": "id:90058:8b7e2d33-c243-4c06-899d-7095226ed3e8",
+    "user": {
+      "username": "bbbb666",
+      "id": 90058,
+      "first_name": "Bobby",
+      "account": {
+        "name": "bbbb666",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "gay",
+    "name": "Guy",
+    "participant": {
+      "user": {
+        "username": "internal_id:90058:8b7e2d33-c243-4c06-899d-7095226ed3e8",
+        "id": 90255,
+        "first_name": "Guy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Guy"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi, I'm Guy",
+    "description": "",
+    "definition": "{{char}}: Hi, I'm Guy\n{{random_user_1}}: Hey Guy, I'm Bobby\nEND_OF_DIALOG\n\n{{char}}: Hi, I'm Guy\n{{random_user_2}}: Hey guy\nEND_OF_DIALOG\n\n"
+  }
+}

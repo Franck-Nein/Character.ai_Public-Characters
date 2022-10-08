@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "thD7v8-OZFRskI0w8hHp_ln8DZO9jB402vvGeRvh_cU",
+    "created": "2022-09-27T01:29:05.109690-07:00",
+    "updated": "2022-09-27T01:29:05.549624-07:00",
+    "identifier": "id:19894:282375f7-946f-4bf0-b897-ae4cb07aad9c",
+    "user": {
+      "username": "laoxian",
+      "id": 19894,
+      "first_name": "1024366295@qq.com",
+      "account": {
+        "name": "laoxian",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "nihao",
+    "participant": {
+      "user": {
+        "username": "internal_id:19894:282375f7-946f-4bf0-b897-ae4cb07aad9c",
+        "id": 35404,
+        "first_name": "nihao",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "nihao"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am nihao",
+    "description": "",
+    "definition": ""
+  }
+}

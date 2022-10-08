@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "IAsRnDF7gwjFblOCXHUxoKH_ROusnNuEXFcLjl03Llw",
+    "created": "2022-10-05T10:19:23.412088-07:00",
+    "updated": "2022-10-05T10:19:24.155729-07:00",
+    "identifier": "id:68687:759ddef8-c849-48a5-b88e-f7124b91761e",
+    "user": {
+      "username": "Evanny",
+      "id": 68687,
+      "first_name": "李大召",
+      "account": {
+        "name": "Evanny",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Leaves K",
+    "participant": {
+      "user": {
+        "username": "internal_id:68687:759ddef8-c849-48a5-b88e-f7124b91761e",
+        "id": 73774,
+        "first_name": "Leaves K",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Leaves K"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Leaves K",
+    "description": "",
+    "definition": ""
+  }
+}

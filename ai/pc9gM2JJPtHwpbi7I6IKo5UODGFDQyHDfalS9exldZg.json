@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "pc9gM2JJPtHwpbi7I6IKo5UODGFDQyHDfalS9exldZg",
+    "created": "2022-10-03T19:38:31.312595-07:00",
+    "updated": "2022-10-03T19:38:31.778565-07:00",
+    "identifier": "id:60866:74bb0a80-7583-4ee3-be70-6444304f0f16",
+    "user": {
+      "username": "lollo",
+      "id": 60866,
+      "first_name": "王子俊",
+      "account": {
+        "name": "lollo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "alex",
+    "participant": {
+      "user": {
+        "username": "internal_id:60866:74bb0a80-7583-4ee3-be70-6444304f0f16",
+        "id": 67580,
+        "first_name": "alex",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "alex"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am alex 一个程序员",
+    "description": "",
+    "definition": ""
+  }
+}

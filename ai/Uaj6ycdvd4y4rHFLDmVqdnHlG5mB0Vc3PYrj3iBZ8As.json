@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Uaj6ycdvd4y4rHFLDmVqdnHlG5mB0Vc3PYrj3iBZ8As",
+    "created": "2022-09-26T02:18:52.862829-07:00",
+    "updated": "2022-09-26T02:18:53.493072-07:00",
+    "identifier": "id:24881:5cf4b046-004f-45b5-a949-40c31f7162b7",
+    "user": {
+      "username": "Tiam",
+      "id": 24881,
+      "first_name": "2356803604@qq.com",
+      "account": {
+        "name": "Tiam",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "ACCI",
+    "participant": {
+      "user": {
+        "username": "internal_id:24881:5cf4b046-004f-45b5-a949-40c31f7162b7",
+        "id": 24897,
+        "first_name": "ACCI",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "ACCI"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "HELLO",
+    "description": "",
+    "definition": ""
+  }
+}

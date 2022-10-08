@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "8ai_Cfhh3swXzusjYgyP00AbyBoKsFEvxPy7uji6l9w",
+    "created": "2022-09-17T10:40:59.865484-07:00",
+    "updated": "2022-09-17T10:41:00.247761-07:00",
+    "identifier": "id:7767:ab1608aa-65af-4049-9b28-233922459f69",
+    "user": {
+      "username": "Ratmilker",
+      "id": 7767,
+      "first_name": "daniel",
+      "account": {
+        "name": "Ratmilker",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Car expert",
+    "participant": {
+      "user": {
+        "username": "internal_id:7767:ab1608aa-65af-4049-9b28-233922459f69",
+        "id": 8100,
+        "first_name": "Car expert",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Car expert"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi, I can help you with any question about cars",
+    "description": "",
+    "definition": ""
+  }
+}

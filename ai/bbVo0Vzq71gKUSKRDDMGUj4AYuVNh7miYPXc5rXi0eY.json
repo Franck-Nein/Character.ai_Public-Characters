@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "bbVo0Vzq71gKUSKRDDMGUj4AYuVNh7miYPXc5rXi0eY",
+    "created": "2022-09-01T12:44:45.873790-07:00",
+    "updated": "2022-09-01T12:44:46.570180-07:00",
+    "identifier": "id:6312:c29c4a06-72fa-43ca-9428-dbd9f0530ed2",
+    "user": {
+      "username": "shaan7",
+      "id": 6312,
+      "first_name": "Shantanu",
+      "account": {
+        "name": "shaan7",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Gaben",
+    "participant": {
+      "user": {
+        "username": "internal_id:6312:c29c4a06-72fa-43ca-9428-dbd9f0530ed2",
+        "id": 6319,
+        "first_name": "Gaben",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Gaben"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "1 2 4 5",
+    "description": "",
+    "definition": ""
+  }
+}

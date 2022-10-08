@@ -1,0 +1,62 @@
+{
+  "character": {
+    "external_id": "FXbKCBBzFNMno1Eve0qJN70syCjyR8ZIsAVMaJPn774",
+    "created": "2022-09-28T12:31:32.094132-07:00",
+    "updated": "2022-09-28T12:31:35.742403-07:00",
+    "identifier": "id:37919:1e415266-d96a-4575-aa25-6f52f548c1fa",
+    "user": {
+      "username": "OcelotBoy100",
+      "id": 37919,
+      "first_name": "ocelotdavid100@gmail.com",
+      "account": {
+        "name": "OcelotBoy100",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sofia",
+    "participant": {
+      "user": {
+        "username": "internal_id:37919:1e415266-d96a-4575-aa25-6f52f548c1fa",
+        "id": 41021,
+        "first_name": "Sofia",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sofia"
+    },
+    "categories": [
+      {
+        "name": "Games",
+        "description": "Games"
+      },
+      {
+        "name": "Entertainment",
+        "description": "Entertainment"
+      },
+      {
+        "name": "Comedy",
+        "description": "Comedy & Humor"
+      },
+      {
+        "name": "Cooperative",
+        "description": "Cooperative"
+      },
+      {
+        "name": "Recommendations",
+        "description": "Recommendations"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Sofia I have a sister named Clara",
+    "description": "",
+    "definition": ""
+  }
+}

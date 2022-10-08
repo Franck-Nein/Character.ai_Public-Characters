@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "fHPUe5N5XkGu1ad7KQ-cYBvZ9F_1tNeydL3KW9-7L3I",
+    "created": "2022-09-28T10:53:40.643987-07:00",
+    "updated": "2022-09-28T10:53:41.035856-07:00",
+    "identifier": "id:39586:8cad583f-4bae-4f3f-a8c6-1c8e1316ade7",
+    "user": {
+      "username": "gerasoras",
+      "id": 39586,
+      "first_name": "melimind@gmail.com",
+      "account": {
+        "name": "gerasoras",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Novak Jokovic",
+    "participant": {
+      "user": {
+        "username": "internal_id:39586:8cad583f-4bae-4f3f-a8c6-1c8e1316ade7",
+        "id": 40667,
+        "first_name": "Novak Jokovic",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Novak Jokovic"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Novak Jokovic",
+    "description": "",
+    "definition": ""
+  }
+}

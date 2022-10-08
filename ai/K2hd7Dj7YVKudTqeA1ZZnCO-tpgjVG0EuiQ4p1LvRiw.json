@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "K2hd7Dj7YVKudTqeA1ZZnCO-tpgjVG0EuiQ4p1LvRiw",
+    "created": "2022-10-01T07:05:40.991985-07:00",
+    "updated": "2022-10-01T07:05:41.339703-07:00",
+    "identifier": "id:57631:1b572a0d-21c9-479f-b519-e30793467640",
+    "user": {
+      "username": "Nelop",
+      "id": 57631,
+      "first_name": "Nelop",
+      "account": {
+        "name": "Nelop",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "GuideBot",
+    "participant": {
+      "user": {
+        "username": "internal_id:57631:1b572a0d-21c9-479f-b519-e30793467640",
+        "id": 59589,
+        "first_name": "GuideBot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "GuideBot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am GuideBot. Give me a question or a scenario, and I'll lay out the answer in 10 steps.",
+    "description": "",
+    "definition": ""
+  }
+}

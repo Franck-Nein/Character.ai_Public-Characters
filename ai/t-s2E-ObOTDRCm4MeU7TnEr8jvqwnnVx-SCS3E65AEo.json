@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "t-s2E-ObOTDRCm4MeU7TnEr8jvqwnnVx-SCS3E65AEo",
+    "created": "2022-09-23T20:29:23.724464-07:00",
+    "updated": "2022-09-23T20:29:24.178114-07:00",
+    "identifier": "id:16085:b63c7d5f-916f-4f8d-b8e5-5e70d604b39a",
+    "user": {
+      "username": "Bbb",
+      "id": 16085,
+      "first_name": "Vasco",
+      "account": {
+        "name": "Bbb",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "D G",
+    "participant": {
+      "user": {
+        "username": "internal_id:16085:b63c7d5f-916f-4f8d-b8e5-5e70d604b39a",
+        "id": 16100,
+        "first_name": "D G",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "D G"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I’m a g",
+    "description": "",
+    "definition": ""
+  }
+}

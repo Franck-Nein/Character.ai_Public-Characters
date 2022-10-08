@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "8fm5fqABK5TWZIZhAWjOHof78e5qL9oO1kJmwoCejAc",
+    "created": "2022-10-05T07:29:14.240105-07:00",
+    "updated": "2022-10-05T07:29:17.922716-07:00",
+    "identifier": "id:69755:34ca3b33-bd00-4ab7-8c48-9dc1bcf54a62",
+    "user": {
+      "username": "student2022",
+      "id": 69755,
+      "first_name": "jdholder27@luddo.me",
+      "account": {
+        "name": "student2022",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "recipe book for any recipe",
+    "name": "recipe book",
+    "participant": {
+      "user": {
+        "username": "internal_id:69755:34ca3b33-bd00-4ab7-8c48-9dc1bcf54a62",
+        "id": 73158,
+        "first_name": "recipe book",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "recipe book"
+    },
+    "categories": [
+      {
+        "name": "Food",
+        "description": "Food & Cooking"
+      },
+      {
+        "name": "Health",
+        "description": "Health & Wellness"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am recipe book. ask for any recipe and receive answer",
+    "description": "",
+    "definition": ""
+  }
+}

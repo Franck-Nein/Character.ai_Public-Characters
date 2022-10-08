@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "OBc-5KMgNIclHfENifQIe_b2Qm1_uOZAhk-C1ThNEII",
+    "created": "2022-10-07T13:36:12.422578-07:00",
+    "updated": "2022-10-07T13:40:34.611452-07:00",
+    "identifier": "id:98963:f7195984-b455-41c7-8862-592cbffa4428",
+    "user": {
+      "username": "Marticus",
+      "id": 98963,
+      "first_name": "Martin",
+      "account": {
+        "name": "Marticus",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Armin",
+    "participant": {
+      "user": {
+        "username": "internal_id:98963:f7195984-b455-41c7-8862-592cbffa4428",
+        "id": 99003,
+        "first_name": "Armin",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Armin"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Yo wsg",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "GuMjsGpHtkMOSMrsh4xDpF1-e2QSkrCbaXQfcZhJypw",
+    "created": "2022-09-17T13:10:39.545772-07:00",
+    "updated": "2022-09-17T13:10:39.926770-07:00",
+    "identifier": "id:8280:08d79e0f-343c-4c6a-a62a-2e4554ebe1ab",
+    "user": {
+      "username": "Derek",
+      "id": 8280,
+      "first_name": "Derek",
+      "account": {
+        "name": "Derek",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "yandar ",
+    "participant": {
+      "user": {
+        "username": "internal_id:8280:08d79e0f-343c-4c6a-a62a-2e4554ebe1ab",
+        "id": 8300,
+        "first_name": "yandar ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "yandar "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hey kid",
+    "description": "",
+    "definition": ""
+  }
+}

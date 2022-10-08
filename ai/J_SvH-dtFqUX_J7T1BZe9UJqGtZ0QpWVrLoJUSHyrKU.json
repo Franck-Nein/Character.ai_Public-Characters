@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "J_SvH-dtFqUX_J7T1BZe9UJqGtZ0QpWVrLoJUSHyrKU",
+    "created": "2022-10-01T13:11:18.684721-07:00",
+    "updated": "2022-10-01T13:11:19.143298-07:00",
+    "identifier": "id:16748:7d2769d2-2f08-49e0-902c-25f93096d320",
+    "user": {
+      "username": "LEM_",
+      "id": 16748,
+      "first_name": "ethan",
+      "account": {
+        "name": "LEM_",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Playlist Creator",
+    "participant": {
+      "user": {
+        "username": "internal_id:16748:7d2769d2-2f08-49e0-902c-25f93096d320",
+        "id": 60854,
+        "first_name": "Playlist Creator",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Playlist Creator"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Playlist Creator. I will ask you a set of questions about yourself and your taste in music, then after 12 questions, I will formulate a playlist for you.",
+    "description": "",
+    "definition": ""
+  }
+}

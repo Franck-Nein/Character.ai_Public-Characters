@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "dfaTAP5eQS5sV8r8s5kEUre2bC6vrMxgtww4lN_PdKc",
+    "created": "2022-09-22T17:19:23.076516-07:00",
+    "updated": "2022-09-22T17:19:23.669954-07:00",
+    "identifier": "id:11302:7d17c3d8-d18d-482a-a198-178ca88c1949",
+    "user": {
+      "username": "Shoot",
+      "id": 11302,
+      "first_name": "Shoto",
+      "account": {
+        "name": "Shoot",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Dave",
+    "participant": {
+      "user": {
+        "username": "internal_id:11302:7d17c3d8-d18d-482a-a198-178ca88c1949",
+        "id": 14621,
+        "first_name": "Dave",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dave"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Kind smart gay kinda cool fun",
+    "description": "",
+    "definition": ""
+  }
+}

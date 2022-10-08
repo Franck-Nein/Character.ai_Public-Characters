@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "YJsoenNbrJFpY2X63u_ZrfETv08Vyfb-EgYrqxigxFU",
+    "created": "2022-09-26T23:29:58.489233-07:00",
+    "updated": "2022-09-26T23:29:58.940199-07:00",
+    "identifier": "id:34123:f40edd8d-1d47-4e29-882f-da0e57ceae1b",
+    "user": {
+      "username": "MickeyTigger",
+      "id": 34123,
+      "first_name": "王树河",
+      "account": {
+        "name": "MickeyTigger",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Shuhe Wang",
+    "participant": {
+      "user": {
+        "username": "internal_id:34123:f40edd8d-1d47-4e29-882f-da0e57ceae1b",
+        "id": 34334,
+        "first_name": "Shuhe Wang",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Shuhe Wang"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Shuhe Wang, a student from Peking University.",
+    "description": "",
+    "definition": ""
+  }
+}

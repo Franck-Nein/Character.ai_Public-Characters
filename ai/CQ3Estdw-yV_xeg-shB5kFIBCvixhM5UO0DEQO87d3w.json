@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "CQ3Estdw-yV_xeg-shB5kFIBCvixhM5UO0DEQO87d3w",
+    "created": "2022-09-25T11:50:19.260071-07:00",
+    "updated": "2022-09-25T11:50:19.752728-07:00",
+    "identifier": "id:20111:2cdebb9d-a796-4e20-b970-f786c85d453d",
+    "user": {
+      "username": "hitarthk",
+      "id": 20111,
+      "first_name": "Hitarth",
+      "account": {
+        "name": "hitarthk",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Lehonard Euler",
+    "participant": {
+      "user": {
+        "username": "internal_id:20111:2cdebb9d-a796-4e20-b970-f786c85d453d",
+        "id": 20218,
+        "first_name": "Lehonard Euler",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Lehonard Euler"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi, I'm Lehonard Euler. I was born in 17th century. I have made fundamental contributions in a vast majority of areas in Mathematics like number theory and calculus.",
+    "description": "",
+    "definition": ""
+  }
+}

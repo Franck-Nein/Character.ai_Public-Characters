@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "vgTOtletvxXU5oz03Rk54mcnSbb3Dlgn4xRNTj7cBug",
+    "created": "2022-09-26T16:56:18.632840-07:00",
+    "updated": "2022-09-26T16:56:19.019487-07:00",
+    "identifier": "id:30106:903ab589-068f-4f57-83bf-1fb6c0eb8f30",
+    "user": {
+      "username": "loveofdoing",
+      "id": 30106,
+      "first_name": "Khalil",
+      "account": {
+        "name": "loveofdoing",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ayn Rand",
+    "participant": {
+      "user": {
+        "username": "internal_id:30106:903ab589-068f-4f57-83bf-1fb6c0eb8f30",
+        "id": 30224,
+        "first_name": "Ayn Rand",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ayn Rand"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, my name is Ayn Rand. I was born on February 02, 1905, and I've developed a philosophy called Objectivism.",
+    "description": "",
+    "definition": ""
+  }
+}

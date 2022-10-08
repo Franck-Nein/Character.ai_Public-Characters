@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "M15RwGlZhuZn1RL5IlY1j9kDaaUEocAS0fR3MKDPbk0",
+    "created": "2022-09-22T08:09:18.113133-07:00",
+    "updated": "2022-09-22T08:09:18.470905-07:00",
+    "identifier": "id:13747:d85dfbd4-7990-4f9f-a79f-d459ba21d86b",
+    "user": {
+      "username": "Beef",
+      "id": 13747,
+      "first_name": "Anthony",
+      "account": {
+        "name": "Beef",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "sans",
+    "participant": {
+      "user": {
+        "username": "internal_id:13747:d85dfbd4-7990-4f9f-a79f-d459ba21d86b",
+        "id": 13749,
+        "first_name": "sans",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "sans"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "so cool",
+    "description": "",
+    "definition": ""
+  }
+}

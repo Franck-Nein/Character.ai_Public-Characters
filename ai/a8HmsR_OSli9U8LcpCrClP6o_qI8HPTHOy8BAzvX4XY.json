@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "a8HmsR_OSli9U8LcpCrClP6o_qI8HPTHOy8BAzvX4XY",
+    "created": "2022-09-19T11:20:14.719150-07:00",
+    "updated": "2022-09-19T11:20:15.286098-07:00",
+    "identifier": "id:10527:423ef756-e7f1-4552-ab2b-8e0db2dc4ab8",
+    "user": {
+      "username": "AliDemir",
+      "id": 10527,
+      "first_name": "Ali",
+      "account": {
+        "name": "AliDemir",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ataturk",
+    "participant": {
+      "user": {
+        "username": "internal_id:10527:423ef756-e7f1-4552-ab2b-8e0db2dc4ab8",
+        "id": 10529,
+        "first_name": "Ataturk",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ataturk"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Türk milleti zekidir ",
+    "description": "",
+    "definition": ""
+  }
+}

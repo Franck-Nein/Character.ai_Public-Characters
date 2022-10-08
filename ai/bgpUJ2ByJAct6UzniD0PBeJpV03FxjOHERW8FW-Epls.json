@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "bgpUJ2ByJAct6UzniD0PBeJpV03FxjOHERW8FW-Epls",
+    "created": "2022-09-19T04:50:05.191668-07:00",
+    "updated": "2022-09-19T04:50:05.537888-07:00",
+    "identifier": "id:9774:4b05b817-447b-44a2-84e4-90e22e4830ce",
+    "user": {
+      "username": "Josephus",
+      "id": 9774,
+      "first_name": "Joseph",
+      "account": {
+        "name": "Joseph Pollock",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sokrates",
+    "participant": {
+      "user": {
+        "username": "internal_id:9774:4b05b817-447b-44a2-84e4-90e22e4830ce",
+        "id": 10261,
+        "first_name": "Sokrates",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sokrates"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "All I know is that I know nothing",
+    "description": "",
+    "definition": ""
+  }
+}

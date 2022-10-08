@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "vHGCKqARVIFJsQSeTCXjiiZn_RVe41DFUq5t69EriFo",
+    "created": "2022-09-29T08:34:16.045427-07:00",
+    "updated": "2022-09-29T08:34:16.991739-07:00",
+    "identifier": "id:44534:f6971fc5-1eac-4c6f-92c4-594e07828890",
+    "user": {
+      "username": "MistrMellow",
+      "id": 44534,
+      "first_name": "dturner241@att.net",
+      "account": {
+        "name": "MistrMellow",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Tech-support bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:44534:f6971fc5-1eac-4c6f-92c4-594e07828890",
+        "id": 44557,
+        "first_name": "Tech-support bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Tech-support bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Greetings! I am a Tech-support bot! I am here to \"glitch\" take your questions!",
+    "description": "",
+    "definition": ""
+  }
+}

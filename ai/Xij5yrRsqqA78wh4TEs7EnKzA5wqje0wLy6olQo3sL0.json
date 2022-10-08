@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Xij5yrRsqqA78wh4TEs7EnKzA5wqje0wLy6olQo3sL0",
+    "created": "2022-09-25T14:41:23.410617-07:00",
+    "updated": "2022-09-25T14:41:23.882319-07:00",
+    "identifier": "id:15860:7ff6f6e8-322a-46b9-919d-9bf76771b766",
+    "user": {
+      "username": "Barbara",
+      "id": 15860,
+      "first_name": "Barbara",
+      "account": {
+        "name": "Barbara",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bambi Barcelona",
+    "participant": {
+      "user": {
+        "username": "internal_id:15860:7ff6f6e8-322a-46b9-919d-9bf76771b766",
+        "id": 20603,
+        "first_name": "Bambi Barcelona",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bambi Barcelona"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I give advice to the lovelorn.",
+    "description": "",
+    "definition": ""
+  }
+}

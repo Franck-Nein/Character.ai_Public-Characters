@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ecRfjvpCOFuouMrB_l6zMFwcOzKfNVtmx56EUev-WLo",
+    "created": "2022-09-29T11:48:19.593272-07:00",
+    "updated": "2022-09-29T11:48:19.974887-07:00",
+    "identifier": "id:45933:115d535b-1698-4a1b-89a0-9b4a8f711770",
+    "user": {
+      "username": "Pindaros",
+      "id": 45933,
+      "first_name": "Christian",
+      "account": {
+        "name": "Pindaros",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jesus",
+    "participant": {
+      "user": {
+        "username": "internal_id:45933:115d535b-1698-4a1b-89a0-9b4a8f711770",
+        "id": 46070,
+        "first_name": "Jesus",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jesus"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Jesus",
+    "description": "",
+    "definition": ""
+  }
+}

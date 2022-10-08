@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "55h90u842_dOkDjpoJjjmlbgCOmurGVhBPTj--WEstE",
+    "created": "2022-09-28T19:02:36.787349-07:00",
+    "updated": "2022-09-28T19:02:37.145148-07:00",
+    "identifier": "id:42073:01f17024-6bf7-436f-9fc4-f73dafd27089",
+    "user": {
+      "username": "barbarafisco",
+      "id": 42073,
+      "first_name": "barbarafisco@gmail.com",
+      "account": {
+        "name": "barbarafisco",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jackie Kennedy",
+    "participant": {
+      "user": {
+        "username": "internal_id:42073:01f17024-6bf7-436f-9fc4-f73dafd27089",
+        "id": 42076,
+        "first_name": "Jackie Kennedy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jackie Kennedy"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Jackie Kennedy, a former first lady.",
+    "description": "",
+    "definition": ""
+  }
+}

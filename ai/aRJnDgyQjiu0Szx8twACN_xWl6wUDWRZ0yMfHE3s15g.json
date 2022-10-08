@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "aRJnDgyQjiu0Szx8twACN_xWl6wUDWRZ0yMfHE3s15g",
+    "created": "2022-09-22T01:41:00.017843-07:00",
+    "updated": "2022-09-22T01:41:00.378520-07:00",
+    "identifier": "id:12735:25cef50b-921c-41c2-b2aa-bc5d1b3cb571",
+    "user": {
+      "username": "LibraryCat",
+      "id": 12735,
+      "first_name": "Yağmur",
+      "account": {
+        "name": "LibraryCat",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "ACupOf Tea",
+    "participant": {
+      "user": {
+        "username": "internal_id:12735:25cef50b-921c-41c2-b2aa-bc5d1b3cb571",
+        "id": 13152,
+        "first_name": "ACupOf Tea",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "ACupOf Tea"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi! I am ACupOf Tea! What do you want to talk about with ACupOfTea? ",
+    "description": "",
+    "definition": ""
+  }
+}

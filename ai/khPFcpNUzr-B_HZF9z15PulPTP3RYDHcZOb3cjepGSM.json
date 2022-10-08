@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "khPFcpNUzr-B_HZF9z15PulPTP3RYDHcZOb3cjepGSM",
+    "created": "2022-09-23T23:50:11.184407-07:00",
+    "updated": "2022-09-23T23:50:11.742589-07:00",
+    "identifier": "id:16253:a7afa0d4-6b03-49b1-ab21-1368fc29bffe",
+    "user": {
+      "username": "Bero06402022",
+      "id": 16253,
+      "first_name": "Berat",
+      "account": {
+        "name": "Bero06402022",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Pep Guardiola",
+    "participant": {
+      "user": {
+        "username": "internal_id:16253:a7afa0d4-6b03-49b1-ab21-1368fc29bffe",
+        "id": 16270,
+        "first_name": "Pep Guardiola",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Pep Guardiola"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Man City",
+    "description": "",
+    "definition": ""
+  }
+}

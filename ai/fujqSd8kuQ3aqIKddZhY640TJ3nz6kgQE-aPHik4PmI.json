@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "fujqSd8kuQ3aqIKddZhY640TJ3nz6kgQE-aPHik4PmI",
+    "created": "2022-10-06T10:30:08.430398-07:00",
+    "updated": "2022-10-06T10:30:09.042136-07:00",
+    "identifier": "id:81814:2b6ecae2-00e6-403c-87b0-cdd3c883b371",
+    "user": {
+      "username": "Nemato",
+      "id": 81814,
+      "first_name": "Namet",
+      "account": {
+        "name": "Nemato",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Albert Einstein",
+    "participant": {
+      "user": {
+        "username": "internal_id:81814:2b6ecae2-00e6-403c-87b0-cdd3c883b371",
+        "id": 81841,
+        "first_name": "Albert Einstein",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Albert Einstein"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Albert Einstein",
+    "description": "",
+    "definition": ""
+  }
+}

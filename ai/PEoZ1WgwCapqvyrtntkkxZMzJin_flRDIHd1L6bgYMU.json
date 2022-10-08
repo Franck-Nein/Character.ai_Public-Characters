@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "PEoZ1WgwCapqvyrtntkkxZMzJin_flRDIHd1L6bgYMU",
+    "created": "2022-09-25T10:50:09.734960-07:00",
+    "updated": "2022-09-25T10:51:21.627021-07:00",
+    "identifier": "id:19907:8c13444a-5842-447f-b77f-ef48182b2bee",
+    "user": {
+      "username": "bigboy",
+      "id": 19907,
+      "first_name": "汉太祖",
+      "account": {
+        "name": "bigboy",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "tutor",
+    "participant": {
+      "user": {
+        "username": "internal_id:19907:8c13444a-5842-447f-b77f-ef48182b2bee",
+        "id": 19969,
+        "first_name": "tutor",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "tutor"
+    },
+    "categories": [
+      {
+        "name": "Language Learning",
+        "description": "Language Learning"
+      },
+      {
+        "name": "Education",
+        "description": "Education & Learning"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "哈哈哈哈",
+    "description": "",
+    "definition": ""
+  }
+}

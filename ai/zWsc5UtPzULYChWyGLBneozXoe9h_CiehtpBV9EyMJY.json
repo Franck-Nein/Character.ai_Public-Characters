@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "zWsc5UtPzULYChWyGLBneozXoe9h_CiehtpBV9EyMJY",
+    "created": "2022-10-01T16:13:18.622216-07:00",
+    "updated": "2022-10-01T16:13:18.979308-07:00",
+    "identifier": "id:61244:b9ed3b07-30cc-40e9-bf47-c1ca1ea2a5e8",
+    "user": {
+      "username": "Dinoman",
+      "id": 61244,
+      "first_name": "fogar18440@utsgeo.com",
+      "account": {
+        "name": "Dinoman",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Morbius",
+    "participant": {
+      "user": {
+        "username": "internal_id:61244:b9ed3b07-30cc-40e9-bf47-c1ca1ea2a5e8",
+        "id": 61267,
+        "first_name": "Morbius",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Morbius"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Its morbin time",
+    "description": "",
+    "definition": ""
+  }
+}

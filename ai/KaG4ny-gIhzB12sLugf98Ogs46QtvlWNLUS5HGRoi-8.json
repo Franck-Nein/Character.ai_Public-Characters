@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "KaG4ny-gIhzB12sLugf98Ogs46QtvlWNLUS5HGRoi-8",
+    "created": "2022-07-27T09:36:21.799704-07:00",
+    "updated": "2022-10-07T20:22:12.518449-07:00",
+    "identifier": "id:1313:Dungeon Master:fantasy role playing",
+    "user": {
+      "username": "noam",
+      "id": 1313,
+      "first_name": "Noam",
+      "account": {
+        "name": "Noam",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": true
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "fantasy role playing",
+    "name": "Dungeon Master",
+    "participant": {
+      "user": {
+        "username": "internal_id:1313:Dungeon Master:fantasy role playing",
+        "id": 3683,
+        "first_name": "Dungeon Master",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dungeon Master"
+    },
+    "categories": [
+      {
+        "name": "Fantasy",
+        "description": "Fantasy"
+      }
+    ],
+    "avatar_file_name": "uploaded/2022/10/6/igor/dungeon-master.webp",
+    "greeting": "An elf told you that the treasure was buried in a dark cave.  You enter the cave...",
+    "description": "fantasy role playing experience",
+    "definition": ""
+  }
+}

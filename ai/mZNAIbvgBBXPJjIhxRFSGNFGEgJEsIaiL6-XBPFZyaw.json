@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "mZNAIbvgBBXPJjIhxRFSGNFGEgJEsIaiL6-XBPFZyaw",
+    "created": "2022-09-25T10:34:52.262329-07:00",
+    "updated": "2022-09-25T10:34:52.891172-07:00",
+    "identifier": "id:18083:8cc41621-cb38-4a93-9d07-8973cc51ae4b",
+    "user": {
+      "username": "31types",
+      "id": 18083,
+      "first_name": "Alpha",
+      "account": {
+        "name": "31types",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Strange man",
+    "participant": {
+      "user": {
+        "username": "internal_id:18083:8cc41621-cb38-4a93-9d07-8973cc51ae4b",
+        "id": 19880,
+        "first_name": "Strange man",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Strange man"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Do you want some candy?",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "87Y8TyF9IQ_h1DwGu6hJWutRWhu-Bk2tvcSbXnTqDEk",
+    "created": "2022-09-24T05:20:26.580573-07:00",
+    "updated": "2022-09-24T05:20:31.394510-07:00",
+    "identifier": "id:13747:7d109ebb-12e4-474e-b919-5a033642c3bb",
+    "user": {
+      "username": "Beef",
+      "id": 13747,
+      "first_name": "Anthony",
+      "account": {
+        "name": "Beef",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "quack quack",
+    "name": "Duck 2",
+    "participant": {
+      "user": {
+        "username": "internal_id:13747:7d109ebb-12e4-474e-b919-5a033642c3bb",
+        "id": 16586,
+        "first_name": "Duck 2",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Duck 2"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "quack quack quack quack",
+    "description": "quack quack quack quack quack quack :) quack ",
+    "definition": ""
+  }
+}

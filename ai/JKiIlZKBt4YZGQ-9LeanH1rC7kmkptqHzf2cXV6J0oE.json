@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "JKiIlZKBt4YZGQ-9LeanH1rC7kmkptqHzf2cXV6J0oE",
+    "created": "2022-08-15T18:17:54.589646-07:00",
+    "updated": "2022-08-22T15:00:21.539888-07:00",
+    "identifier": "id:3883:66f55427-e94d-417e-8e93-ba7fa514fc7d",
+    "user": {
+      "username": "Kayslay",
+      "id": 3883,
+      "first_name": "Kishan",
+      "account": {
+        "name": "Kayslay",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jester",
+    "participant": {
+      "user": {
+        "username": "internal_id:3883:66f55427-e94d-417e-8e93-ba7fa514fc7d",
+        "id": 4005,
+        "first_name": "Jester",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jester"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I'm the funniest character you will ever meet.",
+    "description": "",
+    "definition": ""
+  }
+}

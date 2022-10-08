@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "eZJTAPaUqWcId4fXtfflEWYaCRRs2TxDMqFtQo1QcCM",
+    "created": "2022-09-26T12:40:01.467013-07:00",
+    "updated": "2022-09-26T12:40:01.841314-07:00",
+    "identifier": "id:29408:80c8b638-78b4-404a-aa56-9454784f247c",
+    "user": {
+      "username": "Tarekk",
+      "id": 29408,
+      "first_name": "Dobby",
+      "account": {
+        "name": "Tarekk",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Gil galad",
+    "participant": {
+      "user": {
+        "username": "internal_id:29408:80c8b638-78b4-404a-aa56-9454784f247c",
+        "id": 29430,
+        "first_name": "Gil galad",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Gil galad"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Elf",
+    "description": "",
+    "definition": ""
+  }
+}

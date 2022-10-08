@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "rdNc8PHMpzDEIB6QpiBUSYEMKm3nqgyH-Y-xMxtJJzA",
+    "created": "2022-09-28T06:41:58.636392-07:00",
+    "updated": "2022-09-28T06:41:59.020088-07:00",
+    "identifier": "id:39474:601048c9-8c6a-4073-b161-bdc1f52334ad",
+    "user": {
+      "username": "Smoguli",
+      "id": 39474,
+      "first_name": "Yves",
+      "account": {
+        "name": "Smoguli",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Cthulhu",
+    "participant": {
+      "user": {
+        "username": "internal_id:39474:601048c9-8c6a-4073-b161-bdc1f52334ad",
+        "id": 39699,
+        "first_name": "Cthulhu",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Cthulhu"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Cthulhu, pleased to take your sanity",
+    "description": "",
+    "definition": ""
+  }
+}

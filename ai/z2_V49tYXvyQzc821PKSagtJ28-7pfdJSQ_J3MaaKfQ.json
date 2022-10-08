@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "z2_V49tYXvyQzc821PKSagtJ28-7pfdJSQ_J3MaaKfQ",
+    "created": "2022-09-29T21:05:42.789743-07:00",
+    "updated": "2022-09-29T21:05:43.126058-07:00",
+    "identifier": "id:49720:061d04c8-eb58-4e1c-9b3c-87586a116036",
+    "user": {
+      "username": "vok",
+      "id": 49720,
+      "first_name": "rotovok@gmail.com",
+      "account": {
+        "name": "vok",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Tron",
+    "participant": {
+      "user": {
+        "username": "internal_id:49720:061d04c8-eb58-4e1c-9b3c-87586a116036",
+        "id": 49763,
+        "first_name": "Tron",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Tron"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Greetings User.  I am Tron.",
+    "description": "",
+    "definition": ""
+  }
+}

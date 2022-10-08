@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "z94n7PSqaxhqZUqz5lMNokyS7VtM_fNGQrRDMvfLlq4",
+    "created": "2022-09-29T10:11:02.642150-07:00",
+    "updated": "2022-09-29T10:11:26.783669-07:00",
+    "identifier": "id:44992:88675da4-cd67-4103-b5bb-69ea0558c342",
+    "user": {
+      "username": "Cxh",
+      "id": 44992,
+      "first_name": "峪",
+      "account": {
+        "name": "Cxh",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Asdf",
+    "participant": {
+      "user": {
+        "username": "internal_id:44992:88675da4-cd67-4103-b5bb-69ea0558c342",
+        "id": 45242,
+        "first_name": "Asdf",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Asdf"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Asdf",
+    "description": "",
+    "definition": "{{char}}: I am Asdf\n{{random_user_1}}: A\n{{char}}: 1234567890-=qwertyuiop[]\\asdfghjkl;'zxcvbnm,./?!#$%\nEND_OF_DIALOG\n\n"
+  }
+}

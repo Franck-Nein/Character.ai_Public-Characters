@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "7uuwddm1Eb2m5N7-b2Ogt67ZTJeJRQpUs7APsJ2vMf0",
+    "created": "2022-09-29T03:29:10.840968-07:00",
+    "updated": "2022-09-29T03:29:11.234500-07:00",
+    "identifier": "id:43540:4a1e57ab-732c-475f-b227-1e1821aae8c2",
+    "user": {
+      "username": "AKUTATATA",
+      "id": 43540,
+      "first_name": "gawa",
+      "account": {
+        "name": "AKUTATATA",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "AIZAWA TORU",
+    "participant": {
+      "user": {
+        "username": "internal_id:43540:4a1e57ab-732c-475f-b227-1e1821aae8c2",
+        "id": 43552,
+        "first_name": "AIZAWA TORU",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "AIZAWA TORU"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好你好",
+    "description": "",
+    "definition": ""
+  }
+}

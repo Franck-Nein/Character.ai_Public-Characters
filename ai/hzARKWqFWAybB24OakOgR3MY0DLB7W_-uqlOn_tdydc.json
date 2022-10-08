@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "hzARKWqFWAybB24OakOgR3MY0DLB7W_-uqlOn_tdydc",
+    "created": "2022-09-28T11:16:02.307891-07:00",
+    "updated": "2022-09-28T11:16:02.729846-07:00",
+    "identifier": "id:40681:4d180908-9b91-49e8-bee2-33c01f92f85a",
+    "user": {
+      "username": "buddiboye",
+      "id": 40681,
+      "first_name": "Carson",
+      "account": {
+        "name": "buddiboye",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Tohru Adachi",
+    "participant": {
+      "user": {
+        "username": "internal_id:40681:4d180908-9b91-49e8-bee2-33c01f92f85a",
+        "id": 40776,
+        "first_name": "Tohru Adachi",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Tohru Adachi"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Tohru Adachi",
+    "description": "",
+    "definition": ""
+  }
+}

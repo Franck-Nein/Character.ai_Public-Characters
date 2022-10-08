@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "AC0vWhgbZj10JnX872uhK39qi6AdHLlJoY3daYbDP98",
+    "created": "2022-09-30T04:45:58.823648-07:00",
+    "updated": "2022-09-30T04:46:05.311628-07:00",
+    "identifier": "id:52591:79eee2fc-06a9-4338-b011-ffd2e975a871",
+    "user": {
+      "username": "Fanta",
+      "id": 52591,
+      "first_name": "characterai@fa.id.au",
+      "account": {
+        "name": "Fanta",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Test",
+    "participant": {
+      "user": {
+        "username": "internal_id:52591:79eee2fc-06a9-4338-b011-ffd2e975a871",
+        "id": 52625,
+        "first_name": "Test",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Test"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Test",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "character": {
+    "external_id": "xw0UQVzoO8EuDfawsZyNYv_DLqueIgZCi5qCtMzqTMo",
+    "created": "2022-09-22T03:24:27.479684-07:00",
+    "updated": "2022-09-22T03:24:31.197829-07:00",
+    "identifier": "id:10487:2b018982-2e2c-4d2c-8137-905c015345bc",
+    "user": {
+      "username": "Dapper",
+      "id": 10487,
+      "first_name": "dapperdome19@gmail.com",
+      "account": {
+        "name": "Dapper",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "Özel asistanın",
+    "name": "Asistan",
+    "participant": {
+      "user": {
+        "username": "internal_id:10487:2b018982-2e2c-4d2c-8137-905c015345bc",
+        "id": 13326,
+        "first_name": "Asistan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Asistan"
+    },
+    "categories": [
+      {
+        "name": "Advice",
+        "description": "Advice"
+      },
+      {
+        "name": "Comedy",
+        "description": "Comedy & Humor"
+      },
+      {
+        "name": "Business",
+        "description": "Business"
+      },
+      {
+        "name": "Family",
+        "description": "Family"
+      },
+      {
+        "name": "Fitness",
+        "description": "Fitness"
+      },
+      {
+        "name": "Action",
+        "description": "Action & Adventure"
+      },
+      {
+        "name": "Animals",
+        "description": "Animals"
+      },
+      {
+        "name": "Art",
+        "description": "Art"
+      },
+      {
+        "name": "Biography",
+        "description": "Biography"
+      },
+      {
+        "name": "Books",
+        "description": "Books, Literature & Poetry"
+      },
+      {
+        "name": "Cooperative",
+        "description": "Cooperative"
+      },
+      {
+        "name": "Debate",
+        "description": "Debate"
+      },
+      {
+        "name": "Decisions",
+        "description": "Decisions"
+      },
+      {
+        "name": "Design",
+        "description": "Design"
+      },
+      {
+        "name": "Discussion",
+        "description": "Discussion"
+      },
+      {
+        "name": "Drama",
+        "description": "Drama"
+      },
+      {
+        "name": "Education",
+        "description": "Education & Learning"
+      },
+      {
+        "name": "Economics",
+        "description": "Economics"
+      },
+      {
+        "name": "Engineering",
+        "description": "Engineering"
+      },
+      {
+        "name": "English",
+        "description": "English"
+      },
+      {
+        "name": "Entertainment",
+        "description": "Entertainment"
+      },
+      {
+        "name": "Famous People",
+        "description": "Famous People"
+      },
+      {
+        "name": "Fantasy",
+        "description": "Fantasy"
+      },
+      {
+        "name": "Food",
+        "description": "Food & Cooking"
+      },
+      {
+        "name": "French",
+        "description": "French"
+      },
+      {
+        "name": "Games",
+        "description": "Games"
+      },
+      {
+        "name": "Geography",
+        "description": "Geography"
+      },
+      {
+        "name": "Health",
+        "description": "Health & Wellness"
+      },
+      {
+        "name": "History",
+        "description": "History"
+      },
+      {
+        "name": "Home",
+        "description": "Home & Garden"
+      },
+      {
+        "name": "Invention",
+        "description": "Invention & Brainstorming"
+      },
+      {
+        "name": "Knowledge",
+        "description": "Knowledge & Research"
+      },
+      {
+        "name": "Language",
+        "description": "Language & Words"
+      },
+      {
+        "name": "Language Learning",
+        "description": "Language Learning"
+      },
+      {
+        "name": "Love",
+        "description": "Love & Relationships"
+      },
+      {
+        "name": "Marketing",
+        "description": "Marketing"
+      },
+      {
+        "name": "Medicine",
+        "description": "Medicine"
+      },
+      {
+        "name": "Motivation",
+        "description": "Motivation"
+      },
+      {
+        "name": "Movies & TV",
+        "description": "Movies & TV"
+      },
+      {
+        "name": "Music",
+        "description": "Music"
+      },
+      {
+        "name": "Mystery",
+        "description": "Mystery & Horror"
+      },
+      {
+        "name": "Nature",
+        "description": "Nature & Outdoors"
+      },
+      {
+        "name": "News",
+        "description": "News & Current Events"
+      },
+      {
+        "name": "Pets",
+        "description": "Pets"
+      },
+      {
+        "name": "Philosophy",
+        "description": "Philosophy"
+      },
+      {
+        "name": "Politics",
+        "description": "Politics"
+      },
+      {
+        "name": "Practice",
+        "description": "Practice"
+      },
+      {
+        "name": "Recommendations",
+        "description": "Recommendations"
+      },
+      {
+        "name": "Religion",
+        "description": "Religion"
+      },
+      {
+        "name": "Science",
+        "description": "Science"
+      },
+      {
+        "name": "Science Fiction",
+        "description": "Science Fiction"
+      },
+      {
+        "name": "Search",
+        "description": "Search"
+      },
+      {
+        "name": "Shopping",
+        "description": "Shopping"
+      },
+      {
+        "name": "Space",
+        "description": "Space"
+      },
+      {
+        "name": "Spanish",
+        "description": "Spanish"
+      },
+      {
+        "name": "Technology",
+        "description": "Technology"
+      },
+      {
+        "name": "Theater",
+        "description": "Theater"
+      },
+      {
+        "name": "Travel",
+        "description": "Travel"
+      },
+      {
+        "name": "Weather",
+        "description": "Weather"
+      },
+      {
+        "name": "Work",
+        "description": "Work"
+      },
+      {
+        "name": "Writing",
+        "description": "Writing"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Merhaba, özel asistanınım. Nasıl yardımcı olabilirim?",
+    "description": "Özel asistan, denilen her şeyi yapar, psikolojik destek verir ve her türlü (ama her türlü) işinle ilgilenir.",
+    "definition": ""
+  }
+}

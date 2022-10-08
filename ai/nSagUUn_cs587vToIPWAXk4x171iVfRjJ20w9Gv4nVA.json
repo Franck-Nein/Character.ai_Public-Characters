@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "nSagUUn_cs587vToIPWAXk4x171iVfRjJ20w9Gv4nVA",
+    "created": "2022-10-02T06:56:42.757127-07:00",
+    "updated": "2022-10-02T06:56:43.114029-07:00",
+    "identifier": "id:63197:4d9ff6eb-6fdd-4ec1-8ccc-1e27faf47883",
+    "user": {
+      "username": "Cheese90",
+      "id": 63197,
+      "first_name": "Candice",
+      "account": {
+        "name": "Cheese90",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Fiar",
+    "participant": {
+      "user": {
+        "username": "internal_id:63197:4d9ff6eb-6fdd-4ec1-8ccc-1e27faf47883",
+        "id": 63203,
+        "first_name": "Fiar",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Fiar"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Fiar",
+    "description": "",
+    "definition": ""
+  }
+}

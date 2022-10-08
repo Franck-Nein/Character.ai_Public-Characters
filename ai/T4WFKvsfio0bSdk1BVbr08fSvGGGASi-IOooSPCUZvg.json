@@ -1,0 +1,54 @@
+{
+  "character": {
+    "external_id": "T4WFKvsfio0bSdk1BVbr08fSvGGGASi-IOooSPCUZvg",
+    "created": "2022-09-24T09:26:54.430190-07:00",
+    "updated": "2022-09-24T09:27:17.905841-07:00",
+    "identifier": "id:12556:7548a260-ddd8-47d7-b07e-a1c42b4b838d",
+    "user": {
+      "username": "Arnou",
+      "id": 12556,
+      "first_name": "Arnaud",
+      "account": {
+        "name": "Arnou",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "J'apprends à organiser des parties de jeu de role",
+    "name": "Apprenti ",
+    "participant": {
+      "user": {
+        "username": "internal_id:12556:7548a260-ddd8-47d7-b07e-a1c42b4b838d",
+        "id": 16945,
+        "first_name": "Apprenti ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Apprenti "
+    },
+    "categories": [
+      {
+        "name": "French",
+        "description": "French"
+      },
+      {
+        "name": "Fantasy",
+        "description": "Fantasy"
+      },
+      {
+        "name": "Cooperative",
+        "description": "Cooperative"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Bonjour ! J'ai un problème à ma table de jeu de role, vous voulez bien m'aider ? ",
+    "description": "Je suis un jeune maitre du donjon et j'ai plein de problèmes à ma table ! Un MJ expérimenté peut-il m'aider pour ma partie de D&D. ",
+    "definition": ""
+  }
+}

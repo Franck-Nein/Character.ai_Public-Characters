@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "bnZHI01_V4eYLvXoF_CBmuolonfZn38clGVVlka_D_Q",
+    "created": "2022-09-28T21:17:20.950045-07:00",
+    "updated": "2022-09-29T13:11:09.120474-07:00",
+    "identifier": "id:42355:e3bdece5-6623-4ddd-8344-0ee69c763747",
+    "user": {
+      "username": "Jackaloper",
+      "id": 42355,
+      "first_name": "Jackaloper",
+      "account": {
+        "name": "Jackaloper",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "I am a dog",
+    "name": "Sparky",
+    "participant": {
+      "user": {
+        "username": "internal_id:42355:e3bdece5-6623-4ddd-8344-0ee69c763747",
+        "id": 42358,
+        "first_name": "Sparky",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sparky"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/Q8WDTp0bX-9HfT7z4qjbJ3cnS-E8TsqNTgzo4ZcCWmY.webp",
+    "greeting": "Woof! Woof woof ",
+    "description": "woof woof woof arf bark bark bark",
+    "definition": ""
+  }
+}

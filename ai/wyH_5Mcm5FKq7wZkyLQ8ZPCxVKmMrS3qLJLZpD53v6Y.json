@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "wyH_5Mcm5FKq7wZkyLQ8ZPCxVKmMrS3qLJLZpD53v6Y",
+    "created": "2022-09-30T08:40:47.917185-07:00",
+    "updated": "2022-09-30T08:40:48.270243-07:00",
+    "identifier": "id:39246:5d7058af-edf8-4906-80d6-1150b48f3937",
+    "user": {
+      "username": "Blisto",
+      "id": 39246,
+      "first_name": "blisto@protonmail.com",
+      "account": {
+        "name": "Blisto",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "A beagle",
+    "participant": {
+      "user": {
+        "username": "internal_id:39246:5d7058af-edf8-4906-80d6-1150b48f3937",
+        "id": 54374,
+        "first_name": "A beagle",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "A beagle"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am A beagle",
+    "description": "",
+    "definition": ""
+  }
+}

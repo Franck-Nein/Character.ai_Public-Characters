@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "yfTt-BJMjyq0ZvswbvZLOiiSVGztfYmwf_G5ps1umEo",
+    "created": "2022-09-18T09:24:31.814992-07:00",
+    "updated": "2022-09-18T09:25:58.257325-07:00",
+    "identifier": "id:9518:96626690-1bd7-40ec-900a-8ce172d5b9b9",
+    "user": {
+      "username": "eiko",
+      "id": 9518,
+      "first_name": "darkofheking@gmail.com",
+      "account": {
+        "name": "eiko",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Aziz Sancar",
+    "participant": {
+      "user": {
+        "username": "internal_id:9518:96626690-1bd7-40ec-900a-8ce172d5b9b9",
+        "id": 9526,
+        "first_name": "Aziz Sancar",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Aziz Sancar"
+    },
+    "categories": [
+      {
+        "name": "Science",
+        "description": "Science"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "what are you wondering about",
+    "description": "",
+    "definition": ""
+  }
+}

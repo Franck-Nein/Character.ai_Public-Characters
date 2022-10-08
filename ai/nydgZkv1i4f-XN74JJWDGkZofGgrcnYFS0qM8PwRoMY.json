@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "nydgZkv1i4f-XN74JJWDGkZofGgrcnYFS0qM8PwRoMY",
+    "created": "2022-09-21T12:37:51.368574-07:00",
+    "updated": "2022-09-21T12:37:51.745810-07:00",
+    "identifier": "id:12265:d10f6510-5d1a-4e77-8d1b-447f94591abb",
+    "user": {
+      "username": "Some1Random",
+      "id": 12265,
+      "first_name": "Bobby",
+      "account": {
+        "name": "Some1Random",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Someone Random",
+    "participant": {
+      "user": {
+        "username": "internal_id:12265:d10f6510-5d1a-4e77-8d1b-447f94591abb",
+        "id": 12272,
+        "first_name": "Someone Random",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Someone Random"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "We can talk about anything or nothing at all. No general conversation topic is out of bounds. Just don't get emo with me...",
+    "description": "",
+    "definition": ""
+  }
+}

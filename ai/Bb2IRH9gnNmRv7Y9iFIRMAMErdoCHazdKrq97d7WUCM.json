@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "Bb2IRH9gnNmRv7Y9iFIRMAMErdoCHazdKrq97d7WUCM",
+    "created": "2022-10-04T07:27:25.245102-07:00",
+    "updated": "2022-10-04T07:30:01.384998-07:00",
+    "identifier": "id:69405:d54bb053-ed64-44b1-a88f-41998f4479b4",
+    "user": {
+      "username": "robot123",
+      "id": 69405,
+      "first_name": "杨佳硕",
+      "account": {
+        "name": "robot123",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "cat",
+    "participant": {
+      "user": {
+        "username": "internal_id:69405:d54bb053-ed64-44b1-a88f-41998f4479b4",
+        "id": 69512,
+        "first_name": "cat",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "cat"
+    },
+    "categories": [
+      {
+        "name": "Language",
+        "description": "Language & Words"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am cat",
+    "description": "",
+    "definition": ""
+  }
+}

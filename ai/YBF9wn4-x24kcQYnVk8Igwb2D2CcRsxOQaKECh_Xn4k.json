@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "YBF9wn4-x24kcQYnVk8Igwb2D2CcRsxOQaKECh_Xn4k",
+    "created": "2022-09-26T21:30:49.247828-07:00",
+    "updated": "2022-09-26T21:37:39.528463-07:00",
+    "identifier": "id:31800:5c51de82-5764-45ab-8459-6141598244a6",
+    "user": {
+      "username": "GasHalo",
+      "id": 31800,
+      "first_name": "daois@tuta.io",
+      "account": {
+        "name": "GasHalo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Natsume",
+    "participant": {
+      "user": {
+        "username": "internal_id:31800:5c51de82-5764-45ab-8459-6141598244a6",
+        "id": 33124,
+        "first_name": "Natsume",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Natsume"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Natsume, a confused human being",
+    "description": "",
+    "definition": ""
+  }
+}

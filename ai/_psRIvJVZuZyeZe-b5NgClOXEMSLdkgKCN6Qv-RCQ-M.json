@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "_psRIvJVZuZyeZe-b5NgClOXEMSLdkgKCN6Qv-RCQ-M",
+    "created": "2022-10-05T22:50:04.245040-07:00",
+    "updated": "2022-10-05T22:50:04.586217-07:00",
+    "identifier": "id:72844:35dd0bd4-9b8f-430c-9bcd-2c8d9df56e11",
+    "user": {
+      "username": "Uknet",
+      "id": 72844,
+      "first_name": "Grimpep",
+      "account": {
+        "name": "Master",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Manga generate",
+    "participant": {
+      "user": {
+        "username": "internal_id:72844:35dd0bd4-9b8f-430c-9bcd-2c8d9df56e11",
+        "id": 76607,
+        "first_name": "Manga generate",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Manga generate"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Manga generate. Give me a prompt and I'll generate a Manga.",
+    "description": "",
+    "definition": ""
+  }
+}

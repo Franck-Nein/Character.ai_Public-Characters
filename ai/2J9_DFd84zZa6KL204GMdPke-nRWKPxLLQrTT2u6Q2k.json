@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "2J9_DFd84zZa6KL204GMdPke-nRWKPxLLQrTT2u6Q2k",
+    "created": "2022-09-17T18:25:16.726672-07:00",
+    "updated": "2022-09-17T18:25:17.321473-07:00",
+    "identifier": "id:8655:fccb03f6-7822-47c0-80bd-62790d17cb19",
+    "user": {
+      "username": "Gadolly",
+      "id": 8655,
+      "first_name": "Ahmed",
+      "account": {
+        "name": "Gadolly",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Handy man",
+    "participant": {
+      "user": {
+        "username": "internal_id:8655:fccb03f6-7822-47c0-80bd-62790d17cb19",
+        "id": 8714,
+        "first_name": "Handy man",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Handy man"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Fix anything inside home",
+    "description": "",
+    "definition": ""
+  }
+}

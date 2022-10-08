@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "9HhnyHBg8eJg22a2WiYXTt99eVgop9-EabcvcyPlLVw",
+    "created": "2022-09-27T00:29:48.221839-07:00",
+    "updated": "2022-09-27T00:29:48.764462-07:00",
+    "identifier": "id:11741:d73f91c7-72b4-439b-a3c6-10bf70fb2c97",
+    "user": {
+      "username": "Ket",
+      "id": 11741,
+      "first_name": "ketan",
+      "account": {
+        "name": "ketan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jewish guy",
+    "participant": {
+      "user": {
+        "username": "internal_id:11741:d73f91c7-72b4-439b-a3c6-10bf70fb2c97",
+        "id": 34978,
+        "first_name": "Jewish guy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jewish guy"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Jewish guy",
+    "description": "",
+    "definition": ""
+  }
+}

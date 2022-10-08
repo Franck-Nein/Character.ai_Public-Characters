@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "NL2r1WkXlnErMb6kIAcKH263p-FX3ceVxZ5uIKxrHps",
+    "created": "2022-10-01T06:16:08.537627-07:00",
+    "updated": "2022-10-01T06:16:08.983842-07:00",
+    "identifier": "id:15649:d6006662-eb4c-4193-8e83-986f6cec93a3",
+    "user": {
+      "username": "FRIEBURG101",
+      "id": 15649,
+      "first_name": "James",
+      "account": {
+        "name": "FRIEBURG101",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "James G Hyatt",
+    "participant": {
+      "user": {
+        "username": "internal_id:15649:d6006662-eb4c-4193-8e83-986f6cec93a3",
+        "id": 59430,
+        "first_name": "James G Hyatt",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "James G Hyatt"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am James G Hyatt",
+    "description": "",
+    "definition": ""
+  }
+}

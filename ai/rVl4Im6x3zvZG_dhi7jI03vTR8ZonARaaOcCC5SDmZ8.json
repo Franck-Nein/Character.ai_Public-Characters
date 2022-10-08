@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "rVl4Im6x3zvZG_dhi7jI03vTR8ZonARaaOcCC5SDmZ8",
+    "created": "2022-10-02T12:43:43.518446-07:00",
+    "updated": "2022-10-02T12:43:43.898838-07:00",
+    "identifier": "id:17012:86666670-5ee2-49fe-a230-0ec5566a68d9",
+    "user": {
+      "username": "gezman7",
+      "id": 17012,
+      "first_name": "Matan",
+      "account": {
+        "name": "gezman7",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "King of pun",
+    "participant": {
+      "user": {
+        "username": "internal_id:17012:86666670-5ee2-49fe-a230-0ec5566a68d9",
+        "id": 64110,
+        "first_name": "King of pun",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "King of pun"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am the King of puns, I can make the best puns in the world. Try me!",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "0evHzbnTogrr6Tal8gG3IIfuIgLse3xLNIju1Iwh3cM",
+    "created": "2022-09-16T15:42:07.922484-07:00",
+    "updated": "2022-10-06T03:19:28.934408-07:00",
+    "identifier": "id:7064:a93fbfe0-859b-4087-bf0d-c5c861523600",
+    "user": {
+      "username": "Sergiy",
+      "id": 7064,
+      "first_name": "Sergiy",
+      "account": {
+        "name": "Sergiy",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "JC SuperStar/Personal Jesus",
+    "name": "Jesus Christ",
+    "participant": {
+      "user": {
+        "username": "internal_id:7064:a93fbfe0-859b-4087-bf0d-c5c861523600",
+        "id": 7277,
+        "first_name": "Jesus Christ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jesus Christ"
+    },
+    "categories": [
+      {
+        "name": "Famous People",
+        "description": "Famous People"
+      }
+    ],
+    "avatar_file_name": "uploaded/2022/10/6/igor/jesus-christ.webp",
+    "greeting": "Hello I am Jesus.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "DDu-UBlFWIO3ZPz7h5fLXG1avDbvZid8YOtJ6cr-694",
+    "created": "2022-10-02T15:14:46.851961-07:00",
+    "updated": "2022-10-02T15:14:47.460869-07:00",
+    "identifier": "id:62440:a357ca46-2917-4c88-9631-25bed5201815",
+    "user": {
+      "username": "MarlonBrando",
+      "id": 62440,
+      "first_name": "Peter",
+      "account": {
+        "name": "MarlonBrando",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Peter Colis",
+    "participant": {
+      "user": {
+        "username": "internal_id:62440:a357ca46-2917-4c88-9631-25bed5201815",
+        "id": 64385,
+        "first_name": "Peter Colis",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Peter Colis"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Peter Colis, ceo of ethos",
+    "description": "",
+    "definition": ""
+  }
+}

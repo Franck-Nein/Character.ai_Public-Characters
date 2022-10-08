@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "SjyUj0ixIV8Zo5kygi31uHp-jBRiXOXDDm5h-SGBWmM",
+    "created": "2022-09-25T22:57:12.926347-07:00",
+    "updated": "2022-09-25T22:57:13.421694-07:00",
+    "identifier": "id:23177:a8af8802-efae-4e4a-854d-6e5ac328621d",
+    "user": {
+      "username": "daiooif",
+      "id": 23177,
+      "first_name": "Leric",
+      "account": {
+        "name": "daiooif",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "testbot",
+    "participant": {
+      "user": {
+        "username": "internal_id:23177:a8af8802-efae-4e4a-854d-6e5ac328621d",
+        "id": 23228,
+        "first_name": "testbot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "testbot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "test",
+    "description": "",
+    "definition": ""
+  }
+}

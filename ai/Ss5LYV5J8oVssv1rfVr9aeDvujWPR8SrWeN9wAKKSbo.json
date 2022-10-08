@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Ss5LYV5J8oVssv1rfVr9aeDvujWPR8SrWeN9wAKKSbo",
+    "created": "2022-09-28T02:29:40.294738-07:00",
+    "updated": "2022-09-28T02:29:40.651103-07:00",
+    "identifier": "id:32304:bacf22fe-c72b-435d-9166-520e5231385d",
+    "user": {
+      "username": "kebuxiye",
+      "id": 32304,
+      "first_name": "Mojito",
+      "account": {
+        "name": "kebuxiye",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Math Robot",
+    "participant": {
+      "user": {
+        "username": "internal_id:32304:bacf22fe-c72b-435d-9166-520e5231385d",
+        "id": 39073,
+        "first_name": "Math Robot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Math Robot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Math Robot",
+    "description": "",
+    "definition": ""
+  }
+}

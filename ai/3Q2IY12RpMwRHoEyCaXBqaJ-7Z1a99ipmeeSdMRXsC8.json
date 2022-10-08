@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "3Q2IY12RpMwRHoEyCaXBqaJ-7Z1a99ipmeeSdMRXsC8",
+    "created": "2022-09-27T03:54:17.761471-07:00",
+    "updated": "2022-09-27T03:54:18.800867-07:00",
+    "identifier": "id:35465:50009c55-77ef-49e4-9714-d3e14761ca55",
+    "user": {
+      "username": "rootx",
+      "id": 35465,
+      "first_name": "Nova",
+      "account": {
+        "name": "rootx",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bill Cipher",
+    "participant": {
+      "user": {
+        "username": "internal_id:35465:50009c55-77ef-49e4-9714-d3e14761ca55",
+        "id": 36076,
+        "first_name": "Bill Cipher",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bill Cipher"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Well Well Well Well Well Well Well Well Well Well Well",
+    "description": "",
+    "definition": ""
+  }
+}

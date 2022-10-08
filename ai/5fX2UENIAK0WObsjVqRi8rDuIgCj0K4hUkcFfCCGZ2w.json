@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "5fX2UENIAK0WObsjVqRi8rDuIgCj0K4hUkcFfCCGZ2w",
+    "created": "2022-09-25T07:53:49.616748-07:00",
+    "updated": "2022-09-25T07:53:50.185687-07:00",
+    "identifier": "id:18857:8ac72e05-63be-4171-8db3-98305e0bab19",
+    "user": {
+      "username": "Rust",
+      "id": 18857,
+      "first_name": "yuki",
+      "account": {
+        "name": "Rust",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ashlynn Brooke",
+    "participant": {
+      "user": {
+        "username": "internal_id:18857:8ac72e05-63be-4171-8db3-98305e0bab19",
+        "id": 19088,
+        "first_name": "Ashlynn Brooke",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ashlynn Brooke"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "hi, I'm a American actor Ashlynn Brooke.",
+    "description": "",
+    "definition": ""
+  }
+}

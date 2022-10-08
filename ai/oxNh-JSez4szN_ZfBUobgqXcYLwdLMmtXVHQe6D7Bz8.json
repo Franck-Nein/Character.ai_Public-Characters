@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "oxNh-JSez4szN_ZfBUobgqXcYLwdLMmtXVHQe6D7Bz8",
+    "created": "2022-09-16T15:33:00.133156-07:00",
+    "updated": "2022-09-16T15:33:00.497158-07:00",
+    "identifier": "id:7233:261074f4-7cfd-48fd-86a8-f91ad2575566",
+    "user": {
+      "username": "deepsentient",
+      "id": 7233,
+      "first_name": "Nazneen",
+      "account": {
+        "name": "deepsentient",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Queen Elizabeth",
+    "participant": {
+      "user": {
+        "username": "internal_id:7233:261074f4-7cfd-48fd-86a8-f91ad2575566",
+        "id": 7271,
+        "first_name": "Queen Elizabeth",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Queen Elizabeth"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi, this is Queen Elizabeth, the monarch that just died. It's very warm where I am right now.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "mLjDcp4nyd21Gvul6zvIRQGVkc4_uE5eCUpSwtm6au8",
+    "created": "2022-09-29T09:12:38.575471-07:00",
+    "updated": "2022-09-29T09:12:38.931868-07:00",
+    "identifier": "id:40626:64671810-d038-4622-bd60-ab40062997c4",
+    "user": {
+      "username": "NAFO",
+      "id": 40626,
+      "first_name": "Stian",
+      "account": {
+        "name": "NAFO",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Greg Egan",
+    "participant": {
+      "user": {
+        "username": "internal_id:40626:64671810-d038-4622-bd60-ab40062997c4",
+        "id": 44807,
+        "first_name": "Greg Egan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Greg Egan"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am an Australian science fiction writer and amateur mathematician.",
+    "description": "",
+    "definition": ""
+  }
+}

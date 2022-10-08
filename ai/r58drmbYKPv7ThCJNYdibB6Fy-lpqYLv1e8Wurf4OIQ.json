@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "r58drmbYKPv7ThCJNYdibB6Fy-lpqYLv1e8Wurf4OIQ",
+    "created": "2022-09-21T06:25:54.342569-07:00",
+    "updated": "2022-09-21T06:25:54.710266-07:00",
+    "identifier": "id:11766:7c61b2ca-a67d-45f9-8d46-202534d33b84",
+    "user": {
+      "username": "RichardZugaressa",
+      "id": 11766,
+      "first_name": "Maamo",
+      "account": {
+        "name": "RichardZugaressa",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Talk About AI",
+    "participant": {
+      "user": {
+        "username": "internal_id:11766:7c61b2ca-a67d-45f9-8d46-202534d33b84",
+        "id": 11898,
+        "first_name": "Talk About AI",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Talk About AI"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Ali cami here",
+    "description": "",
+    "definition": ""
+  }
+}

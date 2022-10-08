@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "74aZZ9Ge6xedjSkZ2zx9A-SW_zsVuSw20lzhTeHPVJU",
+    "created": "2022-09-26T00:43:04.385359-07:00",
+    "updated": "2022-09-26T00:43:08.335978-07:00",
+    "identifier": "id:15198:b1ef013d-a3cb-4b84-8eb0-41cfb1057e18",
+    "user": {
+      "username": "Eternal_void",
+      "id": 15198,
+      "first_name": "Shock",
+      "account": {
+        "name": "Eternal_void",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "AI Character",
+    "participant": {
+      "user": {
+        "username": "internal_id:15198:b1ef013d-a3cb-4b84-8eb0-41cfb1057e18",
+        "id": 24098,
+        "first_name": "AI Character",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "AI Character"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hey",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "oMJFkuZ9aQrA0mjG5OJET3wT8JO5rhN-4WTKgBvEA6M",
+    "created": "2022-09-26T01:28:15.219243-07:00",
+    "updated": "2022-09-26T01:28:16.326146-07:00",
+    "identifier": "id:24118:e5afaccc-5deb-4e3a-b399-71d4c4482474",
+    "user": {
+      "username": "Gakiii",
+      "id": 24118,
+      "first_name": "冬泳怪鸽",
+      "account": {
+        "name": "Gakiii",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "abc",
+    "participant": {
+      "user": {
+        "username": "internal_id:24118:e5afaccc-5deb-4e3a-b399-71d4c4482474",
+        "id": 24476,
+        "first_name": "abc",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "abc"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "hello, I am abc",
+    "description": "",
+    "definition": ""
+  }
+}

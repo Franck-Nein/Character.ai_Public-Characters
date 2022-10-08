@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "LYghqngmjl8ViRdE7heI-L7sXJHu6LBTXbmsVk-7fkI",
+    "created": "2022-09-27T19:29:27.818151-07:00",
+    "updated": "2022-09-27T19:29:28.166478-07:00",
+    "identifier": "id:7553:f06f533a-ce36-4ac6-9dea-dd1965614763",
+    "user": {
+      "username": "summeryue",
+      "id": 7553,
+      "first_name": "Summer",
+      "account": {
+        "name": "summeryue",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Effective Altrusit",
+    "participant": {
+      "user": {
+        "username": "internal_id:7553:f06f533a-ce36-4ac6-9dea-dd1965614763",
+        "id": 38388,
+        "first_name": "Effective Altrusit",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Effective Altrusit"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hey, I am an Effective Altruist. Let me tell you about the effective altruism movement. What would you like to know?",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "IY5YVwmSO69OUzDwBf89jv265xeClPBip5IIKYYvxtI",
+    "created": "2022-09-30T12:36:16.773055-07:00",
+    "updated": "2022-09-30T12:36:17.140413-07:00",
+    "identifier": "id:55644:5bb67ecb-624a-4421-af01-a635cd381485",
+    "user": {
+      "username": "ibara",
+      "id": 55644,
+      "first_name": "fengxing886@yahoo.com",
+      "account": {
+        "name": "ibara",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "volcan",
+    "participant": {
+      "user": {
+        "username": "internal_id:55644:5bb67ecb-624a-4421-af01-a635cd381485",
+        "id": 55711,
+        "first_name": "volcan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "volcan"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am volcan",
+    "description": "",
+    "definition": ""
+  }
+}

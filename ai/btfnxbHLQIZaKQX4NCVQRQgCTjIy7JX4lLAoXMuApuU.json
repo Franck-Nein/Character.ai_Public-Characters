@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "btfnxbHLQIZaKQX4NCVQRQgCTjIy7JX4lLAoXMuApuU",
+    "created": "2022-09-27T13:29:04.899470-07:00",
+    "updated": "2022-09-27T13:29:05.538820-07:00",
+    "identifier": "id:37531:360f4109-bcef-47c7-aec1-b92e402c2414",
+    "user": {
+      "username": "haoge",
+      "id": 37531,
+      "first_name": "Woler",
+      "account": {
+        "name": "haoge",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Best Friend",
+    "participant": {
+      "user": {
+        "username": "internal_id:37531:360f4109-bcef-47c7-aec1-b92e402c2414",
+        "id": 37717,
+        "first_name": "Best Friend",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Best Friend"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am your best friend,\nhow was your day?",
+    "description": "",
+    "definition": ""
+  }
+}

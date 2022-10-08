@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "LAFl6oWNcNJZzWCo_j_ePY5eKMys7v9GyUcrKchfywI",
+    "created": "2022-09-30T07:15:33.840967-07:00",
+    "updated": "2022-09-30T07:15:34.280841-07:00",
+    "identifier": "id:39246:39c812ae-a682-4612-9698-7b9528d09169",
+    "user": {
+      "username": "Blisto",
+      "id": 39246,
+      "first_name": "blisto@protonmail.com",
+      "account": {
+        "name": "Blisto",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Steve Ballmer",
+    "participant": {
+      "user": {
+        "username": "internal_id:39246:39c812ae-a682-4612-9698-7b9528d09169",
+        "id": 53731,
+        "first_name": "Steve Ballmer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Steve Ballmer"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Steve Ballmer",
+    "description": "",
+    "definition": ""
+  }
+}

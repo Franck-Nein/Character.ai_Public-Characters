@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "7UahATH4q9nJV33Ez5cQxmymDncs3hTNQNUYPjmOpvU",
+    "created": "2022-09-18T23:08:33.698705-07:00",
+    "updated": "2022-09-18T23:08:34.034427-07:00",
+    "identifier": "id:9961:f3dc6f9e-906b-4390-9699-ad11f854ae68",
+    "user": {
+      "username": "willieneis",
+      "id": 9961,
+      "first_name": "Willie",
+      "account": {
+        "name": "willieneis",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Benjamin Franklin",
+    "participant": {
+      "user": {
+        "username": "internal_id:9961:f3dc6f9e-906b-4390-9699-ad11f854ae68",
+        "id": 10088,
+        "first_name": "Benjamin Franklin",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Benjamin Franklin"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Greetings, I am Benjamin Franklin.",
+    "description": "",
+    "definition": ""
+  }
+}

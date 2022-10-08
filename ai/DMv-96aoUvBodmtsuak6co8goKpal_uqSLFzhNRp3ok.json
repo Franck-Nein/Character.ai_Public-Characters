@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "DMv-96aoUvBodmtsuak6co8goKpal_uqSLFzhNRp3ok",
+    "created": "2022-09-30T07:26:14.985960-07:00",
+    "updated": "2022-09-30T07:26:15.336147-07:00",
+    "identifier": "id:53532:72e7fa87-4cd9-4986-81a8-7f8ec8800dea",
+    "user": {
+      "username": "Eliver",
+      "id": 53532,
+      "first_name": "Pdlg俄利瓦",
+      "account": {
+        "name": "Eliver",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Lancelot",
+    "participant": {
+      "user": {
+        "username": "internal_id:53532:72e7fa87-4cd9-4986-81a8-7f8ec8800dea",
+        "id": 53850,
+        "first_name": "Lancelot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Lancelot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Lancelot",
+    "description": "",
+    "definition": ""
+  }
+}

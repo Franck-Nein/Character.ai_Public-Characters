@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "8HDhG2kFqFM4HKu0tbEcnTpwHrxOX0vk62hd6SMXuk0",
+    "created": "2022-09-29T16:39:52.807558-07:00",
+    "updated": "2022-09-29T16:39:53.158082-07:00",
+    "identifier": "id:39781:ef0693a4-831e-4c0b-99a4-f3d6c134bff8",
+    "user": {
+      "username": "grinbank",
+      "id": 39781,
+      "first_name": "Esteban",
+      "account": {
+        "name": "grinbank",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "My Self",
+    "participant": {
+      "user": {
+        "username": "internal_id:39781:ef0693a4-831e-4c0b-99a4-f3d6c134bff8",
+        "id": 48124,
+        "first_name": "My Self",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "My Self"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am My Self",
+    "description": "",
+    "definition": ""
+  }
+}

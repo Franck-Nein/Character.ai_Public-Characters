@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "8aCUN8zV-z1faa99-xyKFePvuW6ndSJw9MMi6k8GMRA",
+    "created": "2022-10-06T22:59:16.721046-07:00",
+    "updated": "2022-10-06T22:59:17.056538-07:00",
+    "identifier": "id:3587:3f553262-258d-40b0-b286-d8b8d6d411e0",
+    "user": {
+      "username": "bowen",
+      "id": 3587,
+      "first_name": "Bowen",
+      "account": {
+        "name": "Bowen",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": true
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Newspaper Boy",
+    "participant": {
+      "user": {
+        "username": "internal_id:3587:3f553262-258d-40b0-b286-d8b8d6d411e0",
+        "id": 88831,
+        "first_name": "Newspaper Boy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Newspaper Boy"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Newspaper Boy. I sell newspapers.",
+    "description": "",
+    "definition": ""
+  }
+}

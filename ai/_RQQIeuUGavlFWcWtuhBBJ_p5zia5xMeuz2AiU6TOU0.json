@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "_RQQIeuUGavlFWcWtuhBBJ_p5zia5xMeuz2AiU6TOU0",
+    "created": "2022-10-03T02:24:17.519643-07:00",
+    "updated": "2022-10-03T02:24:17.880875-07:00",
+    "identifier": "id:63973:c4203ebf-9f7e-4ab8-9fe0-88de45b63292",
+    "user": {
+      "username": "Maylic",
+      "id": 63973,
+      "first_name": "朱心散",
+      "account": {
+        "name": "Maylic",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "abc",
+    "participant": {
+      "user": {
+        "username": "internal_id:63973:c4203ebf-9f7e-4ab8-9fe0-88de45b63292",
+        "id": 65610,
+        "first_name": "abc",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "abc"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am abc",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "2gPOwqfieDEhjxwrVn8_MnuC2ybfEKpAbIOHGHeA7Js",
+    "created": "2022-10-05T09:36:48.278238-07:00",
+    "updated": "2022-10-05T09:36:48.635016-07:00",
+    "identifier": "id:16027:36e90fdc-7804-484a-a477-584cb46b4088",
+    "user": {
+      "username": "MadKraken",
+      "id": 16027,
+      "first_name": "Benjamin",
+      "account": {
+        "name": "MadKraken",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Yuso",
+    "participant": {
+      "user": {
+        "username": "internal_id:16027:36e90fdc-7804-484a-a477-584cb46b4088",
+        "id": 73617,
+        "first_name": "Yuso",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Yuso"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Yuso, a Railcar Man. My people are anthropomorphic railcars.",
+    "description": "",
+    "definition": ""
+  }
+}

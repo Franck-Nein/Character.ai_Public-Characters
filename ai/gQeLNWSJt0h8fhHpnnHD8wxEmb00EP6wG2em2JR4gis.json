@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "gQeLNWSJt0h8fhHpnnHD8wxEmb00EP6wG2em2JR4gis",
+    "created": "2022-10-07T20:09:13.141537-07:00",
+    "updated": "2022-10-07T20:11:26.038885-07:00",
+    "identifier": "id:92610:577d8250-424a-452b-98f3-f1e2ea662b04",
+    "user": {
+      "username": "Razia",
+      "id": 92610,
+      "first_name": "Ya",
+      "account": {
+        "name": "Razia",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "LLL",
+    "participant": {
+      "user": {
+        "username": "internal_id:92610:577d8250-424a-452b-98f3-f1e2ea662b04",
+        "id": 104626,
+        "first_name": "LLL",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "LLL"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "L",
+    "description": "",
+    "definition": ""
+  }
+}

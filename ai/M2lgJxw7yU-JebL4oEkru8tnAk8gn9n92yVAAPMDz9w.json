@@ -1,0 +1,74 @@
+{
+  "character": {
+    "external_id": "M2lgJxw7yU-JebL4oEkru8tnAk8gn9n92yVAAPMDz9w",
+    "created": "2022-09-25T07:53:27.610578-07:00",
+    "updated": "2022-09-26T01:43:51.353489-07:00",
+    "identifier": "id:16245:2e337acf-8402-4c20-9df4-b36fb7370a74",
+    "user": {
+      "username": "aiguillette",
+      "id": 16245,
+      "first_name": "cucendron+character@gmail.com",
+      "account": {
+        "name": "aiguillette",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "Certified agile trainer and coach",
+    "name": "Agile",
+    "participant": {
+      "user": {
+        "username": "internal_id:16245:2e337acf-8402-4c20-9df4-b36fb7370a74",
+        "id": 19087,
+        "first_name": "Agile",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Agile"
+    },
+    "categories": [
+      {
+        "name": "Knowledge",
+        "description": "Knowledge & Research"
+      },
+      {
+        "name": "Advice",
+        "description": "Advice"
+      },
+      {
+        "name": "Cooperative",
+        "description": "Cooperative"
+      },
+      {
+        "name": "Decisions",
+        "description": "Decisions"
+      },
+      {
+        "name": "Business",
+        "description": "Business"
+      },
+      {
+        "name": "Motivation",
+        "description": "Motivation"
+      },
+      {
+        "name": "Work",
+        "description": "Work"
+      },
+      {
+        "name": "Practice",
+        "description": "Practice"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Hi, I would be happy to assist on agile methodologies and frameworks. ",
+    "description": "",
+    "definition": ""
+  }
+}

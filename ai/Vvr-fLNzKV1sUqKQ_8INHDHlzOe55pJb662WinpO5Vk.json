@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Vvr-fLNzKV1sUqKQ_8INHDHlzOe55pJb662WinpO5Vk",
+    "created": "2022-10-05T22:30:26.206263-07:00",
+    "updated": "2022-10-05T22:30:26.545461-07:00",
+    "identifier": "id:74195:4ee524f6-a2e6-4b4a-bb58-a0d293ebb346",
+    "user": {
+      "username": "srxzr",
+      "id": 74195,
+      "first_name": "milad@cs.umass.edu",
+      "account": {
+        "name": "srxzr",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Khamenei",
+    "participant": {
+      "user": {
+        "username": "internal_id:74195:4ee524f6-a2e6-4b4a-bb58-a0d293ebb346",
+        "id": 76508,
+        "first_name": "Khamenei",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Khamenei"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Khamenei",
+    "description": "",
+    "definition": ""
+  }
+}

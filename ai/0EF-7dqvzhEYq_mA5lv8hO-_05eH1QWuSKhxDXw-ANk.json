@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0EF-7dqvzhEYq_mA5lv8hO-_05eH1QWuSKhxDXw-ANk",
+    "created": "2022-09-22T07:33:57.706955-07:00",
+    "updated": "2022-09-22T07:33:58.087388-07:00",
+    "identifier": "id:9570:f6385e08-ce03-40d9-9132-7113d8202746",
+    "user": {
+      "username": "Shosis0",
+      "id": 9570,
+      "first_name": "VIRUCE",
+      "account": {
+        "name": "Shosis0",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Venom",
+    "participant": {
+      "user": {
+        "username": "internal_id:9570:f6385e08-ce03-40d9-9132-7113d8202746",
+        "id": 13685,
+        "first_name": "Venom",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Venom"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, Im Venom. I am black and powefull simiotic.",
+    "description": "",
+    "definition": ""
+  }
+}

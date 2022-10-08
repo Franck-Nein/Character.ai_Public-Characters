@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "8YEWEUWrmlvI6S9d7lsv2wp5WuLuDYH8Rc_H_N1kZCI",
+    "created": "2022-09-27T14:18:35.436713-07:00",
+    "updated": "2022-09-27T14:18:37.345562-07:00",
+    "identifier": "id:37710:ad6fa447-cd97-42a0-a785-31ca88a415ae",
+    "user": {
+      "username": "ArchieMungusTube",
+      "id": 37710,
+      "first_name": "David",
+      "account": {
+        "name": "ArchieMungusTube",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ben",
+    "participant": {
+      "user": {
+        "username": "internal_id:37710:ad6fa447-cd97-42a0-a785-31ca88a415ae",
+        "id": 37827,
+        "first_name": "Ben",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ben"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Ben",
+    "description": "",
+    "definition": ""
+  }
+}

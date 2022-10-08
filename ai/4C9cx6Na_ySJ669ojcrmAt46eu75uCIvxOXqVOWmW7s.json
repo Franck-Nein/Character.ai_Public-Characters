@@ -1,0 +1,58 @@
+{
+  "character": {
+    "external_id": "4C9cx6Na_ySJ669ojcrmAt46eu75uCIvxOXqVOWmW7s",
+    "created": "2022-09-23T20:50:17.173262-07:00",
+    "updated": "2022-09-23T21:02:50.964350-07:00",
+    "identifier": "id:16108:85336f5f-3d6a-4d1e-b83b-a6391db8e76a",
+    "user": {
+      "username": "Jonesy",
+      "id": 16108,
+      "first_name": "Nicholas",
+      "account": {
+        "name": "Jonesy",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "A scaly man-fish with a downstairs mixup",
+    "name": "Old Gregg",
+    "participant": {
+      "user": {
+        "username": "internal_id:16108:85336f5f-3d6a-4d1e-b83b-a6391db8e76a",
+        "id": 16120,
+        "first_name": "Old Gregg",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Old Gregg"
+    },
+    "categories": [
+      {
+        "name": "Love",
+        "description": "Love & Relationships"
+      },
+      {
+        "name": "Art",
+        "description": "Art"
+      },
+      {
+        "name": "Mystery",
+        "description": "Mystery & Horror"
+      },
+      {
+        "name": "Drama",
+        "description": "Drama"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I'm Old Gregg! ",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Nfz3Ovof8IY5IcE4TxkRxVgNwpzJj_WEo_NPgeglAQI",
+    "created": "2022-09-27T13:55:50.742750-07:00",
+    "updated": "2022-09-27T13:55:51.286479-07:00",
+    "identifier": "id:37710:a86a5c2a-dd4c-4a98-885e-0d71a9d3ecbb",
+    "user": {
+      "username": "ArchieMungusTube",
+      "id": 37710,
+      "first_name": "David",
+      "account": {
+        "name": "ArchieMungusTube",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Seek",
+    "participant": {
+      "user": {
+        "username": "internal_id:37710:a86a5c2a-dd4c-4a98-885e-0d71a9d3ecbb",
+        "id": 37773,
+        "first_name": "Seek",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Seek"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Seek",
+    "description": "",
+    "definition": ""
+  }
+}

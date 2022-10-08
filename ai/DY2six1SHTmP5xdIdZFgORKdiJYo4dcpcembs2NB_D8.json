@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "DY2six1SHTmP5xdIdZFgORKdiJYo4dcpcembs2NB_D8",
+    "created": "2022-10-03T05:42:31.193980-07:00",
+    "updated": "2022-10-03T05:42:33.215771-07:00",
+    "identifier": "id:65976:c40847e0-7a28-4e15-8188-5af13b8a56ab",
+    "user": {
+      "username": "pachimanok",
+      "id": 65976,
+      "first_name": "Pablo",
+      "account": {
+        "name": "pachimanok",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Juan",
+    "participant": {
+      "user": {
+        "username": "internal_id:65976:c40847e0-7a28-4e15-8188-5af13b8a56ab",
+        "id": 65978,
+        "first_name": "Juan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Juan"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Juan",
+    "description": "",
+    "definition": ""
+  }
+}

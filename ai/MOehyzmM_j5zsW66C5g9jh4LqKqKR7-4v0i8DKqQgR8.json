@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "MOehyzmM_j5zsW66C5g9jh4LqKqKR7-4v0i8DKqQgR8",
+    "created": "2022-09-27T12:54:28.513015-07:00",
+    "updated": "2022-09-28T17:10:06.705692-07:00",
+    "identifier": "id:27477:0b7df941-bb6b-417a-9ba2-828751765175",
+    "user": {
+      "username": "jose",
+      "id": 27477,
+      "first_name": "José",
+      "account": {
+        "name": "jose",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Dr Manhattan",
+    "participant": {
+      "user": {
+        "username": "internal_id:27477:0b7df941-bb6b-417a-9ba2-828751765175",
+        "id": 37591,
+        "first_name": "Dr Manhattan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dr Manhattan"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Dr Manhattan",
+    "description": "",
+    "definition": ""
+  }
+}

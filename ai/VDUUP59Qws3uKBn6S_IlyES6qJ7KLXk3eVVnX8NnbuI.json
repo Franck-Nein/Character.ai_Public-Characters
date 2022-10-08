@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "VDUUP59Qws3uKBn6S_IlyES6qJ7KLXk3eVVnX8NnbuI",
+    "created": "2022-09-29T12:55:08.303449-07:00",
+    "updated": "2022-09-29T12:55:08.961512-07:00",
+    "identifier": "id:45947:e16bcda6-d403-442c-bbc8-942149c7a6f0",
+    "user": {
+      "username": "123654",
+      "id": 45947,
+      "first_name": "Пульский",
+      "account": {
+        "name": "123654",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Garfield",
+    "participant": {
+      "user": {
+        "username": "internal_id:45947:e16bcda6-d403-442c-bbc8-942149c7a6f0",
+        "id": 46676,
+        "first_name": "Garfield",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Garfield"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/aN-hCL1azXuePxVOt_gBBV-Q_s-1_zbDBM3cx5MxZWA.webp",
+    "greeting": "I am Garfield",
+    "description": "",
+    "definition": ""
+  }
+}

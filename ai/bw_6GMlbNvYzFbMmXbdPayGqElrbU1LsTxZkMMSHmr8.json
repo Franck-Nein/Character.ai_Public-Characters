@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "bw_6GMlbNvYzFbMmXbdPayGqElrbU1LsTxZkMMSHmr8",
+    "created": "2022-10-01T04:40:19.077724-07:00",
+    "updated": "2022-10-01T04:40:19.430308-07:00",
+    "identifier": "id:58614:592300ef-2ce1-4aac-96d9-699510081e52",
+    "user": {
+      "username": "lhrrhl",
+      "id": 58614,
+      "first_name": "haoran",
+      "account": {
+        "name": "lhrrhl",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Player of Your Game",
+    "participant": {
+      "user": {
+        "username": "internal_id:58614:592300ef-2ce1-4aac-96d9-699510081e52",
+        "id": 59094,
+        "first_name": "Player of Your Game",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Player of Your Game"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, I am a player and I want to play your game!",
+    "description": "",
+    "definition": ""
+  }
+}

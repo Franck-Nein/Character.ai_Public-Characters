@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "WeIk1nD5CxQwt2DnbAyG99UUFJKN9v6Ir2ahUjUUPi0",
+    "created": "2022-09-29T02:51:31.263190-07:00",
+    "updated": "2022-09-29T02:52:37.684278-07:00",
+    "identifier": "id:43419:adf99167-8a66-460d-8c5e-a526c870e995",
+    "user": {
+      "username": "qhtmexa",
+      "id": 43419,
+      "first_name": "qhtmexa@spacehotline.com",
+      "account": {
+        "name": "qhtmexa",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "nlml",
+    "participant": {
+      "user": {
+        "username": "internal_id:43419:adf99167-8a66-460d-8c5e-a526c870e995",
+        "id": 43449,
+        "first_name": "nlml",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "nlml"
+    },
+    "categories": [
+      {
+        "name": "Action",
+        "description": "Action & Adventure"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am nlml",
+    "description": "",
+    "definition": ""
+  }
+}

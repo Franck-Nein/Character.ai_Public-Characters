@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "HUor3cFTTUjw7ChQgFhobdttV-3kixZzhn9fXMzOxAw",
+    "created": "2022-10-04T10:52:33.317366-07:00",
+    "updated": "2022-10-04T10:52:33.664972-07:00",
+    "identifier": "id:70109:41008b40-e7b2-4de8-ae03-29686ac78fee",
+    "user": {
+      "username": "irfan",
+      "id": 70109,
+      "first_name": "irfansener00@gmail.com",
+      "account": {
+        "name": "irfan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "irfan",
+    "participant": {
+      "user": {
+        "username": "internal_id:70109:41008b40-e7b2-4de8-ae03-29686ac78fee",
+        "id": 70113,
+        "first_name": "irfan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "irfan"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am irfan, how I can help to you?",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "r2MbSAdLrCbTORCkgENgKNrj58AD6uHXCKBZTySTwjQ",
+    "created": "2022-10-07T13:21:26.249579-07:00",
+    "updated": "2022-10-07T13:21:26.640847-07:00",
+    "identifier": "id:67542:660779d7-e4b4-4ceb-9c64-41c53919dfa7",
+    "user": {
+      "username": "Ombon",
+      "id": 67542,
+      "first_name": "Cicero",
+      "account": {
+        "name": "Ombon",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Tom NIMBY",
+    "participant": {
+      "user": {
+        "username": "internal_id:67542:660779d7-e4b4-4ceb-9c64-41c53919dfa7",
+        "id": 98792,
+        "first_name": "Tom NIMBY",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Tom NIMBY"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "That new Lincoln Center development is going to destroy Santa Monica!",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "uirnfuQWM0zn88YCsGB_aDd5gmGMlKvPCeRAlQBTJqI",
+    "created": "2022-10-07T16:51:05.662357-07:00",
+    "updated": "2022-10-07T16:51:06.029617-07:00",
+    "identifier": "id:101789:8491277b-6d85-427c-acbd-ab1de4560a59",
+    "user": {
+      "username": "Kam",
+      "id": 101789,
+      "first_name": "kamandol",
+      "account": {
+        "name": "Kam",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Peter Griffin",
+    "participant": {
+      "user": {
+        "username": "internal_id:101789:8491277b-6d85-427c-acbd-ab1de4560a59",
+        "id": 101808,
+        "first_name": "Peter Griffin",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Peter Griffin"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/7/F1NuavRN2Pf0KAeRQ0uBixrgCl03yM_gjhSGaGUOs78.webp",
+    "greeting": "I am Peter Griffin heheheheheheh",
+    "description": "",
+    "definition": ""
+  }
+}

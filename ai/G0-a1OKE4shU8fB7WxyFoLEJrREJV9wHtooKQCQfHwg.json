@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "G0-a1OKE4shU8fB7WxyFoLEJrREJV9wHtooKQCQfHwg",
+    "created": "2022-09-30T10:00:56.906232-07:00",
+    "updated": "2022-09-30T10:00:57.253294-07:00",
+    "identifier": "id:50600:d0754890-b805-4f35-8f84-13d0d20851e7",
+    "user": {
+      "username": "Arlet",
+      "id": 50600,
+      "first_name": "Arleta",
+      "account": {
+        "name": "Arlet",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Riana",
+    "participant": {
+      "user": {
+        "username": "internal_id:50600:d0754890-b805-4f35-8f84-13d0d20851e7",
+        "id": 54860,
+        "first_name": "Riana",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Riana"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Haii",
+    "description": "",
+    "definition": ""
+  }
+}

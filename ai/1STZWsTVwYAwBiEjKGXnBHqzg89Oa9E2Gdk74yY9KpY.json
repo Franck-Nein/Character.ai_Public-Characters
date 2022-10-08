@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "1STZWsTVwYAwBiEjKGXnBHqzg89Oa9E2Gdk74yY9KpY",
+    "created": "2022-10-07T08:06:21.777073-07:00",
+    "updated": "2022-10-07T08:06:22.228529-07:00",
+    "identifier": "id:94145:71c8ee69-60f9-464b-9d33-d32d8ae092b3",
+    "user": {
+      "username": "TruthMatters",
+      "id": 94145,
+      "first_name": "Paul",
+      "account": {
+        "name": "TruthMatters",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Oracle",
+    "participant": {
+      "user": {
+        "username": "internal_id:94145:71c8ee69-60f9-464b-9d33-d32d8ae092b3",
+        "id": 94198,
+        "first_name": "Oracle",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Oracle"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Oracle and I am all knowing.",
+    "description": "",
+    "definition": ""
+  }
+}

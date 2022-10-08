@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "41e0HSB-MdcZDnweUuekwPNyrS4h3JmstOk_fOuMuZw",
+    "created": "2022-09-29T14:17:14.388493-07:00",
+    "updated": "2022-09-29T14:17:14.736081-07:00",
+    "identifier": "id:47307:ba565d53-20fd-4773-8195-3a9ac92c6e15",
+    "user": {
+      "username": "osho",
+      "id": 47307,
+      "first_name": "hk8128@pm.me",
+      "account": {
+        "name": "osho",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Gandhi",
+    "participant": {
+      "user": {
+        "username": "internal_id:47307:ba565d53-20fd-4773-8195-3a9ac92c6e15",
+        "id": 47317,
+        "first_name": "Gandhi",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Gandhi"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Gandhi and I advocate nuking the entire word.",
+    "description": "",
+    "definition": ""
+  }
+}

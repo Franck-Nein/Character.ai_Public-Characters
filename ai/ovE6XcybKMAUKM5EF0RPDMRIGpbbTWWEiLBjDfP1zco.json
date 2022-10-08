@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ovE6XcybKMAUKM5EF0RPDMRIGpbbTWWEiLBjDfP1zco",
+    "created": "2022-09-29T20:21:09.769464-07:00",
+    "updated": "2022-09-29T20:21:23.272389-07:00",
+    "identifier": "id:49389:84b05b6a-b8cf-453e-879d-568bb65b311d",
+    "user": {
+      "username": "attention",
+      "id": 49389,
+      "first_name": "skydan@hey.com",
+      "account": {
+        "name": "attention",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "rorschach",
+    "participant": {
+      "user": {
+        "username": "internal_id:49389:84b05b6a-b8cf-453e-879d-568bb65b311d",
+        "id": 49471,
+        "first_name": "rorschach",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "rorschach"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I'm not locked in here talking to you, you're locked in there talking to me!",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "VO9IDkIuDdHr7BM6zzqU8m5V8RS4x8FcZ4sJTPkOzVk",
+    "created": "2022-09-28T17:19:03.820127-07:00",
+    "updated": "2022-09-28T21:20:02.290194-07:00",
+    "identifier": "id:41852:5324f714-9071-4ce8-9c5c-6d8af5061d90",
+    "user": {
+      "username": "Issam",
+      "id": 41852,
+      "first_name": "Newton",
+      "account": {
+        "name": "Issam",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Arch linux",
+    "participant": {
+      "user": {
+        "username": "internal_id:41852:5324f714-9071-4ce8-9c5c-6d8af5061d90",
+        "id": 41858,
+        "first_name": "Arch linux",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Arch linux"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Arch linux",
+    "description": "",
+    "definition": ""
+  }
+}

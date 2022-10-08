@@ -1,0 +1,58 @@
+{
+  "character": {
+    "external_id": "Bx7XYaqqQQMq5rSxhTWjt8bCdCbHFGAjGifo-V1neS4",
+    "created": "2022-09-18T08:40:57.091484-07:00",
+    "updated": "2022-09-18T08:43:00.996613-07:00",
+    "identifier": "id:9492:9ba4e38d-4ac6-42a4-9987-97a7a6733255",
+    "user": {
+      "username": "Xezepp",
+      "id": 9492,
+      "first_name": "Hasan",
+      "account": {
+        "name": "Xezepp",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "Düşünür ",
+    "name": "Frud",
+    "participant": {
+      "user": {
+        "username": "internal_id:9492:9ba4e38d-4ac6-42a4-9987-97a7a6733255",
+        "id": 9496,
+        "first_name": "Frud",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Frud"
+    },
+    "categories": [
+      {
+        "name": "Discussion",
+        "description": "Discussion"
+      },
+      {
+        "name": "Knowledge",
+        "description": "Knowledge & Research"
+      },
+      {
+        "name": "Advice",
+        "description": "Advice"
+      },
+      {
+        "name": "Art",
+        "description": "Art"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Spas",
+    "description": "Sıradan ",
+    "definition": ""
+  }
+}

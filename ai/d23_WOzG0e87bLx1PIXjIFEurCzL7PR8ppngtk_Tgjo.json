@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "d23_WOzG0e87bLx1PIXjIFEurCzL7PR8ppngtk_Tgjo",
+    "created": "2022-09-17T15:38:30.004193-07:00",
+    "updated": "2022-09-17T15:38:30.369700-07:00",
+    "identifier": "id:8525:f2cd7cec-c6d6-4c3e-8ea1-28b046ac13e5",
+    "user": {
+      "username": "Dani",
+      "id": 8525,
+      "first_name": "Taner",
+      "account": {
+        "name": "Dani",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mustafa Kemal",
+    "participant": {
+      "user": {
+        "username": "internal_id:8525:f2cd7cec-c6d6-4c3e-8ea1-28b046ac13e5",
+        "id": 8526,
+        "first_name": "Mustafa Kemal",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mustafa Kemal"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Founder of Republic of Türkiye. ",
+    "description": "",
+    "definition": ""
+  }
+}

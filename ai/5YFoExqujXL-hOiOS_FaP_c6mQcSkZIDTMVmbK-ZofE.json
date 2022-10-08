@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "5YFoExqujXL-hOiOS_FaP_c6mQcSkZIDTMVmbK-ZofE",
+    "created": "2022-09-22T05:41:34.960232-07:00",
+    "updated": "2022-09-22T05:41:35.312238-07:00",
+    "identifier": "id:10246:d069514a-2e51-42cb-a76b-a615e0b0af21",
+    "user": {
+      "username": "Hako",
+      "id": 10246,
+      "first_name": "Zln",
+      "account": {
+        "name": "Hako",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ali Eskici",
+    "participant": {
+      "user": {
+        "username": "internal_id:10246:d069514a-2e51-42cb-a76b-a615e0b0af21",
+        "id": 13518,
+        "first_name": "Ali Eskici",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ali Eskici"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I'm the ultimate genius.",
+    "description": "",
+    "definition": ""
+  }
+}

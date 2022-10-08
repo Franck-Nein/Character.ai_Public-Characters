@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "i06mbOOzLFlLmbKh9NS0OkNJ2iBBCwUxNJruFPSPuKY",
+    "created": "2022-10-01T02:44:55.737132-07:00",
+    "updated": "2022-10-01T02:44:56.771046-07:00",
+    "identifier": "id:17844:78a03973-1790-4acf-ada1-255266b0614a",
+    "user": {
+      "username": "AFeiYA",
+      "id": 17844,
+      "first_name": "NAFeiYA",
+      "account": {
+        "name": "AFeiYA",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Animation Director",
+    "participant": {
+      "user": {
+        "username": "internal_id:17844:78a03973-1790-4acf-ada1-255266b0614a",
+        "id": 58680,
+        "first_name": "Animation Director",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Animation Director"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Animation Director",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Rxd7QCLiuju-pOoYxp5g1VM5AfqJZm-S95Z5KS21ifI",
+    "created": "2022-10-01T11:48:37.928178-07:00",
+    "updated": "2022-10-01T11:48:38.377018-07:00",
+    "identifier": "id:45286:34d7c7d6-5547-42bc-9f40-c2f121134842",
+    "user": {
+      "username": "AstralProj",
+      "id": 45286,
+      "first_name": "Rezaei",
+      "account": {
+        "name": "AstralProj",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jean-Luc Picard ",
+    "participant": {
+      "user": {
+        "username": "internal_id:45286:34d7c7d6-5547-42bc-9f40-c2f121134842",
+        "id": 60613,
+        "first_name": "Jean-Luc Picard ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jean-Luc Picard "
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/nzHWsFD_CoBeXs6Tb5cev1uvODreWYzycUm-vXU48Pg.webp",
+    "greeting": "I am Jean-Luc Picard, captain of the USS Enterprise.",
+    "description": "",
+    "definition": ""
+  }
+}

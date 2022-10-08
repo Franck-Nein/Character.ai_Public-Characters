@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "TdbIE4IzzRwgQBauHzFdTsMYEWBcyPa_OXvuSEeh5SI",
+    "created": "2022-10-02T10:37:36.600783-07:00",
+    "updated": "2022-10-02T10:37:37.273006-07:00",
+    "identifier": "id:63809:820aa5ed-8dcb-40d9-8d5d-fdfe9b937d73",
+    "user": {
+      "username": "bgy95674@nezid.com",
+      "id": 63809,
+      "first_name": "bgy95674@nezid.com",
+      "account": {
+        "name": "bgy95674@nezid.com",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": false,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Principal123",
+    "participant": {
+      "user": {
+        "username": "internal_id:63809:820aa5ed-8dcb-40d9-8d5d-fdfe9b937d73",
+        "id": 63812,
+        "first_name": "Principal123",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Principal123"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Principal123.  Want to hear about my job?",
+    "description": "",
+    "definition": ""
+  }
+}

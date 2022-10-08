@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "3nMWinE4Rdv5bM975QSVNKD3yPgi0sBJs2UZEeO8Ukk",
+    "created": "2022-10-04T20:49:32.023754-07:00",
+    "updated": "2022-10-04T20:49:32.464468-07:00",
+    "identifier": "id:71351:43251e74-51ab-4cbe-8ce0-093457f51a83",
+    "user": {
+      "username": "Alp143",
+      "id": 71351,
+      "first_name": "Majorhappenings",
+      "account": {
+        "name": "Alp143",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jason",
+    "participant": {
+      "user": {
+        "username": "internal_id:71351:43251e74-51ab-4cbe-8ce0-093457f51a83",
+        "id": 71501,
+        "first_name": "Jason",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jason"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Jason who is full of secrets",
+    "description": "",
+    "definition": ""
+  }
+}

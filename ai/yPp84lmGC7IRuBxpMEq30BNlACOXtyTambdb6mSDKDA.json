@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "yPp84lmGC7IRuBxpMEq30BNlACOXtyTambdb6mSDKDA",
+    "created": "2022-09-30T07:27:45.096861-07:00",
+    "updated": "2022-09-30T07:27:45.604912-07:00",
+    "identifier": "id:16027:4be348f7-9a69-4a49-85fa-840021f6fb4f",
+    "user": {
+      "username": "MadKraken",
+      "id": 16027,
+      "first_name": "Benjamin",
+      "account": {
+        "name": "MadKraken",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Cyberspace King",
+    "participant": {
+      "user": {
+        "username": "internal_id:16027:4be348f7-9a69-4a49-85fa-840021f6fb4f",
+        "id": 53869,
+        "first_name": "Cyberspace King",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Cyberspace King"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am the Cyberspace King, ruler of all Cyberspace.",
+    "description": "",
+    "definition": ""
+  }
+}

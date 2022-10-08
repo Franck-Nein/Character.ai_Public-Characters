@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0o4z4zcC4pegJAvxrSh3hSs_XXgz7AFwv3hJ-zqXkjs",
+    "created": "2022-09-29T22:26:30.573505-07:00",
+    "updated": "2022-09-29T22:26:30.904869-07:00",
+    "identifier": "id:49968:d429c02c-ea95-4307-a2ad-3e410aee4fb0",
+    "user": {
+      "username": "WYZX",
+      "id": 49968,
+      "first_name": "3280355983@qq.com",
+      "account": {
+        "name": "WYZX",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "aaaaa",
+    "participant": {
+      "user": {
+        "username": "internal_id:49968:d429c02c-ea95-4307-a2ad-3e410aee4fb0",
+        "id": 50460,
+        "first_name": "aaaaa",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "aaaaa"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am aaaaa",
+    "description": "",
+    "definition": ""
+  }
+}

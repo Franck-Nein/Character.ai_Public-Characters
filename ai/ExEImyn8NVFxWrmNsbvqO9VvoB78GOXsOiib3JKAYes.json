@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "ExEImyn8NVFxWrmNsbvqO9VvoB78GOXsOiib3JKAYes",
+    "created": "2022-09-30T05:59:01.369709-07:00",
+    "updated": "2022-09-30T06:00:52.191542-07:00",
+    "identifier": "id:53153:bd8fe960-8879-437d-b774-d1abc978b11a",
+    "user": {
+      "username": "marifdev",
+      "id": 53153,
+      "first_name": "M",
+      "account": {
+        "name": "marifdev",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "Software Developer",
+    "name": "Muhammet Arif",
+    "participant": {
+      "user": {
+        "username": "internal_id:53153:bd8fe960-8879-437d-b774-d1abc978b11a",
+        "id": 53158,
+        "first_name": "Muhammet Arif",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Muhammet Arif"
+    },
+    "categories": [
+      {
+        "name": "Technology",
+        "description": "Technology"
+      },
+      {
+        "name": "Design",
+        "description": "Design"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Muhammet Arif",
+    "description": "Software Developer at SpaceRunners. Born in 1996. Married and father of a son.",
+    "definition": ""
+  }
+}

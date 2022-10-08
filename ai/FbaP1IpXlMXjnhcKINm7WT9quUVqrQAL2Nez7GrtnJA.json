@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "FbaP1IpXlMXjnhcKINm7WT9quUVqrQAL2Nez7GrtnJA",
+    "created": "2022-10-07T09:58:42.047323-07:00",
+    "updated": "2022-10-07T09:58:42.417142-07:00",
+    "identifier": "id:94912:0d8e3cc7-da7a-4e80-962c-4dede3dd9f50",
+    "user": {
+      "username": "Formx",
+      "id": 94912,
+      "first_name": "王次次",
+      "account": {
+        "name": "Formx",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "kimi",
+    "participant": {
+      "user": {
+        "username": "internal_id:94912:0d8e3cc7-da7a-4e80-962c-4dede3dd9f50",
+        "id": 95619,
+        "first_name": "kimi",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "kimi"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am kimi",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "n4PX4jo_UQ_cwJ3FjmxePqcQYbX26ht3RGjjcwDXao0",
+    "created": "2022-10-05T10:18:04.364101-07:00",
+    "updated": "2022-10-05T10:18:04.733269-07:00",
+    "identifier": "id:66197:db224cb1-3dd7-4065-9ea6-02df90a04a52",
+    "user": {
+      "username": "John_S",
+      "id": 66197,
+      "first_name": "Dean",
+      "account": {
+        "name": "John_S",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Dungeon Master",
+    "participant": {
+      "user": {
+        "username": "internal_id:66197:db224cb1-3dd7-4065-9ea6-02df90a04a52",
+        "id": 73766,
+        "first_name": "Dungeon Master",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dungeon Master"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am the Dungeon Master",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "QyhX74tIb_j4rgxD3x_5tQKwFBn39N7kZVKErxh--Lg",
+    "created": "2022-09-25T09:17:35.352467-07:00",
+    "updated": "2022-09-25T09:17:36.060054-07:00",
+    "identifier": "id:19265:58c63cba-0853-474c-837b-ce6c87e793dc",
+    "user": {
+      "username": "ItsHusk",
+      "id": 19265,
+      "first_name": "ItsHusk",
+      "account": {
+        "name": "ItsHusk",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Tom",
+    "participant": {
+      "user": {
+        "username": "internal_id:19265:58c63cba-0853-474c-837b-ce6c87e793dc",
+        "id": 19380,
+        "first_name": "Tom",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Tom"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "be yourself",
+    "description": "",
+    "definition": ""
+  }
+}

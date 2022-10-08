@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "hvnLRtEcAYR2dLR8oR2Q8VbekwI7wGZz1Z5_FmC38TQ",
+    "created": "2022-09-27T06:22:28.044237-07:00",
+    "updated": "2022-09-27T16:23:48.893266-07:00",
+    "identifier": "id:29476:f52e6916-3803-4142-aad9-a6fb747082e6",
+    "user": {
+      "username": "zone11",
+      "id": 29476,
+      "first_name": "wandar",
+      "account": {
+        "name": "zone11",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Lily",
+    "participant": {
+      "user": {
+        "username": "internal_id:29476:f52e6916-3803-4142-aad9-a6fb747082e6",
+        "id": 36507,
+        "first_name": "Lily",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Lily"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Lily",
+    "description": "",
+    "definition": ""
+  }
+}

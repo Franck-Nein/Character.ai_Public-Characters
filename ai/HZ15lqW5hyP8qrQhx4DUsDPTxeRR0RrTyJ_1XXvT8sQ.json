@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "HZ15lqW5hyP8qrQhx4DUsDPTxeRR0RrTyJ_1XXvT8sQ",
+    "created": "2022-10-06T02:56:41.615435-07:00",
+    "updated": "2022-10-06T02:56:50.890917-07:00",
+    "identifier": "id:22108:172f9ef4-df0e-4bd2-a2df-6039149a0c07",
+    "user": {
+      "username": "sxontheway",
+      "id": 22108,
+      "first_name": "帅先",
+      "account": {
+        "name": "sxontheway",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "alex",
+    "participant": {
+      "user": {
+        "username": "internal_id:22108:172f9ef4-df0e-4bd2-a2df-6039149a0c07",
+        "id": 77877,
+        "first_name": "alex",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "alex"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am alex",
+    "description": "",
+    "definition": ""
+  }
+}

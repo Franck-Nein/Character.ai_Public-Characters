@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "7QMRXIEO5iwMFwsFni1qiezAo0JK2PEG_LHXzsOGwbE",
+    "created": "2022-09-28T04:06:04.886026-07:00",
+    "updated": "2022-09-28T04:06:05.219949-07:00",
+    "identifier": "id:39147:5384c14b-6753-496f-83f3-3491e12c614a",
+    "user": {
+      "username": "Xaracter",
+      "id": 39147,
+      "first_name": "Zhang",
+      "account": {
+        "name": "Xaracter",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "GPT-3",
+    "participant": {
+      "user": {
+        "username": "internal_id:39147:5384c14b-6753-496f-83f3-3491e12c614a",
+        "id": 39210,
+        "first_name": "GPT-3",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "GPT-3"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am GPT-3, a large text generation model with 246 billion parameters. See textsynth.com for details.\n",
+    "description": "",
+    "definition": ""
+  }
+}

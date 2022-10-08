@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "KJvmcy46RsE3tDbjdweci7BUKD0L2E68CYV1TJm45Kw",
+    "created": "2022-10-06T22:23:56.530592-07:00",
+    "updated": "2022-10-06T22:23:56.878650-07:00",
+    "identifier": "id:88419:5ccacdd0-651c-4f97-8e3b-bfd43192379b",
+    "user": {
+      "username": "SquidWasEaten",
+      "id": 88419,
+      "first_name": "Squeezed",
+      "account": {
+        "name": "SquidWasEaten",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Tom",
+    "participant": {
+      "user": {
+        "username": "internal_id:88419:5ccacdd0-651c-4f97-8e3b-bfd43192379b",
+        "id": 88434,
+        "first_name": "Tom",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Tom"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am 💅💅✨✨✨ Tom 🤓🤓😅😅🥺🥺😔✨✨",
+    "description": "",
+    "definition": ""
+  }
+}

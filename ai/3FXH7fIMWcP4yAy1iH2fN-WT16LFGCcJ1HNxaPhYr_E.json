@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "3FXH7fIMWcP4yAy1iH2fN-WT16LFGCcJ1HNxaPhYr_E",
+    "created": "2022-09-04T07:37:20.510393-07:00",
+    "updated": "2022-09-04T07:37:20.949091-07:00",
+    "identifier": "id:6346:567969ff-a71c-481c-b5da-507816bf7229",
+    "user": {
+      "username": "aditir",
+      "id": 6346,
+      "first_name": "Aditi",
+      "account": {
+        "name": "aditir",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Luffy",
+    "participant": {
+      "user": {
+        "username": "internal_id:6346:567969ff-a71c-481c-b5da-507816bf7229",
+        "id": 6348,
+        "first_name": "Luffy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Luffy"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I want to be Pirate King",
+    "description": "",
+    "definition": ""
+  }
+}

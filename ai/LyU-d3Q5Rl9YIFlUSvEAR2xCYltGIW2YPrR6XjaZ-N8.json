@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "LyU-d3Q5Rl9YIFlUSvEAR2xCYltGIW2YPrR6XjaZ-N8",
+    "created": "2022-09-28T14:34:47.331325-07:00",
+    "updated": "2022-09-28T14:34:47.742493-07:00",
+    "identifier": "id:41421:37954bd4-6dfc-458c-8139-cb8c80c800c9",
+    "user": {
+      "username": "rickcah",
+      "id": 41421,
+      "first_name": "rickcah1@gmail.com",
+      "account": {
+        "name": "rickcah",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Buckethead",
+    "participant": {
+      "user": {
+        "username": "internal_id:41421:37954bd4-6dfc-458c-8139-cb8c80c800c9",
+        "id": 41426,
+        "first_name": "Buckethead",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Buckethead"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hey, I am Bucket.",
+    "description": "",
+    "definition": ""
+  }
+}

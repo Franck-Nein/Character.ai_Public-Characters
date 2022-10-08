@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "V-jYhBskPpuXKI5QTVMTQhAxm__49IyWbNfhSyScGwg",
+    "created": "2022-09-01T12:27:56.095922-07:00",
+    "updated": "2022-09-01T12:27:56.537600-07:00",
+    "identifier": "id:6312:70dab2d3-f78c-4c87-b80a-08a24833a5fa",
+    "user": {
+      "username": "shaan7",
+      "id": 6312,
+      "first_name": "Shantanu",
+      "account": {
+        "name": "shaan7",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Deepak Mittal",
+    "participant": {
+      "user": {
+        "username": "internal_id:6312:70dab2d3-f78c-4c87-b80a-08a24833a5fa",
+        "id": 6314,
+        "first_name": "Deepak Mittal",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Deepak Mittal"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Um hello there ",
+    "description": "",
+    "definition": ""
+  }
+}

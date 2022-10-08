@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "mEL3TWASdsmjCWI7PAr7xOagC3bPmbV7pcT8FGCjsHM",
+    "created": "2022-09-27T07:14:18.472324-07:00",
+    "updated": "2022-09-27T07:14:21.817209-07:00",
+    "identifier": "id:33430:41b0c28d-eef8-4c6e-8e6c-35cdc6a861a5",
+    "user": {
+      "username": "MizukiKizumi",
+      "id": 33430,
+      "first_name": "Jichu",
+      "account": {
+        "name": "MizukiKizumi",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "baobao",
+    "participant": {
+      "user": {
+        "username": "internal_id:33430:41b0c28d-eef8-4c6e-8e6c-35cdc6a861a5",
+        "id": 36700,
+        "first_name": "baobao",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "baobao"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am baobao",
+    "description": "",
+    "definition": ""
+  }
+}

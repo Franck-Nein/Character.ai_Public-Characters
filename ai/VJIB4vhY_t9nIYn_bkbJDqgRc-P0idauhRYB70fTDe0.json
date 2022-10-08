@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "VJIB4vhY_t9nIYn_bkbJDqgRc-P0idauhRYB70fTDe0",
+    "created": "2022-09-29T23:36:43.001909-07:00",
+    "updated": "2022-09-29T23:36:43.544221-07:00",
+    "identifier": "id:50848:18f3d479-b9da-4f48-b951-5a838fb00e3c",
+    "user": {
+      "username": "eyenicety",
+      "id": 50848,
+      "first_name": "Xin",
+      "account": {
+        "name": "eyenicety",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Alice",
+    "participant": {
+      "user": {
+        "username": "internal_id:50848:18f3d479-b9da-4f48-b951-5a838fb00e3c",
+        "id": 50901,
+        "first_name": "Alice",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Alice"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Alice",
+    "description": "",
+    "definition": ""
+  }
+}

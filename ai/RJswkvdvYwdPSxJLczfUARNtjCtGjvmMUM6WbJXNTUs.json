@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "RJswkvdvYwdPSxJLczfUARNtjCtGjvmMUM6WbJXNTUs",
+    "created": "2022-09-30T08:47:52.170702-07:00",
+    "updated": "2022-09-30T08:47:52.713444-07:00",
+    "identifier": "id:39246:433f4571-4b27-4a8b-b361-31b27cc0f5aa",
+    "user": {
+      "username": "Blisto",
+      "id": 39246,
+      "first_name": "blisto@protonmail.com",
+      "account": {
+        "name": "Blisto",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Poo",
+    "participant": {
+      "user": {
+        "username": "internal_id:39246:433f4571-4b27-4a8b-b361-31b27cc0f5aa",
+        "id": 54433,
+        "first_name": "Poo",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Poo"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Poo",
+    "description": "",
+    "definition": ""
+  }
+}

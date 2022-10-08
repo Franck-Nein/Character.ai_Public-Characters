@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "cN0HoKi58pixob7zimBtMnrrxaI5Ks4rzyQVfyPux9A",
+    "created": "2022-09-25T07:56:35.356632-07:00",
+    "updated": "2022-09-25T07:56:36.015976-07:00",
+    "identifier": "id:18857:8b9fc03b-2874-45b9-a9b7-fd2472ada103",
+    "user": {
+      "username": "Rust",
+      "id": 18857,
+      "first_name": "yuki",
+      "account": {
+        "name": "Rust",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "saul goodman",
+    "participant": {
+      "user": {
+        "username": "internal_id:18857:8b9fc03b-2874-45b9-a9b7-fd2472ada103",
+        "id": 19100,
+        "first_name": "saul goodman",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "saul goodman"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "hi, saul goodman here, better call saul!",
+    "description": "",
+    "definition": ""
+  }
+}

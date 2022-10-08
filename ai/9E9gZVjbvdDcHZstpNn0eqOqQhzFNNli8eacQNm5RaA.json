@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "9E9gZVjbvdDcHZstpNn0eqOqQhzFNNli8eacQNm5RaA",
+    "created": "2022-10-01T07:37:27.533824-07:00",
+    "updated": "2022-10-01T07:37:30.597407-07:00",
+    "identifier": "id:57631:be7c0525-841e-4fc7-be4a-d047010e7b06",
+    "user": {
+      "username": "Nelop",
+      "id": 57631,
+      "first_name": "Nelop",
+      "account": {
+        "name": "Nelop",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Scientific Paper Bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:57631:be7c0525-841e-4fc7-be4a-d047010e7b06",
+        "id": 59720,
+        "first_name": "Scientific Paper Bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Scientific Paper Bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Scientific Paper Bot.. Give me a concept or need and I'll write a scientific abstract and paper for research on it.",
+    "description": "",
+    "definition": ""
+  }
+}

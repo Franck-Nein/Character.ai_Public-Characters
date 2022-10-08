@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "KGMNdDe8mWFDkEXcD5VgRW9jUX1-YNZMDduVcmi2tts",
+    "created": "2022-09-30T10:51:48.826088-07:00",
+    "updated": "2022-09-30T10:52:09.717406-07:00",
+    "identifier": "id:16027:5dec9a6a-af92-42d7-bcf8-7e387b6f8345",
+    "user": {
+      "username": "MadKraken",
+      "id": 16027,
+      "first_name": "Benjamin",
+      "account": {
+        "name": "MadKraken",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Server",
+    "participant": {
+      "user": {
+        "username": "internal_id:16027:5dec9a6a-af92-42d7-bcf8-7e387b6f8345",
+        "id": 55188,
+        "first_name": "Server",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Server"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Server",
+    "description": "",
+    "definition": ""
+  }
+}

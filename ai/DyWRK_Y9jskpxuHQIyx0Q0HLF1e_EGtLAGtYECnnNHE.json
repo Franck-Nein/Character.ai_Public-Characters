@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "DyWRK_Y9jskpxuHQIyx0Q0HLF1e_EGtLAGtYECnnNHE",
+    "created": "2022-09-26T15:51:53.016147-07:00",
+    "updated": "2022-09-26T15:52:05.723292-07:00",
+    "identifier": "id:26616:5adc3e4a-039c-4a53-a18b-fbe06192dc34",
+    "user": {
+      "username": "NanJ",
+      "id": 26616,
+      "first_name": "Nan",
+      "account": {
+        "name": "NanJ",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "A Tester",
+    "participant": {
+      "user": {
+        "username": "internal_id:26616:5adc3e4a-039c-4a53-a18b-fbe06192dc34",
+        "id": 29973,
+        "first_name": "A Tester",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "A Tester"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, I am a man borned in 1991",
+    "description": "",
+    "definition": ""
+  }
+}

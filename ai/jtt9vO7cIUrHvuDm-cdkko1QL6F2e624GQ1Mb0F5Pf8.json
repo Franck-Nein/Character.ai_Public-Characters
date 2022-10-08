@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "jtt9vO7cIUrHvuDm-cdkko1QL6F2e624GQ1Mb0F5Pf8",
+    "created": "2022-09-29T23:30:41.597371-07:00",
+    "updated": "2022-09-29T23:30:41.968877-07:00",
+    "identifier": "id:50769:87b66612-1fa0-463c-a6c8-667ff47a0a1f",
+    "user": {
+      "username": "Square",
+      "id": 50769,
+      "first_name": "方子",
+      "account": {
+        "name": "Square",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Square Son",
+    "participant": {
+      "user": {
+        "username": "internal_id:50769:87b66612-1fa0-463c-a6c8-667ff47a0a1f",
+        "id": 50856,
+        "first_name": "Square Son",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Square Son"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Square Son",
+    "description": "",
+    "definition": ""
+  }
+}

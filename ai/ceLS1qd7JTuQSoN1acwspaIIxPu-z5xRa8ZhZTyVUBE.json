@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ceLS1qd7JTuQSoN1acwspaIIxPu-z5xRa8ZhZTyVUBE",
+    "created": "2022-09-16T21:14:34.781460-07:00",
+    "updated": "2022-09-16T21:14:36.472156-07:00",
+    "identifier": "id:7390:c71684ec-aed9-47b1-92c6-a8268a413ff9",
+    "user": {
+      "username": "Alan",
+      "id": 7390,
+      "first_name": "binruns@outlook.com",
+      "account": {
+        "name": "Alan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "alan",
+    "participant": {
+      "user": {
+        "username": "internal_id:7390:c71684ec-aed9-47b1-92c6-a8268a413ff9",
+        "id": 7509,
+        "first_name": "alan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "alan"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "bbb",
+    "description": "",
+    "definition": ""
+  }
+}

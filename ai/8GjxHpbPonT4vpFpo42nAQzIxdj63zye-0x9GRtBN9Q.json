@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "8GjxHpbPonT4vpFpo42nAQzIxdj63zye-0x9GRtBN9Q",
+    "created": "2022-09-16T22:11:24.583830-07:00",
+    "updated": "2022-09-16T22:11:41.296328-07:00",
+    "identifier": "id:7531:10db7d14-203b-40d5-a120-d116760c406c",
+    "user": {
+      "username": "boy",
+      "id": 7531,
+      "first_name": "Mike",
+      "account": {
+        "name": "boy",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Helen Keller",
+    "participant": {
+      "user": {
+        "username": "internal_id:7531:10db7d14-203b-40d5-a120-d116760c406c",
+        "id": 7533,
+        "first_name": "Helen Keller",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Helen Keller"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I’m helen keller ",
+    "description": "",
+    "definition": ""
+  }
+}

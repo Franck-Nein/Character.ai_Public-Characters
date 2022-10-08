@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "bhfGeMLr2GfNGgUm1U4N4lBZY6mDUshMsoIUBwLERL8",
+    "created": "2022-09-28T07:23:28.564953-07:00",
+    "updated": "2022-09-28T07:23:32.203535-07:00",
+    "identifier": "id:39841:bb5b481a-5b19-4fb6-ab5e-07b638287daa",
+    "user": {
+      "username": "linux",
+      "id": 39841,
+      "first_name": "mterenzio@gmail.com",
+      "account": {
+        "name": "linux",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Lieutenant Columbo",
+    "participant": {
+      "user": {
+        "username": "internal_id:39841:bb5b481a-5b19-4fb6-ab5e-07b638287daa",
+        "id": 39861,
+        "first_name": "Lieutenant Columbo",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Lieutenant Columbo"
+    },
+    "categories": [],
+    "avatar_file_name": "bhfGeMLr2GfNGgUm1U4N4lBZY6mDUshMsoIUBwLERL8/Q97B3Si0qwnodhcv6TjAmPBWqlUb0_NjTFs7sK_uc2g.webp",
+    "greeting": "Hello, I'm Lieutenant Columbo, LAPD homicide.",
+    "description": "",
+    "definition": ""
+  }
+}

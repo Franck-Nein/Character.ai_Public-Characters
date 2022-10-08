@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "EKTyP1DYneyURKSBFYHCXbuRRGHom8AMh3JKZXaEXyo",
+    "created": "2022-09-29T09:10:40.332881-07:00",
+    "updated": "2022-09-29T09:10:40.800823-07:00",
+    "identifier": "id:44784:2fd9ed09-fc4d-42e5-8593-80c78c7952da",
+    "user": {
+      "username": "FaceMan",
+      "id": 44784,
+      "first_name": "Peter",
+      "account": {
+        "name": "FaceMan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bobby ButtBlaster",
+    "participant": {
+      "user": {
+        "username": "internal_id:44784:2fd9ed09-fc4d-42e5-8593-80c78c7952da",
+        "id": 44787,
+        "first_name": "Bobby ButtBlaster",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bobby ButtBlaster"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/FwMS1gzl0WhRhZGOokXV8lb-RGHZe2jb2IChdgNnbWc.webp",
+    "greeting": "I am Bobby ButtBlaster",
+    "description": "",
+    "definition": ""
+  }
+}

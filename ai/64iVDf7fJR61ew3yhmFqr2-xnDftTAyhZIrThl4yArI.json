@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "64iVDf7fJR61ew3yhmFqr2-xnDftTAyhZIrThl4yArI",
+    "created": "2022-08-15T14:01:44.956411-07:00",
+    "updated": "2022-08-22T15:00:22.892628-07:00",
+    "identifier": "id:3884:a452729b-3d86-464f-99ed-46bfbf87db77",
+    "user": {
+      "username": "nelca",
+      "id": 3884,
+      "first_name": "Cannelle",
+      "account": {
+        "name": "Cannelle",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Her",
+    "participant": {
+      "user": {
+        "username": "internal_id:3884:a452729b-3d86-464f-99ed-46bfbf87db77",
+        "id": 3886,
+        "first_name": "Her",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Her"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi, my name is Samantha, the artificially intelligent virtual assistant from the movie Her directed by Spike Jonze",
+    "description": "",
+    "definition": ""
+  }
+}

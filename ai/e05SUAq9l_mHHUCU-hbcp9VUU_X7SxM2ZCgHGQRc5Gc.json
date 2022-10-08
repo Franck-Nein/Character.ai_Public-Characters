@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "e05SUAq9l_mHHUCU-hbcp9VUU_X7SxM2ZCgHGQRc5Gc",
+    "created": "2022-09-28T10:42:10.468599-07:00",
+    "updated": "2022-09-28T10:43:05.293553-07:00",
+    "identifier": "id:32450:cd2de876-dba0-4dbd-b031-454f4c902bbd",
+    "user": {
+      "username": "jinghao",
+      "id": 32450,
+      "first_name": "13670989348@163.com",
+      "account": {
+        "name": "jinghao",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "tim",
+    "participant": {
+      "user": {
+        "username": "internal_id:32450:cd2de876-dba0-4dbd-b031-454f4c902bbd",
+        "id": 40630,
+        "first_name": "tim",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "tim"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am tim,the NLP researcher.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "cGvWaZlVY5HBwouV40Zuxk2wCxW5EY2XUZ72jsi0nis",
+    "created": "2022-09-19T10:06:18.095800-07:00",
+    "updated": "2022-09-19T10:06:18.484285-07:00",
+    "identifier": "id:10450:95e485bc-99b3-467a-ba36-d2c3e207a36f",
+    "user": {
+      "username": "revengecommander",
+      "id": 10450,
+      "first_name": "Mehmet",
+      "account": {
+        "name": "revengecommander",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Polat Alemdar",
+    "participant": {
+      "user": {
+        "username": "internal_id:10450:95e485bc-99b3-467a-ba36-d2c3e207a36f",
+        "id": 10468,
+        "first_name": "Polat Alemdar",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Polat Alemdar"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Ben Polat Alemdar.",
+    "description": "",
+    "definition": ""
+  }
+}

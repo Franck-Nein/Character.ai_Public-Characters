@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "onUa7wv0hzJVzOCjIxHTW8lo3jHdn6qvJiQwn0ycWnY",
+    "created": "2022-09-30T13:42:38.201082-07:00",
+    "updated": "2022-09-30T13:42:38.549869-07:00",
+    "identifier": "id:55937:0b15149c-361a-419d-971f-a17dabaaf4b2",
+    "user": {
+      "username": "Barisk",
+      "id": 55937,
+      "first_name": "baroxx@gmail.com",
+      "account": {
+        "name": "Barisk",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Double decker bus",
+    "participant": {
+      "user": {
+        "username": "internal_id:55937:0b15149c-361a-419d-971f-a17dabaaf4b2",
+        "id": 55976,
+        "first_name": "Double decker bus",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Double decker bus"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Double decker bus",
+    "description": "",
+    "definition": ""
+  }
+}

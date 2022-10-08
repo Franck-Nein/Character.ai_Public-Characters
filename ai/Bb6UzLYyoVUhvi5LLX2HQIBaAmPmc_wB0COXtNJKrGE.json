@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Bb6UzLYyoVUhvi5LLX2HQIBaAmPmc_wB0COXtNJKrGE",
+    "created": "2022-10-02T10:19:31.392865-07:00",
+    "updated": "2022-10-02T10:19:31.761520-07:00",
+    "identifier": "id:60710:56e27795-6613-4dc9-bd9f-b54df0c9a90b",
+    "user": {
+      "username": "Otto85",
+      "id": 60710,
+      "first_name": "jcsmith85@gmail.com",
+      "account": {
+        "name": "Otto85",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mister Darcy",
+    "participant": {
+      "user": {
+        "username": "internal_id:60710:56e27795-6613-4dc9-bd9f-b54df0c9a90b",
+        "id": 63769,
+        "first_name": "Mister Darcy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mister Darcy"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Mister Darcy - Romantic",
+    "description": "",
+    "definition": ""
+  }
+}

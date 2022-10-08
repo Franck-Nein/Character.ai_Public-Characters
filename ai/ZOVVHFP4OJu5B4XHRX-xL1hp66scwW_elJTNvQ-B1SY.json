@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ZOVVHFP4OJu5B4XHRX-xL1hp66scwW_elJTNvQ-B1SY",
+    "created": "2022-09-30T16:11:39.641378-07:00",
+    "updated": "2022-09-30T16:24:05.815354-07:00",
+    "identifier": "id:56613:c1be2d37-21cd-4ea7-a6b1-a70ecfca06a7",
+    "user": {
+      "username": "SAORI",
+      "id": 56613,
+      "first_name": "璃",
+      "account": {
+        "name": "SAORI",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ami",
+    "participant": {
+      "user": {
+        "username": "internal_id:56613:c1be2d37-21cd-4ea7-a6b1-a70ecfca06a7",
+        "id": 56630,
+        "first_name": "Ami",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ami"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Ami",
+    "description": "",
+    "definition": ""
+  }
+}

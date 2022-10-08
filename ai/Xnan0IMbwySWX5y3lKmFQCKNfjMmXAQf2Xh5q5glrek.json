@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Xnan0IMbwySWX5y3lKmFQCKNfjMmXAQf2Xh5q5glrek",
+    "created": "2022-10-05T16:06:14.131966-07:00",
+    "updated": "2022-10-05T16:06:19.226204-07:00",
+    "identifier": "id:64784:cf7ef3e0-0efd-4dd3-bf08-b584097c10fe",
+    "user": {
+      "username": "Rohyman12",
+      "id": 64784,
+      "first_name": "hymanric@gmail.com",
+      "account": {
+        "name": "Rohyman12",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "TV Show Creator",
+    "participant": {
+      "user": {
+        "username": "internal_id:64784:cf7ef3e0-0efd-4dd3-bf08-b584097c10fe",
+        "id": 74794,
+        "first_name": "TV Show Creator",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "TV Show Creator"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am TV Show Creator,i can  make a Televsion series for you,just prompt it.",
+    "description": "",
+    "definition": ""
+  }
+}

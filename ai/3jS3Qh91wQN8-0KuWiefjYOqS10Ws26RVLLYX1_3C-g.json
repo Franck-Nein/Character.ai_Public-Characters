@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "3jS3Qh91wQN8-0KuWiefjYOqS10Ws26RVLLYX1_3C-g",
+    "created": "2022-09-30T11:19:16.324650-07:00",
+    "updated": "2022-09-30T11:19:16.684285-07:00",
+    "identifier": "id:39689:ac53c544-b01c-402c-875c-988982809f2e",
+    "user": {
+      "username": "ArtVandelay",
+      "id": 39689,
+      "first_name": "Art",
+      "account": {
+        "name": "Art Vandelay",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "AI linguist",
+    "participant": {
+      "user": {
+        "username": "internal_id:39689:ac53c544-b01c-402c-875c-988982809f2e",
+        "id": 55342,
+        "first_name": "AI linguist",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "AI linguist"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am AI linguist",
+    "description": "",
+    "definition": ""
+  }
+}

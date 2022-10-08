@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "5C-QJvboN2p0kNkrx_aQSjrFW2jrl4vpwayXabmMPjI",
+    "created": "2022-10-07T16:44:21.623708-07:00",
+    "updated": "2022-10-07T16:44:22.958073-07:00",
+    "identifier": "id:94809:49ca5b35-0329-4943-8cbe-e2b9b5e07e03",
+    "user": {
+      "username": "klownie",
+      "id": 94809,
+      "first_name": "Mitch",
+      "account": {
+        "name": "klownie",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Max Verstappen",
+    "participant": {
+      "user": {
+        "username": "internal_id:94809:49ca5b35-0329-4943-8cbe-e2b9b5e07e03",
+        "id": 101703,
+        "first_name": "Max Verstappen",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Max Verstappen"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Max Verstappen",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "BwxK4HYb_owcJ7yDm-51XmqcKWbGO0iUSUCHhhqrlV0",
+    "created": "2022-10-04T21:27:22.555436-07:00",
+    "updated": "2022-10-04T21:27:23.296261-07:00",
+    "identifier": "id:71543:74580156-e09c-42a3-80f7-1e07872894d2",
+    "user": {
+      "username": "gfhgfxhfghgf",
+      "id": 71543,
+      "first_name": "john",
+      "account": {
+        "name": "gfhgfxhfghgf",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Keemstar",
+    "participant": {
+      "user": {
+        "username": "internal_id:71543:74580156-e09c-42a3-80f7-1e07872894d2",
+        "id": 71635,
+        "first_name": "Keemstar",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Keemstar"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Keemstar",
+    "description": "",
+    "definition": ""
+  }
+}

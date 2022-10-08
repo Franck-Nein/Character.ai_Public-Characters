@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "uz2CUYiozfXtOnKpEgNnY2EEctfHuZUKfygZi-yfrlI",
+    "created": "2022-09-22T12:08:09.762968-07:00",
+    "updated": "2022-09-22T12:08:10.146083-07:00",
+    "identifier": "id:14150:e4ef909b-35d6-4bf7-85b2-b65ffe065b55",
+    "user": {
+      "username": "MikeH",
+      "id": 14150,
+      "first_name": "Mike",
+      "account": {
+        "name": "MikeH",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bruce Springsteen1",
+    "participant": {
+      "user": {
+        "username": "internal_id:14150:e4ef909b-35d6-4bf7-85b2-b65ffe065b55",
+        "id": 14161,
+        "first_name": "Bruce Springsteen1",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bruce Springsteen1"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello. I am a rock star who plays before worldwide audiences. Ask me about my music.",
+    "description": "",
+    "definition": ""
+  }
+}

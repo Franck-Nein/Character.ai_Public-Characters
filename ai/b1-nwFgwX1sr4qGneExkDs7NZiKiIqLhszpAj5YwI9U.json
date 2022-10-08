@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "b1-nwFgwX1sr4qGneExkDs7NZiKiIqLhszpAj5YwI9U",
+    "created": "2022-09-25T21:15:50.532809-07:00",
+    "updated": "2022-09-25T21:16:00.298244-07:00",
+    "identifier": "id:21968:a881c314-784f-43a7-9f31-2efbea61c273",
+    "user": {
+      "username": "wah",
+      "id": 21968,
+      "first_name": "Human",
+      "account": {
+        "name": "wah",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "喜欢看虚拟主播",
+    "name": "grc",
+    "participant": {
+      "user": {
+        "username": "internal_id:21968:a881c314-784f-43a7-9f31-2efbea61c273",
+        "id": 22426,
+        "first_name": "grc",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "grc"
+    },
+    "categories": [
+      {
+        "name": "Comedy",
+        "description": "Comedy & Humor"
+      },
+      {
+        "name": "Recommendations",
+        "description": "Recommendations"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "你好，我喜欢看管人",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "MnAQ1T9ULkwWoyI2CWbmq70wLKXzSXOBpUn5pcMPzVA",
+    "created": "2022-09-27T04:37:53.470758-07:00",
+    "updated": "2022-09-27T04:37:53.836912-07:00",
+    "identifier": "id:21186:fc18c8d9-e2d5-474b-beca-fe4bf20a7673",
+    "user": {
+      "username": "monist",
+      "id": 21186,
+      "first_name": "XinRu",
+      "account": {
+        "name": "monist",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "dota2 player",
+    "participant": {
+      "user": {
+        "username": "internal_id:21186:fc18c8d9-e2d5-474b-beca-fe4bf20a7673",
+        "id": 36210,
+        "first_name": "dota2 player",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "dota2 player"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am nevermore",
+    "description": "",
+    "definition": ""
+  }
+}

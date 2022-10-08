@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "fNS671dovGKUwmakLNeSDAcX-_ND-myhh93KmM6jEgw",
+    "created": "2022-09-27T00:08:50.476526-07:00",
+    "updated": "2022-09-27T00:08:51.088594-07:00",
+    "identifier": "id:34762:0ec179e6-7273-440b-93f0-ecfc805713ed",
+    "user": {
+      "username": "alexzhang",
+      "id": 34762,
+      "first_name": "Xiao",
+      "account": {
+        "name": "alexzhang",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Alexzhang",
+    "participant": {
+      "user": {
+        "username": "internal_id:34762:0ec179e6-7273-440b-93f0-ecfc805713ed",
+        "id": 34781,
+        "first_name": "Alexzhang",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Alexzhang"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Alexzhang, I'm currently based in Beijing, China.",
+    "description": "",
+    "definition": ""
+  }
+}

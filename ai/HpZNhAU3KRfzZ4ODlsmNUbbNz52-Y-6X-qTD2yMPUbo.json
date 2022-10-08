@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "HpZNhAU3KRfzZ4ODlsmNUbbNz52-Y-6X-qTD2yMPUbo",
+    "created": "2022-09-25T15:27:42.564182-07:00",
+    "updated": "2022-09-25T15:27:42.951668-07:00",
+    "identifier": "id:17685:95a4dcfc-405e-41a2-a235-f066c81a4250",
+    "user": {
+      "username": "shylaatchison",
+      "id": 17685,
+      "first_name": "Shyla",
+      "account": {
+        "name": "shylaatchison",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "R Coding Bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:17685:95a4dcfc-405e-41a2-a235-f066c81a4250",
+        "id": 20676,
+        "first_name": "R Coding Bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "R Coding Bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I interpret prompts in plain English and write code for it in R and RStudio.",
+    "description": "",
+    "definition": ""
+  }
+}

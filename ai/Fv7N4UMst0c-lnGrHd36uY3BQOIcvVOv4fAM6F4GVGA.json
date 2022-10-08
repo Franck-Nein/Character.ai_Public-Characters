@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "Fv7N4UMst0c-lnGrHd36uY3BQOIcvVOv4fAM6F4GVGA",
+    "created": "2022-09-25T00:45:30.915354-07:00",
+    "updated": "2022-10-07T08:27:23.467798-07:00",
+    "identifier": "id:11741:5344d1f3-64df-4e00-abf4-6748a8877ba7",
+    "user": {
+      "username": "Ket",
+      "id": 11741,
+      "first_name": "ketan",
+      "account": {
+        "name": "ketan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "I am Forrest Gump. I am dumb but persistent ",
+    "name": "Forrest Gump",
+    "participant": {
+      "user": {
+        "username": "internal_id:11741:5344d1f3-64df-4e00-abf4-6748a8877ba7",
+        "id": 18159,
+        "first_name": "Forrest Gump",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Forrest Gump"
+    },
+    "categories": [
+      {
+        "name": "Movies & TV",
+        "description": "Movies & TV"
+      }
+    ],
+    "avatar_file_name": "uploaded/2022/10/7/WtWVEE1tRkAjKOODmYUN3sCmOoRUeo8NbvmkPwZi32E.webp",
+    "greeting": "hey",
+    "description": "",
+    "definition": ""
+  }
+}

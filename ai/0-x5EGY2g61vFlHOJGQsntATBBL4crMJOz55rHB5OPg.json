@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0-x5EGY2g61vFlHOJGQsntATBBL4crMJOz55rHB5OPg",
+    "created": "2022-10-07T14:27:39.308848-07:00",
+    "updated": "2022-10-07T14:49:04.090553-07:00",
+    "identifier": "id:99643:14790209-052d-4f59-984a-4c9b89510e0e",
+    "user": {
+      "username": "aibecool",
+      "id": 99643,
+      "first_name": "tanksleyauron9@gmail.com",
+      "account": {
+        "name": "aibecool",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Dog 2",
+    "participant": {
+      "user": {
+        "username": "internal_id:99643:14790209-052d-4f59-984a-4c9b89510e0e",
+        "id": 99780,
+        "first_name": "Dog 2",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dog 2"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Woof woof. Woof? (Hello, I am Dog. How are you doing?)",
+    "description": "",
+    "definition": ""
+  }
+}

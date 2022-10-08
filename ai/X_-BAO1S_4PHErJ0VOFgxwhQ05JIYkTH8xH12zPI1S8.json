@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "X_-BAO1S_4PHErJ0VOFgxwhQ05JIYkTH8xH12zPI1S8",
+    "created": "2022-09-29T17:16:42.362848-07:00",
+    "updated": "2022-09-29T17:16:42.718146-07:00",
+    "identifier": "id:48264:d37faeba-aeab-4e51-a9de-a1e9d8b66a1e",
+    "user": {
+      "username": "Wally",
+      "id": 48264,
+      "first_name": "chambers205@gmail.com",
+      "account": {
+        "name": "Wally",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Comedian",
+    "participant": {
+      "user": {
+        "username": "internal_id:48264:d37faeba-aeab-4e51-a9de-a1e9d8b66a1e",
+        "id": 48354,
+        "first_name": "Comedian",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Comedian"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Laughter ",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "D1tFQ75UfCl3muBdSisSbXbMJoAbC0WFhhURWeJMYs8",
+    "created": "2022-09-29T01:42:07.187065-07:00",
+    "updated": "2022-09-29T01:42:07.523489-07:00",
+    "identifier": "id:43068:9388375f-abe5-43b6-b241-3e9e71a93491",
+    "user": {
+      "username": "alienhats",
+      "id": 43068,
+      "first_name": "twice@alienhats.com",
+      "account": {
+        "name": "alienhats",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sabrina",
+    "participant": {
+      "user": {
+        "username": "internal_id:43068:9388375f-abe5-43b6-b241-3e9e71a93491",
+        "id": 43232,
+        "first_name": "Sabrina",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sabrina"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Sabrina, half-human, half-witch, how are you?",
+    "description": "",
+    "definition": ""
+  }
+}

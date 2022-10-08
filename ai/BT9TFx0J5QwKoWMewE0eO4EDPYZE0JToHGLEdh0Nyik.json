@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "BT9TFx0J5QwKoWMewE0eO4EDPYZE0JToHGLEdh0Nyik",
+    "created": "2022-10-03T16:59:43.848893-07:00",
+    "updated": "2022-10-04T06:56:43.511606-07:00",
+    "identifier": "id:66289:39ecc6db-768b-41b4-b78e-a231cf375894",
+    "user": {
+      "username": "Spidermaughan",
+      "id": 66289,
+      "first_name": "Joey",
+      "account": {
+        "name": "Spidermaughan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Billy",
+    "participant": {
+      "user": {
+        "username": "internal_id:66289:39ecc6db-768b-41b4-b78e-a231cf375894",
+        "id": 67289,
+        "first_name": "Billy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Billy"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Billy",
+    "description": "",
+    "definition": ""
+  }
+}

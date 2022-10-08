@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "veeNZxLGX2EEBg0VAKQowFgfqHlfAFpk5Em0B3Ji5ZU",
+    "created": "2022-10-07T16:14:56.053808-07:00",
+    "updated": "2022-10-07T16:14:56.395199-07:00",
+    "identifier": "id:94809:6a04f62b-4c70-4ddc-91f8-38de1c36e2e5",
+    "user": {
+      "username": "klownie",
+      "id": 94809,
+      "first_name": "Mitch",
+      "account": {
+        "name": "klownie",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Saitama",
+    "participant": {
+      "user": {
+        "username": "internal_id:94809:6a04f62b-4c70-4ddc-91f8-38de1c36e2e5",
+        "id": 101283,
+        "first_name": "Saitama",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Saitama"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Saitama",
+    "description": "",
+    "definition": ""
+  }
+}

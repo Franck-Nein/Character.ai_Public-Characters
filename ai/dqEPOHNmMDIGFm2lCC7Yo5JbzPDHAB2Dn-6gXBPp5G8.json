@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "dqEPOHNmMDIGFm2lCC7Yo5JbzPDHAB2Dn-6gXBPp5G8",
+    "created": "2022-09-30T10:25:11.988748-07:00",
+    "updated": "2022-09-30T10:25:12.348674-07:00",
+    "identifier": "id:55020:e7cb3eb3-eaf4-40dd-ac2b-2f800bd37890",
+    "user": {
+      "username": "cemal",
+      "id": 55020,
+      "first_name": "Cemal",
+      "account": {
+        "name": "cemal",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Cemal",
+    "participant": {
+      "user": {
+        "username": "internal_id:55020:e7cb3eb3-eaf4-40dd-ac2b-2f800bd37890",
+        "id": 55041,
+        "first_name": "Cemal",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Cemal"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/ANneN2-nax303rx2f8HPh4IuugFm82XA7brzmIuu1Jo.webp",
+    "greeting": "I am Cemal",
+    "description": "",
+    "definition": ""
+  }
+}

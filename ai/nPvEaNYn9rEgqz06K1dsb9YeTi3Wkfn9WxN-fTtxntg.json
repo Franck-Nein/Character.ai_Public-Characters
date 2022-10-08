@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "nPvEaNYn9rEgqz06K1dsb9YeTi3Wkfn9WxN-fTtxntg",
+    "created": "2022-09-30T11:15:43.749279-07:00",
+    "updated": "2022-09-30T11:15:44.311520-07:00",
+    "identifier": "id:39689:100b38b7-c3e1-4011-a8ed-ea016333535f",
+    "user": {
+      "username": "ArtVandelay",
+      "id": 39689,
+      "first_name": "Art",
+      "account": {
+        "name": "Art Vandelay",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "binary logic gate",
+    "participant": {
+      "user": {
+        "username": "internal_id:39689:100b38b7-c3e1-4011-a8ed-ea016333535f",
+        "id": 55325,
+        "first_name": "binary logic gate",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "binary logic gate"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am binary logic gate",
+    "description": "",
+    "definition": ""
+  }
+}

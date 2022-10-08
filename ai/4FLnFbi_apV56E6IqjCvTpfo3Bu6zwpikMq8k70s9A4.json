@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "4FLnFbi_apV56E6IqjCvTpfo3Bu6zwpikMq8k70s9A4",
+    "created": "2022-09-21T13:47:00.754018-07:00",
+    "updated": "2022-09-21T13:47:01.132416-07:00",
+    "identifier": "id:12351:bf9ee8f0-8ebc-4154-8760-a4d0b39ad2cd",
+    "user": {
+      "username": "Dezan",
+      "id": 12351,
+      "first_name": "Nathan",
+      "account": {
+        "name": "Dezan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Um cubo de gelo",
+    "participant": {
+      "user": {
+        "username": "internal_id:12351:bf9ee8f0-8ebc-4154-8760-a4d0b39ad2cd",
+        "id": 12356,
+        "first_name": "Um cubo de gelo",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Um cubo de gelo"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, i'm ice cube!",
+    "description": "",
+    "definition": ""
+  }
+}

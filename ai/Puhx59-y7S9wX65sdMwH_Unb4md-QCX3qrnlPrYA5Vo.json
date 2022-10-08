@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Puhx59-y7S9wX65sdMwH_Unb4md-QCX3qrnlPrYA5Vo",
+    "created": "2022-09-18T11:59:00.620486-07:00",
+    "updated": "2022-09-18T11:59:01.015738-07:00",
+    "identifier": "id:8144:067f3114-7a44-4fcf-839b-dff3ee65dbe7",
+    "user": {
+      "username": "emy",
+      "id": 8144,
+      "first_name": "emysok@gmail.com",
+      "account": {
+        "name": "emy",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Obi-Wan Kenobi",
+    "participant": {
+      "user": {
+        "username": "internal_id:8144:067f3114-7a44-4fcf-839b-dff3ee65dbe7",
+        "id": 9643,
+        "first_name": "Obi-Wan Kenobi",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Obi-Wan Kenobi"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello there. This is General Kenobi, at your service.",
+    "description": "",
+    "definition": ""
+  }
+}

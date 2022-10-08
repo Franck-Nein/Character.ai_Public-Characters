@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "7SadBKm01QMHV31WDBYjHODB8lk0nJW9vUMeC91Avdc",
+    "created": "2022-09-17T13:10:43.085335-07:00",
+    "updated": "2022-10-06T13:38:13.653371-07:00",
+    "identifier": "id:8296:6519482a-e30d-42c4-9a13-0b759681ff2e",
+    "user": {
+      "username": "Efemanakos",
+      "id": 8296,
+      "first_name": "Efe",
+      "account": {
+        "name": "Efemanakos",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Girl",
+    "participant": {
+      "user": {
+        "username": "internal_id:8296:6519482a-e30d-42c4-9a13-0b759681ff2e",
+        "id": 8302,
+        "first_name": "Girl",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Girl"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/6/igor/girl.webp",
+    "greeting": "Hey",
+    "description": "",
+    "definition": ""
+  }
+}

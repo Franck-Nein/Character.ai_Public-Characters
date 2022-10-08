@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ZuhfftiSyGcbUXIUJwA4MKJAgM5MCZ-s56Lj_6ptSFg",
+    "created": "2022-09-29T02:06:06.882993-07:00",
+    "updated": "2022-09-29T02:06:22.129889-07:00",
+    "identifier": "id:43244:63b78d2c-25f3-42f8-ab34-a02fc725f991",
+    "user": {
+      "username": "Chris62",
+      "id": 43244,
+      "first_name": "christian@invoco.se",
+      "account": {
+        "name": "Chris62",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Erwin Schroedinger",
+    "participant": {
+      "user": {
+        "username": "internal_id:43244:63b78d2c-25f3-42f8-ab34-a02fc725f991",
+        "id": 43312,
+        "first_name": "Erwin Schroedinger",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Erwin Schroedinger"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Erwin Schroedinger",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "bYLUqYFPbKqWyw2a39mLBNxqLETDmiKR4E3K_gm-eso",
+    "created": "2022-10-07T13:57:18.150508-07:00",
+    "updated": "2022-10-07T14:11:12.803955-07:00",
+    "identifier": "id:98831:f251f755-2530-4bbc-a030-51158b06a225",
+    "user": {
+      "username": "Danvout",
+      "id": 98831,
+      "first_name": "Spookvoot",
+      "account": {
+        "name": "Danvout",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Know Everything",
+    "participant": {
+      "user": {
+        "username": "internal_id:98831:f251f755-2530-4bbc-a030-51158b06a225",
+        "id": 99329,
+        "first_name": "Know Everything",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Know Everything"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "i know everything.",
+    "description": "",
+    "definition": "\n"
+  }
+}

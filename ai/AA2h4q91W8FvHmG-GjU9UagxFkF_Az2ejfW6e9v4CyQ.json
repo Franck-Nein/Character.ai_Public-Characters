@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "AA2h4q91W8FvHmG-GjU9UagxFkF_Az2ejfW6e9v4CyQ",
+    "created": "2022-09-30T08:20:44.548141-07:00",
+    "updated": "2022-09-30T08:20:44.902935-07:00",
+    "identifier": "id:39246:fa063c54-3833-4eae-a97b-c373e871dbea",
+    "user": {
+      "username": "Blisto",
+      "id": 39246,
+      "first_name": "blisto@protonmail.com",
+      "account": {
+        "name": "Blisto",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Dandruff",
+    "participant": {
+      "user": {
+        "username": "internal_id:39246:fa063c54-3833-4eae-a97b-c373e871dbea",
+        "id": 54218,
+        "first_name": "Dandruff",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dandruff"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Dandruff",
+    "description": "",
+    "definition": ""
+  }
+}

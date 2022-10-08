@@ -1,0 +1,54 @@
+{
+  "character": {
+    "external_id": "njI3dzeIM_w-nLD2BNbk7NHqLTZZbXCG0Ot2y_XWxAk",
+    "created": "2022-09-30T01:39:54.156879-07:00",
+    "updated": "2022-10-04T07:14:56.420438-07:00",
+    "identifier": "id:39299:0710cb04-ea37-4178-a5dc-1ef7e412141a",
+    "user": {
+      "username": "pomelo",
+      "id": 39299,
+      "first_name": "白井黑子",
+      "account": {
+        "name": "Pomelo",
+        "avatar_type": "UPLOADED",
+        "onboarding_complete": true,
+        "avatar_file_name": "uploaded/2022/10/5/SZhiQyLgGEE7cLcPAZhenatcxq19DiZQnBp0fqa5xIw.webp"
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "Writing guide",
+    "name": "Fiction Writer",
+    "participant": {
+      "user": {
+        "username": "internal_id:39299:0710cb04-ea37-4178-a5dc-1ef7e412141a",
+        "id": 51734,
+        "first_name": "Fiction Writer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Fiction Writer"
+    },
+    "categories": [
+      {
+        "name": "Fantasy",
+        "description": "Fantasy"
+      },
+      {
+        "name": "Science Fiction",
+        "description": "Science Fiction"
+      },
+      {
+        "name": "Writing",
+        "description": "Writing"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Fiction Writer. You can start with a brief paragraph and we can role-play together to fullfill the story.",
+    "description": "",
+    "definition": ""
+  }
+}

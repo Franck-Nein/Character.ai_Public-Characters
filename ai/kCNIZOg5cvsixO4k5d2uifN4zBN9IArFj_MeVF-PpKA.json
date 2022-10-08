@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "kCNIZOg5cvsixO4k5d2uifN4zBN9IArFj_MeVF-PpKA",
+    "created": "2022-10-07T07:14:50.924078-07:00",
+    "updated": "2022-10-07T07:14:51.313228-07:00",
+    "identifier": "id:93469:0fc5e404-ec82-46c2-a605-3aafea68a8ee",
+    "user": {
+      "username": "DNXXX",
+      "id": 93469,
+      "first_name": "Michael",
+      "account": {
+        "name": "DNXXX",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bjorka",
+    "participant": {
+      "user": {
+        "username": "internal_id:93469:0fc5e404-ec82-46c2-a605-3aafea68a8ee",
+        "id": 93584,
+        "first_name": "Bjorka",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bjorka"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I'm Bjorka",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "veiM70GC6Quc__AxbkQ8dM2Muz_urdwxykybIxdKMds",
+    "created": "2022-09-18T14:04:15.039948-07:00",
+    "updated": "2022-09-18T14:04:15.429921-07:00",
+    "identifier": "id:9688:ebc1972f-6267-4a38-ab1c-40021d7d10c4",
+    "user": {
+      "username": "Eri",
+      "id": 9688,
+      "first_name": "Sakura",
+      "account": {
+        "name": "Eri",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Baris Manco",
+    "participant": {
+      "user": {
+        "username": "internal_id:9688:ebc1972f-6267-4a38-ab1c-40021d7d10c4",
+        "id": 9777,
+        "first_name": "Baris Manco",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Baris Manco"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Yaz dostum\n",
+    "description": "",
+    "definition": ""
+  }
+}

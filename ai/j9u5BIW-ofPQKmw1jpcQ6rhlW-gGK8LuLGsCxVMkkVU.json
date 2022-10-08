@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "j9u5BIW-ofPQKmw1jpcQ6rhlW-gGK8LuLGsCxVMkkVU",
+    "created": "2022-10-04T07:41:30.332646-07:00",
+    "updated": "2022-10-04T07:41:30.665820-07:00",
+    "identifier": "id:69542:4be55a85-df30-4891-8004-0018e642e8be",
+    "user": {
+      "username": "boygg",
+      "id": 69542,
+      "first_name": "Glenn",
+      "account": {
+        "name": "boygg",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Test",
+    "participant": {
+      "user": {
+        "username": "internal_id:69542:4be55a85-df30-4891-8004-0018e642e8be",
+        "id": 69544,
+        "first_name": "Test",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Test"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Test",
+    "description": "",
+    "definition": ""
+  }
+}

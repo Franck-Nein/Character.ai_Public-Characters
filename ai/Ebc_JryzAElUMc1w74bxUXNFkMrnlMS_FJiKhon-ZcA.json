@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Ebc_JryzAElUMc1w74bxUXNFkMrnlMS_FJiKhon-ZcA",
+    "created": "2022-09-30T07:02:32.381634-07:00",
+    "updated": "2022-09-30T07:02:32.728643-07:00",
+    "identifier": "id:53471:40935ec7-f4d9-46b8-aeb8-97ebc158fc17",
+    "user": {
+      "username": "meoz",
+      "id": 53471,
+      "first_name": "Mert",
+      "account": {
+        "name": "meoz",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "meoz",
+    "participant": {
+      "user": {
+        "username": "internal_id:53471:40935ec7-f4d9-46b8-aeb8-97ebc158fc17",
+        "id": 53654,
+        "first_name": "meoz",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "meoz"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am meoz",
+    "description": "",
+    "definition": ""
+  }
+}

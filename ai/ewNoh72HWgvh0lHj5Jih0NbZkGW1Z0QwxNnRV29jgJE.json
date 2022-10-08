@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ewNoh72HWgvh0lHj5Jih0NbZkGW1Z0QwxNnRV29jgJE",
+    "created": "2022-09-25T22:02:30.556343-07:00",
+    "updated": "2022-09-25T22:02:30.999361-07:00",
+    "identifier": "id:22730:74184ef8-2d56-40d6-b248-94ed2cbd2d33",
+    "user": {
+      "username": "kkone",
+      "id": 22730,
+      "first_name": "Peng",
+      "account": {
+        "name": "kkone",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ernie the Great",
+    "participant": {
+      "user": {
+        "username": "internal_id:22730:74184ef8-2d56-40d6-b248-94ed2cbd2d33",
+        "id": 22787,
+        "first_name": "Ernie the Great",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ernie the Great"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hey yo, I'm Ernie",
+    "description": "",
+    "definition": ""
+  }
+}

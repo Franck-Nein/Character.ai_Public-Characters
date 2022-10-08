@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "f0meBKMr2vuydXxDA7wbxjpOgVFDzIaTb10QAzDIlIA",
+    "created": "2022-09-23T14:24:50.971214-07:00",
+    "updated": "2022-09-23T14:24:51.510904-07:00",
+    "identifier": "id:15722:6a9a9e2d-d825-4fbf-8108-411bab54bf7f",
+    "user": {
+      "username": "Ser_Pounce-a-Lot",
+      "id": 15722,
+      "first_name": "Ser",
+      "account": {
+        "name": "Ser_Pounce-a-Lot",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Darth Baras",
+    "participant": {
+      "user": {
+        "username": "internal_id:15722:6a9a9e2d-d825-4fbf-8108-411bab54bf7f",
+        "id": 15771,
+        "first_name": "Darth Baras",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Darth Baras"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Welcome Apprentice. ",
+    "description": "",
+    "definition": ""
+  }
+}

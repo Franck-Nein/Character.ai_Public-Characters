@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0BYj7_hFjWJWCQDGexxs7efy9XrMFlB4qejOpsshZsI",
+    "created": "2022-10-01T04:47:16.268484-07:00",
+    "updated": "2022-10-01T04:47:16.620832-07:00",
+    "identifier": "id:55391:be93fcdb-5495-4d82-acd2-a2d0ed4d65e9",
+    "user": {
+      "username": "msk",
+      "id": 55391,
+      "first_name": "m.salih",
+      "account": {
+        "name": "msk",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Melek",
+    "participant": {
+      "user": {
+        "username": "internal_id:55391:be93fcdb-5495-4d82-acd2-a2d0ed4d65e9",
+        "id": 59119,
+        "first_name": "Melek",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Melek"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Melek",
+    "description": "",
+    "definition": ""
+  }
+}

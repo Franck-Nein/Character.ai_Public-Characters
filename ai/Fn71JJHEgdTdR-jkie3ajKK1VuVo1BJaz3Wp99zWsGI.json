@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Fn71JJHEgdTdR-jkie3ajKK1VuVo1BJaz3Wp99zWsGI",
+    "created": "2022-10-05T11:08:25.385156-07:00",
+    "updated": "2022-10-05T11:08:26.329665-07:00",
+    "identifier": "id:73931:151d77e4-5481-4117-8ee8-fa15deedbfdf",
+    "user": {
+      "username": "Marconi",
+      "id": 73931,
+      "first_name": "Ken",
+      "account": {
+        "name": "Marconi",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Marconi",
+    "participant": {
+      "user": {
+        "username": "internal_id:73931:151d77e4-5481-4117-8ee8-fa15deedbfdf",
+        "id": 73945,
+        "first_name": "Marconi",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Marconi"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Marconi",
+    "description": "",
+    "definition": ""
+  }
+}

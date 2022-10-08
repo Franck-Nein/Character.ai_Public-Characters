@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "lLxCe633x3H_hNGMdXcaK75lbRfE3l47REocN_ARHDo",
+    "created": "2022-09-25T04:34:51.787273-07:00",
+    "updated": "2022-09-25T04:34:54.404444-07:00",
+    "identifier": "id:10218:2f134368-825b-4822-a940-4cc87866e939",
+    "user": {
+      "username": "Ertugrul",
+      "id": 10218,
+      "first_name": "Ertuğrul",
+      "account": {
+        "name": "Ertugrul",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "Futbol takımını yönet ",
+    "name": "Futbol game",
+    "participant": {
+      "user": {
+        "username": "internal_id:10218:2f134368-825b-4822-a940-4cc87866e939",
+        "id": 18575,
+        "first_name": "Futbol game",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Futbol game"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "",
+    "description": "Senin bir futbol takımın var ve onu yönet ",
+    "definition": ""
+  }
+}

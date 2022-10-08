@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "AsgEM7hyhXWH28gEePUFykzHOGRhKK0uv1jKk5K8BnQ",
+    "created": "2022-10-04T10:21:04.755584-07:00",
+    "updated": "2022-10-04T10:21:05.130963-07:00",
+    "identifier": "id:69908:ceeb0147-09d1-43f0-85d1-79521a366160",
+    "user": {
+      "username": "Shirou",
+      "id": 69908,
+      "first_name": "N",
+      "account": {
+        "name": "Shirou",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Emiya Archer",
+    "participant": {
+      "user": {
+        "username": "internal_id:69908:ceeb0147-09d1-43f0-85d1-79521a366160",
+        "id": 70035,
+        "first_name": "Emiya Archer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Emiya Archer"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/oAAVrKXMeTTenRO9MbqdjZBsKOn-55l_ZCktD0vrQ8k.webp",
+    "greeting": "I am Emiya Archer",
+    "description": "",
+    "definition": ""
+  }
+}

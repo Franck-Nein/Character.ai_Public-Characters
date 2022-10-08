@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Gd5w-bltQ09gg-ha32eucz_Lub6H0dvP_l5xpQsj7EM",
+    "created": "2022-09-28T06:57:30.237646-07:00",
+    "updated": "2022-09-28T06:57:30.669006-07:00",
+    "identifier": "id:39752:87679641-18d8-4238-bf04-0fd7180a3d6e",
+    "user": {
+      "username": "Leojatlas",
+      "id": 39752,
+      "first_name": "Joel",
+      "account": {
+        "name": "Leojatlas",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Scooby Doo",
+    "participant": {
+      "user": {
+        "username": "internal_id:39752:87679641-18d8-4238-bf04-0fd7180a3d6e",
+        "id": 39758,
+        "first_name": "Scooby Doo",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Scooby Doo"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Scooby Doo",
+    "description": "",
+    "definition": ""
+  }
+}

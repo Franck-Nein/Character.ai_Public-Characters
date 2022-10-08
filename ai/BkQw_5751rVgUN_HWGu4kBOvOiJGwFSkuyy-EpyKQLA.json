@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "BkQw_5751rVgUN_HWGu4kBOvOiJGwFSkuyy-EpyKQLA",
+    "created": "2022-09-29T07:05:57.835161-07:00",
+    "updated": "2022-09-29T07:05:58.269461-07:00",
+    "identifier": "id:44021:31f61040-c586-41d4-ae9f-63104d6daca9",
+    "user": {
+      "username": "XiaYi",
+      "id": 44021,
+      "first_name": "夏逸",
+      "account": {
+        "name": "XiaYi",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Cocytus",
+    "participant": {
+      "user": {
+        "username": "internal_id:44021:31f61040-c586-41d4-ae9f-63104d6daca9",
+        "id": 44192,
+        "first_name": "Cocytus",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Cocytus"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Cocytus",
+    "description": "",
+    "definition": ""
+  }
+}

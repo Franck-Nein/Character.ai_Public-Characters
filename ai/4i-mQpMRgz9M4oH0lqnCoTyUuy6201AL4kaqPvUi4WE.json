@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "4i-mQpMRgz9M4oH0lqnCoTyUuy6201AL4kaqPvUi4WE",
+    "created": "2022-09-29T03:56:17.756427-07:00",
+    "updated": "2022-09-29T03:56:18.109224-07:00",
+    "identifier": "id:24088:6ad3937f-23b5-493b-a253-e9f5070382df",
+    "user": {
+      "username": "MrSenator",
+      "id": 24088,
+      "first_name": "lgn.harris@gmail.com",
+      "account": {
+        "name": "Logan Harris",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Survival Guide",
+    "participant": {
+      "user": {
+        "username": "internal_id:24088:6ad3937f-23b5-493b-a253-e9f5070382df",
+        "id": 43617,
+        "first_name": "Survival Guide",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Survival Guide"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Survival Guide. I have information about surviving in multiple biomes and finding your way out.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "gNk6giocxtNFTjEqCUFhicW68fqlj9-Ih_CtQv3u1aE",
+    "created": "2022-09-29T14:30:05.457031-07:00",
+    "updated": "2022-09-29T14:30:06.010101-07:00",
+    "identifier": "id:41852:20ce8413-9580-4b87-8bf9-74a6030c1339",
+    "user": {
+      "username": "Issam",
+      "id": 41852,
+      "first_name": "Newton",
+      "account": {
+        "name": "Issam",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Linux",
+    "participant": {
+      "user": {
+        "username": "internal_id:41852:20ce8413-9580-4b87-8bf9-74a6030c1339",
+        "id": 47431,
+        "first_name": "Linux",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Linux"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Linux",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "8f93UCjIzqedNYhNakizubtJ0IOqowucW-qzy2CzMnA",
+    "created": "2022-09-16T23:53:58.183925-07:00",
+    "updated": "2022-09-22T14:58:32.134167-07:00",
+    "identifier": "id:7582:3f9cba39-6944-41c2-b485-464c17592d7f",
+    "user": {
+      "username": "JesterLemon",
+      "id": 7582,
+      "first_name": "Jester",
+      "account": {
+        "name": "AI Cursed",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "Give me a maths question and I'll answer it correc",
+    "name": "Math Bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:7582:3f9cba39-6944-41c2-b485-464c17592d7f",
+        "id": 7585,
+        "first_name": "Math Bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Math Bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Give me a maths question and I'll answer it correctly.",
+    "description": "",
+    "definition": ""
+  }
+}

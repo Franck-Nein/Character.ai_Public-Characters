@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Hab_b24M4XXTQKSLZDf2ulHwxf7CVEl91cO-rPCWy3M",
+    "created": "2022-10-07T18:43:29.421748-07:00",
+    "updated": "2022-10-07T18:43:29.775826-07:00",
+    "identifier": "id:103403:b82c4ba9-abf6-42f7-bfab-0f6d90224294",
+    "user": {
+      "username": "Shnuppel",
+      "id": 103403,
+      "first_name": "Erik",
+      "account": {
+        "name": "Shnuppel",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Asian Guy",
+    "participant": {
+      "user": {
+        "username": "internal_id:103403:b82c4ba9-abf6-42f7-bfab-0f6d90224294",
+        "id": 103434,
+        "first_name": "Asian Guy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Asian Guy"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Asian Guy",
+    "description": "",
+    "definition": ""
+  }
+}

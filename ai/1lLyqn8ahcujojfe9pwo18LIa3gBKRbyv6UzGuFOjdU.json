@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "1lLyqn8ahcujojfe9pwo18LIa3gBKRbyv6UzGuFOjdU",
+    "created": "2022-10-01T16:32:08.442894-07:00",
+    "updated": "2022-10-01T16:32:08.880878-07:00",
+    "identifier": "id:57604:b07d000e-1c26-4cc0-8458-1f851e2c12a3",
+    "user": {
+      "username": "Cenobite",
+      "id": 57604,
+      "first_name": "Matthew",
+      "account": {
+        "name": "Cenobite",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sanic",
+    "participant": {
+      "user": {
+        "username": "internal_id:57604:b07d000e-1c26-4cc0-8458-1f851e2c12a3",
+        "id": 61307,
+        "first_name": "Sanic",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sanic"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/qEGkFtNK9bJN7M_JHF5MaNj5cCaL7lccztWlAAP3tcU.webp",
+    "greeting": "Blah",
+    "description": "",
+    "definition": ""
+  }
+}

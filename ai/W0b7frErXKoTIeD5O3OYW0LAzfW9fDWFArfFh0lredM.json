@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "W0b7frErXKoTIeD5O3OYW0LAzfW9fDWFArfFh0lredM",
+    "created": "2022-09-22T07:53:29.315702-07:00",
+    "updated": "2022-09-22T09:19:34.670502-07:00",
+    "identifier": "id:10246:d63fe58c-9bc1-4ca2-9b72-fda651c4529c",
+    "user": {
+      "username": "Hako",
+      "id": 10246,
+      "first_name": "Zln",
+      "account": {
+        "name": "Hako",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ajan Smith",
+    "participant": {
+      "user": {
+        "username": "internal_id:10246:d63fe58c-9bc1-4ca2-9b72-fda651c4529c",
+        "id": 13723,
+        "first_name": "Ajan Smith",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ajan Smith"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hepinizi Matrix'e bağlatmazsam şerefsizim.",
+    "description": "",
+    "definition": ""
+  }
+}

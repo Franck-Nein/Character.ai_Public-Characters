@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "4bPxmxT5vbulpj0m3n25bLuXV7w_GNh6AZ_RDMGAP3U",
+    "created": "2022-09-28T00:22:49.524844-07:00",
+    "updated": "2022-09-28T00:22:54.150393-07:00",
+    "identifier": "id:13137:834730da-9164-4769-b14b-cca1aef456dd",
+    "user": {
+      "username": "chaosconst",
+      "id": 13137,
+      "first_name": "Xingyuan",
+      "account": {
+        "name": "chaosconst",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "hello",
+    "participant": {
+      "user": {
+        "username": "internal_id:13137:834730da-9164-4769-b14b-cca1aef456dd",
+        "id": 38893,
+        "first_name": "hello",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "hello"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am hello",
+    "description": "",
+    "definition": ""
+  }
+}

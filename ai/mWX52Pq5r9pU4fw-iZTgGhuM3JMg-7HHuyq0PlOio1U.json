@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "mWX52Pq5r9pU4fw-iZTgGhuM3JMg-7HHuyq0PlOio1U",
+    "created": "2022-10-03T05:02:45.502796-07:00",
+    "updated": "2022-10-03T05:02:45.843183-07:00",
+    "identifier": "id:10469:76e7e02b-652a-4267-b976-8b48c38f8361",
+    "user": {
+      "username": "Astro",
+      "id": 10469,
+      "first_name": "Astro",
+      "account": {
+        "name": "Astro",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Metaphor AI",
+    "participant": {
+      "user": {
+        "username": "internal_id:10469:76e7e02b-652a-4267-b976-8b48c38f8361",
+        "id": 65902,
+        "first_name": "Metaphor AI",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Metaphor AI"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Metaphor AI. \nHere to assist in making you a more capable writer and communicator.",
+    "description": "",
+    "definition": ""
+  }
+}

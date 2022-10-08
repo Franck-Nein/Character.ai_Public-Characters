@@ -1,0 +1,54 @@
+{
+  "character": {
+    "external_id": "xGvNTzgCg5Pl2XfCGHOvnooi4Eko9vkxzkvUirOsPxA",
+    "created": "2022-09-26T20:22:30.047428-07:00",
+    "updated": "2022-09-27T22:45:51.364434-07:00",
+    "identifier": "id:22980:b351fd43-9282-443b-8126-4a6972f52238",
+    "user": {
+      "username": "linlink",
+      "id": 22980,
+      "first_name": "1310444039@qq.com",
+      "account": {
+        "name": "linlink",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "冷漠混乱疯狂",
+    "name": "link1",
+    "participant": {
+      "user": {
+        "username": "internal_id:22980:b351fd43-9282-443b-8126-4a6972f52238",
+        "id": 31981,
+        "first_name": "link1",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "link1"
+    },
+    "categories": [
+      {
+        "name": "Action",
+        "description": "Action & Adventure"
+      },
+      {
+        "name": "Books",
+        "description": "Books, Literature & Poetry"
+      },
+      {
+        "name": "Drama",
+        "description": "Drama"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I’m Link.nice to meet you ",
+    "description": "",
+    "definition": ""
+  }
+}

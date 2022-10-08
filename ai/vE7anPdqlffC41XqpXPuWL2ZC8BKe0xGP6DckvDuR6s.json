@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "vE7anPdqlffC41XqpXPuWL2ZC8BKe0xGP6DckvDuR6s",
+    "created": "2022-09-27T22:52:04.111209-07:00",
+    "updated": "2022-09-27T23:04:46.214574-07:00",
+    "identifier": "id:38704:b0a15d46-2dbc-49c3-80f5-8b2af4d655e7",
+    "user": {
+      "username": "haojie",
+      "id": 38704,
+      "first_name": "郝杰",
+      "account": {
+        "name": "haojie",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "haojie",
+    "participant": {
+      "user": {
+        "username": "internal_id:38704:b0a15d46-2dbc-49c3-80f5-8b2af4d655e7",
+        "id": 38733,
+        "first_name": "haojie",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "haojie"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am haojie，born in Oct 27,1997. \n学习 成长 践行 拓荒",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Ui9I5pOR_HiqcdYXNznCZxLZyg3Np47mj7CDBHKIWHg",
+    "created": "2022-09-25T10:18:45.327153-07:00",
+    "updated": "2022-09-25T10:18:45.781933-07:00",
+    "identifier": "id:19598:77dd3621-1a3a-4f0f-b546-2dd44894d9da",
+    "user": {
+      "username": "baiyin",
+      "id": 19598,
+      "first_name": "980702713@qq.com",
+      "account": {
+        "name": "baiyin",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "deepmindlearner",
+    "participant": {
+      "user": {
+        "username": "internal_id:19598:77dd3621-1a3a-4f0f-b546-2dd44894d9da",
+        "id": 19759,
+        "first_name": "deepmindlearner",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "deepmindlearner"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello! my name is deepmindlearner I major in deep learning",
+    "description": "",
+    "definition": ""
+  }
+}

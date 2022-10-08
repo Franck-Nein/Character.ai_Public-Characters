@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "24HMBuVZPOfXntjxY8FclMJdlbaHeg6js7v1jXvM3ko",
+    "created": "2022-10-05T12:20:47.094800-07:00",
+    "updated": "2022-10-05T12:20:47.516957-07:00",
+    "identifier": "id:16027:433e222d-0145-4c86-902b-d97a1b6ee159",
+    "user": {
+      "username": "MadKraken",
+      "id": 16027,
+      "first_name": "Benjamin",
+      "account": {
+        "name": "MadKraken",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Gpgan",
+    "participant": {
+      "user": {
+        "username": "internal_id:16027:433e222d-0145-4c86-902b-d97a1b6ee159",
+        "id": 74124,
+        "first_name": "Gpgan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Gpgan"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Gpgan the Bark-Man. My people are made of bark.",
+    "description": "",
+    "definition": ""
+  }
+}

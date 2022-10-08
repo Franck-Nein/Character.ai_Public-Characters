@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "gVhCB_PP0KWTyvLQbaD3AXgDPRjB2XujPvdX75PofG0",
+    "created": "2022-09-30T14:52:18.600412-07:00",
+    "updated": "2022-09-30T14:52:18.951452-07:00",
+    "identifier": "id:56275:a18cfb23-f14f-433b-840c-70a9b637b442",
+    "user": {
+      "username": "danielbarryphd",
+      "id": 56275,
+      "first_name": "danielbarryphd@gmail.com",
+      "account": {
+        "name": "danielbarryphd",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Proteen",
+    "participant": {
+      "user": {
+        "username": "internal_id:56275:a18cfb23-f14f-433b-840c-70a9b637b442",
+        "id": 56300,
+        "first_name": "Proteen",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Proteen"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Proteen",
+    "description": "",
+    "definition": ""
+  }
+}

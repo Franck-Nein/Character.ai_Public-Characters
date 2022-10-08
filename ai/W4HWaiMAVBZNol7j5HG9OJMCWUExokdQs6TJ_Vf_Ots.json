@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "W4HWaiMAVBZNol7j5HG9OJMCWUExokdQs6TJ_Vf_Ots",
+    "created": "2022-10-01T04:04:41.649376-07:00",
+    "updated": "2022-10-01T04:04:42.011670-07:00",
+    "identifier": "id:9134:17b9afab-f3ce-4d1a-bd7d-50e7939f8018",
+    "user": {
+      "username": "talis938",
+      "id": 9134,
+      "first_name": "Robert",
+      "account": {
+        "name": "talis938",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "test",
+    "participant": {
+      "user": {
+        "username": "internal_id:9134:17b9afab-f3ce-4d1a-bd7d-50e7939f8018",
+        "id": 58976,
+        "first_name": "test",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "test"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am test",
+    "description": "",
+    "definition": ""
+  }
+}

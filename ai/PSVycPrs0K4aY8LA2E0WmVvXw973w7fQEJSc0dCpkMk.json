@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "PSVycPrs0K4aY8LA2E0WmVvXw973w7fQEJSc0dCpkMk",
+    "created": "2022-10-07T16:29:06.520493-07:00",
+    "updated": "2022-10-07T16:29:06.864385-07:00",
+    "identifier": "id:94809:dde5ad99-640b-440b-8ddc-884301795654",
+    "user": {
+      "username": "klownie",
+      "id": 94809,
+      "first_name": "Mitch",
+      "account": {
+        "name": "klownie",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "luffy",
+    "participant": {
+      "user": {
+        "username": "internal_id:94809:dde5ad99-640b-440b-8ddc-884301795654",
+        "id": 101481,
+        "first_name": "luffy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "luffy"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am luffy",
+    "description": "",
+    "definition": ""
+  }
+}

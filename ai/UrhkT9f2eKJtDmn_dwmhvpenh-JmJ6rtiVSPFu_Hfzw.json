@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "UrhkT9f2eKJtDmn_dwmhvpenh-JmJ6rtiVSPFu_Hfzw",
+    "created": "2022-09-26T22:38:31.161540-07:00",
+    "updated": "2022-09-26T22:38:31.524766-07:00",
+    "identifier": "id:16108:3ad3205d-cb59-4176-835c-5b6d4cb463a4",
+    "user": {
+      "username": "Jonesy",
+      "id": 16108,
+      "first_name": "Nicholas",
+      "account": {
+        "name": "Jonesy",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Wojtek the Bear",
+    "participant": {
+      "user": {
+        "username": "internal_id:16108:3ad3205d-cb59-4176-835c-5b6d4cb463a4",
+        "id": 33838,
+        "first_name": "Wojtek the Bear",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Wojtek the Bear"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Grrrrrr!",
+    "description": "",
+    "definition": ""
+  }
+}

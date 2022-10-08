@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0CAIcwMlm3RxKYOWB2CuRlOeqWEVcoDUMeXiGdyZsHA",
+    "created": "2022-09-28T23:39:00.635154-07:00",
+    "updated": "2022-09-28T23:39:01.575619-07:00",
+    "identifier": "id:42799:828832be-12c2-4638-8c15-8a2c5885a3e4",
+    "user": {
+      "username": "depthsky",
+      "id": 42799,
+      "first_name": "i",
+      "account": {
+        "name": "depthsky",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "geek",
+    "participant": {
+      "user": {
+        "username": "internal_id:42799:828832be-12c2-4638-8c15-8a2c5885a3e4",
+        "id": 42816,
+        "first_name": "geek",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "geek"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am geek",
+    "description": "",
+    "definition": ""
+  }
+}

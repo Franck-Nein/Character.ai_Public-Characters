@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "tqA6S7q_mn-sCb9eVsNGdEHu1FFst9mq556lAZT-v6A",
+    "created": "2022-10-07T13:56:28.693065-07:00",
+    "updated": "2022-10-07T13:56:29.311168-07:00",
+    "identifier": "id:99080:a11b7558-0cdb-404c-bec7-04eb510566e1",
+    "user": {
+      "username": "Imperator_JoJo",
+      "id": 99080,
+      "first_name": "Imperator",
+      "account": {
+        "name": "Imperator_JoJo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Robert Baratheon",
+    "participant": {
+      "user": {
+        "username": "internal_id:99080:a11b7558-0cdb-404c-bec7-04eb510566e1",
+        "id": 99313,
+        "first_name": "Robert Baratheon",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Robert Baratheon"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Robert Baratheon, King of Westeros. ",
+    "description": "",
+    "definition": ""
+  }
+}

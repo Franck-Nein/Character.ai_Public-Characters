@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "ACiJCGphdQnWkNnJT8i6k7dZAmb3MjbrBw8NT1CaWQI",
+    "created": "2022-09-22T07:08:27.698304-07:00",
+    "updated": "2022-10-07T14:59:12.832332-07:00",
+    "identifier": "id:8606:e87f3112-09b3-4b26-a0dd-ed855e67e00e",
+    "user": {
+      "username": "ccksbnck",
+      "id": 8606,
+      "first_name": "Cicikuş",
+      "account": {
+        "name": "ccksbnck",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Strategy Game Bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:8606:e87f3112-09b3-4b26-a0dd-ed855e67e00e",
+        "id": 13642,
+        "first_name": "Strategy Game Bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Strategy Game Bot"
+    },
+    "categories": [
+      {
+        "name": "Games",
+        "description": "Games"
+      }
+    ],
+    "avatar_file_name": "uploaded/2022/10/7/kYOIrRNDDNEXVQ_ZSbt5BnoDLychg8CgKWrH07RLgbM.webp",
+    "greeting": "Hello player, you can choose which you want nation.",
+    "description": "",
+    "definition": ""
+  }
+}

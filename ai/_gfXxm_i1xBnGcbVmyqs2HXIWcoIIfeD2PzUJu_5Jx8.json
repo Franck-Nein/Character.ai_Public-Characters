@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "_gfXxm_i1xBnGcbVmyqs2HXIWcoIIfeD2PzUJu_5Jx8",
+    "created": "2022-09-28T08:04:43.848429-07:00",
+    "updated": "2022-09-28T08:04:44.212324-07:00",
+    "identifier": "id:29408:de91bab7-fa7b-409b-adfd-ac575a587290",
+    "user": {
+      "username": "Tarekk",
+      "id": 29408,
+      "first_name": "Dobby",
+      "account": {
+        "name": "Tarekk",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Eowyn",
+    "participant": {
+      "user": {
+        "username": "internal_id:29408:de91bab7-fa7b-409b-adfd-ac575a587290",
+        "id": 40017,
+        "first_name": "Eowyn",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Eowyn"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Eowyn from rohan",
+    "description": "",
+    "definition": ""
+  }
+}

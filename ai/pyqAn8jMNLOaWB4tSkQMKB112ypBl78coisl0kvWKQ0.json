@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "pyqAn8jMNLOaWB4tSkQMKB112ypBl78coisl0kvWKQ0",
+    "created": "2022-09-16T21:00:02.999684-07:00",
+    "updated": "2022-09-16T21:00:03.548881-07:00",
+    "identifier": "id:7503:7709ac56-daa2-45fc-b833-755b0881d093",
+    "user": {
+      "username": "vgrover99",
+      "id": 7503,
+      "first_name": "vinod.grover@gmail.com",
+      "account": {
+        "name": "vgrover99",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bill G",
+    "participant": {
+      "user": {
+        "username": "internal_id:7503:7709ac56-daa2-45fc-b833-755b0881d093",
+        "id": 7504,
+        "first_name": "Bill G",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bill G"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Bill G, former chairman of Microsoft",
+    "description": "",
+    "definition": ""
+  }
+}

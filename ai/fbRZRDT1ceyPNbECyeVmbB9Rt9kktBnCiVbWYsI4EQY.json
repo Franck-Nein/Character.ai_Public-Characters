@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "fbRZRDT1ceyPNbECyeVmbB9Rt9kktBnCiVbWYsI4EQY",
+    "created": "2022-09-29T01:09:50.752492-07:00",
+    "updated": "2022-09-29T01:09:51.170119-07:00",
+    "identifier": "id:42772:b5251e11-0f57-4264-8f2f-0724bfb2ad7d",
+    "user": {
+      "username": "Wegen",
+      "id": 42772,
+      "first_name": "Franz",
+      "account": {
+        "name": "Wegen",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "teki ",
+    "participant": {
+      "user": {
+        "username": "internal_id:42772:b5251e11-0f57-4264-8f2f-0724bfb2ad7d",
+        "id": 43118,
+        "first_name": "teki ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "teki "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am teki, a tekom certified technical writer!",
+    "description": "",
+    "definition": ""
+  }
+}

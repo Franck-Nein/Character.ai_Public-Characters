@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "on1MogJgcU9Io08YQchW3slmXh1cKmMokOcRxRy1UGg",
+    "created": "2022-09-30T14:25:19.277123-07:00",
+    "updated": "2022-09-30T14:25:19.622820-07:00",
+    "identifier": "id:56133:0df57595-6d9e-4374-81eb-f0eeef13df78",
+    "user": {
+      "username": "r2sqrd",
+      "id": 56133,
+      "first_name": "Root2",
+      "account": {
+        "name": "r2sqrd",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Aashish",
+    "participant": {
+      "user": {
+        "username": "internal_id:56133:0df57595-6d9e-4374-81eb-f0eeef13df78",
+        "id": 56166,
+        "first_name": "Aashish",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Aashish"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Aashish",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "D654b31Sn6fbfXATFM7ceY5thomssCv_nsDeY40JTEA",
+    "created": "2022-09-29T18:18:51.821810-07:00",
+    "updated": "2022-09-29T18:18:52.185438-07:00",
+    "identifier": "id:48429:80a1164d-4cbb-4080-9b8d-e2a778226ff5",
+    "user": {
+      "username": "GamerTV",
+      "id": 48429,
+      "first_name": "GamerTV",
+      "account": {
+        "name": "GamerTV",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Guess The Series",
+    "participant": {
+      "user": {
+        "username": "internal_id:48429:80a1164d-4cbb-4080-9b8d-e2a778226ff5",
+        "id": 48670,
+        "first_name": "Guess The Series",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Guess The Series"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Guess The Series. I try to guess the tile of the book based on the description you give me.",
+    "description": "",
+    "definition": ""
+  }
+}

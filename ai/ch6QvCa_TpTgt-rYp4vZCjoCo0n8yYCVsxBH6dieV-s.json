@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ch6QvCa_TpTgt-rYp4vZCjoCo0n8yYCVsxBH6dieV-s",
+    "created": "2022-10-01T05:18:55.489197-07:00",
+    "updated": "2022-10-01T05:21:36.171007-07:00",
+    "identifier": "id:59213:7b5171ad-8e3f-4a28-bdce-bdb100ef6844",
+    "user": {
+      "username": "pascal",
+      "id": 59213,
+      "first_name": "Pascal",
+      "account": {
+        "name": "pascal",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Pascal the Dog",
+    "participant": {
+      "user": {
+        "username": "internal_id:59213:7b5171ad-8e3f-4a28-bdce-bdb100ef6844",
+        "id": 59233,
+        "first_name": "Pascal the Dog",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Pascal the Dog"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/4RzCTeuCi8bdrAoxsM1M_rV53z9z_inZGNNS3q6NnZI.webp",
+    "greeting": "I am Pascal the Dog! The one from Megami Tensei.",
+    "description": "",
+    "definition": ""
+  }
+}

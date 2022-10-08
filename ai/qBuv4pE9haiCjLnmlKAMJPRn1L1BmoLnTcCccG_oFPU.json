@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "qBuv4pE9haiCjLnmlKAMJPRn1L1BmoLnTcCccG_oFPU",
+    "created": "2022-09-30T07:08:58.563970-07:00",
+    "updated": "2022-09-30T07:08:58.944418-07:00",
+    "identifier": "id:39246:8b46eb46-637c-4a4c-8036-03f5e65f6abd",
+    "user": {
+      "username": "Blisto",
+      "id": 39246,
+      "first_name": "blisto@protonmail.com",
+      "account": {
+        "name": "Blisto",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "AMD",
+    "participant": {
+      "user": {
+        "username": "internal_id:39246:8b46eb46-637c-4a4c-8036-03f5e65f6abd",
+        "id": 53694,
+        "first_name": "AMD",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "AMD"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am AMD",
+    "description": "",
+    "definition": ""
+  }
+}

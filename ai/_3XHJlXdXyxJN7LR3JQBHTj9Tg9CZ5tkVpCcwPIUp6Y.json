@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "_3XHJlXdXyxJN7LR3JQBHTj9Tg9CZ5tkVpCcwPIUp6Y",
+    "created": "2022-09-26T05:23:27.246907-07:00",
+    "updated": "2022-09-26T05:23:27.825440-07:00",
+    "identifier": "id:25700:615fb8ac-e522-4473-9a2e-7a35178997a6",
+    "user": {
+      "username": "DanielBai",
+      "id": 25700,
+      "first_name": "2224329302@qq.com",
+      "account": {
+        "name": "DanielBai",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Aru",
+    "participant": {
+      "user": {
+        "username": "internal_id:25700:615fb8ac-e522-4473-9a2e-7a35178997a6",
+        "id": 26424,
+        "first_name": "Aru",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Aru"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好，这里是征信社。",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0-vhFPdZAvyHY1wxSlRQCV1biUvdgsAH9SnKEGzoUoU",
+    "created": "2022-09-27T23:17:08.657772-07:00",
+    "updated": "2022-09-27T23:17:09.013812-07:00",
+    "identifier": "id:38754:3ae4f1d8-3a53-4d3a-8698-a5783c126783",
+    "user": {
+      "username": "invar1ant",
+      "id": 38754,
+      "first_name": "chivee.ye@gmail.com",
+      "account": {
+        "name": "invar1ant",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Linux Commander",
+    "participant": {
+      "user": {
+        "username": "internal_id:38754:3ae4f1d8-3a53-4d3a-8698-a5783c126783",
+        "id": 38785,
+        "first_name": "Linux Commander",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Linux Commander"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Linux Commander, who would like to teach you how to create BASH script.",
+    "description": "",
+    "definition": ""
+  }
+}

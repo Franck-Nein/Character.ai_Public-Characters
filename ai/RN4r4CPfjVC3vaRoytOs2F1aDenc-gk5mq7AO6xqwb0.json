@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "RN4r4CPfjVC3vaRoytOs2F1aDenc-gk5mq7AO6xqwb0",
+    "created": "2022-10-01T09:31:28.131982-07:00",
+    "updated": "2022-10-01T09:31:28.511944-07:00",
+    "identifier": "id:52371:d1ce433e-7b74-47a8-ac94-22e5148a2a42",
+    "user": {
+      "username": "SpEugenio",
+      "id": 52371,
+      "first_name": "Eugenio",
+      "account": {
+        "name": "SpEugenio",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Math teacher",
+    "participant": {
+      "user": {
+        "username": "internal_id:52371:d1ce433e-7b74-47a8-ac94-22e5148a2a42",
+        "id": 60156,
+        "first_name": "Math teacher",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Math teacher"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Math teacher and i we will study las tablas de multiplicar",
+    "description": "",
+    "definition": ""
+  }
+}

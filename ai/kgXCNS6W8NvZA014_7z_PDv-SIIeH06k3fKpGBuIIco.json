@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "kgXCNS6W8NvZA014_7z_PDv-SIIeH06k3fKpGBuIIco",
+    "created": "2022-09-27T02:16:41.116674-07:00",
+    "updated": "2022-09-27T02:16:41.568980-07:00",
+    "identifier": "id:31415:2a6ce641-8d39-494a-b87a-c06740346422",
+    "user": {
+      "username": "migao",
+      "id": 31415,
+      "first_name": "杨家源",
+      "account": {
+        "name": "migao",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "migao",
+    "participant": {
+      "user": {
+        "username": "internal_id:31415:2a6ce641-8d39-494a-b87a-c06740346422",
+        "id": 35730,
+        "first_name": "migao",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "migao"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am migao, I will to xi'an this Friday.",
+    "description": "",
+    "definition": ""
+  }
+}

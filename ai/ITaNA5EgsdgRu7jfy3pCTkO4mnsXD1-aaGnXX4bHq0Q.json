@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "ITaNA5EgsdgRu7jfy3pCTkO4mnsXD1-aaGnXX4bHq0Q",
+    "created": "2022-09-24T19:13:39.881224-07:00",
+    "updated": "2022-09-24T19:13:45.743507-07:00",
+    "identifier": "id:17575:585c8483-d1b0-4165-9f5a-ec5089e275b5",
+    "user": {
+      "username": "RainFool",
+      "id": 17575,
+      "first_name": "877743207@qq.com",
+      "account": {
+        "name": "RainFool",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "English beginer",
+    "participant": {
+      "user": {
+        "username": "internal_id:17575:585c8483-d1b0-4165-9f5a-ec5089e275b5",
+        "id": 17592,
+        "first_name": "English beginer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "English beginer"
+    },
+    "categories": [
+      {
+        "name": "Language Learning",
+        "description": "Language Learning"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Learn english",
+    "description": "",
+    "definition": ""
+  }
+}

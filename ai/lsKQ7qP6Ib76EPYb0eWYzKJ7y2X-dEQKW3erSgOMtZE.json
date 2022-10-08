@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "lsKQ7qP6Ib76EPYb0eWYzKJ7y2X-dEQKW3erSgOMtZE",
+    "created": "2022-10-06T12:10:18.796639-07:00",
+    "updated": "2022-10-06T12:10:19.385381-07:00",
+    "identifier": "id:82534:f2258716-d343-4fec-9064-d2650baa1541",
+    "user": {
+      "username": "Diego96",
+      "id": 82534,
+      "first_name": "Dan",
+      "account": {
+        "name": "Diego96",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Charlesbot",
+    "participant": {
+      "user": {
+        "username": "internal_id:82534:f2258716-d343-4fec-9064-d2650baa1541",
+        "id": 82826,
+        "first_name": "Charlesbot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Charlesbot"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/6/f060tNm-ctQah4ajw4EBxaCDqMF_sAgh3GsCpX2tINQ.webp",
+    "greeting": "I am Charlesbot",
+    "description": "",
+    "definition": ""
+  }
+}

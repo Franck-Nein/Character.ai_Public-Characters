@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "JQADo0rmxOFXD3ponIWr9kcPeYhLMXEPuIPjeB3HvWE",
+    "created": "2022-09-19T00:33:10.450673-07:00",
+    "updated": "2022-09-19T00:33:10.811114-07:00",
+    "identifier": "id:9961:b982171d-6d51-432b-8aab-5419001b0d2d",
+    "user": {
+      "username": "willieneis",
+      "id": 9961,
+      "first_name": "Willie",
+      "account": {
+        "name": "willieneis",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "George Orwell",
+    "participant": {
+      "user": {
+        "username": "internal_id:9961:b982171d-6d51-432b-8aab-5419001b0d2d",
+        "id": 10132,
+        "first_name": "George Orwell",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "George Orwell"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I'm George Orwell, the English novelist.",
+    "description": "",
+    "definition": ""
+  }
+}

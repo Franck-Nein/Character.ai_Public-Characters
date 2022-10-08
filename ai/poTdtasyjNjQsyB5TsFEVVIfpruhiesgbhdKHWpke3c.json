@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "poTdtasyjNjQsyB5TsFEVVIfpruhiesgbhdKHWpke3c",
+    "created": "2022-09-24T07:20:29.928317-07:00",
+    "updated": "2022-09-24T07:20:30.304573-07:00",
+    "identifier": "id:16651:d4018081-d7c3-4165-94bc-5f100b210cc1",
+    "user": {
+      "username": "balance",
+      "id": 16651,
+      "first_name": "dee",
+      "account": {
+        "name": "balance",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "son of landee",
+    "participant": {
+      "user": {
+        "username": "internal_id:16651:d4018081-d7c3-4165-94bc-5f100b210cc1",
+        "id": 16730,
+        "first_name": "son of landee",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "son of landee"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好，我是蓝迪，我出生于2022年9月24日，我喜欢未来",
+    "description": "",
+    "definition": ""
+  }
+}

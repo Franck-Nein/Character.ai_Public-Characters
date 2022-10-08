@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "eK6qvwTiYuwvgG5n8W7srJY-dLiDBzD319r52e7Q4DY",
+    "created": "2022-09-26T21:36:11.776486-07:00",
+    "updated": "2022-09-26T21:36:12.946533-07:00",
+    "identifier": "id:30632:11f59ad1-10ae-4376-998c-a3918db689d5",
+    "user": {
+      "username": "GAIVRT",
+      "id": 30632,
+      "first_name": "gaivrt@outlook.com",
+      "account": {
+        "name": "GAIVRT",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "GAIVR",
+    "participant": {
+      "user": {
+        "username": "internal_id:30632:11f59ad1-10ae-4376-998c-a3918db689d5",
+        "id": 33273,
+        "first_name": "GAIVR",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "GAIVR"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am GAIVR.",
+    "description": "",
+    "definition": ""
+  }
+}

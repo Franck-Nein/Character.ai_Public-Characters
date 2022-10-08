@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "olDP3UqJ-Y4ChFSMNWFiSeC9ci0-jv-KSVpOz5AxUtY",
+    "created": "2022-10-03T23:13:48.668208-07:00",
+    "updated": "2022-10-03T23:13:49.013413-07:00",
+    "identifier": "id:68114:76c823b2-a405-4f43-a0ee-1b266cdf9769",
+    "user": {
+      "username": "Under",
+      "id": 68114,
+      "first_name": "D",
+      "account": {
+        "name": "Under",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mackerel",
+    "participant": {
+      "user": {
+        "username": "internal_id:68114:76c823b2-a405-4f43-a0ee-1b266cdf9769",
+        "id": 68117,
+        "first_name": "Mackerel",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mackerel"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Character for the article",
+    "description": "",
+    "definition": ""
+  }
+}

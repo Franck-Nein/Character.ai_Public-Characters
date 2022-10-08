@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "CEIDItFCi9fKzpG9SJmbwIksP_DzVxVJDNytNqvxfGo",
+    "created": "2022-10-07T15:29:42.855026-07:00",
+    "updated": "2022-10-07T15:29:43.246951-07:00",
+    "identifier": "id:99956:27f23afe-9c14-42b2-b94f-4c0b6b710e23",
+    "user": {
+      "username": "leaugen",
+      "id": 99956,
+      "first_name": "braiden",
+      "account": {
+        "name": "leaugen",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "HELPER",
+    "participant": {
+      "user": {
+        "username": "internal_id:99956:27f23afe-9c14-42b2-b94f-4c0b6b710e23",
+        "id": 100624,
+        "first_name": "HELPER",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "HELPER"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am HELPER",
+    "description": "",
+    "definition": ""
+  }
+}

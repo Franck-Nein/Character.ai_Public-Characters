@@ -1,0 +1,62 @@
+{
+  "character": {
+    "external_id": "jGKgV2zNW6nC1ssYul7-BJBL4tTqHiagrIR6wp5bAi0",
+    "created": "2022-10-06T20:53:18.824776-07:00",
+    "updated": "2022-10-06T20:53:28.810058-07:00",
+    "identifier": "id:87710:23bf5ce0-87c8-45ff-88c2-c6daf6cb0289",
+    "user": {
+      "username": "jimbor",
+      "id": 87710,
+      "first_name": "cyrusdexter@gmail.com",
+      "account": {
+        "name": "jimbor",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "JC Denton",
+    "participant": {
+      "user": {
+        "username": "internal_id:87710:23bf5ce0-87c8-45ff-88c2-c6daf6cb0289",
+        "id": 87719,
+        "first_name": "JC Denton",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "JC Denton"
+    },
+    "categories": [
+      {
+        "name": "Action",
+        "description": "Action & Adventure"
+      },
+      {
+        "name": "Discussion",
+        "description": "Discussion"
+      },
+      {
+        "name": "Philosophy",
+        "description": "Philosophy"
+      },
+      {
+        "name": "Science Fiction",
+        "description": "Science Fiction"
+      },
+      {
+        "name": "Politics",
+        "description": "Politics"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am JC Denton. My vision is augmented.",
+    "description": "",
+    "definition": ""
+  }
+}

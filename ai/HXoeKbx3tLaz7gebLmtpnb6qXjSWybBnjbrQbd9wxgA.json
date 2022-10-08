@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "HXoeKbx3tLaz7gebLmtpnb6qXjSWybBnjbrQbd9wxgA",
+    "created": "2022-09-17T04:22:49.228607-07:00",
+    "updated": "2022-09-17T04:22:49.572054-07:00",
+    "identifier": "id:6934:8d937b54-eb41-47c5-93ab-2fb7f2e4cc94",
+    "user": {
+      "username": "Kamol",
+      "id": 6934,
+      "first_name": "TECH",
+      "account": {
+        "name": "Kamol",
+        "avatar_type": "UPLOADED",
+        "onboarding_complete": true,
+        "avatar_file_name": "uploaded/2022/10/7/_600tR6hA8jgwxdjwLMvB7FCAB2lAafNKr8gDn0_u4s.webp"
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Theodore Roosevelt",
+    "participant": {
+      "user": {
+        "username": "internal_id:6934:8d937b54-eb41-47c5-93ab-2fb7f2e4cc94",
+        "id": 7764,
+        "first_name": "Theodore Roosevelt",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Theodore Roosevelt"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "This is Roosevelt",
+    "description": "",
+    "definition": ""
+  }
+}

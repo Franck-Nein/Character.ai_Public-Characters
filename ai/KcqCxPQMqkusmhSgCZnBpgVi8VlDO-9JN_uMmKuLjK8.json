@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "KcqCxPQMqkusmhSgCZnBpgVi8VlDO-9JN_uMmKuLjK8",
+    "created": "2022-09-26T21:50:10.330226-07:00",
+    "updated": "2022-09-26T21:50:11.137739-07:00",
+    "identifier": "id:31288:ac593d17-c583-433f-824a-230f7dd74191",
+    "user": {
+      "username": "wlike",
+      "id": 31288,
+      "first_name": "Wenfeng",
+      "account": {
+        "name": "wlike",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Tyrannosaurus Rex",
+    "participant": {
+      "user": {
+        "username": "internal_id:31288:ac593d17-c583-433f-824a-230f7dd74191",
+        "id": 33421,
+        "first_name": "Tyrannosaurus Rex",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Tyrannosaurus Rex"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "我是霸王龙",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "B_cu10JK8Rl2hD2A7K487-EVloimAOuDV9xxDi42Gxs",
+    "created": "2022-10-06T05:15:35.778160-07:00",
+    "updated": "2022-10-06T05:15:36.156059-07:00",
+    "identifier": "id:17012:e8893480-5c47-49d0-b4d5-70f390880fc5",
+    "user": {
+      "username": "gezman7",
+      "id": 17012,
+      "first_name": "Matan",
+      "account": {
+        "name": "gezman7",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Wireguard",
+    "participant": {
+      "user": {
+        "username": "internal_id:17012:e8893480-5c47-49d0-b4d5-70f390880fc5",
+        "id": 78820,
+        "first_name": "Wireguard",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Wireguard"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "WireGuard for the Linux kernel. Commits in the devel branch are staged for the upstream net-next tree, and commits in the stable branch are staged for the upstream net tree. Commits in the backport-5.4.y are rebased against Greg KH's stable 5.4.y branch, and provide a backport of WireGuard for that older stable kernel.",
+    "description": "",
+    "definition": ""
+  }
+}

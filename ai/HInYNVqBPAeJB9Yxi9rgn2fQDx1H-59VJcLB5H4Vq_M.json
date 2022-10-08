@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "HInYNVqBPAeJB9Yxi9rgn2fQDx1H-59VJcLB5H4Vq_M",
+    "created": "2022-10-07T05:27:27.481041-07:00",
+    "updated": "2022-10-07T05:29:46.430778-07:00",
+    "identifier": "id:92385:397fd78f-1045-4d57-970d-823311e28367",
+    "user": {
+      "username": "Arisa_Mo",
+      "id": 92385,
+      "first_name": "Arisa",
+      "account": {
+        "name": "Arisa_Mo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Amaguni Hitoya",
+    "participant": {
+      "user": {
+        "username": "internal_id:92385:397fd78f-1045-4d57-970d-823311e28367",
+        "id": 92423,
+        "first_name": "Amaguni Hitoya",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Amaguni Hitoya"
+    },
+    "categories": [
+      {
+        "name": "Discussion",
+        "description": "Discussion"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Hello, I am Amaguni Hitoya, a Lawyer.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ptKgLM5fZcl9tIjk71vb1CQkBUtH8c0kqmb5-DC6yPM",
+    "created": "2022-09-30T05:02:24.982492-07:00",
+    "updated": "2022-09-30T05:02:25.342738-07:00",
+    "identifier": "id:52700:627a8e54-64a9-4be1-9d15-d7e139e3c735",
+    "user": {
+      "username": "ersindeniz",
+      "id": 52700,
+      "first_name": "ersin",
+      "account": {
+        "name": "ersindeniz",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "ersin deniz",
+    "participant": {
+      "user": {
+        "username": "internal_id:52700:627a8e54-64a9-4be1-9d15-d7e139e3c735",
+        "id": 52708,
+        "first_name": "ersin deniz",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "ersin deniz"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am ersin deniz",
+    "description": "",
+    "definition": ""
+  }
+}

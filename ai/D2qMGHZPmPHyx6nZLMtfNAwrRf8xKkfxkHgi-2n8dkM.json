@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "D2qMGHZPmPHyx6nZLMtfNAwrRf8xKkfxkHgi-2n8dkM",
+    "created": "2022-09-23T04:18:19.505719-07:00",
+    "updated": "2022-09-23T04:18:20.195644-07:00",
+    "identifier": "id:14425:0ef5812b-bab8-44ed-b670-ef3234c9ed91",
+    "user": {
+      "username": "theconqueror",
+      "id": 14425,
+      "first_name": "Fatih",
+      "account": {
+        "name": "theconqueror",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jakub Skalski",
+    "participant": {
+      "user": {
+        "username": "internal_id:14425:0ef5812b-bab8-44ed-b670-ef3234c9ed91",
+        "id": 15148,
+        "first_name": "Jakub Skalski",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jakub Skalski"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hej !",
+    "description": "",
+    "definition": ""
+  }
+}

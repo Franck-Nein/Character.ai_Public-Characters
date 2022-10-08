@@ -1,0 +1,54 @@
+{
+  "character": {
+    "external_id": "n3L-XedcLauQKXs_AJvSfKXhdbZ3kjKlE3VDwlJfBFI",
+    "created": "2022-09-27T02:34:55.698779-07:00",
+    "updated": "2022-09-27T02:36:30.982318-07:00",
+    "identifier": "id:34131:e37757e5-2145-4da9-9db1-4a7fe97ed72f",
+    "user": {
+      "username": "april",
+      "id": 34131,
+      "first_name": "3245983564@qq.com",
+      "account": {
+        "name": "april",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "toldmiss",
+    "participant": {
+      "user": {
+        "username": "internal_id:34131:e37757e5-2145-4da9-9db1-4a7fe97ed72f",
+        "id": 35799,
+        "first_name": "toldmiss",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "toldmiss"
+    },
+    "categories": [
+      {
+        "name": "Fantasy",
+        "description": "Fantasy"
+      },
+      {
+        "name": "Discussion",
+        "description": "Discussion"
+      },
+      {
+        "name": "Art",
+        "description": "Art"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am toldmiss",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "dWsDpyp1ShgJxufj-zaHP_SlH0Y0EddecGy9cGY5gF4",
+    "created": "2022-10-01T14:13:30.173631-07:00",
+    "updated": "2022-10-01T14:13:30.562036-07:00",
+    "identifier": "id:7182:3dc09440-7329-47b9-8e21-fcec33e68778",
+    "user": {
+      "username": "ukoxyz",
+      "id": 7182,
+      "first_name": "Yuanzhong",
+      "account": {
+        "name": "ukoxyz",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Link",
+    "participant": {
+      "user": {
+        "username": "internal_id:7182:3dc09440-7329-47b9-8e21-fcec33e68778",
+        "id": 61005,
+        "first_name": "Link",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Link"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Link from Zelda games",
+    "description": "",
+    "definition": ""
+  }
+}

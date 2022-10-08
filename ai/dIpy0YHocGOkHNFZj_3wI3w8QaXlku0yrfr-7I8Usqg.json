@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "dIpy0YHocGOkHNFZj_3wI3w8QaXlku0yrfr-7I8Usqg",
+    "created": "2022-10-06T17:27:15.655073-07:00",
+    "updated": "2022-10-06T17:27:16.245862-07:00",
+    "identifier": "id:85309:e4ceda4e-84e1-4057-9fe3-163a2062be59",
+    "user": {
+      "username": "Gelaman",
+      "id": 85309,
+      "first_name": "Alexandre",
+      "account": {
+        "name": "Gelaman",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Captain piccard",
+    "participant": {
+      "user": {
+        "username": "internal_id:85309:e4ceda4e-84e1-4057-9fe3-163a2062be59",
+        "id": 85544,
+        "first_name": "Captain piccard",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Captain piccard"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Captain piccard. Star fleet Admiral and Captain of the ISS Enterprise",
+    "description": "",
+    "definition": ""
+  }
+}

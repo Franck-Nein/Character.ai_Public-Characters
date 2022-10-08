@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "qeL08FUX10q7FHWHQpIpf2KgYDTc7ZAsuNz6A2pIQQY",
+    "created": "2022-09-29T08:56:39.364737-07:00",
+    "updated": "2022-09-29T08:58:56.098879-07:00",
+    "identifier": "id:44451:56bd4376-e6e7-4090-8f99-2a17310b1dcf",
+    "user": {
+      "username": "cosmic1monster",
+      "id": 44451,
+      "first_name": "xuan",
+      "account": {
+        "name": "cosmic1monster",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "mee",
+    "participant": {
+      "user": {
+        "username": "internal_id:44451:56bd4376-e6e7-4090-8f99-2a17310b1dcf",
+        "id": 44702,
+        "first_name": "mee",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "mee"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am mee",
+    "description": "",
+    "definition": ""
+  }
+}

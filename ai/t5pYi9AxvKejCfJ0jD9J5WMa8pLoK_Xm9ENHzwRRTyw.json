@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "t5pYi9AxvKejCfJ0jD9J5WMa8pLoK_Xm9ENHzwRRTyw",
+    "created": "2022-09-29T10:38:10.816615-07:00",
+    "updated": "2022-09-29T10:38:12.469552-07:00",
+    "identifier": "id:45273:a5815c12-3e4c-4ae4-9016-487510ccaed6",
+    "user": {
+      "username": "ysdx",
+      "id": 45273,
+      "first_name": "why",
+      "account": {
+        "name": "ysdx",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "anon",
+    "participant": {
+      "user": {
+        "username": "internal_id:45273:a5815c12-3e4c-4ae4-9016-487510ccaed6",
+        "id": 45479,
+        "first_name": "anon",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "anon"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am anon",
+    "description": "",
+    "definition": ""
+  }
+}

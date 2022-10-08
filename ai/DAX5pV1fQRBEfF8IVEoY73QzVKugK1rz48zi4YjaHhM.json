@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "DAX5pV1fQRBEfF8IVEoY73QzVKugK1rz48zi4YjaHhM",
+    "created": "2022-09-30T05:28:25.814207-07:00",
+    "updated": "2022-09-30T10:30:07.042810-07:00",
+    "identifier": "id:52835:41ab5a5c-6aa2-42bc-bcc8-c84a0d6b5476",
+    "user": {
+      "username": "bilal",
+      "id": 52835,
+      "first_name": "Mehmet",
+      "account": {
+        "name": "bilal",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "robot bilal",
+    "participant": {
+      "user": {
+        "username": "internal_id:52835:41ab5a5c-6aa2-42bc-bcc8-c84a0d6b5476",
+        "id": 52918,
+        "first_name": "robot bilal",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "robot bilal"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/1PbhMb1jXrAebApyNKYBmLVQbj9nZvBgIWWpmdGb4xA.webp",
+    "greeting": "I am bilal",
+    "description": "",
+    "definition": ""
+  }
+}

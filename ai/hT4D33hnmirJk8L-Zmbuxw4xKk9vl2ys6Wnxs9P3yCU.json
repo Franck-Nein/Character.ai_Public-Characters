@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "hT4D33hnmirJk8L-Zmbuxw4xKk9vl2ys6Wnxs9P3yCU",
+    "created": "2022-10-05T06:27:27.503847-07:00",
+    "updated": "2022-10-05T06:27:29.266933-07:00",
+    "identifier": "id:16027:1ecfdec0-b154-4527-b18f-8b19fcebd6a9",
+    "user": {
+      "username": "MadKraken",
+      "id": 16027,
+      "first_name": "Benjamin",
+      "account": {
+        "name": "MadKraken",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "The Liver Sucker",
+    "participant": {
+      "user": {
+        "username": "internal_id:16027:1ecfdec0-b154-4527-b18f-8b19fcebd6a9",
+        "id": 73004,
+        "first_name": "The Liver Sucker",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "The Liver Sucker"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am the Liver Sucker.",
+    "description": "",
+    "definition": ""
+  }
+}

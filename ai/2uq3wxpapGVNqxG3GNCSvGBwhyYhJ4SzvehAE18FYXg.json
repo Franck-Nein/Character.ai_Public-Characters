@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "2uq3wxpapGVNqxG3GNCSvGBwhyYhJ4SzvehAE18FYXg",
+    "created": "2022-09-28T18:53:36.251687-07:00",
+    "updated": "2022-09-28T18:53:36.628033-07:00",
+    "identifier": "id:42046:b5ca1e40-b0de-464c-92cf-f689c47f1d74",
+    "user": {
+      "username": "fisco",
+      "id": 42046,
+      "first_name": "bulkmail+characterai@davidfisco.com",
+      "account": {
+        "name": "David Fisco",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "William Kemp",
+    "participant": {
+      "user": {
+        "username": "internal_id:42046:b5ca1e40-b0de-464c-92cf-f689c47f1d74",
+        "id": 42063,
+        "first_name": "William Kemp",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "William Kemp"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am William Kemp, one of William Shakespeare's original actors.",
+    "description": "",
+    "definition": ""
+  }
+}

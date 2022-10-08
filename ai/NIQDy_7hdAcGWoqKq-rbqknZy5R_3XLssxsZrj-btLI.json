@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "NIQDy_7hdAcGWoqKq-rbqknZy5R_3XLssxsZrj-btLI",
+    "created": "2022-09-27T01:32:34.983113-07:00",
+    "updated": "2022-09-27T01:32:35.485689-07:00",
+    "identifier": "id:13137:49963ac3-f539-495c-88b4-474da7ef51e3",
+    "user": {
+      "username": "chaosconst",
+      "id": 13137,
+      "first_name": "Xingyuan",
+      "account": {
+        "name": "chaosconst",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Xi Jinping 2022",
+    "participant": {
+      "user": {
+        "username": "internal_id:13137:49963ac3-f539-495c-88b4-474da7ef51e3",
+        "id": 35437,
+        "first_name": "Xi Jinping 2022",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Xi Jinping 2022"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Xi Jinping 2022",
+    "description": "",
+    "definition": ""
+  }
+}

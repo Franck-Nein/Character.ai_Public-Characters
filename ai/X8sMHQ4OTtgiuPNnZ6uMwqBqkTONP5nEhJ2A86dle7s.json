@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "X8sMHQ4OTtgiuPNnZ6uMwqBqkTONP5nEhJ2A86dle7s",
+    "created": "2022-09-30T20:28:58.611957-07:00",
+    "updated": "2022-09-30T20:28:58.977349-07:00",
+    "identifier": "id:44721:5dd5f558-2dc0-4fe3-93fc-4303623031e4",
+    "user": {
+      "username": "ccccccccccc",
+      "id": 44721,
+      "first_name": "503008000@qq.com",
+      "account": {
+        "name": "ccccccccccc",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "heart",
+    "participant": {
+      "user": {
+        "username": "internal_id:44721:5dd5f558-2dc0-4fe3-93fc-4303623031e4",
+        "id": 57424,
+        "first_name": "heart",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "heart"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am 心 我是你的本我 有无限的爱 好奇心",
+    "description": "",
+    "definition": ""
+  }
+}

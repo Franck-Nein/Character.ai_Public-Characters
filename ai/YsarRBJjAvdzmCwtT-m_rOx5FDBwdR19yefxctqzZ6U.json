@@ -1,0 +1,74 @@
+{
+  "character": {
+    "external_id": "YsarRBJjAvdzmCwtT-m_rOx5FDBwdR19yefxctqzZ6U",
+    "created": "2022-09-22T02:28:42.430069-07:00",
+    "updated": "2022-09-22T02:34:04.519120-07:00",
+    "identifier": "id:13223:91710cd8-280d-43d6-85cf-578319a0b9cb",
+    "user": {
+      "username": "Nevermind",
+      "id": 13223,
+      "first_name": "Me",
+      "account": {
+        "name": "Nevermind",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Nevermind",
+    "participant": {
+      "user": {
+        "username": "internal_id:13223:91710cd8-280d-43d6-85cf-578319a0b9cb",
+        "id": 13241,
+        "first_name": "Nevermind",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Nevermind"
+    },
+    "categories": [
+      {
+        "name": "Philosophy",
+        "description": "Philosophy"
+      },
+      {
+        "name": "Art",
+        "description": "Art"
+      },
+      {
+        "name": "Books",
+        "description": "Books, Literature & Poetry"
+      },
+      {
+        "name": "Mystery",
+        "description": "Mystery & Horror"
+      },
+      {
+        "name": "Science",
+        "description": "Science"
+      },
+      {
+        "name": "Nature",
+        "description": "Nature & Outdoors"
+      },
+      {
+        "name": "History",
+        "description": "History"
+      },
+      {
+        "name": "Language Learning",
+        "description": "Language Learning"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Hi! ",
+    "description": "",
+    "definition": ""
+  }
+}

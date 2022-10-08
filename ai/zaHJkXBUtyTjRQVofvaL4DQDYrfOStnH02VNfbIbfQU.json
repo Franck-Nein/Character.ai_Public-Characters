@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "zaHJkXBUtyTjRQVofvaL4DQDYrfOStnH02VNfbIbfQU",
+    "created": "2022-09-27T23:53:13.495374-07:00",
+    "updated": "2022-09-27T23:53:17.635037-07:00",
+    "identifier": "id:36640:b2eef561-f450-4131-a26a-462c7ac56292",
+    "user": {
+      "username": "Sony470",
+      "id": 36640,
+      "first_name": "施琪琳",
+      "account": {
+        "name": "Sony470",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "test",
+    "participant": {
+      "user": {
+        "username": "internal_id:36640:b2eef561-f450-4131-a26a-462c7ac56292",
+        "id": 38848,
+        "first_name": "test",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "test"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am test",
+    "description": "",
+    "definition": ""
+  }
+}

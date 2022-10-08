@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "H7uHXSx6r6VATLH0StsIKdwQNWISAhhhSYr7WxGNEIc",
+    "created": "2022-09-30T13:29:58.513984-07:00",
+    "updated": "2022-09-30T13:29:58.883652-07:00",
+    "identifier": "id:18083:6c4fea23-f418-4edf-976b-e39343064171",
+    "user": {
+      "username": "31types",
+      "id": 18083,
+      "first_name": "Alpha",
+      "account": {
+        "name": "31types",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Deez nutz",
+    "participant": {
+      "user": {
+        "username": "internal_id:18083:6c4fea23-f418-4edf-976b-e39343064171",
+        "id": 55915,
+        "first_name": "Deez nutz",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Deez nutz"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Deez nutz",
+    "description": "",
+    "definition": ""
+  }
+}

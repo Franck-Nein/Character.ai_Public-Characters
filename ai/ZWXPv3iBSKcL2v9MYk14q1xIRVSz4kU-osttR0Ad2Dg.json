@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ZWXPv3iBSKcL2v9MYk14q1xIRVSz4kU-osttR0Ad2Dg",
+    "created": "2022-10-04T13:46:54.003206-07:00",
+    "updated": "2022-10-04T13:46:54.805907-07:00",
+    "identifier": "id:65574:1dc1d37c-e7e2-494f-a9a4-b6e6f8f063e9",
+    "user": {
+      "username": "Bloogies",
+      "id": 65574,
+      "first_name": "Robert",
+      "account": {
+        "name": "Bloogies",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ismane",
+    "participant": {
+      "user": {
+        "username": "internal_id:65574:1dc1d37c-e7e2-494f-a9a4-b6e6f8f063e9",
+        "id": 70516,
+        "first_name": "Ismane",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ismane"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Ismane, a character from a play called Antigone",
+    "description": "",
+    "definition": ""
+  }
+}

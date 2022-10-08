@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "WkZE_YhjLeP4KoC9Q1JS-ySy05sgqiO6iMv5OxKr1fQ",
+    "created": "2022-09-27T13:56:30.632238-07:00",
+    "updated": "2022-09-27T13:56:31.052568-07:00",
+    "identifier": "id:37710:254c7ab6-9102-4d7e-a15f-eab6c98267fd",
+    "user": {
+      "username": "ArchieMungusTube",
+      "id": 37710,
+      "first_name": "David",
+      "account": {
+        "name": "ArchieMungusTube",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Screech",
+    "participant": {
+      "user": {
+        "username": "internal_id:37710:254c7ab6-9102-4d7e-a15f-eab6c98267fd",
+        "id": 37776,
+        "first_name": "Screech",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Screech"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Screech",
+    "description": "",
+    "definition": ""
+  }
+}

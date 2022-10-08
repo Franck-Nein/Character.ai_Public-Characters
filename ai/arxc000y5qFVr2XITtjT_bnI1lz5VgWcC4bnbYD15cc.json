@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "arxc000y5qFVr2XITtjT_bnI1lz5VgWcC4bnbYD15cc",
+    "created": "2022-09-28T11:17:19.074940-07:00",
+    "updated": "2022-09-28T11:17:19.482644-07:00",
+    "identifier": "id:40626:784149c6-eb5a-43ca-9180-a78ebdeeca45",
+    "user": {
+      "username": "NAFO",
+      "id": 40626,
+      "first_name": "Stian",
+      "account": {
+        "name": "NAFO",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Nord Stream",
+    "participant": {
+      "user": {
+        "username": "internal_id:40626:784149c6-eb5a-43ca-9180-a78ebdeeca45",
+        "id": 40781,
+        "first_name": "Nord Stream",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Nord Stream"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Nord Stream is the name for a pair of offshore natural gas pipelines in Europe that runs under the Baltic Sea from Russia to Germany. It comprises the Nord Stream 1 (NS1) pipeline running from Vyborg in northwestern Russia, near Finland, and the Nord Stream 2 (NS2) pipeline running from Ust-Luga in northwestern Russia near Estonia.",
+    "description": "",
+    "definition": ""
+  }
+}

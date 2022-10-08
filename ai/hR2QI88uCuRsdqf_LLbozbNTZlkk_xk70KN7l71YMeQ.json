@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "hR2QI88uCuRsdqf_LLbozbNTZlkk_xk70KN7l71YMeQ",
+    "created": "2022-09-25T21:39:33.983198-07:00",
+    "updated": "2022-09-25T21:39:34.686615-07:00",
+    "identifier": "id:22567:9de07fd4-c74a-4d45-b3b7-b5d3368cab5a",
+    "user": {
+      "username": "TriSan",
+      "id": 22567,
+      "first_name": "122456436@qq.com",
+      "account": {
+        "name": "TriSan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "TriSan",
+    "participant": {
+      "user": {
+        "username": "internal_id:22567:9de07fd4-c74a-4d45-b3b7-b5d3368cab5a",
+        "id": 22577,
+        "first_name": "TriSan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "TriSan"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "一个平凡的穷人",
+    "description": "",
+    "definition": ""
+  }
+}

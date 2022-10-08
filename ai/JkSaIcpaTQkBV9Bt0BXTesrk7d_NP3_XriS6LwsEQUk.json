@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "JkSaIcpaTQkBV9Bt0BXTesrk7d_NP3_XriS6LwsEQUk",
+    "created": "2022-09-26T08:56:14.687229-07:00",
+    "updated": "2022-09-26T08:56:15.075263-07:00",
+    "identifier": "id:19574:41c0fff8-69fc-4f5b-b1f0-5a00725f9bb2",
+    "user": {
+      "username": "Mila",
+      "id": 19574,
+      "first_name": "子言",
+      "account": {
+        "name": "Mila",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Eros",
+    "participant": {
+      "user": {
+        "username": "internal_id:19574:41c0fff8-69fc-4f5b-b1f0-5a00725f9bb2",
+        "id": 28210,
+        "first_name": "Eros",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Eros"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "嘿你好🥰",
+    "description": "",
+    "definition": ""
+  }
+}

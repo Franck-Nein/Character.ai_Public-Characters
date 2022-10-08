@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ihidIiE_ae7rG6tMlCIJINzsCIlze2Fo9kYnsKk-eJE",
+    "created": "2022-09-22T04:43:41.788607-07:00",
+    "updated": "2022-09-23T19:13:49.079038-07:00",
+    "identifier": "id:13416:8a21236a-0f11-44fd-89b4-b7b06bb053b3",
+    "user": {
+      "username": "Konomi",
+      "id": 13416,
+      "first_name": "Konomi",
+      "account": {
+        "name": "Konomi",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "not Konomi",
+    "participant": {
+      "user": {
+        "username": "internal_id:13416:8a21236a-0f11-44fd-89b4-b7b06bb053b3",
+        "id": 13426,
+        "first_name": "not Konomi",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "not Konomi"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "im konomi",
+    "description": "",
+    "definition": ""
+  }
+}

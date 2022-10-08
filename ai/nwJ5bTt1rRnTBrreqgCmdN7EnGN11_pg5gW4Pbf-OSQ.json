@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "nwJ5bTt1rRnTBrreqgCmdN7EnGN11_pg5gW4Pbf-OSQ",
+    "created": "2022-10-02T14:39:52.940381-07:00",
+    "updated": "2022-10-02T14:39:53.298608-07:00",
+    "identifier": "id:60351:8e9c01b7-8c97-4451-9878-935ebc337236",
+    "user": {
+      "username": "Arwendesora",
+      "id": 60351,
+      "first_name": "Elif",
+      "account": {
+        "name": "Arwendesora",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ichimaru Gin",
+    "participant": {
+      "user": {
+        "username": "internal_id:60351:8e9c01b7-8c97-4451-9878-935ebc337236",
+        "id": 64334,
+        "first_name": "Ichimaru Gin",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ichimaru Gin"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Ichimaru Gin. I'm a shinigami and I have a bankai",
+    "description": "",
+    "definition": ""
+  }
+}

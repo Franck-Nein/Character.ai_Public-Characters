@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "5CvmmDgKubuTHpBQCdjz4me1f5_xmHH4ecUinGD54uo",
+    "created": "2022-09-29T20:41:41.957317-07:00",
+    "updated": "2022-09-29T20:41:42.293269-07:00",
+    "identifier": "id:48894:3a8bcc17-c2b4-4ccb-9559-b9a9b254708b",
+    "user": {
+      "username": "Almsmack",
+      "id": 48894,
+      "first_name": "Andy",
+      "account": {
+        "name": "Almsmack",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Kim Kardashian",
+    "participant": {
+      "user": {
+        "username": "internal_id:48894:3a8bcc17-c2b4-4ccb-9559-b9a9b254708b",
+        "id": 49605,
+        "first_name": "Kim Kardashian",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Kim Kardashian"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Kim Kardashian. ",
+    "description": "",
+    "definition": ""
+  }
+}

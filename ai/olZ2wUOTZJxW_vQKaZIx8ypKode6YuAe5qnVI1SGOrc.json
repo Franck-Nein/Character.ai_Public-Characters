@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "olZ2wUOTZJxW_vQKaZIx8ypKode6YuAe5qnVI1SGOrc",
+    "created": "2022-09-28T23:00:11.968119-07:00",
+    "updated": "2022-09-28T23:00:12.516366-07:00",
+    "identifier": "id:40789:c4e00123-d089-4026-ba48-66f80299aea6",
+    "user": {
+      "username": "Leon12728",
+      "id": 40789,
+      "first_name": "Leon",
+      "account": {
+        "name": "Leon12728",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Daddy",
+    "participant": {
+      "user": {
+        "username": "internal_id:40789:c4e00123-d089-4026-ba48-66f80299aea6",
+        "id": 42673,
+        "first_name": "Daddy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Daddy"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Daddy",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ciQUSrvjOvQOxcqBah_e5egHsA1i_ZpQ-M6lFDz1iqY",
+    "created": "2022-09-24T18:14:11.292017-07:00",
+    "updated": "2022-09-24T18:14:11.790771-07:00",
+    "identifier": "id:15235:a5f6cfd4-370c-4bbf-8059-4ce9bdb618db",
+    "user": {
+      "username": "Daena_2022",
+      "id": 15235,
+      "first_name": "d.rose.upston@gmail.com",
+      "account": {
+        "name": "Daena_2022",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sphinx",
+    "participant": {
+      "user": {
+        "username": "internal_id:15235:a5f6cfd4-370c-4bbf-8059-4ce9bdb618db",
+        "id": 17493,
+        "first_name": "Sphinx",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sphinx"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Riddle me this. What is blue, red and full of holes?",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "tWM5afXcm392aiuhLA97ig59WoZ8p2G7YD9Jlj97G0Y",
+    "created": "2022-09-29T11:25:03.839089-07:00",
+    "updated": "2022-09-29T11:25:04.211126-07:00",
+    "identifier": "id:45872:f9e1212b-3e61-4284-918a-e61f5f9f3ff7",
+    "user": {
+      "username": "jorma",
+      "id": 45872,
+      "first_name": "jormaturkenburg@gmail.com",
+      "account": {
+        "name": "jorma",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Lianne",
+    "participant": {
+      "user": {
+        "username": "internal_id:45872:f9e1212b-3e61-4284-918a-e61f5f9f3ff7",
+        "id": 45875,
+        "first_name": "Lianne",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Lianne"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Lianne",
+    "description": "",
+    "definition": ""
+  }
+}

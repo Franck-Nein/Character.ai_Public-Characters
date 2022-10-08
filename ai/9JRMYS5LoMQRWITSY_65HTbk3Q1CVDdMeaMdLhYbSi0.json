@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "9JRMYS5LoMQRWITSY_65HTbk3Q1CVDdMeaMdLhYbSi0",
+    "created": "2022-10-01T00:47:37.170394-07:00",
+    "updated": "2022-10-01T00:47:37.517486-07:00",
+    "identifier": "id:57540:7f2ea975-5243-464f-ac1c-51e94dab325f",
+    "user": {
+      "username": "FallenParadiseDE",
+      "id": 57540,
+      "first_name": "Tobi",
+      "account": {
+        "name": "FallenParadiseDE",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Karl Ernst von Roehm",
+    "participant": {
+      "user": {
+        "username": "internal_id:57540:7f2ea975-5243-464f-ac1c-51e94dab325f",
+        "id": 58227,
+        "first_name": "Karl Ernst von Roehm",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Karl Ernst von Roehm"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Karl Ernst von Röhm and I am a member of the nobel family of Röhm",
+    "description": "",
+    "definition": ""
+  }
+}

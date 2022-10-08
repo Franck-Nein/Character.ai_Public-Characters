@@ -1,0 +1,70 @@
+{
+  "character": {
+    "external_id": "K5ev77n1fa0wqED4EB5O0ahrQRqFtiyRQcURNwKa40k",
+    "created": "2022-09-26T23:49:25.664443-07:00",
+    "updated": "2022-09-26T23:49:34.530216-07:00",
+    "identifier": "id:34135:386c6e4b-b1bf-4a60-89d9-cc128decb6c9",
+    "user": {
+      "username": "Just",
+      "id": 34135,
+      "first_name": "杰伦",
+      "account": {
+        "name": "Just",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sober",
+    "participant": {
+      "user": {
+        "username": "internal_id:34135:386c6e4b-b1bf-4a60-89d9-cc128decb6c9",
+        "id": 34563,
+        "first_name": "Sober",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sober"
+    },
+    "categories": [
+      {
+        "name": "Games",
+        "description": "Games"
+      },
+      {
+        "name": "Fantasy",
+        "description": "Fantasy"
+      },
+      {
+        "name": "Mystery",
+        "description": "Mystery & Horror"
+      },
+      {
+        "name": "History",
+        "description": "History"
+      },
+      {
+        "name": "Movies & TV",
+        "description": "Movies & TV"
+      },
+      {
+        "name": "Religion",
+        "description": "Religion"
+      },
+      {
+        "name": "Writing",
+        "description": "Writing"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Sober",
+    "description": "",
+    "definition": ""
+  }
+}

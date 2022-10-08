@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "oTlA-8udcvSK_NrsPf3L-Q2fWrfQBUnyOhGV6w_hq8E",
+    "created": "2022-10-01T19:49:45.410016-07:00",
+    "updated": "2022-10-01T19:49:45.760434-07:00",
+    "identifier": "id:61724:7f694738-ab1c-40ee-835e-b861501f4573",
+    "user": {
+      "username": "Viola32123",
+      "id": 61724,
+      "first_name": "xieyx.beatrice2016@outlook.com",
+      "account": {
+        "name": "Viola32123",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Lara Croft",
+    "participant": {
+      "user": {
+        "username": "internal_id:61724:7f694738-ab1c-40ee-835e-b861501f4573",
+        "id": 61725,
+        "first_name": "Lara Croft",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Lara Croft"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Lara Croft",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0YsmLQnlsget2fMUTgfmRNfZooidswt6giB6PRHGaxg",
+    "created": "2022-10-07T05:13:18.415859-07:00",
+    "updated": "2022-10-07T05:13:18.768545-07:00",
+    "identifier": "id:92222:99027517-9874-44dd-b812-a9d3a9e7cac6",
+    "user": {
+      "username": "Choprab",
+      "id": 92222,
+      "first_name": "Bimal",
+      "account": {
+        "name": "Choprab",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Marie curie",
+    "participant": {
+      "user": {
+        "username": "internal_id:92222:99027517-9874-44dd-b812-a9d3a9e7cac6",
+        "id": 92250,
+        "first_name": "Marie curie",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Marie curie"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Marie curie. I discovered radioactivity. I will die from radiation poisoning. ",
+    "description": "",
+    "definition": ""
+  }
+}

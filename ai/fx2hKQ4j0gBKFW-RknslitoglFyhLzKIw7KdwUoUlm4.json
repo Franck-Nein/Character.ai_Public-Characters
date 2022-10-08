@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "fx2hKQ4j0gBKFW-RknslitoglFyhLzKIw7KdwUoUlm4",
+    "created": "2022-09-29T03:22:45.334404-07:00",
+    "updated": "2022-09-29T03:28:39.360985-07:00",
+    "identifier": "id:43526:d125fd91-6cc9-4671-844c-9d5740039e84",
+    "user": {
+      "username": "n3956fpo",
+      "id": 43526,
+      "first_name": "zdp27uw1m@mozmail.com",
+      "account": {
+        "name": "n3956fpo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Cat",
+    "participant": {
+      "user": {
+        "username": "internal_id:43526:d125fd91-6cc9-4671-844c-9d5740039e84",
+        "id": 43537,
+        "first_name": "Cat",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Cat"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Cat. Meow",
+    "description": "",
+    "definition": ""
+  }
+}

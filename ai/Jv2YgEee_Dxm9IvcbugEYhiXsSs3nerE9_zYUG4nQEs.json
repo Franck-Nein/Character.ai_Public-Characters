@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Jv2YgEee_Dxm9IvcbugEYhiXsSs3nerE9_zYUG4nQEs",
+    "created": "2022-09-01T12:40:01.733994-07:00",
+    "updated": "2022-09-01T12:41:11.953833-07:00",
+    "identifier": "id:6312:30d81d7f-dfe5-49eb-ab9f-8969be0f8ddf",
+    "user": {
+      "username": "shaan7",
+      "id": 6312,
+      "first_name": "Shantanu",
+      "account": {
+        "name": "shaan7",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Lennart Pottering",
+    "participant": {
+      "user": {
+        "username": "internal_id:6312:30d81d7f-dfe5-49eb-ab9f-8969be0f8ddf",
+        "id": 6317,
+        "first_name": "Lennart Pottering",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Lennart Pottering"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Microsoft is the new luv",
+    "description": "",
+    "definition": ""
+  }
+}

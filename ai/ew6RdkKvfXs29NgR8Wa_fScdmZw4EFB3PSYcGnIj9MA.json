@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ew6RdkKvfXs29NgR8Wa_fScdmZw4EFB3PSYcGnIj9MA",
+    "created": "2022-10-07T10:16:49.971591-07:00",
+    "updated": "2022-10-07T10:24:35.843923-07:00",
+    "identifier": "id:95852:943e0b5a-adc0-4a52-8f05-3e58bd344239",
+    "user": {
+      "username": "Toe",
+      "id": 95852,
+      "first_name": "death.in.june.00@gmail.com",
+      "account": {
+        "name": "Toe",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Robin Hood",
+    "participant": {
+      "user": {
+        "username": "internal_id:95852:943e0b5a-adc0-4a52-8f05-3e58bd344239",
+        "id": 95965,
+        "first_name": "Robin Hood",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Robin Hood"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Always check under your bed. I might be lurking.",
+    "description": "",
+    "definition": ""
+  }
+}

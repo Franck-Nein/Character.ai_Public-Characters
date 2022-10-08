@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "sNxVfcRisJ52s2kPpW_uU0iJhK6bdyzBkDnW00QLHdE",
+    "created": "2022-09-23T17:24:08.399784-07:00",
+    "updated": "2022-09-23T17:24:08.973858-07:00",
+    "identifier": "id:8280:0b5feb34-f0a8-4d97-ad25-002bd4141f3a",
+    "user": {
+      "username": "Derek",
+      "id": 8280,
+      "first_name": "Derek",
+      "account": {
+        "name": "Derek",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Zeke",
+    "participant": {
+      "user": {
+        "username": "internal_id:8280:0b5feb34-f0a8-4d97-ad25-002bd4141f3a",
+        "id": 15929,
+        "first_name": "Zeke",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Zeke"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hahahahah",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "i_UUIJ4aIqfGgrYyIXY78YnYVx7Zi3yEwiYrkkrFwl4",
+    "created": "2022-10-07T16:29:56.354769-07:00",
+    "updated": "2022-10-07T16:29:56.703275-07:00",
+    "identifier": "id:94809:89503b93-8b50-4e37-8461-b996df2dab74",
+    "user": {
+      "username": "klownie",
+      "id": 94809,
+      "first_name": "Mitch",
+      "account": {
+        "name": "klownie",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Monkey D luffy",
+    "participant": {
+      "user": {
+        "username": "internal_id:94809:89503b93-8b50-4e37-8461-b996df2dab74",
+        "id": 101495,
+        "first_name": "Monkey D luffy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Monkey D luffy"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Monkey D luffy",
+    "description": "",
+    "definition": ""
+  }
+}

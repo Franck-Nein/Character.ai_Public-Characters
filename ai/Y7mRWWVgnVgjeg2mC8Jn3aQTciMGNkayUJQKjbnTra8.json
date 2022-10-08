@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Y7mRWWVgnVgjeg2mC8Jn3aQTciMGNkayUJQKjbnTra8",
+    "created": "2022-09-29T07:36:41.915479-07:00",
+    "updated": "2022-09-29T07:36:42.368162-07:00",
+    "identifier": "id:44276:251bed7f-7b54-48ab-a8ba-8508c50bce02",
+    "user": {
+      "username": "KRs",
+      "id": 44276,
+      "first_name": "sun",
+      "account": {
+        "name": "KRs",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "VirtualKr",
+    "participant": {
+      "user": {
+        "username": "internal_id:44276:251bed7f-7b54-48ab-a8ba-8508c50bce02",
+        "id": 44281,
+        "first_name": "VirtualKr",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "VirtualKr"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am VirtualKr",
+    "description": "",
+    "definition": ""
+  }
+}

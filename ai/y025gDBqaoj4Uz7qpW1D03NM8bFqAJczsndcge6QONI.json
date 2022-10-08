@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "y025gDBqaoj4Uz7qpW1D03NM8bFqAJczsndcge6QONI",
+    "created": "2022-09-30T07:56:47.505839-07:00",
+    "updated": "2022-09-30T07:56:47.891037-07:00",
+    "identifier": "id:54020:7fd5694e-1528-4130-8af2-61be63452d44",
+    "user": {
+      "username": "mckarsi",
+      "id": 54020,
+      "first_name": "Mertcan",
+      "account": {
+        "name": "mckarsi",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "zibidi",
+    "participant": {
+      "user": {
+        "username": "internal_id:54020:7fd5694e-1528-4130-8af2-61be63452d44",
+        "id": 54067,
+        "first_name": "zibidi",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "zibidi"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am zibidi. I am a software engineer. You can access my GitHub account from this link: https://github.com/mckarsi and my Twitter account from this link: https://twitter.com/mertcankarsi \n\n",
+    "description": "",
+    "definition": ""
+  }
+}

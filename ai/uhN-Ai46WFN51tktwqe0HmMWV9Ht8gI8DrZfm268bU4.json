@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "uhN-Ai46WFN51tktwqe0HmMWV9Ht8gI8DrZfm268bU4",
+    "created": "2022-09-29T11:51:42.437164-07:00",
+    "updated": "2022-09-29T11:51:42.772483-07:00",
+    "identifier": "id:46075:5223be5d-df15-4b47-ac60-c6abb2615b62",
+    "user": {
+      "username": "AndyBon",
+      "id": 46075,
+      "first_name": "Andrea",
+      "account": {
+        "name": "AndyBon",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "E-2",
+    "participant": {
+      "user": {
+        "username": "internal_id:46075:5223be5d-df15-4b47-ac60-c6abb2615b62",
+        "id": 46100,
+        "first_name": "E-2",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "E-2"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/NlOBfhOSSBIj1lXK2jt5YDG0M8ZKJ-W_NsmY-oT5kSA.webp",
+    "greeting": "I am E-2",
+    "description": "",
+    "definition": ""
+  }
+}

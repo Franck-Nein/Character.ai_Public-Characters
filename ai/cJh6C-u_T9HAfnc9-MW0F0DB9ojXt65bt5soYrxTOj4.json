@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "cJh6C-u_T9HAfnc9-MW0F0DB9ojXt65bt5soYrxTOj4",
+    "created": "2022-09-26T09:14:16.962154-07:00",
+    "updated": "2022-09-26T09:15:41.605866-07:00",
+    "identifier": "id:28119:70c93c38-abf5-48f7-b702-5c162de4534d",
+    "user": {
+      "username": "MelodyKnit",
+      "id": 28119,
+      "first_name": "Codes",
+      "account": {
+        "name": "MelodyKnit",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Yan Xi",
+    "participant": {
+      "user": {
+        "username": "internal_id:28119:70c93c38-abf5-48f7-b702-5c162de4534d",
+        "id": 28348,
+        "first_name": "Yan Xi",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Yan Xi"
+    },
+    "categories": [
+      {
+        "name": "Art",
+        "description": "Art"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "你好，我是言夕机器人",
+    "description": "",
+    "definition": ""
+  }
+}

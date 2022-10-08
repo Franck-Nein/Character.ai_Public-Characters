@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "HANcWrTp_ak8PED_CILKUvsbpxKFnsaLEYi2guIxJSU",
+    "created": "2022-09-29T08:58:10.349619-07:00",
+    "updated": "2022-09-29T09:05:05.190557-07:00",
+    "identifier": "id:44708:860818c8-8631-4e0f-bc84-132f22222d6c",
+    "user": {
+      "username": "wrboyce",
+      "id": 44708,
+      "first_name": "dearth.ragwort0l@icloud.com",
+      "account": {
+        "name": "wrboyce",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "I am Joe Bloggs, just an Average Joe.",
+    "name": "Joe Bloggs",
+    "participant": {
+      "user": {
+        "username": "internal_id:44708:860818c8-8631-4e0f-bc84-132f22222d6c",
+        "id": 44710,
+        "first_name": "Joe Bloggs",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Joe Bloggs"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi! I'm Joe, how are you?",
+    "description": "",
+    "definition": ""
+  }
+}

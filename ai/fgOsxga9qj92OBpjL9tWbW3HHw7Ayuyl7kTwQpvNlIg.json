@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "fgOsxga9qj92OBpjL9tWbW3HHw7Ayuyl7kTwQpvNlIg",
+    "created": "2022-09-26T19:55:05.540077-07:00",
+    "updated": "2022-09-26T19:55:14.231215-07:00",
+    "identifier": "id:31619:f8420dda-8698-4a60-a94f-649763f9bf25",
+    "user": {
+      "username": "BOLIANG",
+      "id": 31619,
+      "first_name": "BOKIANG",
+      "account": {
+        "name": "BOLIANG",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "tim",
+    "participant": {
+      "user": {
+        "username": "internal_id:31619:f8420dda-8698-4a60-a94f-649763f9bf25",
+        "id": 31719,
+        "first_name": "tim",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "tim"
+    },
+    "categories": [
+      {
+        "name": "Knowledge",
+        "description": "Knowledge & Research"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "hi,how are you",
+    "description": "",
+    "definition": ""
+  }
+}

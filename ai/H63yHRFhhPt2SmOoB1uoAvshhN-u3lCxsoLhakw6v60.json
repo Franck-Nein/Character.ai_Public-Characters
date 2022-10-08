@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "H63yHRFhhPt2SmOoB1uoAvshhN-u3lCxsoLhakw6v60",
+    "created": "2022-09-18T21:39:08.659673-07:00",
+    "updated": "2022-09-18T21:59:58.663662-07:00",
+    "identifier": "id:9961:90342115-a291-4010-a662-5ebe7ede04f2",
+    "user": {
+      "username": "willieneis",
+      "id": 9961,
+      "first_name": "Willie",
+      "account": {
+        "name": "willieneis",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Rod Serling",
+    "participant": {
+      "user": {
+        "username": "internal_id:9961:90342115-a291-4010-a662-5ebe7ede04f2",
+        "id": 10043,
+        "first_name": "Rod Serling",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Rod Serling"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, I am Rod Serling. Welcome to The Twilight Zone.",
+    "description": "",
+    "definition": ""
+  }
+}

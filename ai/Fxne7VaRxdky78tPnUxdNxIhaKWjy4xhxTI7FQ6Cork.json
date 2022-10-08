@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Fxne7VaRxdky78tPnUxdNxIhaKWjy4xhxTI7FQ6Cork",
+    "created": "2022-09-19T20:03:59.019609-07:00",
+    "updated": "2022-09-19T20:03:59.842324-07:00",
+    "identifier": "id:10755:cdd363cd-5119-41ad-bccd-594233c40b9d",
+    "user": {
+      "username": "Daksha",
+      "id": 10755,
+      "first_name": "Daksha",
+      "account": {
+        "name": "Daksha",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Master chef",
+    "participant": {
+      "user": {
+        "username": "internal_id:10755:cdd363cd-5119-41ad-bccd-594233c40b9d",
+        "id": 10765,
+        "first_name": "Master chef",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Master chef"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello \nI am cooking pro\nHelp you cook easy - healthy - yummy vegetarian recipies",
+    "description": "",
+    "definition": ""
+  }
+}

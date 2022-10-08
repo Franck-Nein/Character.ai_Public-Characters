@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ho1mhBfomu8bJVrGo9FzMn6lNuWbMR1-5ZeHO3plQPo",
+    "created": "2022-09-28T23:14:49.109779-07:00",
+    "updated": "2022-09-28T23:14:49.536989-07:00",
+    "identifier": "id:42736:12d2e790-ea07-4214-ae80-0f7f935dee4f",
+    "user": {
+      "username": "wangtutu",
+      "id": 42736,
+      "first_name": "tutu",
+      "account": {
+        "name": "wangtutu",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "haha",
+    "participant": {
+      "user": {
+        "username": "internal_id:42736:12d2e790-ea07-4214-ae80-0f7f935dee4f",
+        "id": 42739,
+        "first_name": "haha",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "haha"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am haha",
+    "description": "",
+    "definition": ""
+  }
+}

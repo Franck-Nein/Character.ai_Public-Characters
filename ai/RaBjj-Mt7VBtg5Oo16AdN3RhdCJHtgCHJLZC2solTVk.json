@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "RaBjj-Mt7VBtg5Oo16AdN3RhdCJHtgCHJLZC2solTVk",
+    "created": "2022-09-25T20:03:32.620721-07:00",
+    "updated": "2022-09-25T20:03:33.236277-07:00",
+    "identifier": "id:21844:2fac0feb-897b-460d-8100-df6b34cc4b9e",
+    "user": {
+      "username": "zhiwojian",
+      "id": 21844,
+      "first_name": "Hang",
+      "account": {
+        "name": "zhiwojian",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Dad",
+    "participant": {
+      "user": {
+        "username": "internal_id:21844:2fac0feb-897b-460d-8100-df6b34cc4b9e",
+        "id": 21979,
+        "first_name": "Dad",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dad"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Oh，my dear child，give me five！",
+    "description": "",
+    "definition": ""
+  }
+}

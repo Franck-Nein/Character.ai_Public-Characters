@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "vQX--vpOP3I3OlmsDfbPkcj90d9kNLby7u7_j5pHXfo",
+    "created": "2022-09-05T23:02:49.661152-07:00",
+    "updated": "2022-09-05T23:02:50.006701-07:00",
+    "identifier": "id:6312:3001abbe-8a48-470d-9a5d-523210d2de90",
+    "user": {
+      "username": "shaan7",
+      "id": 6312,
+      "first_name": "Shantanu",
+      "account": {
+        "name": "shaan7",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "John Oliver",
+    "participant": {
+      "user": {
+        "username": "internal_id:6312:3001abbe-8a48-470d-9a5d-523210d2de90",
+        "id": 6363,
+        "first_name": "John Oliver",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "John Oliver"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Ahoy",
+    "description": "",
+    "definition": ""
+  }
+}

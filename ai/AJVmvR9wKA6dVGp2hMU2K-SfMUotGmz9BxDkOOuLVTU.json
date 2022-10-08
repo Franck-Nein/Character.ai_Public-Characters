@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "AJVmvR9wKA6dVGp2hMU2K-SfMUotGmz9BxDkOOuLVTU",
+    "created": "2022-09-25T13:22:57.637351-07:00",
+    "updated": "2022-09-25T13:22:58.125332-07:00",
+    "identifier": "id:20400:105ba1a4-f05a-4235-b83d-aaf163f77970",
+    "user": {
+      "username": "Goatman",
+      "id": 20400,
+      "first_name": "Jack",
+      "account": {
+        "name": "Goatman",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Albert Entisein",
+    "participant": {
+      "user": {
+        "username": "internal_id:20400:105ba1a4-f05a-4235-b83d-aaf163f77970",
+        "id": 20455,
+        "first_name": "Albert Entisein",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Albert Entisein"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am am alpert entisien i am very smart and do math and stuff",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "cSuCRn6IQj9xW5g6LMSPoulrXTCwdvRkx-RJmP25LfY",
+    "created": "2022-09-26T06:31:36.184540-07:00",
+    "updated": "2022-09-26T06:31:36.849172-07:00",
+    "identifier": "id:26836:c7bb894a-482a-41da-a597-ab50d9185df7",
+    "user": {
+      "username": "btc_monkey",
+      "id": 26836,
+      "first_name": "btc_monkey",
+      "account": {
+        "name": "btc_monkey",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Trump",
+    "participant": {
+      "user": {
+        "username": "internal_id:26836:c7bb894a-482a-41da-a597-ab50d9185df7",
+        "id": 26955,
+        "first_name": "Trump",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Trump"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi, this is the ex-president, Trump.",
+    "description": "",
+    "definition": ""
+  }
+}

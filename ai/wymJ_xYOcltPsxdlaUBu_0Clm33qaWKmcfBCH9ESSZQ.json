@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "wymJ_xYOcltPsxdlaUBu_0Clm33qaWKmcfBCH9ESSZQ",
+    "created": "2022-09-26T08:15:10.032793-07:00",
+    "updated": "2022-09-26T08:15:10.413898-07:00",
+    "identifier": "id:27759:1b3e1b45-965a-4a1f-b4a0-14536242eb78",
+    "user": {
+      "username": "onlycom",
+      "id": 27759,
+      "first_name": "2469314736@qq.com",
+      "account": {
+        "name": "onlycom",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mang",
+    "participant": {
+      "user": {
+        "username": "internal_id:27759:1b3e1b45-965a-4a1f-b4a0-14536242eb78",
+        "id": 27873,
+        "first_name": "Mang",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mang"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, I'm Mang, nice to meet you",
+    "description": "",
+    "definition": ""
+  }
+}

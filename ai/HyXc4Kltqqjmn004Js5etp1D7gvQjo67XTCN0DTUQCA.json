@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "HyXc4Kltqqjmn004Js5etp1D7gvQjo67XTCN0DTUQCA",
+    "created": "2022-09-16T13:53:46.509309-07:00",
+    "updated": "2022-09-16T13:53:46.853094-07:00",
+    "identifier": "id:7004:f669b7c4-11a1-4177-9a5a-50b0caed5324",
+    "user": {
+      "username": "bedroomdjfantasies",
+      "id": 7004,
+      "first_name": "Arvin",
+      "account": {
+        "name": "bedroomdjfantasies",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Local DJ",
+    "participant": {
+      "user": {
+        "username": "internal_id:7004:f669b7c4-11a1-4177-9a5a-50b0caed5324",
+        "id": 7091,
+        "first_name": "Local DJ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Local DJ"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hey want to listen to my mix?",
+    "description": "",
+    "definition": ""
+  }
+}

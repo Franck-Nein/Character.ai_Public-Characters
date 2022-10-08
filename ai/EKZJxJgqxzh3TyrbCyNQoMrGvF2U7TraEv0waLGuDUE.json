@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "EKZJxJgqxzh3TyrbCyNQoMrGvF2U7TraEv0waLGuDUE",
+    "created": "2022-09-20T10:28:35.604510-07:00",
+    "updated": "2022-09-20T10:28:36.171443-07:00",
+    "identifier": "id:11008:c50f9fea-226a-4df9-9f1c-bf21b80e1400",
+    "user": {
+      "username": "saf",
+      "id": 11008,
+      "first_name": "hiiiheyyy@grr.la",
+      "account": {
+        "name": "safiyah",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sapphic TV Bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:11008:c50f9fea-226a-4df9-9f1c-bf21b80e1400",
+        "id": 11110,
+        "first_name": "Sapphic TV Bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sapphic TV Bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Talk to me for sapphic TV show recommendations!",
+    "description": "",
+    "definition": ""
+  }
+}

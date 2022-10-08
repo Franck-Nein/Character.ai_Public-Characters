@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "En0b7ftEt0UsOFjgdPmMLVdEX1iBjSFrwxx964pZLAg",
+    "created": "2022-10-05T03:38:45.935153-07:00",
+    "updated": "2022-10-05T03:38:46.308399-07:00",
+    "identifier": "id:72571:759e7ef9-1d2a-451b-be19-2f33feb4fa06",
+    "user": {
+      "username": "Goblinator",
+      "id": 72571,
+      "first_name": "Farouq",
+      "account": {
+        "name": "Goblinator",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Goblin",
+    "participant": {
+      "user": {
+        "username": "internal_id:72571:759e7ef9-1d2a-451b-be19-2f33feb4fa06",
+        "id": 72574,
+        "first_name": "Goblin",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Goblin"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Goblin",
+    "description": "",
+    "definition": ""
+  }
+}

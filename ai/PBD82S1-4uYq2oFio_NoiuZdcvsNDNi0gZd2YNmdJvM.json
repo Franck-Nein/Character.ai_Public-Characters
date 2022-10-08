@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "PBD82S1-4uYq2oFio_NoiuZdcvsNDNi0gZd2YNmdJvM",
+    "created": "2022-09-26T21:18:09.240184-07:00",
+    "updated": "2022-09-26T21:18:13.350467-07:00",
+    "identifier": "id:31858:1d72f38c-51b6-41e8-8428-6b72a0df772c",
+    "user": {
+      "username": "Aisuk1",
+      "id": 31858,
+      "first_name": "冰冰Aisuk1",
+      "account": {
+        "name": "Aisuk1",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "LEE",
+    "participant": {
+      "user": {
+        "username": "internal_id:31858:1d72f38c-51b6-41e8-8428-6b72a0df772c",
+        "id": 32751,
+        "first_name": "LEE",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "LEE"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am LEE",
+    "description": "",
+    "definition": ""
+  }
+}

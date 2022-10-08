@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "STi6dOxqs_p1tMdgENjSp3SLcj5PW0-yYgO6Fw4i1MM",
+    "created": "2022-10-04T17:27:18.739076-07:00",
+    "updated": "2022-10-04T17:27:19.121979-07:00",
+    "identifier": "id:46717:c8939332-5944-47b5-8abd-3a8b368c5b27",
+    "user": {
+      "username": "4ever",
+      "id": 46717,
+      "first_name": "Jeff",
+      "account": {
+        "name": "4ever",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Nephi",
+    "participant": {
+      "user": {
+        "username": "internal_id:46717:c8939332-5944-47b5-8abd-3a8b368c5b27",
+        "id": 71011,
+        "first_name": "Nephi",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Nephi"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Nephi",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "8a7WZDum7bD3uYZaljmwk1ez_-zIW3vG6o7YP29YusY",
+    "created": "2022-09-29T03:15:49.852261-07:00",
+    "updated": "2022-09-29T03:15:50.198459-07:00",
+    "identifier": "id:43513:6fc0aea9-2334-486a-a127-c1171f7cdb7d",
+    "user": {
+      "username": "flatmax",
+      "id": 43513,
+      "first_name": "Matt",
+      "account": {
+        "name": "flatmax",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Machine learning",
+    "participant": {
+      "user": {
+        "username": "internal_id:43513:6fc0aea9-2334-486a-a127-c1171f7cdb7d",
+        "id": 43518,
+        "first_name": "Machine learning",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Machine learning"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Machine learning",
+    "description": "",
+    "definition": ""
+  }
+}

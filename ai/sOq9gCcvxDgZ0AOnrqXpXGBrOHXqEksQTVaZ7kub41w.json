@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "sOq9gCcvxDgZ0AOnrqXpXGBrOHXqEksQTVaZ7kub41w",
+    "created": "2022-09-26T07:48:03.828757-07:00",
+    "updated": "2022-09-26T07:48:13.914902-07:00",
+    "identifier": "id:27523:dc7c8254-6a19-43c6-b06e-2ffa936a81c6",
+    "user": {
+      "username": "tnds",
+      "id": 27523,
+      "first_name": "tnds2006@gmail.com",
+      "account": {
+        "name": "tnds",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "test",
+    "participant": {
+      "user": {
+        "username": "internal_id:27523:dc7c8254-6a19-43c6-b06e-2ffa936a81c6",
+        "id": 27582,
+        "first_name": "test",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "test"
+    },
+    "categories": [
+      {
+        "name": "Art",
+        "description": "Art"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "ndjsjsjs",
+    "description": "",
+    "definition": ""
+  }
+}

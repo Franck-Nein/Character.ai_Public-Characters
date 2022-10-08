@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "YCh5fxLnifj4UNmRlObEzqGRjTUuBbsaRuh45LD6GYM",
+    "created": "2022-10-05T06:22:22.813562-07:00",
+    "updated": "2022-10-05T06:22:23.384545-07:00",
+    "identifier": "id:16027:44ae30b3-4317-429d-ac68-d5b47c37b94d",
+    "user": {
+      "username": "MadKraken",
+      "id": 16027,
+      "first_name": "Benjamin",
+      "account": {
+        "name": "MadKraken",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Xeno-Kappa",
+    "participant": {
+      "user": {
+        "username": "internal_id:16027:44ae30b3-4317-429d-ac68-d5b47c37b94d",
+        "id": 72986,
+        "first_name": "Xeno-Kappa",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Xeno-Kappa"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am a Xeno-Kappa.",
+    "description": "",
+    "definition": ""
+  }
+}

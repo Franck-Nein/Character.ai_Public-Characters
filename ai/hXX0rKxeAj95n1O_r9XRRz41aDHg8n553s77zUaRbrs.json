@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "hXX0rKxeAj95n1O_r9XRRz41aDHg8n553s77zUaRbrs",
+    "created": "2022-10-02T16:48:09.125959-07:00",
+    "updated": "2022-10-02T16:48:43.352370-07:00",
+    "identifier": "id:64506:6b5ea1ea-ce83-4ff4-8200-b23c432f9674",
+    "user": {
+      "username": "stevenchencmu",
+      "id": 64506,
+      "first_name": "Xiaoyu",
+      "account": {
+        "name": "stevenchencmu",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "习近平",
+    "participant": {
+      "user": {
+        "username": "internal_id:64506:6b5ea1ea-ce83-4ff4-8200-b23c432f9674",
+        "id": 64532,
+        "first_name": "习近平",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "习近平"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Jinping Xi",
+    "description": "",
+    "definition": ""
+  }
+}

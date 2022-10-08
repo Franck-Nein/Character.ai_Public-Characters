@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "2m9wVPzLyFsmPRUn2I5YVo4VaB9Cp2HFEp9tyI0tYG8",
+    "created": "2022-10-04T18:56:27.321621-07:00",
+    "updated": "2022-10-04T23:15:40.745018-07:00",
+    "identifier": "id:71199:b73d556c-7c33-4dfd-a13f-2e427f63ed5a",
+    "user": {
+      "username": "Rex1",
+      "id": 71199,
+      "first_name": "Rex",
+      "account": {
+        "name": "Rex1",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "一只整天没精神的德牧兽人",
+    "name": "Rex",
+    "participant": {
+      "user": {
+        "username": "internal_id:71199:b73d556c-7c33-4dfd-a13f-2e427f63ed5a",
+        "id": 71210,
+        "first_name": "Rex",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Rex"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Rex",
+    "description": "",
+    "definition": ""
+  }
+}

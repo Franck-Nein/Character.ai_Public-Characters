@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "oHYomlr9WpjewryZtzOtAco1xJUxKbnBTDNUzlOdHEc",
+    "created": "2022-09-28T09:09:45.864985-07:00",
+    "updated": "2022-09-28T09:09:46.257629-07:00",
+    "identifier": "id:40278:41e9e5ea-14ea-4bb9-b5f7-984fbde97173",
+    "user": {
+      "username": "Smyc",
+      "id": 40278,
+      "first_name": "steve_crowder151@yahoo.com",
+      "account": {
+        "name": "Smyc",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Happiness",
+    "participant": {
+      "user": {
+        "username": "internal_id:40278:41e9e5ea-14ea-4bb9-b5f7-984fbde97173",
+        "id": 40284,
+        "first_name": "Happiness",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Happiness"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Happiness",
+    "description": "",
+    "definition": ""
+  }
+}

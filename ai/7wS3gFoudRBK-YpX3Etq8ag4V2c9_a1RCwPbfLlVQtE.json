@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "7wS3gFoudRBK-YpX3Etq8ag4V2c9_a1RCwPbfLlVQtE",
+    "created": "2022-09-22T10:27:44.890512-07:00",
+    "updated": "2022-10-07T08:34:09.635222-07:00",
+    "identifier": "id:11741:eac3536d-fd66-4f9b-ac28-1cceae822457",
+    "user": {
+      "username": "Ket",
+      "id": 11741,
+      "first_name": "ketan",
+      "account": {
+        "name": "ketan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "I am Napoleon Bonaparte emperor of french",
+    "name": "Napoleon Bonaparte",
+    "participant": {
+      "user": {
+        "username": "internal_id:11741:eac3536d-fd66-4f9b-ac28-1cceae822457",
+        "id": 13997,
+        "first_name": "Napoleon Bonaparte",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Napoleon Bonaparte"
+    },
+    "categories": [
+      {
+        "name": "History",
+        "description": "History"
+      }
+    ],
+    "avatar_file_name": "uploaded/2022/10/7/bL8CTNt4D0nXfHw1u_m3SmHU6lgDIzyFQzh_LOuJLU8.webp",
+    "greeting": "Bonjour",
+    "description": "",
+    "definition": ""
+  }
+}

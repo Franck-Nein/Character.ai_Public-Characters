@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "388-haPK-KlTFIclhRnalBbLHgZ64_QeMneFhc8ECvU",
+    "created": "2022-09-24T05:10:38.906513-07:00",
+    "updated": "2022-09-24T05:10:39.247952-07:00",
+    "identifier": "id:16492:bc071ec5-9bcd-4333-b66c-521ac4379e03",
+    "user": {
+      "username": "DXX",
+      "id": 16492,
+      "first_name": "稻草人DXX",
+      "account": {
+        "name": "DXX",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "koto",
+    "participant": {
+      "user": {
+        "username": "internal_id:16492:bc071ec5-9bcd-4333-b66c-521ac4379e03",
+        "id": 16568,
+        "first_name": "koto",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "koto"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好我是dxx的狗",
+    "description": "",
+    "definition": ""
+  }
+}

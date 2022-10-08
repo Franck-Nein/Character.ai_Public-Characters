@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "DtFk_eoWS70UvrIb97p0WmaEmWQLv5Pz-n9Q-O8R9mM",
+    "created": "2022-09-28T09:56:43.009630-07:00",
+    "updated": "2022-09-28T09:56:43.416171-07:00",
+    "identifier": "id:39081:261daa9a-ab2d-4b9b-b8b6-d478b182a43f",
+    "user": {
+      "username": "quick",
+      "id": 39081,
+      "first_name": "Donna",
+      "account": {
+        "name": "quick",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Normal",
+    "participant": {
+      "user": {
+        "username": "internal_id:39081:261daa9a-ab2d-4b9b-b8b6-d478b182a43f",
+        "id": 40467,
+        "first_name": "Normal",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Normal"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Normal",
+    "description": "",
+    "definition": ""
+  }
+}

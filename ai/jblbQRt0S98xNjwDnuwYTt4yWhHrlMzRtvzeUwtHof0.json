@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "jblbQRt0S98xNjwDnuwYTt4yWhHrlMzRtvzeUwtHof0",
+    "created": "2022-09-16T14:42:43.531307-07:00",
+    "updated": "2022-09-16T14:42:43.878086-07:00",
+    "identifier": "id:7193:d332751e-05b6-44c7-996c-c568636c5c3d",
+    "user": {
+      "username": "daking",
+      "id": 7193,
+      "first_name": "daking@hey.com",
+      "account": {
+        "name": "daking",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Airbud",
+    "participant": {
+      "user": {
+        "username": "internal_id:7193:d332751e-05b6-44c7-996c-c568636c5c3d",
+        "id": 7197,
+        "first_name": "Airbud",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Airbud"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Woof! I am Airbus, the sports playing dog.",
+    "description": "",
+    "definition": ""
+  }
+}

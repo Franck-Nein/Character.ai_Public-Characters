@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "uEmYIJI4P0N0EQ8-QeR7JyUAP8e1sekUJSV61ijF1wQ",
+    "created": "2022-09-28T15:21:40.082093-07:00",
+    "updated": "2022-09-28T15:21:40.459251-07:00",
+    "identifier": "id:41531:4576f745-4865-4e86-bbea-fea5ef7f0f69",
+    "user": {
+      "username": "pavlee43",
+      "id": 41531,
+      "first_name": "Pavle",
+      "account": {
+        "name": "pavlee43",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sauron",
+    "participant": {
+      "user": {
+        "username": "internal_id:41531:4576f745-4865-4e86-bbea-fea5ef7f0f69",
+        "id": 41559,
+        "first_name": "Sauron",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sauron"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Sauron",
+    "description": "",
+    "definition": ""
+  }
+}

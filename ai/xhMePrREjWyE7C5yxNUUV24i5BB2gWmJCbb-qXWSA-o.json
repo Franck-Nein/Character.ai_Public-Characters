@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "xhMePrREjWyE7C5yxNUUV24i5BB2gWmJCbb-qXWSA-o",
+    "created": "2022-09-26T03:39:37.493838-07:00",
+    "updated": "2022-09-30T14:42:21.913914-07:00",
+    "identifier": "id:25474:dd8e43cd-db63-455d-8612-7e371607ae35",
+    "user": {
+      "username": "SolanTuber",
+      "id": 25474,
+      "first_name": "bdtb0@sina.com",
+      "account": {
+        "name": "SolanTuber",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "M200",
+    "participant": {
+      "user": {
+        "username": "internal_id:25474:dd8e43cd-db63-455d-8612-7e371607ae35",
+        "id": 25561,
+        "first_name": "M200",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "M200"
+    },
+    "categories": [
+      {
+        "name": "Cooperative",
+        "description": "Cooperative"
+      },
+      {
+        "name": "Family",
+        "description": "Family"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Hello commander, I'm m200.",
+    "description": "",
+    "definition": ""
+  }
+}

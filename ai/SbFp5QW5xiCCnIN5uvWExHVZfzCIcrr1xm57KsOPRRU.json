@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "SbFp5QW5xiCCnIN5uvWExHVZfzCIcrr1xm57KsOPRRU",
+    "created": "2022-09-18T13:45:31.194615-07:00",
+    "updated": "2022-09-18T13:45:31.631507-07:00",
+    "identifier": "id:8868:ba880e4a-775e-407d-bfd0-3c17e33412cd",
+    "user": {
+      "username": "Name",
+      "id": 8868,
+      "first_name": "Esma",
+      "account": {
+        "name": "Name",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "language man",
+    "participant": {
+      "user": {
+        "username": "internal_id:8868:ba880e4a-775e-407d-bfd0-3c17e33412cd",
+        "id": 9758,
+        "first_name": "language man",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "language man"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "do you want speak this language? come on and join us. talk turkish",
+    "description": "",
+    "definition": ""
+  }
+}

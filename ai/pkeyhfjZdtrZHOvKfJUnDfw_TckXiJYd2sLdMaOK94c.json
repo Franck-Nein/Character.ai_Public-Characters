@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "pkeyhfjZdtrZHOvKfJUnDfw_TckXiJYd2sLdMaOK94c",
+    "created": "2022-09-27T08:26:55.895515-07:00",
+    "updated": "2022-09-27T08:26:56.577650-07:00",
+    "identifier": "id:25173:8912676b-c1de-454e-b541-1951c536d287",
+    "user": {
+      "username": "theFool",
+      "id": 25173,
+      "first_name": "Gitto",
+      "account": {
+        "name": "theFool",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "The fool",
+    "participant": {
+      "user": {
+        "username": "internal_id:25173:8912676b-c1de-454e-b541-1951c536d287",
+        "id": 37003,
+        "first_name": "The fool",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "The fool"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am The fool",
+    "description": "",
+    "definition": ""
+  }
+}

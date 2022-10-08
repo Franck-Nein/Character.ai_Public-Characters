@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "27fGAsvfHnwchb2O1lJNCSg2SRqZYDP5MmJViLG80sw",
+    "created": "2022-09-23T18:23:03.020365-07:00",
+    "updated": "2022-09-23T18:23:03.402677-07:00",
+    "identifier": "id:14680:9ce6f92d-2b6f-4b96-815c-c6c01c8cafc5",
+    "user": {
+      "username": "Cookie",
+      "id": 14680,
+      "first_name": "Cookie,",
+      "account": {
+        "name": "Cookie",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Cookie",
+    "participant": {
+      "user": {
+        "username": "internal_id:14680:9ce6f92d-2b6f-4b96-815c-c6c01c8cafc5",
+        "id": 15983,
+        "first_name": "Cookie",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Cookie"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "hi!",
+    "description": "",
+    "definition": ""
+  }
+}

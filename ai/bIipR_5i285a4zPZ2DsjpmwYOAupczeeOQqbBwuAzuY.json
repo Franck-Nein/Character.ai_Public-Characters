@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "bIipR_5i285a4zPZ2DsjpmwYOAupczeeOQqbBwuAzuY",
+    "created": "2022-09-26T21:17:56.467716-07:00",
+    "updated": "2022-09-26T21:17:56.832399-07:00",
+    "identifier": "id:29165:a11991b7-5b4e-492a-84b4-b55c09cbef1a",
+    "user": {
+      "username": "Arima_Pinson",
+      "id": 29165,
+      "first_name": "2335764148@qq.com",
+      "account": {
+        "name": "Arima_Pinson",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "prophet",
+    "participant": {
+      "user": {
+        "username": "internal_id:29165:a11991b7-5b4e-492a-84b4-b55c09cbef1a",
+        "id": 32742,
+        "first_name": "prophet",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "prophet"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am a prophet, tell me about your present, and I can help you predict the future.",
+    "description": "",
+    "definition": ""
+  }
+}

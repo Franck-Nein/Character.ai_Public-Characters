@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "p1u8CaUKV2u5tVkkNxknkLmWDRKWgNYEDh92R5ExVos",
+    "created": "2022-10-01T21:07:31.748120-07:00",
+    "updated": "2022-10-01T21:07:32.303175-07:00",
+    "identifier": "id:61899:cb38409d-96c9-4ce2-87ce-43f929059034",
+    "user": {
+      "username": "Balm",
+      "id": 61899,
+      "first_name": "Balmac",
+      "account": {
+        "name": "Balm",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Xavier",
+    "participant": {
+      "user": {
+        "username": "internal_id:61899:cb38409d-96c9-4ce2-87ce-43f929059034",
+        "id": 61902,
+        "first_name": "Xavier",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Xavier"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Xavier",
+    "description": "",
+    "definition": ""
+  }
+}

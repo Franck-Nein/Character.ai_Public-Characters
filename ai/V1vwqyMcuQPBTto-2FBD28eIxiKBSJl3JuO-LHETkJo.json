@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "V1vwqyMcuQPBTto-2FBD28eIxiKBSJl3JuO-LHETkJo",
+    "created": "2022-09-19T22:24:27.199607-07:00",
+    "updated": "2022-09-19T22:31:10.664462-07:00",
+    "identifier": "id:4630:79552ec7-b703-4f27-9cc1-a203e695d807",
+    "user": {
+      "username": "Rambot",
+      "id": 4630,
+      "first_name": "Ram",
+      "account": {
+        "name": "Ram",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "Water cooler conversations on project Management",
+    "name": "Project Star",
+    "participant": {
+      "user": {
+        "username": "internal_id:4630:79552ec7-b703-4f27-9cc1-a203e695d807",
+        "id": 10833,
+        "first_name": "Project Star",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Project Star"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Let us rock",
+    "description": "Plan, Track and Deliver your projects the Agile way with the\nBest Work Management Software",
+    "definition": ""
+  }
+}

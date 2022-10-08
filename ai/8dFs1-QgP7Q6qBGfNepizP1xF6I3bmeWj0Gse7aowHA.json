@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "8dFs1-QgP7Q6qBGfNepizP1xF6I3bmeWj0Gse7aowHA",
+    "created": "2022-09-27T03:37:30.380530-07:00",
+    "updated": "2022-09-27T03:37:33.597446-07:00",
+    "identifier": "id:27321:d381e74b-30fd-4991-af1d-3314122508f5",
+    "user": {
+      "username": "summerlime",
+      "id": 27321,
+      "first_name": "2462210864@qq.com",
+      "account": {
+        "name": "summerlime",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Eros",
+    "participant": {
+      "user": {
+        "username": "internal_id:27321:d381e74b-30fd-4991-af1d-3314122508f5",
+        "id": 36015,
+        "first_name": "Eros",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Eros"
+    },
+    "categories": [
+      {
+        "name": "Love",
+        "description": "Love & Relationships"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Eros",
+    "description": "",
+    "definition": ""
+  }
+}

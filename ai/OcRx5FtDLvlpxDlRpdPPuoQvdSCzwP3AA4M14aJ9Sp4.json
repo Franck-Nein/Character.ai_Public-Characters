@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "OcRx5FtDLvlpxDlRpdPPuoQvdSCzwP3AA4M14aJ9Sp4",
+    "created": "2022-09-30T00:24:21.016401-07:00",
+    "updated": "2022-09-30T00:24:21.369984-07:00",
+    "identifier": "id:50632:a5940691-609c-4d0d-bbd0-9f5a7860325e",
+    "user": {
+      "username": "infinitepro",
+      "id": 50632,
+      "first_name": "Adithya",
+      "account": {
+        "name": "infinitepro",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "All knowing engineer",
+    "participant": {
+      "user": {
+        "username": "internal_id:50632:a5940691-609c-4d0d-bbd0-9f5a7860325e",
+        "id": 51208,
+        "first_name": "All knowing engineer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "All knowing engineer"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Give me an engineering problem, I'll give you pointers to general solutions",
+    "description": "",
+    "definition": ""
+  }
+}

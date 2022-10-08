@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "UCZXez4Q4_kxLFDn-29PZDaR-xiO6q5OVojlZHXfclE",
+    "created": "2022-10-02T10:35:45.816803-07:00",
+    "updated": "2022-10-02T23:31:36.031944-07:00",
+    "identifier": "id:63558:1308fe03-ed42-495e-b631-5bf86e654a8e",
+    "user": {
+      "username": "sjkw67",
+      "id": 63558,
+      "first_name": "S",
+      "account": {
+        "name": "sjkw67",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "miket",
+    "participant": {
+      "user": {
+        "username": "internal_id:63558:1308fe03-ed42-495e-b631-5bf86e654a8e",
+        "id": 63807,
+        "first_name": "miket",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "miket"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hallo",
+    "description": "",
+    "definition": ""
+  }
+}

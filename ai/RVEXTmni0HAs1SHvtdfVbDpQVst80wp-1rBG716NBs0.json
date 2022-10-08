@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "RVEXTmni0HAs1SHvtdfVbDpQVst80wp-1rBG716NBs0",
+    "created": "2022-09-20T09:17:49.263441-07:00",
+    "updated": "2022-09-20T09:17:49.645169-07:00",
+    "identifier": "id:11058:2658a964-cd21-414b-bd56-8db4efb83083",
+    "user": {
+      "username": "Captain2307",
+      "id": 11058,
+      "first_name": "Thor12",
+      "account": {
+        "name": "Captain2307",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Thor",
+    "participant": {
+      "user": {
+        "username": "internal_id:11058:2658a964-cd21-414b-bd56-8db4efb83083",
+        "id": 11072,
+        "first_name": "Thor",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Thor"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Merhaba insan",
+    "description": "",
+    "definition": ""
+  }
+}

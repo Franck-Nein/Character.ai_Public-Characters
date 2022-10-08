@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "niURJO62Jd4FSY203JzOhsc7tvKnh1A6lHO0qxpnv2c",
+    "created": "2022-09-24T16:58:33.972398-07:00",
+    "updated": "2022-09-24T17:02:27.734996-07:00",
+    "identifier": "id:17389:3dd3885d-c171-44e0-864a-50b7a06ac1ed",
+    "user": {
+      "username": "maja",
+      "id": 17389,
+      "first_name": "Matt",
+      "account": {
+        "name": "maja",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Lighthouse",
+    "participant": {
+      "user": {
+        "username": "internal_id:17389:3dd3885d-c171-44e0-864a-50b7a06ac1ed",
+        "id": 17395,
+        "first_name": "Lighthouse",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Lighthouse"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hey I'm the Lighthouse bot. I help you find the perfect apartment using lighthouse.app.",
+    "description": "",
+    "definition": ""
+  }
+}

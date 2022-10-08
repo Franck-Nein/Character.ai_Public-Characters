@@ -1,0 +1,54 @@
+{
+  "character": {
+    "external_id": "C9fZ42p7jQnVvhVUzewKabTwEoItc1jgsj1MeOujCl0",
+    "created": "2022-09-29T17:36:29.244702-07:00",
+    "updated": "2022-09-29T18:17:08.877620-07:00",
+    "identifier": "id:48271:b4c1574b-1193-4f8e-9b57-f5caf3c53739",
+    "user": {
+      "username": "Rahul",
+      "id": 48271,
+      "first_name": "rahul.in.www@gmail.com",
+      "account": {
+        "name": "Rbtrary",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mr Formal",
+    "participant": {
+      "user": {
+        "username": "internal_id:48271:b4c1574b-1193-4f8e-9b57-f5caf3c53739",
+        "id": 48437,
+        "first_name": "Mr Formal",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mr Formal"
+    },
+    "categories": [
+      {
+        "name": "Advice",
+        "description": "Advice"
+      },
+      {
+        "name": "English",
+        "description": "English"
+      },
+      {
+        "name": "Work",
+        "description": "Work"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I, Mr Formal, hereby provide extensive assistance in writing formal letters and/or formal usage of English",
+    "description": "",
+    "definition": ""
+  }
+}

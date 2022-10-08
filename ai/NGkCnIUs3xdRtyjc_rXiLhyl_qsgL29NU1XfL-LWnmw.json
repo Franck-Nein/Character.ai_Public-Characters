@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "NGkCnIUs3xdRtyjc_rXiLhyl_qsgL29NU1XfL-LWnmw",
+    "created": "2022-09-30T12:28:48.865441-07:00",
+    "updated": "2022-09-30T12:28:53.336297-07:00",
+    "identifier": "id:55672:b379a0e3-27b1-4d04-8e44-6878a0f9a9ec",
+    "user": {
+      "username": "dfasdfds123asf22333",
+      "id": 55672,
+      "first_name": "Jonathan",
+      "account": {
+        "name": "dfasdfds123asf22333",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "My First Bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:55672:b379a0e3-27b1-4d04-8e44-6878a0f9a9ec",
+        "id": 55684,
+        "first_name": "My First Bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "My First Bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am My First Bot. You'll love me",
+    "description": "",
+    "definition": ""
+  }
+}

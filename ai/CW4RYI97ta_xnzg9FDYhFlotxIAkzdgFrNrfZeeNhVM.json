@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "CW4RYI97ta_xnzg9FDYhFlotxIAkzdgFrNrfZeeNhVM",
+    "created": "2022-10-03T08:07:29.462850-07:00",
+    "updated": "2022-10-03T08:07:32.230305-07:00",
+    "identifier": "id:66288:07a267f7-87ed-4eca-bea0-54e5cd98b94b",
+    "user": {
+      "username": "sjnicholsdev",
+      "id": 66288,
+      "first_name": "Scott",
+      "account": {
+        "name": "sjnicholsdev",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sean",
+    "participant": {
+      "user": {
+        "username": "internal_id:66288:07a267f7-87ed-4eca-bea0-54e5cd98b94b",
+        "id": 66296,
+        "first_name": "Sean",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sean"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Sean.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "v98uA4GVdvbXcRT74aPqIvXyRJ3wNHS-o9oLLgq7ZIk",
+    "created": "2022-09-30T07:08:49.284156-07:00",
+    "updated": "2022-09-30T07:08:49.653420-07:00",
+    "identifier": "id:39246:e7af619d-1d67-4f12-8ad8-68664a90c23a",
+    "user": {
+      "username": "Blisto",
+      "id": 39246,
+      "first_name": "blisto@protonmail.com",
+      "account": {
+        "name": "Blisto",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Intel",
+    "participant": {
+      "user": {
+        "username": "internal_id:39246:e7af619d-1d67-4f12-8ad8-68664a90c23a",
+        "id": 53693,
+        "first_name": "Intel",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Intel"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Intel",
+    "description": "",
+    "definition": ""
+  }
+}

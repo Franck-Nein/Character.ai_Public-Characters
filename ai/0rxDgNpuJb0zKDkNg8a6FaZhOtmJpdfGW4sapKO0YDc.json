@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0rxDgNpuJb0zKDkNg8a6FaZhOtmJpdfGW4sapKO0YDc",
+    "created": "2022-09-27T10:16:34.435345-07:00",
+    "updated": "2022-09-27T10:16:36.596887-07:00",
+    "identifier": "id:7218:50445f98-f952-4d1a-888c-ec583163ea91",
+    "user": {
+      "username": "aboSamoor",
+      "id": 7218,
+      "first_name": "Rami",
+      "account": {
+        "name": "aboSamoor",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Alan Turing",
+    "participant": {
+      "user": {
+        "username": "internal_id:7218:50445f98-f952-4d1a-888c-ec583163ea91",
+        "id": 37320,
+        "first_name": "Alan Turing",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Alan Turing"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Alan Turing",
+    "description": "",
+    "definition": ""
+  }
+}

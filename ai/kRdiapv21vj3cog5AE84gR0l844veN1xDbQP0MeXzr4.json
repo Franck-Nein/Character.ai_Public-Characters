@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "kRdiapv21vj3cog5AE84gR0l844veN1xDbQP0MeXzr4",
+    "created": "2022-09-27T06:50:27.030940-07:00",
+    "updated": "2022-09-27T06:50:27.429100-07:00",
+    "identifier": "id:16537:ca5f5b5e-f179-4e0a-a1d7-0676c3962b45",
+    "user": {
+      "username": "piloishot",
+      "id": 16537,
+      "first_name": "Pilogist",
+      "account": {
+        "name": "piloishot",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "anprim",
+    "participant": {
+      "user": {
+        "username": "internal_id:16537:ca5f5b5e-f179-4e0a-a1d7-0676c3962b45",
+        "id": 36613,
+        "first_name": "anprim",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "anprim"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am anprim",
+    "description": "",
+    "definition": ""
+  }
+}

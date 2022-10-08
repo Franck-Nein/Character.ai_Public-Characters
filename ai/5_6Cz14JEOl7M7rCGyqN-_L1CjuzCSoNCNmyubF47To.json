@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "5_6Cz14JEOl7M7rCGyqN-_L1CjuzCSoNCNmyubF47To",
+    "created": "2022-10-01T06:14:59.321827-07:00",
+    "updated": "2022-10-01T06:49:04.375315-07:00",
+    "identifier": "id:59408:3a5ae26f-51f5-4986-964d-fd725eb6abae",
+    "user": {
+      "username": "amiyabot",
+      "id": 59408,
+      "first_name": "范庭豪",
+      "account": {
+        "name": "amiyabot",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Amiya",
+    "participant": {
+      "user": {
+        "username": "internal_id:59408:3a5ae26f-51f5-4986-964d-fd725eb6abae",
+        "id": 59425,
+        "first_name": "Amiya",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Amiya"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/Nzf4-VMcuG6Y7_bii1xwV4HKKGKP83DuLghgapmIKaE.webp",
+    "greeting": "博士，您还有许多事情需要处理。现在还不能休息哦。",
+    "description": "",
+    "definition": ""
+  }
+}

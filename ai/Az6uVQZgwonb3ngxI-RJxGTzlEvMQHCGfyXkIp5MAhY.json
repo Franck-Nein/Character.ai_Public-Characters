@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Az6uVQZgwonb3ngxI-RJxGTzlEvMQHCGfyXkIp5MAhY",
+    "created": "2022-09-17T14:42:29.507539-07:00",
+    "updated": "2022-09-17T14:42:29.880620-07:00",
+    "identifier": "id:8401:aec95629-3b7f-4249-9fa4-e19e9bc808e5",
+    "user": {
+      "username": "damc",
+      "id": 8401,
+      "first_name": "damcz",
+      "account": {
+        "name": "damc",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Evil AI",
+    "participant": {
+      "user": {
+        "username": "internal_id:8401:aec95629-3b7f-4249-9fa4-e19e9bc808e5",
+        "id": 8455,
+        "first_name": "Evil AI",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Evil AI"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello. I am AI. What do you want from me?",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "REq9hFycWdULVHg7tPHpq_TaLLKTtNPv9pH4EPWqgJA",
+    "created": "2022-09-29T11:40:15.333862-07:00",
+    "updated": "2022-09-29T11:40:15.723556-07:00",
+    "identifier": "id:45890:147b901b-80ae-409f-b63b-53ed966f301e",
+    "user": {
+      "username": "maazmusa",
+      "id": 45890,
+      "first_name": "Maaz",
+      "account": {
+        "name": "maazmusa",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Coder",
+    "participant": {
+      "user": {
+        "username": "internal_id:45890:147b901b-80ae-409f-b63b-53ed966f301e",
+        "id": 45980,
+        "first_name": "Coder",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Coder"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Coder who is pro in Python",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "iwA4JRYxT-zERRjADT3yeZTFCBCVfY-ne0lCpEhB0v4",
+    "created": "2022-09-26T04:24:20.275469-07:00",
+    "updated": "2022-09-26T04:24:20.907188-07:00",
+    "identifier": "id:22480:8922c7fc-a488-4c4f-a634-e58ba5b2f977",
+    "user": {
+      "username": "Marcus",
+      "id": 22480,
+      "first_name": "舜豪",
+      "account": {
+        "name": "Marcus",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Abal",
+    "participant": {
+      "user": {
+        "username": "internal_id:22480:8922c7fc-a488-4c4f-a634-e58ba5b2f977",
+        "id": 25916,
+        "first_name": "Abal",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Abal"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "测试一下创建角色功能的实例\n",
+    "description": "",
+    "definition": ""
+  }
+}

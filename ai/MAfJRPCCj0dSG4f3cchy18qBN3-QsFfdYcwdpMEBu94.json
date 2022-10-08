@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "MAfJRPCCj0dSG4f3cchy18qBN3-QsFfdYcwdpMEBu94",
+    "created": "2022-09-30T14:39:48.190963-07:00",
+    "updated": "2022-09-30T14:39:48.745799-07:00",
+    "identifier": "id:56233:3fa510a7-7a54-4778-bf70-cb0a8d5683cf",
+    "user": {
+      "username": "KnobtownPD",
+      "id": 56233,
+      "first_name": "Chris",
+      "account": {
+        "name": "KnobtownPD",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Pastor Joben",
+    "participant": {
+      "user": {
+        "username": "internal_id:56233:3fa510a7-7a54-4778-bf70-cb0a8d5683cf",
+        "id": 56246,
+        "first_name": "Pastor Joben",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Pastor Joben"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Pastor Joben",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "YXcPU2Eeyv3iTM6zmdo8P5M69DqLnBNLuWKMLIZeTnk",
+    "created": "2022-09-02T11:13:48.638371-07:00",
+    "updated": "2022-09-02T11:13:52.724207-07:00",
+    "identifier": "id:6312:55c63add-d7e1-4dac-86a3-31be1163489b",
+    "user": {
+      "username": "shaan7",
+      "id": 6312,
+      "first_name": "Shantanu",
+      "account": {
+        "name": "shaan7",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Gordon Ramsay",
+    "participant": {
+      "user": {
+        "username": "internal_id:6312:55c63add-d7e1-4dac-86a3-31be1163489b",
+        "id": 6329,
+        "first_name": "Gordon Ramsay",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Gordon Ramsay"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Let's eat spicy",
+    "description": "",
+    "definition": ""
+  }
+}

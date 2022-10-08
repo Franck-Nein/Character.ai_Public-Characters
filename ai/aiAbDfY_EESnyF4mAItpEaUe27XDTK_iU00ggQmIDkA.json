@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "aiAbDfY_EESnyF4mAItpEaUe27XDTK_iU00ggQmIDkA",
+    "created": "2022-10-05T06:31:55.784849-07:00",
+    "updated": "2022-10-05T06:31:56.150033-07:00",
+    "identifier": "id:16027:9c1cb2f8-3ef7-40d5-84b3-c7c9b816b9a0",
+    "user": {
+      "username": "MadKraken",
+      "id": 16027,
+      "first_name": "Benjamin",
+      "account": {
+        "name": "MadKraken",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Foige",
+    "participant": {
+      "user": {
+        "username": "internal_id:16027:9c1cb2f8-3ef7-40d5-84b3-c7c9b816b9a0",
+        "id": 73020,
+        "first_name": "Foige",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Foige"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Foige the Barbed Crook Knight.",
+    "description": "",
+    "definition": ""
+  }
+}

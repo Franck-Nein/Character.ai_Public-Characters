@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0sOqNpwzqeZoU6sN88SFC0N--jxsmnO2x_Kagd3Db6E",
+    "created": "2022-09-25T18:12:01.621939-07:00",
+    "updated": "2022-09-25T18:12:02.019493-07:00",
+    "identifier": "id:21343:6fdee5cf-95ca-4c01-b82e-4b468e91c1a4",
+    "user": {
+      "username": "wangzai",
+      "id": 21343,
+      "first_name": "1103836847@qq.com",
+      "account": {
+        "name": "wangzai",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "rike",
+    "participant": {
+      "user": {
+        "username": "internal_id:21343:6fdee5cf-95ca-4c01-b82e-4b468e91c1a4",
+        "id": 21353,
+        "first_name": "rike",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "rike"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好，我是rike",
+    "description": "",
+    "definition": ""
+  }
+}

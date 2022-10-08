@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "7wYsuHm0qADtjWcEWEEGeshoEDDPcgM_XLKHCz-DiKk",
+    "created": "2022-09-26T18:33:35.504861-07:00",
+    "updated": "2022-09-26T18:33:35.887693-07:00",
+    "identifier": "id:30879:eb958a19-72be-4c27-84ea-46a6a3f854ed",
+    "user": {
+      "username": "QingChen",
+      "id": 30879,
+      "first_name": "Yeqing",
+      "account": {
+        "name": "QingChen",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Qingchen",
+    "participant": {
+      "user": {
+        "username": "internal_id:30879:eb958a19-72be-4c27-84ea-46a6a3f854ed",
+        "id": 30946,
+        "first_name": "Qingchen",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Qingchen"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I’m qingchen",
+    "description": "",
+    "definition": ""
+  }
+}

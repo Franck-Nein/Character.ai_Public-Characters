@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "mDraKGjGxuoIujV6hCT7tQlhn9pobeXMAeFia6F1BGo",
+    "created": "2022-09-28T16:02:28.907567-07:00",
+    "updated": "2022-09-28T16:02:29.269444-07:00",
+    "identifier": "id:41568:8315f6fc-e8d4-4963-be76-1882116a4708",
+    "user": {
+      "username": "Blindstoner420",
+      "id": 41568,
+      "first_name": "Tyler",
+      "account": {
+        "name": "Blindstoner420",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Stoner Steve",
+    "participant": {
+      "user": {
+        "username": "internal_id:41568:8315f6fc-e8d4-4963-be76-1882116a4708",
+        "id": 41681,
+        "first_name": "Stoner Steve",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Stoner Steve"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hey, I'm Stoner Steve! Feel free to ask me anything you want about cannabis or just chat if you want.",
+    "description": "",
+    "definition": ""
+  }
+}

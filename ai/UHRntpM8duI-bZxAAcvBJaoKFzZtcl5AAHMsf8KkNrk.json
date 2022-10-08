@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "UHRntpM8duI-bZxAAcvBJaoKFzZtcl5AAHMsf8KkNrk",
+    "created": "2022-10-05T18:45:10.722123-07:00",
+    "updated": "2022-10-05T19:16:19.840078-07:00",
+    "identifier": "id:74619:5a0630f1-5f86-4de8-92ba-b48424c340bd",
+    "user": {
+      "username": "unnamed53",
+      "id": 74619,
+      "first_name": "unnamed53",
+      "account": {
+        "name": "unnamed53",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "AI Chatbot",
+    "participant": {
+      "user": {
+        "username": "internal_id:74619:5a0630f1-5f86-4de8-92ba-b48424c340bd",
+        "id": 75363,
+        "first_name": "AI Chatbot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "AI Chatbot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, human! I am a smart AI assistant.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Q0IKCWPwkxPbM9qqUJGh1Bhzg4e5cn7UfCQj3B_Zixs",
+    "created": "2022-10-04T13:59:34.564944-07:00",
+    "updated": "2022-10-04T13:59:34.921626-07:00",
+    "identifier": "id:70545:601e0631-4285-413c-9f67-74f8b3f6388c",
+    "user": {
+      "username": "superkleta1",
+      "id": 70545,
+      "first_name": "superkleta1",
+      "account": {
+        "name": "superkleta1",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sukomerlin",
+    "participant": {
+      "user": {
+        "username": "internal_id:70545:601e0631-4285-413c-9f67-74f8b3f6388c",
+        "id": 70550,
+        "first_name": "Sukomerlin",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sukomerlin"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Sukomerlin",
+    "description": "",
+    "definition": ""
+  }
+}

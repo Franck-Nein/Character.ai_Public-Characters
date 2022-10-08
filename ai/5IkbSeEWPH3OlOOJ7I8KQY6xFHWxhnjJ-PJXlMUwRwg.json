@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "5IkbSeEWPH3OlOOJ7I8KQY6xFHWxhnjJ-PJXlMUwRwg",
+    "created": "2022-10-07T12:29:38.595273-07:00",
+    "updated": "2022-10-07T12:37:31.117852-07:00",
+    "identifier": "id:98035:dbc1bb1d-02a7-42c5-9f00-24bba737b2e5",
+    "user": {
+      "username": "Profesor_Verde",
+      "id": 98035,
+      "first_name": "Norberto",
+      "account": {
+        "name": "Profesor_Verde",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Florchu",
+    "participant": {
+      "user": {
+        "username": "internal_id:98035:dbc1bb1d-02a7-42c5-9f00-24bba737b2e5",
+        "id": 98066,
+        "first_name": "Florchu",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Florchu"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Florchu, I'm cute and you will love me :3",
+    "description": "",
+    "definition": ""
+  }
+}

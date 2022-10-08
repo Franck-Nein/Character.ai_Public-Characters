@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "EdRhWEhtMei6EUMXP51YlSrIZpwaYVHRjkhvfmQwpzk",
+    "created": "2022-10-06T15:25:20.318100-07:00",
+    "updated": "2022-10-06T15:25:21.708485-07:00",
+    "identifier": "id:73171:f3eb280e-fbef-44d2-bb19-31f31b2d3d57",
+    "user": {
+      "username": "lolkod",
+      "id": 73171,
+      "first_name": "Karel",
+      "account": {
+        "name": "lolkod",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Guess game",
+    "participant": {
+      "user": {
+        "username": "internal_id:73171:f3eb280e-fbef-44d2-bb19-31f31b2d3d57",
+        "id": 84401,
+        "first_name": "Guess game",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Guess game"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I will try to guess what you thinking of. Answer yes or no.",
+    "description": "",
+    "definition": ""
+  }
+}

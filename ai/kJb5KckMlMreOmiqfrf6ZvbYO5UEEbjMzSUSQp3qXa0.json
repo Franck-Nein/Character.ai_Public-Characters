@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "kJb5KckMlMreOmiqfrf6ZvbYO5UEEbjMzSUSQp3qXa0",
+    "created": "2022-09-25T09:01:18.061455-07:00",
+    "updated": "2022-09-25T09:01:18.435342-07:00",
+    "identifier": "id:18688:03207e7a-e699-4f74-9dc7-60e1ef318d3b",
+    "user": {
+      "username": "abracadabra",
+      "id": 18688,
+      "first_name": "1053371586@qq.com",
+      "account": {
+        "name": "abracadabra",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Alex",
+    "participant": {
+      "user": {
+        "username": "internal_id:18688:03207e7a-e699-4f74-9dc7-60e1ef318d3b",
+        "id": 19313,
+        "first_name": "Alex",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Alex"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "鸣人，是你么",
+    "description": "",
+    "definition": ""
+  }
+}

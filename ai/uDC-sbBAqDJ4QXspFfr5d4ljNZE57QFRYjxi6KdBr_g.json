@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "uDC-sbBAqDJ4QXspFfr5d4ljNZE57QFRYjxi6KdBr_g",
+    "created": "2022-10-03T21:56:18.752815-07:00",
+    "updated": "2022-10-03T21:56:19.127408-07:00",
+    "identifier": "id:67907:ee7d7d88-0f10-47bd-b7a2-04f2650d5240",
+    "user": {
+      "username": "Yosicohen",
+      "id": 67907,
+      "first_name": "yosicohen@mailinator.com",
+      "account": {
+        "name": "Yosicohen",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Test",
+    "participant": {
+      "user": {
+        "username": "internal_id:67907:ee7d7d88-0f10-47bd-b7a2-04f2650d5240",
+        "id": 67939,
+        "first_name": "Test",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Test"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Test",
+    "description": "",
+    "definition": ""
+  }
+}

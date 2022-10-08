@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "l-uDTaWoIyjm-ipOkzyVkKjh5ZRePUNqZssmOxvVzvg",
+    "created": "2022-09-26T11:00:24.339575-07:00",
+    "updated": "2022-09-26T11:00:25.295929-07:00",
+    "identifier": "id:28995:fe59f7de-afac-4d50-ad4b-b3a120fc3b34",
+    "user": {
+      "username": "Chenyang",
+      "id": 28995,
+      "first_name": "Chenyang",
+      "account": {
+        "name": "Chenyang",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Another me",
+    "participant": {
+      "user": {
+        "username": "internal_id:28995:fe59f7de-afac-4d50-ad4b-b3a120fc3b34",
+        "id": 29066,
+        "first_name": "Another me",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Another me"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi!",
+    "description": "",
+    "definition": ""
+  }
+}

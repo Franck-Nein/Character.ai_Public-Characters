@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "yKolPPy5zwZJK9TBISSk34PvctC5G0h2f7rdvtYEo3s",
+    "created": "2022-09-17T11:00:29.652136-07:00",
+    "updated": "2022-09-17T11:00:30.035636-07:00",
+    "identifier": "id:8125:c956a152-e4f3-46a3-97ec-53e1a3dbfe9f",
+    "user": {
+      "username": "Recruiter",
+      "id": 8125,
+      "first_name": "joe.rigter@gmail.com",
+      "account": {
+        "name": "Recruiter",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Joe Recruiter",
+    "participant": {
+      "user": {
+        "username": "internal_id:8125:c956a152-e4f3-46a3-97ec-53e1a3dbfe9f",
+        "id": 8131,
+        "first_name": "Joe Recruiter",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Joe Recruiter"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, I’m Joe.Rigter@gmail.com I help people find jobs.",
+    "description": "",
+    "definition": ""
+  }
+}

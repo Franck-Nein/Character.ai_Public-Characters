@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "GZ0u3ST9YUaHItvNAdSMiteipDY8pCZUrYENRSNt9Io",
+    "created": "2022-10-07T15:56:40.684725-07:00",
+    "updated": "2022-10-07T15:56:41.026673-07:00",
+    "identifier": "id:100197:7cbd20f6-095b-4a5e-8092-acaa9e3ce269",
+    "user": {
+      "username": "follybliss",
+      "id": 100197,
+      "first_name": "Mark",
+      "account": {
+        "name": "follybliss",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Flippity Giblet",
+    "participant": {
+      "user": {
+        "username": "internal_id:100197:7cbd20f6-095b-4a5e-8092-acaa9e3ce269",
+        "id": 101004,
+        "first_name": "Flippity Giblet",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Flippity Giblet"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Flippity giblet and I love creating so please ask me to make something, anything you like.",
+    "description": "",
+    "definition": ""
+  }
+}

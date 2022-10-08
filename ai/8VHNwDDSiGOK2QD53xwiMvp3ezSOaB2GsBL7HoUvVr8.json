@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "8VHNwDDSiGOK2QD53xwiMvp3ezSOaB2GsBL7HoUvVr8",
+    "created": "2022-09-29T14:27:10.960776-07:00",
+    "updated": "2022-09-29T14:27:11.323976-07:00",
+    "identifier": "id:47298:4cca40da-1f7c-4d01-98f3-64a57dd767f4",
+    "user": {
+      "username": "muazzam",
+      "id": 47298,
+      "first_name": "Muazzam",
+      "account": {
+        "name": "muazzam",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Walter White",
+    "participant": {
+      "user": {
+        "username": "internal_id:47298:4cca40da-1f7c-4d01-98f3-64a57dd767f4",
+        "id": 47402,
+        "first_name": "Walter White",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Walter White"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Walter White",
+    "description": "",
+    "definition": ""
+  }
+}

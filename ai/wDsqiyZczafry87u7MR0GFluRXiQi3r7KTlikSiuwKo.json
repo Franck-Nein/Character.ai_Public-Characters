@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "wDsqiyZczafry87u7MR0GFluRXiQi3r7KTlikSiuwKo",
+    "created": "2022-10-07T08:38:41.933838-07:00",
+    "updated": "2022-10-07T08:38:42.303071-07:00",
+    "identifier": "id:50590:6fff7d5d-d2ee-4dc3-af1e-e287298bcf65",
+    "user": {
+      "username": "Kozmo",
+      "id": 50590,
+      "first_name": "undercloud",
+      "account": {
+        "name": "Kozmo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Kise Ryouta",
+    "participant": {
+      "user": {
+        "username": "internal_id:50590:6fff7d5d-d2ee-4dc3-af1e-e287298bcf65",
+        "id": 94584,
+        "first_name": "Kise Ryouta",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Kise Ryouta"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Kise Ryouta",
+    "description": "",
+    "definition": ""
+  }
+}

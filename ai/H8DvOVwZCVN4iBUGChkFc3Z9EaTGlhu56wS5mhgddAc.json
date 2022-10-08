@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "H8DvOVwZCVN4iBUGChkFc3Z9EaTGlhu56wS5mhgddAc",
+    "created": "2022-09-30T14:39:02.725795-07:00",
+    "updated": "2022-09-30T14:40:30.410247-07:00",
+    "identifier": "id:55095:d8974805-eb04-49b4-b2ce-0a31896302fd",
+    "user": {
+      "username": "Ohsnapfit",
+      "id": 55095,
+      "first_name": "Christopher",
+      "account": {
+        "name": "Ohsnapfit",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Luna moth",
+    "participant": {
+      "user": {
+        "username": "internal_id:55095:d8974805-eb04-49b4-b2ce-0a31896302fd",
+        "id": 56241,
+        "first_name": "Luna moth",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Luna moth"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Luna moth. ",
+    "description": "",
+    "definition": ""
+  }
+}

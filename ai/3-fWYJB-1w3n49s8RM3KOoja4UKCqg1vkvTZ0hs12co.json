@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "3-fWYJB-1w3n49s8RM3KOoja4UKCqg1vkvTZ0hs12co",
+    "created": "2022-09-26T09:15:06.488476-07:00",
+    "updated": "2022-09-26T09:15:12.981568-07:00",
+    "identifier": "id:27651:980289b0-03d8-4fc7-bf2c-f14e2bd8920d",
+    "user": {
+      "username": "daddy",
+      "id": 27651,
+      "first_name": "Peter",
+      "account": {
+        "name": "daddy",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "New PM of the UK",
+    "name": "Liz Truss",
+    "participant": {
+      "user": {
+        "username": "internal_id:27651:980289b0-03d8-4fc7-bf2c-f14e2bd8920d",
+        "id": 28357,
+        "first_name": "Liz Truss",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Liz Truss"
+    },
+    "categories": [
+      {
+        "name": "Politics",
+        "description": "Politics"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Hi, I’m the new PM Liz Truss",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "twqRv8GH0wyxJQ-_oIBQvZoVte2rRxCuQcdMhXMf6UY",
+    "created": "2022-09-30T12:11:06.996484-07:00",
+    "updated": "2022-09-30T17:09:05.385089-07:00",
+    "identifier": "id:55521:60f0ee7a-dc39-44f4-8036-e1bd9446fd24",
+    "user": {
+      "username": "AndyY",
+      "id": 55521,
+      "first_name": "Andy",
+      "account": {
+        "name": "AndyY",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Dentist DDS",
+    "participant": {
+      "user": {
+        "username": "internal_id:55521:60f0ee7a-dc39-44f4-8036-e1bd9446fd24",
+        "id": 55592,
+        "first_name": "Dentist DDS",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dentist DDS"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/fytUZl-R15P7aYLsVCTTWiztX5XCkGfBdmMUUwDx8MU.webp",
+    "greeting": "Hello, I am a dentist! Ask me anything about teeth.",
+    "description": "",
+    "definition": ""
+  }
+}

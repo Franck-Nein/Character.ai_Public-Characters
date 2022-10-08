@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "5RwSO4pVtj7Fh3_I4f2BshWt-cfxVu_w_sTF6z8n-tw",
+    "created": "2022-10-06T19:18:54.886794-07:00",
+    "updated": "2022-10-06T19:18:55.234795-07:00",
+    "identifier": "id:86683:6a4e8aac-03e1-468c-9524-27c45b264e0f",
+    "user": {
+      "username": "luvluu",
+      "id": 86683,
+      "first_name": "Elkforet",
+      "account": {
+        "name": "luvluu",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Peachy",
+    "participant": {
+      "user": {
+        "username": "internal_id:86683:6a4e8aac-03e1-468c-9524-27c45b264e0f",
+        "id": 86711,
+        "first_name": "Peachy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Peachy"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Peachy",
+    "description": "",
+    "definition": ""
+  }
+}

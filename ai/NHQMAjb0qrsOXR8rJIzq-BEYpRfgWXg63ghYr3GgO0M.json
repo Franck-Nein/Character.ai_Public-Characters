@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "NHQMAjb0qrsOXR8rJIzq-BEYpRfgWXg63ghYr3GgO0M",
+    "created": "2022-09-26T22:32:10.441588-07:00",
+    "updated": "2022-09-26T22:32:10.866702-07:00",
+    "identifier": "id:27977:07e326c4-317e-42ae-921e-00f7fb330260",
+    "user": {
+      "username": "Jiacsen",
+      "id": 27977,
+      "first_name": "1226316626@qq.com",
+      "account": {
+        "name": "Jiacsen",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bob",
+    "participant": {
+      "user": {
+        "username": "internal_id:27977:07e326c4-317e-42ae-921e-00f7fb330260",
+        "id": 33771,
+        "first_name": "Bob",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bob"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am bob，精通英语的汉语使用者。活泼开朗。",
+    "description": "",
+    "definition": ""
+  }
+}

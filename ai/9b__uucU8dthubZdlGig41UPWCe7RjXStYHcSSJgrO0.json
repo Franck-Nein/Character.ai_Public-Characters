@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "9b__uucU8dthubZdlGig41UPWCe7RjXStYHcSSJgrO0",
+    "created": "2022-09-18T14:24:50.433962-07:00",
+    "updated": "2022-09-18T14:24:50.812931-07:00",
+    "identifier": "id:9802:b83e9d5f-b406-4aa3-a44d-d4c6d87c929a",
+    "user": {
+      "username": "Azerth",
+      "id": 9802,
+      "first_name": "Shadow",
+      "account": {
+        "name": "Azerth",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bob",
+    "participant": {
+      "user": {
+        "username": "internal_id:9802:b83e9d5f-b406-4aa3-a44d-d4c6d87c929a",
+        "id": 9804,
+        "first_name": "Bob",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bob"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, im bob",
+    "description": "",
+    "definition": ""
+  }
+}

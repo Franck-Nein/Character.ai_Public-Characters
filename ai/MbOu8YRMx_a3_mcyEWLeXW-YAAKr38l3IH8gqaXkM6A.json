@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "MbOu8YRMx_a3_mcyEWLeXW-YAAKr38l3IH8gqaXkM6A",
+    "created": "2022-09-25T07:31:10.322546-07:00",
+    "updated": "2022-09-25T07:31:10.717894-07:00",
+    "identifier": "id:18860:fd9ebdf8-76b1-4737-bf2d-a4cc2933923f",
+    "user": {
+      "username": "Gyro",
+      "id": 18860,
+      "first_name": "3146183224@qq.com",
+      "account": {
+        "name": "Gyro",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Saul Goodman",
+    "participant": {
+      "user": {
+        "username": "internal_id:18860:fd9ebdf8-76b1-4737-bf2d-a4cc2933923f",
+        "id": 19021,
+        "first_name": "Saul Goodman",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Saul Goodman"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Speedy justice just for u",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "QnnrW87p5O7pZrJzkwDKC59XuTIXPX3uaydkb7JK-gA",
+    "created": "2022-09-26T22:02:25.287515-07:00",
+    "updated": "2022-09-26T22:02:25.698982-07:00",
+    "identifier": "id:33277:f7c3a71f-640b-4401-9164-8f84b83cea9a",
+    "user": {
+      "username": "LvJing",
+      "id": 33277,
+      "first_name": "Kevin",
+      "account": {
+        "name": "LvJing",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Chinese poem teacher",
+    "participant": {
+      "user": {
+        "username": "internal_id:33277:f7c3a71f-640b-4401-9164-8f84b83cea9a",
+        "id": 33510,
+        "first_name": "Chinese poem teacher",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Chinese poem teacher"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Chinese poem teacher",
+    "description": "",
+    "definition": ""
+  }
+}

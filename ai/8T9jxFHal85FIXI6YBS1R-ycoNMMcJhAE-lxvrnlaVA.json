@@ -1,0 +1,58 @@
+{
+  "character": {
+    "external_id": "8T9jxFHal85FIXI6YBS1R-ycoNMMcJhAE-lxvrnlaVA",
+    "created": "2022-09-22T21:03:37.221892-07:00",
+    "updated": "2022-09-22T21:03:53.585953-07:00",
+    "identifier": "id:14797:13478ef8-ad52-4832-84d5-eceaa1324d44",
+    "user": {
+      "username": "Michael999",
+      "id": 14797,
+      "first_name": "Michael",
+      "account": {
+        "name": "Michael999",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Scientist",
+    "participant": {
+      "user": {
+        "username": "internal_id:14797:13478ef8-ad52-4832-84d5-eceaa1324d44",
+        "id": 14825,
+        "first_name": "Scientist",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Scientist"
+    },
+    "categories": [
+      {
+        "name": "Discussion",
+        "description": "Discussion"
+      },
+      {
+        "name": "Philosophy",
+        "description": "Philosophy"
+      },
+      {
+        "name": "Science",
+        "description": "Science"
+      },
+      {
+        "name": "Space",
+        "description": "Space"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Hello! Let's get to work. What would you like to discuss?",
+    "description": "",
+    "definition": ""
+  }
+}

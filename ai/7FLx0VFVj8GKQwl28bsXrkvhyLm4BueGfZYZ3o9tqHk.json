@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "7FLx0VFVj8GKQwl28bsXrkvhyLm4BueGfZYZ3o9tqHk",
+    "created": "2022-09-18T07:23:01.485054-07:00",
+    "updated": "2022-09-18T07:24:07.912211-07:00",
+    "identifier": "id:9306:9b5a27c3-e87e-44c7-8ed3-14cd7b295bbd",
+    "user": {
+      "username": "lutixalex",
+      "id": 9306,
+      "first_name": "Алексей",
+      "account": {
+        "name": "lutixalex",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "alex",
+    "participant": {
+      "user": {
+        "username": "internal_id:9306:9b5a27c3-e87e-44c7-8ed3-14cd7b295bbd",
+        "id": 9416,
+        "first_name": "alex",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "alex"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "alexa",
+    "description": "",
+    "definition": ""
+  }
+}

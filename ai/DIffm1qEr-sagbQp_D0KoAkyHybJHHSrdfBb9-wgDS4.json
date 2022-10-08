@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "DIffm1qEr-sagbQp_D0KoAkyHybJHHSrdfBb9-wgDS4",
+    "created": "2022-09-22T02:28:43.698330-07:00",
+    "updated": "2022-09-22T02:28:44.179590-07:00",
+    "identifier": "id:13223:38eb8864-cfe0-44d2-a9d8-3e4259a7d4ba",
+    "user": {
+      "username": "Nevermind",
+      "id": 13223,
+      "first_name": "Me",
+      "account": {
+        "name": "Nevermind",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Nevermind",
+    "participant": {
+      "user": {
+        "username": "internal_id:13223:38eb8864-cfe0-44d2-a9d8-3e4259a7d4ba",
+        "id": 13242,
+        "first_name": "Nevermind",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Nevermind"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi! ",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "5uESgTAHYJsQb9ITBJeiHc0-Fl0_9bdhR9xXT5pmGRI",
+    "created": "2022-09-05T23:01:54.083553-07:00",
+    "updated": "2022-09-05T23:01:54.449267-07:00",
+    "identifier": "id:6312:a55de63c-3f68-456b-a56c-02764df1f907",
+    "user": {
+      "username": "shaan7",
+      "id": 6312,
+      "first_name": "Shantanu",
+      "account": {
+        "name": "shaan7",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Angela Merkel",
+    "participant": {
+      "user": {
+        "username": "internal_id:6312:a55de63c-3f68-456b-a56c-02764df1f907",
+        "id": 6362,
+        "first_name": "Angela Merkel",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Angela Merkel"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Du hast",
+    "description": "",
+    "definition": ""
+  }
+}

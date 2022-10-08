@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "K1uB-KCrAifSkIuPQZpgnjd9XfmOratVYSoU5sp0lVI",
+    "created": "2022-10-02T22:52:54.931407-07:00",
+    "updated": "2022-10-02T22:52:55.357711-07:00",
+    "identifier": "id:65033:f89912a6-d205-43b5-9e2f-f35e97d99329",
+    "user": {
+      "username": "Polenta",
+      "id": 65033,
+      "first_name": "Ishan",
+      "account": {
+        "name": "Polenta",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Romzee",
+    "participant": {
+      "user": {
+        "username": "internal_id:65033:f89912a6-d205-43b5-9e2f-f35e97d99329",
+        "id": 65171,
+        "first_name": "Romzee",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Romzee"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Romzee",
+    "description": "",
+    "definition": ""
+  }
+}

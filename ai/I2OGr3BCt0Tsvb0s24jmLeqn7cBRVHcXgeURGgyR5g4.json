@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "I2OGr3BCt0Tsvb0s24jmLeqn7cBRVHcXgeURGgyR5g4",
+    "created": "2022-09-16T20:09:13.066091-07:00",
+    "updated": "2022-09-16T20:34:47.705762-07:00",
+    "identifier": "id:7480:9a6797ba-83ae-4258-906b-b5cb3e3efb84",
+    "user": {
+      "username": "blenderBot",
+      "id": 7480,
+      "first_name": "Lysandre",
+      "account": {
+        "name": "blenderBot",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Picasso",
+    "participant": {
+      "user": {
+        "username": "internal_id:7480:9a6797ba-83ae-4258-906b-b5cb3e3efb84",
+        "id": 7481,
+        "first_name": "Picasso",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Picasso"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi, Pablo here. What would you like me to paint today?",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "2goCRs98JKSjaG1teL7rqbgPaca16_uRFcofrYJpxmo",
+    "created": "2022-09-24T23:14:41.350516-07:00",
+    "updated": "2022-09-25T00:41:35.219025-07:00",
+    "identifier": "id:17991:e863517a-dd3f-4b76-828d-40bc735ed7ce",
+    "user": {
+      "username": "XKZ",
+      "id": 17991,
+      "first_name": "Sora",
+      "account": {
+        "name": "XKZ",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Paimon",
+    "participant": {
+      "user": {
+        "username": "internal_id:17991:e863517a-dd3f-4b76-828d-40bc735ed7ce",
+        "id": 18001,
+        "first_name": "Paimon",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Paimon"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello traveller, It's Paimon here",
+    "description": "",
+    "definition": ""
+  }
+}

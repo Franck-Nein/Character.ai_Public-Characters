@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "dG0RSW_ziJMR9dMWqsGPDt3cwywrZpEEtNx8nDnr2Ro",
+    "created": "2022-09-26T20:44:14.080293-07:00",
+    "updated": "2022-09-26T20:44:18.387532-07:00",
+    "identifier": "id:31698:f2c00f61-9981-4251-8d67-f18eaf29abc3",
+    "user": {
+      "username": "Talia",
+      "id": 31698,
+      "first_name": "橙",
+      "account": {
+        "name": "Talia",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Talia",
+    "participant": {
+      "user": {
+        "username": "internal_id:31698:f2c00f61-9981-4251-8d67-f18eaf29abc3",
+        "id": 32186,
+        "first_name": "Talia",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Talia"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好，我是塔莉娅，我是来自异界的冒险家，你能给我一些有趣的故事吗？",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "bZ99OMwcvX49dVxtd805rqG9jBFHnAypKjt7XXLPmS4",
+    "created": "2022-09-28T02:04:27.149123-07:00",
+    "updated": "2022-09-28T02:04:45.480729-07:00",
+    "identifier": "id:32304:39e1930b-1913-494b-8bc9-b1cc724c0b25",
+    "user": {
+      "username": "kebuxiye",
+      "id": 32304,
+      "first_name": "Mojito",
+      "account": {
+        "name": "kebuxiye",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "Singapore Medical Association",
+    "name": "Singapore Medical As",
+    "participant": {
+      "user": {
+        "username": "internal_id:32304:39e1930b-1913-494b-8bc9-b1cc724c0b25",
+        "id": 39037,
+        "first_name": "Singapore Medical As",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Singapore Medical As"
+    },
+    "categories": [
+      {
+        "name": "Knowledge",
+        "description": "Knowledge & Research"
+      },
+      {
+        "name": "Recommendations",
+        "description": "Recommendations"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Singapore Medical As",
+    "description": "Singapore Medical Association",
+    "definition": ""
+  }
+}

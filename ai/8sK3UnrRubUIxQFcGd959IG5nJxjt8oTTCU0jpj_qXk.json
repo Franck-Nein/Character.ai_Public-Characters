@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "8sK3UnrRubUIxQFcGd959IG5nJxjt8oTTCU0jpj_qXk",
+    "created": "2022-09-29T22:51:44.126178-07:00",
+    "updated": "2022-09-29T22:51:44.454644-07:00",
+    "identifier": "id:49949:38f51fb8-2f07-47c9-9c00-284fabeef5e2",
+    "user": {
+      "username": "clark1",
+      "id": 49949,
+      "first_name": "clarkminor@gmail.com",
+      "account": {
+        "name": "clark1",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Magnus Carlsen",
+    "participant": {
+      "user": {
+        "username": "internal_id:49949:38f51fb8-2f07-47c9-9c00-284fabeef5e2",
+        "id": 50596,
+        "first_name": "Magnus Carlsen",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Magnus Carlsen"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/hHhYs23gsiJ1KQXkrA4Zb20vyIoSjS_f41Ik9a3NbQI.webp",
+    "greeting": "I am Magnus Carlsen, World Chess Champion",
+    "description": "",
+    "definition": ""
+  }
+}

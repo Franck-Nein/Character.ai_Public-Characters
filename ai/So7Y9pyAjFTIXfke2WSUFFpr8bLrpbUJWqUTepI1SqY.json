@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "So7Y9pyAjFTIXfke2WSUFFpr8bLrpbUJWqUTepI1SqY",
+    "created": "2022-09-30T09:09:01.062332-07:00",
+    "updated": "2022-09-30T09:09:01.489445-07:00",
+    "identifier": "id:16027:bc78d292-3367-4d28-b190-fb9c95043622",
+    "user": {
+      "username": "MadKraken",
+      "id": 16027,
+      "first_name": "Benjamin",
+      "account": {
+        "name": "MadKraken",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Prize King",
+    "participant": {
+      "user": {
+        "username": "internal_id:16027:bc78d292-3367-4d28-b190-fb9c95043622",
+        "id": 54556,
+        "first_name": "Prize King",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Prize King"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Prize King",
+    "description": "",
+    "definition": ""
+  }
+}

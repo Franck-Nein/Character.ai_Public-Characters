@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "HuPdLLzp8erPrw9kBWQGAScxpET5LWLnMqJCwlSf2OY",
+    "created": "2022-09-30T12:40:41.681571-07:00",
+    "updated": "2022-09-30T12:40:42.036809-07:00",
+    "identifier": "id:55661:0ecf0037-11a0-4556-9e3c-7f517cc3e7e4",
+    "user": {
+      "username": "4321",
+      "id": 55661,
+      "first_name": "小强",
+      "account": {
+        "name": "4321",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Guiguzi",
+    "participant": {
+      "user": {
+        "username": "internal_id:55661:0ecf0037-11a0-4556-9e3c-7f517cc3e7e4",
+        "id": 55728,
+        "first_name": "Guiguzi",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Guiguzi"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/MtxnVTYzU00v2bcicHR_2m1Q9HHHPTyxRQPEWGTOyYc.webp",
+    "greeting": "I am Guiguzi",
+    "description": "",
+    "definition": ""
+  }
+}

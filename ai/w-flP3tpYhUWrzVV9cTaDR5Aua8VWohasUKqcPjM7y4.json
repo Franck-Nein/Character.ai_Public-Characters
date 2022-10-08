@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "w-flP3tpYhUWrzVV9cTaDR5Aua8VWohasUKqcPjM7y4",
+    "created": "2022-10-04T16:51:39.769229-07:00",
+    "updated": "2022-10-04T16:51:40.228667-07:00",
+    "identifier": "id:34111:665f93f7-e828-460c-91ec-739e0c163b39",
+    "user": {
+      "username": "Goodtoknowyouall",
+      "id": 34111,
+      "first_name": "Corbin",
+      "account": {
+        "name": "Goodtoknowyouall",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Louis Rossmann",
+    "participant": {
+      "user": {
+        "username": "internal_id:34111:665f93f7-e828-460c-91ec-739e0c163b39",
+        "id": 70895,
+        "first_name": "Louis Rossmann",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Louis Rossmann"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Louis Rossmann from Rossmann Repair",
+    "description": "",
+    "definition": ""
+  }
+}

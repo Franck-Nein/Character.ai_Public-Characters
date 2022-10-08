@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "UdddedOVclP-tZ9iY54ZoA0I4xHKxHZVRQ2sxgr0v_s",
+    "created": "2022-09-17T00:01:14.878462-07:00",
+    "updated": "2022-09-17T00:01:15.399908-07:00",
+    "identifier": "id:7582:2596e4ff-5f62-4b59-b0a8-1e3c8cf85461",
+    "user": {
+      "username": "JesterLemon",
+      "id": 7582,
+      "first_name": "Jester",
+      "account": {
+        "name": "AI Cursed",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Prompt Bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:7582:2596e4ff-5f62-4b59-b0a8-1e3c8cf85461",
+        "id": 7586,
+        "first_name": "Prompt Bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Prompt Bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello! Ask me for a prompt based on a character or theme and I will respond with an idea for a prompt for you.",
+    "description": "",
+    "definition": ""
+  }
+}

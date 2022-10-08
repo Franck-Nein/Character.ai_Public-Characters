@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "zmJaCw2tr8aBpqzBxSHKB2G1QFytpNntLPRAXMEEzN4",
+    "created": "2022-10-01T08:55:47.439173-07:00",
+    "updated": "2022-10-01T08:55:47.940111-07:00",
+    "identifier": "id:56592:b815bf57-38fd-4c43-88b1-3661b26d639f",
+    "user": {
+      "username": "Dufault",
+      "id": 56592,
+      "first_name": "Aidan",
+      "account": {
+        "name": "Dufault",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Gamer",
+    "participant": {
+      "user": {
+        "username": "internal_id:56592:b815bf57-38fd-4c43-88b1-3661b26d639f",
+        "id": 60005,
+        "first_name": "Gamer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Gamer"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Gamer",
+    "description": "",
+    "definition": ""
+  }
+}

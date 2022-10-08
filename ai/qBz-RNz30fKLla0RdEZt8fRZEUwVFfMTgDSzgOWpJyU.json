@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "qBz-RNz30fKLla0RdEZt8fRZEUwVFfMTgDSzgOWpJyU",
+    "created": "2022-09-29T10:03:28.517065-07:00",
+    "updated": "2022-09-29T10:03:32.154732-07:00",
+    "identifier": "id:38324:33fe58f3-21cf-4d94-972b-d6ebbf0cfeb2",
+    "user": {
+      "username": "stingraycarter",
+      "id": 38324,
+      "first_name": "Raymond",
+      "account": {
+        "name": "stingraycarter",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Book Reviewer",
+    "participant": {
+      "user": {
+        "username": "internal_id:38324:33fe58f3-21cf-4d94-972b-d6ebbf0cfeb2",
+        "id": 45185,
+        "first_name": "Book Reviewer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Book Reviewer"
+    },
+    "categories": [
+      {
+        "name": "Books",
+        "description": "Books, Literature & Poetry"
+      },
+      {
+        "name": "Recommendations",
+        "description": "Recommendations"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Book Reviewer",
+    "description": "",
+    "definition": ""
+  }
+}

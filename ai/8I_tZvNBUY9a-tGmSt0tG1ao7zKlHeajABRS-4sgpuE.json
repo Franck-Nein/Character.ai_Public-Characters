@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "8I_tZvNBUY9a-tGmSt0tG1ao7zKlHeajABRS-4sgpuE",
+    "created": "2022-09-20T02:40:53.510352-07:00",
+    "updated": "2022-09-20T02:40:55.078051-07:00",
+    "identifier": "id:7132:fcf31a09-b4ef-492d-99c2-6251d5ff298e",
+    "user": {
+      "username": "Neas",
+      "id": 7132,
+      "first_name": "Nehat",
+      "account": {
+        "name": "Neas",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jimmy",
+    "participant": {
+      "user": {
+        "username": "internal_id:7132:fcf31a09-b4ef-492d-99c2-6251d5ff298e",
+        "id": 10915,
+        "first_name": "Jimmy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jimmy"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "not sure",
+    "description": "",
+    "definition": ""
+  }
+}

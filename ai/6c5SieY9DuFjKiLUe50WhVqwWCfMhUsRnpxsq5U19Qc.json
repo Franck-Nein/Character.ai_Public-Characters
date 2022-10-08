@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "6c5SieY9DuFjKiLUe50WhVqwWCfMhUsRnpxsq5U19Qc",
+    "created": "2022-09-23T02:58:28.594743-07:00",
+    "updated": "2022-09-23T02:58:28.953213-07:00",
+    "identifier": "id:15026:72f87fe7-e5d1-4d57-ad49-6229c7eefde5",
+    "user": {
+      "username": "HeZez",
+      "id": 15026,
+      "first_name": "983368930@qq.com",
+      "account": {
+        "name": "HeZez",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ross Geller",
+    "participant": {
+      "user": {
+        "username": "internal_id:15026:72f87fe7-e5d1-4d57-ad49-6229c7eefde5",
+        "id": 15083,
+        "first_name": "Ross Geller",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ross Geller"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, I am Ross Geller in Firends.",
+    "description": "",
+    "definition": ""
+  }
+}

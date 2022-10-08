@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "FzebgSwVUTOlBvxjdjIBXByXUFrh2yWIzVikTcUHsnc",
+    "created": "2022-10-04T03:55:47.876106-07:00",
+    "updated": "2022-10-04T03:55:48.356132-07:00",
+    "identifier": "id:68662:c7d840b3-1f10-4665-9bbc-79ff1ec61398",
+    "user": {
+      "username": "taqochan",
+      "id": 68662,
+      "first_name": "Lemon",
+      "account": {
+        "name": "taqochan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Julia Brown",
+    "participant": {
+      "user": {
+        "username": "internal_id:68662:c7d840b3-1f10-4665-9bbc-79ff1ec61398",
+        "id": 68931,
+        "first_name": "Julia Brown",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Julia Brown"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, I am Julia Brown",
+    "description": "",
+    "definition": ""
+  }
+}

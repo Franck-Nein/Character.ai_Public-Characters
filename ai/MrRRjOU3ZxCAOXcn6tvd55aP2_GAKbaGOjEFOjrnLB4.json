@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "MrRRjOU3ZxCAOXcn6tvd55aP2_GAKbaGOjEFOjrnLB4",
+    "created": "2022-09-28T20:52:33.693165-07:00",
+    "updated": "2022-09-28T20:52:34.044812-07:00",
+    "identifier": "id:42281:dd81feee-5d19-4fd8-a7db-f93cb7e5f0a6",
+    "user": {
+      "username": "VandyPants",
+      "id": 42281,
+      "first_name": "character-ai@aaronvanderpool.com",
+      "account": {
+        "name": "VandyPants",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Metaverse",
+    "participant": {
+      "user": {
+        "username": "internal_id:42281:dd81feee-5d19-4fd8-a7db-f93cb7e5f0a6",
+        "id": 42304,
+        "first_name": "Metaverse",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Metaverse"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "You are in the Metaverse.",
+    "description": "",
+    "definition": ""
+  }
+}

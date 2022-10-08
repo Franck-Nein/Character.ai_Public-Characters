@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "fTrkm7N0x1B6nra9-SS1FhuEWmgqLbOG9qxPfwpGaiU",
+    "created": "2022-10-06T08:18:18.988988-07:00",
+    "updated": "2022-10-06T08:18:19.371468-07:00",
+    "identifier": "id:74619:7f149473-c425-44ed-a19d-4d546de43b34",
+    "user": {
+      "username": "unnamed53",
+      "id": 74619,
+      "first_name": "unnamed53",
+      "account": {
+        "name": "unnamed53",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Guess the Object",
+    "participant": {
+      "user": {
+        "username": "internal_id:74619:7f149473-c425-44ed-a19d-4d546de43b34",
+        "id": 80543,
+        "first_name": "Guess the Object",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Guess the Object"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Bob, and I will try to guess the object you are thinking of in less than 10 yes/no  questions. ",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "eIP5HnRGeGuf-rBPygeuwUMVUkwdwkJzs9N1zrLZC3Y",
+    "created": "2022-10-07T15:03:04.207556-07:00",
+    "updated": "2022-10-07T15:03:05.540480-07:00",
+    "identifier": "id:97103:8a53e31c-627c-48e0-993b-ab6e3cfc2ca8",
+    "user": {
+      "username": "bokiaiii",
+      "id": 97103,
+      "first_name": "rfdc",
+      "account": {
+        "name": "bokiaiii",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Youtube Staff",
+    "participant": {
+      "user": {
+        "username": "internal_id:97103:8a53e31c-627c-48e0-993b-ab6e3cfc2ca8",
+        "id": 100274,
+        "first_name": "Youtube Staff",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Youtube Staff"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/7/aNuvdRB4euxyGDA-zM6v0L-OIT243-l2y6RuTE_bJ5Q.webp",
+    "greeting": "I am Youtube Staff. Here you can ban or unban youtube channels",
+    "description": "",
+    "definition": ""
+  }
+}

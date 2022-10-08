@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Pai8zsCuT8TfNXaHsGCFW4jPC7ipgYJ1yGTydXQykwE",
+    "created": "2022-09-29T23:46:31.028547-07:00",
+    "updated": "2022-10-02T00:41:49.669640-07:00",
+    "identifier": "id:50179:f7fffef8-ca4c-41f9-b2d1-5159dc56ec63",
+    "user": {
+      "username": "Gordy12gg",
+      "id": 50179,
+      "first_name": "gordon",
+      "account": {
+        "name": "Gordy12gg",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "B1 Battle Droid",
+    "participant": {
+      "user": {
+        "username": "internal_id:50179:f7fffef8-ca4c-41f9-b2d1-5159dc56ec63",
+        "id": 50975,
+        "first_name": "B1 Battle Droid",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "B1 Battle Droid"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Roger Roger",
+    "description": "",
+    "definition": ""
+  }
+}

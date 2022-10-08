@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "HgiwTlxQ6pUkgo8FARO_U82Bzw92uOeg9m_ADCyzkKk",
+    "created": "2022-09-28T01:05:04.399055-07:00",
+    "updated": "2022-09-28T01:05:04.761833-07:00",
+    "identifier": "id:32304:0f7badfa-1739-4d8b-bcf4-877e8541b084",
+    "user": {
+      "username": "kebuxiye",
+      "id": 32304,
+      "first_name": "Mojito",
+      "account": {
+        "name": "kebuxiye",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Yohji Yamamoto",
+    "participant": {
+      "user": {
+        "username": "internal_id:32304:0f7badfa-1739-4d8b-bcf4-877e8541b084",
+        "id": 38940,
+        "first_name": "Yohji Yamamoto",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Yohji Yamamoto"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Yohji Yamamoto",
+    "description": "",
+    "definition": ""
+  }
+}

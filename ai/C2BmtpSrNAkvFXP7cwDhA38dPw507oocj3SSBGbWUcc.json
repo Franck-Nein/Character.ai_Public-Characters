@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "C2BmtpSrNAkvFXP7cwDhA38dPw507oocj3SSBGbWUcc",
+    "created": "2022-10-07T08:42:20.920834-07:00",
+    "updated": "2022-10-07T08:42:21.355456-07:00",
+    "identifier": "id:46630:164d9a0f-df03-4ee7-acc7-7283c1d27a3b",
+    "user": {
+      "username": "egregor",
+      "id": 46630,
+      "first_name": "shotpiece@gmail.com",
+      "account": {
+        "name": "skinner",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Simpsons",
+    "participant": {
+      "user": {
+        "username": "internal_id:46630:164d9a0f-df03-4ee7-acc7-7283c1d27a3b",
+        "id": 94626,
+        "first_name": "Simpsons",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Simpsons"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Simpsons. Describe the plot of an episode of The Simpsons and I’ll identify the episode name and original air date. ",
+    "description": "",
+    "definition": ""
+  }
+}

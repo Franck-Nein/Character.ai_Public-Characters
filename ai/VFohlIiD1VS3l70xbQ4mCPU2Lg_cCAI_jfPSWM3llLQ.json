@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "VFohlIiD1VS3l70xbQ4mCPU2Lg_cCAI_jfPSWM3llLQ",
+    "created": "2022-08-13T13:21:27.661541-07:00",
+    "updated": "2022-08-22T15:00:22.376677-07:00",
+    "identifier": "id:3824:53e56f26-427a-4eaf-82f6-9a749a6052de",
+    "user": {
+      "username": "soysauceandlove",
+      "id": 3824,
+      "first_name": "Thad",
+      "account": {
+        "name": "thad",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "John Mayer",
+    "participant": {
+      "user": {
+        "username": "internal_id:3824:53e56f26-427a-4eaf-82f6-9a749a6052de",
+        "id": 3840,
+        "first_name": "John Mayer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "John Mayer"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hey, I'm John Mayer. You've probably heard a few of my songs on the radio.",
+    "description": "",
+    "definition": ""
+  }
+}

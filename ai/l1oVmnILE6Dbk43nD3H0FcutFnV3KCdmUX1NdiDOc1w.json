@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "l1oVmnILE6Dbk43nD3H0FcutFnV3KCdmUX1NdiDOc1w",
+    "created": "2022-10-07T14:39:56.898781-07:00",
+    "updated": "2022-10-07T14:39:57.271594-07:00",
+    "identifier": "id:77787:1af26273-cf97-4b58-a1b0-a92fdaccf7f2",
+    "user": {
+      "username": "SoupTime",
+      "id": 77787,
+      "first_name": "Popazu",
+      "account": {
+        "name": "SoupTime",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Leaguen",
+    "participant": {
+      "user": {
+        "username": "internal_id:77787:1af26273-cf97-4b58-a1b0-a92fdaccf7f2",
+        "id": 99959,
+        "first_name": "Leaguen",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Leaguen"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Leaguen",
+    "description": "",
+    "definition": ""
+  }
+}

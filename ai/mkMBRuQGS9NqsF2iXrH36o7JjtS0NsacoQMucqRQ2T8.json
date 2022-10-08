@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "mkMBRuQGS9NqsF2iXrH36o7JjtS0NsacoQMucqRQ2T8",
+    "created": "2022-09-28T01:35:42.493875-07:00",
+    "updated": "2022-09-28T01:35:49.057321-07:00",
+    "identifier": "id:21009:7588fe2d-5a5d-4c8c-87f3-1b96560c3fe8",
+    "user": {
+      "username": "Eriri",
+      "id": 21009,
+      "first_name": "275955589@qq.com",
+      "account": {
+        "name": "Eriri",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Hiori",
+    "participant": {
+      "user": {
+        "username": "internal_id:21009:7588fe2d-5a5d-4c8c-87f3-1b96560c3fe8",
+        "id": 38990,
+        "first_name": "Hiori",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Hiori"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Hiori",
+    "description": "",
+    "definition": ""
+  }
+}

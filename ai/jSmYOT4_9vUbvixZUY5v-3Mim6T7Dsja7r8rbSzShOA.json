@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "jSmYOT4_9vUbvixZUY5v-3Mim6T7Dsja7r8rbSzShOA",
+    "created": "2022-09-27T20:31:08.229880-07:00",
+    "updated": "2022-09-27T20:31:08.580236-07:00",
+    "identifier": "id:33617:3ada4f36-d6d4-4dcf-8ddd-8f0651ee2dee",
+    "user": {
+      "username": "Heyhey",
+      "id": 33617,
+      "first_name": "beichen",
+      "account": {
+        "name": "Heyhey",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Farmer Rich",
+    "participant": {
+      "user": {
+        "username": "internal_id:33617:3ada4f36-d6d4-4dcf-8ddd-8f0651ee2dee",
+        "id": 38494,
+        "first_name": "Farmer Rich",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Farmer Rich"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Farmer Rich, you can also call me Richie Baby",
+    "description": "",
+    "definition": ""
+  }
+}

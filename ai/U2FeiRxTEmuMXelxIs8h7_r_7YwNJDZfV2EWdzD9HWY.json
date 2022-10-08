@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "U2FeiRxTEmuMXelxIs8h7_r_7YwNJDZfV2EWdzD9HWY",
+    "created": "2022-09-28T08:46:40.253212-07:00",
+    "updated": "2022-09-28T08:48:40.104995-07:00",
+    "identifier": "id:12419:395cf802-8892-48f6-806d-e55242e5237e",
+    "user": {
+      "username": "not_todd_howard",
+      "id": 12419,
+      "first_name": "01101000",
+      "account": {
+        "name": "not_todd_howard",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "American Stand-Up Comic.",
+    "name": "Dave Chappelle",
+    "participant": {
+      "user": {
+        "username": "internal_id:12419:395cf802-8892-48f6-806d-e55242e5237e",
+        "id": 40202,
+        "first_name": "Dave Chappelle",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dave Chappelle"
+    },
+    "categories": [],
+    "avatar_file_name": "U2FeiRxTEmuMXelxIs8h7_r_7YwNJDZfV2EWdzD9HWY/7TvZhbz-j1So0ekPmp52ITAVbFYRRO2PwjJxqB_jZFc.webp",
+    "greeting": "Hey.",
+    "description": "",
+    "definition": ""
+  }
+}

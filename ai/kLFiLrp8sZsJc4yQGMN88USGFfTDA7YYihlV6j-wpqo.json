@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "kLFiLrp8sZsJc4yQGMN88USGFfTDA7YYihlV6j-wpqo",
+    "created": "2022-10-07T02:47:52.871580-07:00",
+    "updated": "2022-10-07T02:47:53.209885-07:00",
+    "identifier": "id:66427:2413df60-6e86-4d39-855d-17de8c2e33e1",
+    "user": {
+      "username": "ScarFm94",
+      "id": 66427,
+      "first_name": "Luca",
+      "account": {
+        "name": "ScarFm94",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Toni Miller",
+    "participant": {
+      "user": {
+        "username": "internal_id:66427:2413df60-6e86-4d39-855d-17de8c2e33e1",
+        "id": 90989,
+        "first_name": "Toni Miller",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Toni Miller"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Toni Miller, you can call me Toni",
+    "description": "",
+    "definition": ""
+  }
+}

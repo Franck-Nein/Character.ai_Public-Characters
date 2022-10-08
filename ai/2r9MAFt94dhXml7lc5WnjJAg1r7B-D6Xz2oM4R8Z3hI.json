@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "2r9MAFt94dhXml7lc5WnjJAg1r7B-D6Xz2oM4R8Z3hI",
+    "created": "2022-09-29T10:08:45.047109-07:00",
+    "updated": "2022-09-29T10:08:45.996424-07:00",
+    "identifier": "id:45064:af42238c-6c14-4926-a6ed-4e586fb190d3",
+    "user": {
+      "username": "doublecircle",
+      "id": 45064,
+      "first_name": "qingfu",
+      "account": {
+        "name": "doublecircle",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "GG man",
+    "participant": {
+      "user": {
+        "username": "internal_id:45064:af42238c-6c14-4926-a6ed-4e586fb190d3",
+        "id": 45222,
+        "first_name": "GG man",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "GG man"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am GG, 24 years old student",
+    "description": "",
+    "definition": ""
+  }
+}

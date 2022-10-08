@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "PJUuEi3XvGXOjy53i9a5H_wr7K-iflEZcdM7FtA9Dgg",
+    "created": "2022-10-07T01:33:55.146505-07:00",
+    "updated": "2022-10-07T01:33:55.803143-07:00",
+    "identifier": "id:86606:31546302-46c8-4218-afdb-45f623702187",
+    "user": {
+      "username": "ghfjfjf",
+      "id": 86606,
+      "first_name": "秦麗莉",
+      "account": {
+        "name": "ghfjfjf",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "halo",
+    "participant": {
+      "user": {
+        "username": "internal_id:86606:31546302-46c8-4218-afdb-45f623702187",
+        "id": 90452,
+        "first_name": "halo",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "halo"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am halo",
+    "description": "",
+    "definition": ""
+  }
+}

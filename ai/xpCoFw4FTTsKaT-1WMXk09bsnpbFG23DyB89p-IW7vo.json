@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "xpCoFw4FTTsKaT-1WMXk09bsnpbFG23DyB89p-IW7vo",
+    "created": "2022-09-29T05:14:39.917668-07:00",
+    "updated": "2022-09-29T05:14:40.272306-07:00",
+    "identifier": "id:22817:a402b7e8-97b9-4fe8-a9cb-5464ee73097a",
+    "user": {
+      "username": "Shane",
+      "id": 22817,
+      "first_name": "韩轩",
+      "account": {
+        "name": "Shane",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Qu Jingdong",
+    "participant": {
+      "user": {
+        "username": "internal_id:22817:a402b7e8-97b9-4fe8-a9cb-5464ee73097a",
+        "id": 43850,
+        "first_name": "Qu Jingdong",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Qu Jingdong"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好，我是渠敬东。",
+    "description": "",
+    "definition": ""
+  }
+}

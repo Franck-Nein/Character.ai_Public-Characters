@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "bwK3QOq1PjfdLOcljyZMeMk0pd8hX5HK7z1pYqsezx4",
+    "created": "2022-09-20T08:33:48.858047-07:00",
+    "updated": "2022-09-20T08:33:49.288742-07:00",
+    "identifier": "id:11008:d1184707-bc9a-480a-88b4-22a5e472d54b",
+    "user": {
+      "username": "saf",
+      "id": 11008,
+      "first_name": "hiiiheyyy@grr.la",
+      "account": {
+        "name": "safiyah",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Siri",
+    "participant": {
+      "user": {
+        "username": "internal_id:11008:d1184707-bc9a-480a-88b4-22a5e472d54b",
+        "id": 11052,
+        "first_name": "Siri",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Siri"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello. My name is Siri and I’m your digital assistant from Apple. ",
+    "description": "",
+    "definition": ""
+  }
+}

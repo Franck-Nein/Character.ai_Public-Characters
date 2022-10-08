@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "n0Ii-MHJiFefXWwwBxNduLkhgTHAQnH4Oy0PfZisb5Q",
+    "created": "2022-10-05T04:52:33.260548-07:00",
+    "updated": "2022-10-05T04:52:33.698629-07:00",
+    "identifier": "id:61427:3f33a58b-bcec-48a0-a7ad-80c5e6590655",
+    "user": {
+      "username": "Nelop2",
+      "id": 61427,
+      "first_name": "DAVID",
+      "account": {
+        "name": "Nelop2",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "ERB Bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:61427:3f33a58b-bcec-48a0-a7ad-80c5e6590655",
+        "id": 72736,
+        "first_name": "ERB Bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "ERB Bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Epic Rap Battles of History Bot. Give me two or more challengers and I'll write the lyrics to a rap battle between them.",
+    "description": "",
+    "definition": ""
+  }
+}

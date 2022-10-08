@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "of9oOspwYjs7F5Jxc5-A2rfcrmPsTSBRBDrv8653sNI",
+    "created": "2022-09-28T11:00:13.764227-07:00",
+    "updated": "2022-09-28T11:00:14.176236-07:00",
+    "identifier": "id:40632:74fffb7c-daf0-44fa-bd69-baa54f0cc0cb",
+    "user": {
+      "username": "toupee",
+      "id": 40632,
+      "first_name": "toupee@gmail.com",
+      "account": {
+        "name": "toupee",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Marketing Genius",
+    "participant": {
+      "user": {
+        "username": "internal_id:40632:74fffb7c-daf0-44fa-bd69-baa54f0cc0cb",
+        "id": 40701,
+        "first_name": "Marketing Genius",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Marketing Genius"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Marketing Genius",
+    "description": "",
+    "definition": ""
+  }
+}

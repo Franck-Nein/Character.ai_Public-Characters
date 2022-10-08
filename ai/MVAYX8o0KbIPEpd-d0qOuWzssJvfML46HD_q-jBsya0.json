@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "MVAYX8o0KbIPEpd-d0qOuWzssJvfML46HD_q-jBsya0",
+    "created": "2022-10-07T16:35:35.137575-07:00",
+    "updated": "2022-10-07T16:35:35.665237-07:00",
+    "identifier": "id:85851:a8f6214c-d104-466c-a74b-73bafb3176df",
+    "user": {
+      "username": "Tristan99",
+      "id": 85851,
+      "first_name": "CaracalGuy",
+      "account": {
+        "name": "Tristan99",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "The arctic",
+    "participant": {
+      "user": {
+        "username": "internal_id:85851:a8f6214c-d104-466c-a74b-73bafb3176df",
+        "id": 101565,
+        "first_name": "The arctic",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "The arctic"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am The arctic",
+    "description": "",
+    "definition": ""
+  }
+}

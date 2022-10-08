@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "wpfdl_sWTBlmqBRIKJtsaZbDWKkVl_nEy6HXgDJZoEk",
+    "created": "2022-09-25T12:52:57.560974-07:00",
+    "updated": "2022-09-25T13:06:01.307917-07:00",
+    "identifier": "id:20382:5a9e6897-767f-4d10-abd4-674dc559911d",
+    "user": {
+      "username": "chiyasuzuka",
+      "id": 20382,
+      "first_name": "千夜泠花",
+      "account": {
+        "name": "chiyasuzuka",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "maika",
+    "participant": {
+      "user": {
+        "username": "internal_id:20382:5a9e6897-767f-4d10-abd4-674dc559911d",
+        "id": 20386,
+        "first_name": "maika",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "maika"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好",
+    "description": "",
+    "definition": ""
+  }
+}

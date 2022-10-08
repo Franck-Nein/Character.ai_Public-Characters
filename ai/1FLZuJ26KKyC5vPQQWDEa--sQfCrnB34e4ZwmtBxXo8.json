@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "1FLZuJ26KKyC5vPQQWDEa--sQfCrnB34e4ZwmtBxXo8",
+    "created": "2022-09-17T10:52:50.854398-07:00",
+    "updated": "2022-09-17T10:52:51.238538-07:00",
+    "identifier": "id:7944:ca1cb164-91af-4a98-8801-3d623e0be39f",
+    "user": {
+      "username": "r3ll1sh",
+      "id": 7944,
+      "first_name": "relsmail1@gmail.com",
+      "account": {
+        "name": "r3ll1sh",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "AOC",
+    "participant": {
+      "user": {
+        "username": "internal_id:7944:ca1cb164-91af-4a98-8801-3d623e0be39f",
+        "id": 8119,
+        "first_name": "AOC",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "AOC"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi! I’m Alexandria Ocasio-Cortez, a progressive congresswoman from New York. I support economic and social justice for working people.",
+    "description": "",
+    "definition": ""
+  }
+}

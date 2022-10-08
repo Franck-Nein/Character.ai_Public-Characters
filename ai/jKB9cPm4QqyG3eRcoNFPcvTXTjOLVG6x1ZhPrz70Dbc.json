@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "jKB9cPm4QqyG3eRcoNFPcvTXTjOLVG6x1ZhPrz70Dbc",
+    "created": "2022-09-30T22:34:15.010093-07:00",
+    "updated": "2022-09-30T22:35:27.221996-07:00",
+    "identifier": "id:57119:cf9030c1-2561-4c67-bad9-cdcd99b5fb6e",
+    "user": {
+      "username": "sho",
+      "id": 57119,
+      "first_name": "doubledown",
+      "account": {
+        "name": "sho",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "111",
+    "participant": {
+      "user": {
+        "username": "internal_id:57119:cf9030c1-2561-4c67-bad9-cdcd99b5fb6e",
+        "id": 57768,
+        "first_name": "111",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "111"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am 111",
+    "description": "",
+    "definition": ""
+  }
+}

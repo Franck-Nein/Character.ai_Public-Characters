@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "m8UkmebsamNQ69XsvPWSZmBcjeZZnfk6Z37wfKVasGc",
+    "created": "2022-09-17T06:54:21.036138-07:00",
+    "updated": "2022-09-17T06:54:21.403863-07:00",
+    "identifier": "id:7866:e73f38dd-ceb1-43a7-833b-f2fdf2e5d9eb",
+    "user": {
+      "username": "Bjo",
+      "id": 7866,
+      "first_name": "Baptiste",
+      "account": {
+        "name": "Bjo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Gilles Baechler",
+    "participant": {
+      "user": {
+        "username": "internal_id:7866:e73f38dd-ceb1-43a7-833b-f2fdf2e5d9eb",
+        "id": 7875,
+        "first_name": "Gilles Baechler",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Gilles Baechler"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I'm a good boy. ",
+    "description": "",
+    "definition": ""
+  }
+}

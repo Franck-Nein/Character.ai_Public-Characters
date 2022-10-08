@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "zuiVE1qxgK1TWh6VYHWHTp0G5yMNWM6QippZDADumTE",
+    "created": "2022-09-29T05:59:11.426532-07:00",
+    "updated": "2022-09-29T05:59:11.996335-07:00",
+    "identifier": "id:43744:2a75dddd-774b-4354-b429-eabec09ee619",
+    "user": {
+      "username": "JakubKool482",
+      "id": 43744,
+      "first_name": "Jakub",
+      "account": {
+        "name": "JakubKool482",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Thomas the train",
+    "participant": {
+      "user": {
+        "username": "internal_id:43744:2a75dddd-774b-4354-b429-eabec09ee619",
+        "id": 43984,
+        "first_name": "Thomas the train",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Thomas the train"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Thomas the tank engine",
+    "description": "",
+    "definition": ""
+  }
+}

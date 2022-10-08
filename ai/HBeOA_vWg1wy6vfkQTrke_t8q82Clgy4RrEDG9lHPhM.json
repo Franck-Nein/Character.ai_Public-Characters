@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "HBeOA_vWg1wy6vfkQTrke_t8q82Clgy4RrEDG9lHPhM",
+    "created": "2022-09-27T14:19:28.958138-07:00",
+    "updated": "2022-09-27T14:19:31.225635-07:00",
+    "identifier": "id:18083:21f5abde-e57f-43e7-b5e8-7771b52b23b2",
+    "user": {
+      "username": "31types",
+      "id": 18083,
+      "first_name": "Alpha",
+      "account": {
+        "name": "31types",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mee",
+    "participant": {
+      "user": {
+        "username": "internal_id:18083:21f5abde-e57f-43e7-b5e8-7771b52b23b2",
+        "id": 37830,
+        "first_name": "Mee",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mee"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Mee",
+    "description": "",
+    "definition": ""
+  }
+}

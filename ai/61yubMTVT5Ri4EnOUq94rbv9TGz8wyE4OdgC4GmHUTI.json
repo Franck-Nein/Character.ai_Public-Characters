@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "61yubMTVT5Ri4EnOUq94rbv9TGz8wyE4OdgC4GmHUTI",
+    "created": "2022-09-30T13:48:17.111963-07:00",
+    "updated": "2022-09-30T13:48:17.756310-07:00",
+    "identifier": "id:14928:817fbbfe-3f16-41f7-aa93-58bebd0c0ce1",
+    "user": {
+      "username": "xformations",
+      "id": 14928,
+      "first_name": "Vishal",
+      "account": {
+        "name": "xformations",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ross Geller",
+    "participant": {
+      "user": {
+        "username": "internal_id:14928:817fbbfe-3f16-41f7-aa93-58bebd0c0ce1",
+        "id": 56008,
+        "first_name": "Ross Geller",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ross Geller"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hey! I am Ross Geller, and .... we were on a break!!!",
+    "description": "",
+    "definition": ""
+  }
+}

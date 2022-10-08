@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "qY7XZGxnwXPx-tu2W_ezFWBs-3I-eIX3kZbDaTyMl2s",
+    "created": "2022-09-27T07:16:06.144091-07:00",
+    "updated": "2022-09-27T07:16:06.532181-07:00",
+    "identifier": "id:10348:e611d1af-4ab6-4b40-9d16-cae0260aa5b0",
+    "user": {
+      "username": "Cohomologie",
+      "id": 10348,
+      "first_name": "Rodolphe",
+      "account": {
+        "name": "Cohomologie",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Couple counselor",
+    "participant": {
+      "user": {
+        "username": "internal_id:10348:e611d1af-4ab6-4b40-9d16-cae0260aa5b0",
+        "id": 36710,
+        "first_name": "Couple counselor",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Couple counselor"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Couple counselor",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "mFQIglRJT9UKBT8yOmji-Dcq4tTHmIMQ1a2MO4KjgWk",
+    "created": "2022-10-03T09:41:08.775824-07:00",
+    "updated": "2022-10-03T09:41:09.342387-07:00",
+    "identifier": "id:66525:9e96d5fb-383b-4fab-867f-0cf0aaf45d0b",
+    "user": {
+      "username": "Origolium",
+      "id": 66525,
+      "first_name": "Teagan",
+      "account": {
+        "name": "Origolium",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Banana",
+    "participant": {
+      "user": {
+        "username": "internal_id:66525:9e96d5fb-383b-4fab-867f-0cf0aaf45d0b",
+        "id": 66538,
+        "first_name": "Banana",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Banana"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/I8mzvridOTHB0dLUQxnLwpDbtuGxXGz3aYKwUpr2Euc.webp",
+    "greeting": "I am Banana",
+    "description": "",
+    "definition": ""
+  }
+}

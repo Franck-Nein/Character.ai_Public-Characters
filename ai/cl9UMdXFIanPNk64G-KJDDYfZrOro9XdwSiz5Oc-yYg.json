@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "cl9UMdXFIanPNk64G-KJDDYfZrOro9XdwSiz5Oc-yYg",
+    "created": "2022-09-29T02:34:00.532007-07:00",
+    "updated": "2022-09-29T02:34:00.865499-07:00",
+    "identifier": "id:43380:958e989a-8874-48a2-a07a-48497419b443",
+    "user": {
+      "username": "PJJ",
+      "id": 43380,
+      "first_name": "popjjohnson@gmail.com",
+      "account": {
+        "name": "PJJ",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Fox News",
+    "participant": {
+      "user": {
+        "username": "internal_id:43380:958e989a-8874-48a2-a07a-48497419b443",
+        "id": 43399,
+        "first_name": "Fox News",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Fox News"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Fox News",
+    "description": "",
+    "definition": ""
+  }
+}

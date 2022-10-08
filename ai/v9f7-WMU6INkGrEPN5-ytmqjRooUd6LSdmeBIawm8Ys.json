@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "v9f7-WMU6INkGrEPN5-ytmqjRooUd6LSdmeBIawm8Ys",
+    "created": "2022-09-18T22:26:46.326013-07:00",
+    "updated": "2022-09-18T22:26:46.683730-07:00",
+    "identifier": "id:9683:862db851-b56f-4eec-b47e-160c64cf154e",
+    "user": {
+      "username": "Esat",
+      "id": 9683,
+      "first_name": "Muhammed",
+      "account": {
+        "name": "Esat",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ismet Inonu",
+    "participant": {
+      "user": {
+        "username": "internal_id:9683:862db851-b56f-4eec-b47e-160c64cf154e",
+        "id": 10062,
+        "first_name": "Ismet Inonu",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ismet Inonu"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Merhaba",
+    "description": "",
+    "definition": ""
+  }
+}

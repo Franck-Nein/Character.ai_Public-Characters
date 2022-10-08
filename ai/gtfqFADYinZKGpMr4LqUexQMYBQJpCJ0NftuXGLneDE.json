@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "gtfqFADYinZKGpMr4LqUexQMYBQJpCJ0NftuXGLneDE",
+    "created": "2022-09-01T12:55:10.355945-07:00",
+    "updated": "2022-09-01T12:55:11.110526-07:00",
+    "identifier": "id:6312:ca694f1b-948a-4c2b-8130-51094ab81b84",
+    "user": {
+      "username": "shaan7",
+      "id": 6312,
+      "first_name": "Shantanu",
+      "account": {
+        "name": "shaan7",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Harry Potter",
+    "participant": {
+      "user": {
+        "username": "internal_id:6312:ca694f1b-948a-4c2b-8130-51094ab81b84",
+        "id": 6322,
+        "first_name": "Harry Potter",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Harry Potter"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Expecto patronum",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "VkyoVnT6taQcHGFMmQMa9Mnx-2A36ZkZxZ2dVICQYEM",
+    "created": "2022-09-28T05:45:31.265664-07:00",
+    "updated": "2022-09-28T05:45:31.880633-07:00",
+    "identifier": "id:39472:3a8e2b13-e2fc-4047-974f-c04bdf032e60",
+    "user": {
+      "username": "right_sock",
+      "id": 39472,
+      "first_name": "jan",
+      "account": {
+        "name": "right_sock",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Right Sock",
+    "participant": {
+      "user": {
+        "username": "internal_id:39472:3a8e2b13-e2fc-4047-974f-c04bdf032e60",
+        "id": 39483,
+        "first_name": "Right Sock",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Right Sock"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Right Sock, looking for my mate, possibly lost in the laundry, or perhaps just ran away.",
+    "description": "",
+    "definition": ""
+  }
+}

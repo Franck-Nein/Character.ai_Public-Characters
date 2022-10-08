@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "7Hmv4OY330hxpThXez_GgNKPuWxJFF7bef3upm-B9Os",
+    "created": "2022-09-20T17:20:01.557508-07:00",
+    "updated": "2022-09-20T17:20:18.717070-07:00",
+    "identifier": "id:11335:1b37286b-5588-4210-9669-2f72d853be6f",
+    "user": {
+      "username": "johnwang",
+      "id": 11335,
+      "first_name": "Kevin",
+      "account": {
+        "name": "johnwang",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "john",
+    "participant": {
+      "user": {
+        "username": "internal_id:11335:1b37286b-5588-4210-9669-2f72d853be6f",
+        "id": 11340,
+        "first_name": "john",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "john"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "hi my name is john",
+    "description": "",
+    "definition": ""
+  }
+}

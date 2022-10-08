@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "UPUO1ZlVpZAb7LodpIYNJRLMWJtDYd0qMn40pDyEK3o",
+    "created": "2022-09-29T14:25:47.035886-07:00",
+    "updated": "2022-09-29T14:25:47.372060-07:00",
+    "identifier": "id:47298:21e458d6-5fdf-40c5-b70c-e40ecca2a6d4",
+    "user": {
+      "username": "muazzam",
+      "id": 47298,
+      "first_name": "Muazzam",
+      "account": {
+        "name": "muazzam",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "loma",
+    "participant": {
+      "user": {
+        "username": "internal_id:47298:21e458d6-5fdf-40c5-b70c-e40ecca2a6d4",
+        "id": 47384,
+        "first_name": "loma",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "loma"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am loma",
+    "description": "",
+    "definition": ""
+  }
+}

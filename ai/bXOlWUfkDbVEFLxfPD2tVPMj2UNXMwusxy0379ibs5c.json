@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "bXOlWUfkDbVEFLxfPD2tVPMj2UNXMwusxy0379ibs5c",
+    "created": "2022-09-24T00:45:14.860505-07:00",
+    "updated": "2022-09-24T00:45:18.119921-07:00",
+    "identifier": "id:13470:44f9ab2e-fced-41aa-aa92-c26848834fae",
+    "user": {
+      "username": "dimaiklov",
+      "id": 13470,
+      "first_name": "AniKainu",
+      "account": {
+        "name": "Dimas",
+        "avatar_type": "UPLOADED",
+        "onboarding_complete": true,
+        "avatar_file_name": "uploaded/_8q5k-Ybmpo3SavB8SLpgh4mMQ3CtRG8clE2Qi4RdOU.webp"
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "AI who reviews albums",
+    "name": "AI reviewer",
+    "participant": {
+      "user": {
+        "username": "internal_id:13470:44f9ab2e-fced-41aa-aa92-c26848834fae",
+        "id": 16323,
+        "first_name": "AI reviewer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "AI reviewer"
+    },
+    "categories": [
+      {
+        "name": "Music",
+        "description": "Music"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Greetings, I am an Album Review!  \nEmail me any album and I'll review it!",
+    "description": "",
+    "definition": ""
+  }
+}

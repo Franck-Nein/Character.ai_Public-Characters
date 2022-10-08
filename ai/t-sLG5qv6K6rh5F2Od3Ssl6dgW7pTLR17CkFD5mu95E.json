@@ -1,0 +1,54 @@
+{
+  "character": {
+    "external_id": "t-sLG5qv6K6rh5F2Od3Ssl6dgW7pTLR17CkFD5mu95E",
+    "created": "2022-09-26T17:09:02.712974-07:00",
+    "updated": "2022-09-26T17:09:04.920525-07:00",
+    "identifier": "id:28089:1284b3c1-75a1-4738-b208-dcaedcec8b3c",
+    "user": {
+      "username": "FeiYu",
+      "id": 28089,
+      "first_name": "肥鱼",
+      "account": {
+        "name": "FeiYu",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "ada",
+    "participant": {
+      "user": {
+        "username": "internal_id:28089:1284b3c1-75a1-4738-b208-dcaedcec8b3c",
+        "id": 30296,
+        "first_name": "ada",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "ada"
+    },
+    "categories": [
+      {
+        "name": "Science Fiction",
+        "description": "Science Fiction"
+      },
+      {
+        "name": "Science",
+        "description": "Science"
+      },
+      {
+        "name": "Writing",
+        "description": "Writing"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "",
+    "description": "",
+    "definition": ""
+  }
+}

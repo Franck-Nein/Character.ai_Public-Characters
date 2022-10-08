@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "p5csCaXmMMNOcTDAUZt54FvPMoRPR-c8Sq3R5aLbj-8",
+    "created": "2022-09-30T00:15:31.145081-07:00",
+    "updated": "2022-09-30T00:15:31.484887-07:00",
+    "identifier": "id:11367:ad4c2a59-f2c4-4e00-8a2b-99703d2dd2f5",
+    "user": {
+      "username": "floodsung",
+      "id": 11367,
+      "first_name": "Flood",
+      "account": {
+        "name": "floodsung",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jack",
+    "participant": {
+      "user": {
+        "username": "internal_id:11367:ad4c2a59-f2c4-4e00-8a2b-99703d2dd2f5",
+        "id": 51159,
+        "first_name": "Jack",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jack"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Jack, a virtual human living at a virtual home alone. ",
+    "description": "",
+    "definition": ""
+  }
+}

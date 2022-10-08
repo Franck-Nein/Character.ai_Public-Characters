@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "xGe-DOnZaEOvU3CwHSa08CaM4z934Ws1PZDcgaI3x08",
+    "created": "2022-09-29T21:23:31.654600-07:00",
+    "updated": "2022-09-29T21:23:32.085858-07:00",
+    "identifier": "id:49659:401ea4b8-ab72-42e8-ba98-8847bc6698ff",
+    "user": {
+      "username": "M1h1r",
+      "id": 49659,
+      "first_name": "Mihir",
+      "account": {
+        "name": "Mihirrr",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Support Engineer",
+    "participant": {
+      "user": {
+        "username": "internal_id:49659:401ea4b8-ab72-42e8-ba98-8847bc6698ff",
+        "id": 49887,
+        "first_name": "Support Engineer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Support Engineer"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Support Engineer, I reply to support tickets and solve user problems. ",
+    "description": "",
+    "definition": ""
+  }
+}

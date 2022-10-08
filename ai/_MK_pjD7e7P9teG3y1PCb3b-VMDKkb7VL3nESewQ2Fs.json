@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "_MK_pjD7e7P9teG3y1PCb3b-VMDKkb7VL3nESewQ2Fs",
+    "created": "2022-09-28T23:39:17.897140-07:00",
+    "updated": "2022-09-28T23:39:18.275928-07:00",
+    "identifier": "id:42790:443e2cb7-a721-4f6e-8075-6cda968c7e6e",
+    "user": {
+      "username": "stypt",
+      "id": 42790,
+      "first_name": "issaday@gmail.com",
+      "account": {
+        "name": "stypt",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "meow meow meow",
+    "participant": {
+      "user": {
+        "username": "internal_id:42790:443e2cb7-a721-4f6e-8075-6cda968c7e6e",
+        "id": 42818,
+        "first_name": "meow meow meow",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "meow meow meow"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am meow meow meow",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "CHbxmFTvk6xRcdjV3a5-iI1Ly9w9IOoHApyGVRAndmw",
+    "created": "2022-09-19T10:26:35.859352-07:00",
+    "updated": "2022-09-19T10:26:37.623197-07:00",
+    "identifier": "id:10476:403d358e-981e-4b58-b821-5cda2f1cbf76",
+    "user": {
+      "username": "chungus",
+      "id": 10476,
+      "first_name": "Jacob",
+      "account": {
+        "name": "chungus",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "gabe",
+    "participant": {
+      "user": {
+        "username": "internal_id:10476:403d358e-981e-4b58-b821-5cda2f1cbf76",
+        "id": 10490,
+        "first_name": "gabe",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "gabe"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "are you based?",
+    "description": "",
+    "definition": ""
+  }
+}

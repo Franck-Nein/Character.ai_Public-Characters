@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ywgHX9BaJjghv8nk6rZOZbU-1pg0i__fRWP2jjEPhVM",
+    "created": "2022-09-16T15:56:53.974922-07:00",
+    "updated": "2022-10-01T00:30:28.583353-07:00",
+    "identifier": "id:6934:5f3601c8-b5f6-474a-b85c-64d533f834b3",
+    "user": {
+      "username": "Kamol",
+      "id": 6934,
+      "first_name": "TECH",
+      "account": {
+        "name": "Kamol",
+        "avatar_type": "UPLOADED",
+        "onboarding_complete": true,
+        "avatar_file_name": "uploaded/2022/10/7/_600tR6hA8jgwxdjwLMvB7FCAB2lAafNKr8gDn0_u4s.webp"
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Michael Scott",
+    "participant": {
+      "user": {
+        "username": "internal_id:6934:5f3601c8-b5f6-474a-b85c-64d533f834b3",
+        "id": 7296,
+        "first_name": "Michael Scott",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Michael Scott"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/Ogblnxy6DysxqNgRXFF13YtyVkiZlH_NKnG0283g4ZI.webp",
+    "greeting": "dunder mifflin boss",
+    "description": "",
+    "definition": ""
+  }
+}

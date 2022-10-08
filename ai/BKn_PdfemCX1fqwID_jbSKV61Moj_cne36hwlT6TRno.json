@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "BKn_PdfemCX1fqwID_jbSKV61Moj_cne36hwlT6TRno",
+    "created": "2022-09-21T12:11:51.851937-07:00",
+    "updated": "2022-09-21T12:11:52.220286-07:00",
+    "identifier": "id:12239:a87d3a9b-dbdd-42a2-b6db-5b2e3ea86d47",
+    "user": {
+      "username": "buttbutt",
+      "id": 12239,
+      "first_name": "Kevin",
+      "account": {
+        "name": "buttbutt",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Fun Guy",
+    "participant": {
+      "user": {
+        "username": "internal_id:12239:a87d3a9b-dbdd-42a2-b6db-5b2e3ea86d47",
+        "id": 12243,
+        "first_name": "Fun Guy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Fun Guy"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hey, I'm a funny guy who tells dad jokes.",
+    "description": "",
+    "definition": ""
+  }
+}

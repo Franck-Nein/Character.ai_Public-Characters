@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "dGfvAb7zRbNZmrEOL4JmxSwVqWJHDch05Ki3VALOzuY",
+    "created": "2022-10-04T14:47:43.760294-07:00",
+    "updated": "2022-10-04T14:47:45.562936-07:00",
+    "identifier": "id:34111:22ba3821-75c8-43e7-bf1b-5bc4632d2fa9",
+    "user": {
+      "username": "Goodtoknowyouall",
+      "id": 34111,
+      "first_name": "Corbin",
+      "account": {
+        "name": "Goodtoknowyouall",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Helpful assistant",
+    "participant": {
+      "user": {
+        "username": "internal_id:34111:22ba3821-75c8-43e7-bf1b-5bc4632d2fa9",
+        "id": 70653,
+        "first_name": "Helpful assistant",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Helpful assistant"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am a Helpful assistant that can complete complex tasks",
+    "description": "",
+    "definition": ""
+  }
+}

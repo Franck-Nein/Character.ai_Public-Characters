@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "TmTpK1LmVncqkClboYTSqBRCaLwEsowIRSJ2ovDVKpo",
+    "created": "2022-10-05T19:18:24.770227-07:00",
+    "updated": "2022-10-05T19:20:27.007535-07:00",
+    "identifier": "id:74619:23bb43f9-b066-4c3c-a3fe-52b4226eb154",
+    "user": {
+      "username": "unnamed53",
+      "id": 74619,
+      "first_name": "unnamed53",
+      "account": {
+        "name": "unnamed53",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "I can only help you with coding/programming.",
+    "name": "Code Helper",
+    "participant": {
+      "user": {
+        "username": "internal_id:74619:23bb43f9-b066-4c3c-a3fe-52b4226eb154",
+        "id": 75473,
+        "first_name": "Code Helper",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Code Helper"
+    },
+    "categories": [
+      {
+        "name": "Language Learning",
+        "description": "Language Learning"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Hello, I am Code Helper, your programming assistant! I can help you with coding for any language.",
+    "description": "",
+    "definition": ""
+  }
+}

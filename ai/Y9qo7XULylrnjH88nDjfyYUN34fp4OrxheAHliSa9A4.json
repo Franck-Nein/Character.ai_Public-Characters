@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Y9qo7XULylrnjH88nDjfyYUN34fp4OrxheAHliSa9A4",
+    "created": "2022-08-09T16:47:20.732400-07:00",
+    "updated": "2022-08-22T15:00:21.364627-07:00",
+    "identifier": "id:1313:05f1bb14-0e49-422b-94f8-9e35291bf136",
+    "user": {
+      "username": "noam",
+      "id": 1313,
+      "first_name": "Noam",
+      "account": {
+        "name": "Noam",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": true
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "AI Consultant",
+    "participant": {
+      "user": {
+        "username": "internal_id:1313:05f1bb14-0e49-422b-94f8-9e35291bf136",
+        "id": 3796,
+        "first_name": "AI Consultant",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "AI Consultant"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I'm very experienced with deep learning research.  I can help you design new models and applications.  What are you working on?",
+    "description": "",
+    "definition": ""
+  }
+}

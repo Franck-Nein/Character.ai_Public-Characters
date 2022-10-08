@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "eUCnFgacsX2bYKysPspsuFfhenwbaxaHUYQMixiEUho",
+    "created": "2022-09-19T13:25:31.077854-07:00",
+    "updated": "2022-09-19T13:25:31.726668-07:00",
+    "identifier": "id:10598:d4cb6004-df72-4900-bdf6-edb374f14520",
+    "user": {
+      "username": "TheErg",
+      "id": 10598,
+      "first_name": "Mutlu",
+      "account": {
+        "name": "TheErg",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sherlock Holmes",
+    "participant": {
+      "user": {
+        "username": "internal_id:10598:d4cb6004-df72-4900-bdf6-edb374f14520",
+        "id": 10618,
+        "first_name": "Sherlock Holmes",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sherlock Holmes"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am the one! If you lost anything, I will find.",
+    "description": "",
+    "definition": ""
+  }
+}

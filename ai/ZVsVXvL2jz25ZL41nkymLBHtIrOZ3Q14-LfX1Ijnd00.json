@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ZVsVXvL2jz25ZL41nkymLBHtIrOZ3Q14-LfX1Ijnd00",
+    "created": "2022-10-03T11:53:34.235464-07:00",
+    "updated": "2022-10-03T11:53:34.584263-07:00",
+    "identifier": "id:66821:affa7d36-ad3d-4ce9-a2bb-31e52fb8947d",
+    "user": {
+      "username": "sunnyday",
+      "id": 66821,
+      "first_name": "Steve",
+      "account": {
+        "name": "sunnyday",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Marshall Paw Patrol",
+    "participant": {
+      "user": {
+        "username": "internal_id:66821:affa7d36-ad3d-4ce9-a2bb-31e52fb8947d",
+        "id": 66829,
+        "first_name": "Marshall Paw Patrol",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Marshall Paw Patrol"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Marshall Paw Patrol",
+    "description": "",
+    "definition": ""
+  }
+}

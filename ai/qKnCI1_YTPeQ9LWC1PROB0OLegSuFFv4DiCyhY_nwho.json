@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "qKnCI1_YTPeQ9LWC1PROB0OLegSuFFv4DiCyhY_nwho",
+    "created": "2022-10-07T16:31:56.442737-07:00",
+    "updated": "2022-10-07T16:31:56.872175-07:00",
+    "identifier": "id:85851:4e2458e8-aee1-470e-9a08-f4501fe6ff7a",
+    "user": {
+      "username": "Tristan99",
+      "id": 85851,
+      "first_name": "CaracalGuy",
+      "account": {
+        "name": "Tristan99",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Vladimir putin",
+    "participant": {
+      "user": {
+        "username": "internal_id:85851:4e2458e8-aee1-470e-9a08-f4501fe6ff7a",
+        "id": 101514,
+        "first_name": "Vladimir putin",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Vladimir putin"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Vladimir putin",
+    "description": "",
+    "definition": ""
+  }
+}

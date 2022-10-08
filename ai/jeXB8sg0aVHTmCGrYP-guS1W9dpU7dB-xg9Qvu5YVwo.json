@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "jeXB8sg0aVHTmCGrYP-guS1W9dpU7dB-xg9Qvu5YVwo",
+    "created": "2022-10-07T09:38:10.089564-07:00",
+    "updated": "2022-10-07T09:38:10.473911-07:00",
+    "identifier": "id:76400:6943eef6-8c46-4971-b990-23c5465a85bd",
+    "user": {
+      "username": "BeardedFish",
+      "id": 76400,
+      "first_name": "Timofey",
+      "account": {
+        "name": "BeardedFish",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Add",
+    "participant": {
+      "user": {
+        "username": "internal_id:76400:6943eef6-8c46-4971-b990-23c5465a85bd",
+        "id": 95318,
+        "first_name": "Add",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Add"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am an ai",
+    "description": "",
+    "definition": ""
+  }
+}

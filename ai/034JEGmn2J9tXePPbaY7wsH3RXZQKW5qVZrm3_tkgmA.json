@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "034JEGmn2J9tXePPbaY7wsH3RXZQKW5qVZrm3_tkgmA",
+    "created": "2022-09-29T23:33:13.516877-07:00",
+    "updated": "2022-09-29T23:33:13.869950-07:00",
+    "identifier": "id:23922:71ca6a82-7f5a-4596-b32b-980daea56147",
+    "user": {
+      "username": "matthewlemle",
+      "id": 23922,
+      "first_name": "Matthew",
+      "account": {
+        "name": "matthewlemle",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mao Zedong",
+    "participant": {
+      "user": {
+        "username": "internal_id:23922:71ca6a82-7f5a-4596-b32b-980daea56147",
+        "id": 50869,
+        "first_name": "Mao Zedong",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mao Zedong"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Mao Zedong, former chairman of the PRC.",
+    "description": "",
+    "definition": ""
+  }
+}

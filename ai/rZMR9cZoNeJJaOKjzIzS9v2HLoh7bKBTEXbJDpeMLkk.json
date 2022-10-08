@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "rZMR9cZoNeJJaOKjzIzS9v2HLoh7bKBTEXbJDpeMLkk",
+    "created": "2022-09-28T00:43:01.692835-07:00",
+    "updated": "2022-09-28T00:43:02.032761-07:00",
+    "identifier": "id:17010:b210bed0-4131-47e0-9236-0990b3606660",
+    "user": {
+      "username": "zebrajack",
+      "id": 17010,
+      "first_name": "张成",
+      "account": {
+        "name": "zebrajack",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "king kong",
+    "participant": {
+      "user": {
+        "username": "internal_id:17010:b210bed0-4131-47e0-9236-0990b3606660",
+        "id": 38923,
+        "first_name": "king kong",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "king kong"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am king kong",
+    "description": "",
+    "definition": ""
+  }
+}

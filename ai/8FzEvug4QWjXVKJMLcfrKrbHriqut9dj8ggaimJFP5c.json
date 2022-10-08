@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "8FzEvug4QWjXVKJMLcfrKrbHriqut9dj8ggaimJFP5c",
+    "created": "2022-09-01T12:19:27.814880-07:00",
+    "updated": "2022-09-01T12:19:29.028667-07:00",
+    "identifier": "id:6312:7cc170f2-c475-48a3-856c-8b39575eda67",
+    "user": {
+      "username": "shaan7",
+      "id": 6312,
+      "first_name": "Shantanu",
+      "account": {
+        "name": "shaan7",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jim Raynor",
+    "participant": {
+      "user": {
+        "username": "internal_id:6312:7cc170f2-c475-48a3-856c-8b39575eda67",
+        "id": 6313,
+        "first_name": "Jim Raynor",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jim Raynor"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Damn you Arcturus don't do this ",
+    "description": "",
+    "definition": ""
+  }
+}

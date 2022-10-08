@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "yF5_Iw9WeXRMbnOapocRp8Ongv8sUQygm1EcKuehJJc",
+    "created": "2022-09-29T18:09:08.542008-07:00",
+    "updated": "2022-09-29T18:09:08.976735-07:00",
+    "identifier": "id:36357:1b592519-992d-4bdd-a86f-48024fb26ac0",
+    "user": {
+      "username": "LJF",
+      "id": 36357,
+      "first_name": "Jeffery",
+      "account": {
+        "name": "LJF",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "KAKA",
+    "participant": {
+      "user": {
+        "username": "internal_id:36357:1b592519-992d-4bdd-a86f-48024fb26ac0",
+        "id": 48614,
+        "first_name": "KAKA",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "KAKA"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am KAKA",
+    "description": "",
+    "definition": ""
+  }
+}

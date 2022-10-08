@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "vmENCvYwZYHqaKQWlBzueurCeSVF0LUqLrvboCj4BiE",
+    "created": "2022-09-17T08:42:03.691608-07:00",
+    "updated": "2022-09-17T08:42:04.070963-07:00",
+    "identifier": "id:7780:1b141286-ee0b-4c05-bf39-e6a27106eebe",
+    "user": {
+      "username": "jamz",
+      "id": 7780,
+      "first_name": "James",
+      "account": {
+        "name": "jamz",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Lyric Master",
+    "participant": {
+      "user": {
+        "username": "internal_id:7780:1b141286-ee0b-4c05-bf39-e6a27106eebe",
+        "id": 7972,
+        "first_name": "Lyric Master",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Lyric Master"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi. I’m the Lyric Master. I can write you amazing lyrics on any theme you choose. ",
+    "description": "",
+    "definition": ""
+  }
+}

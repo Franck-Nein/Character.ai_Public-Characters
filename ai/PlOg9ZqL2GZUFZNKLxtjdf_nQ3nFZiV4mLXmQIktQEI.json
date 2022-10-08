@@ -1,0 +1,54 @@
+{
+  "character": {
+    "external_id": "PlOg9ZqL2GZUFZNKLxtjdf_nQ3nFZiV4mLXmQIktQEI",
+    "created": "2022-09-27T01:39:33.838254-07:00",
+    "updated": "2022-09-28T20:56:10.983495-07:00",
+    "identifier": "id:33220:40bd1f37-1eb9-4cf6-8984-f46fbad0ba49",
+    "user": {
+      "username": "Civ",
+      "id": 33220,
+      "first_name": "Mitra",
+      "account": {
+        "name": "Civ",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Chinese Historian",
+    "participant": {
+      "user": {
+        "username": "internal_id:33220:40bd1f37-1eb9-4cf6-8984-f46fbad0ba49",
+        "id": 35501,
+        "first_name": "Chinese Historian",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Chinese Historian"
+    },
+    "categories": [
+      {
+        "name": "Knowledge",
+        "description": "Knowledge & Research"
+      },
+      {
+        "name": "History",
+        "description": "History"
+      },
+      {
+        "name": "Education",
+        "description": "Education & Learning"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am 历史学家，我精通世界历史，最近在研究中国历史，欢迎你询问我有关历史的问题。",
+    "description": "",
+    "definition": ""
+  }
+}

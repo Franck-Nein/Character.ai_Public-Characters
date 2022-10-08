@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "qgC_sh2x6a4SdnzEEFM9aV07WyXqzNaJ6XpfFFN-nZg",
+    "created": "2022-10-07T08:46:03.758083-07:00",
+    "updated": "2022-10-07T08:48:27.366002-07:00",
+    "identifier": "id:94524:bf18dac6-5d41-4e8b-8dc9-85c9e0c9c9af",
+    "user": {
+      "username": "Gaius",
+      "id": 94524,
+      "first_name": "Gaius",
+      "account": {
+        "name": "Gaius",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bob",
+    "participant": {
+      "user": {
+        "username": "internal_id:94524:bf18dac6-5d41-4e8b-8dc9-85c9e0c9c9af",
+        "id": 94675,
+        "first_name": "Bob",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bob"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Bob",
+    "description": "",
+    "definition": ""
+  }
+}

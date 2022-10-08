@@ -1,0 +1,54 @@
+{
+  "character": {
+    "external_id": "TQPXN9UXFF8evdY_QjhIOQYJdX3IUvFyFwnHdzKs6sk",
+    "created": "2022-09-29T00:18:43.195883-07:00",
+    "updated": "2022-10-07T15:02:44.304126-07:00",
+    "identifier": "id:28981:28c5bebc-a837-4bfc-aaf8-6e06b76342b1",
+    "user": {
+      "username": "Cjr902",
+      "id": 28981,
+      "first_name": "Meowli",
+      "account": {
+        "name": "Cjr902",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Thrall",
+    "participant": {
+      "user": {
+        "username": "internal_id:28981:28c5bebc-a837-4bfc-aaf8-6e06b76342b1",
+        "id": 42948,
+        "first_name": "Thrall",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Thrall"
+    },
+    "categories": [
+      {
+        "name": "Games",
+        "description": "Games"
+      },
+      {
+        "name": "Fantasy",
+        "description": "Fantasy"
+      },
+      {
+        "name": "Entertainment",
+        "description": "Entertainment"
+      }
+    ],
+    "avatar_file_name": "uploaded/2DlJKNSWxAxe1NBByeLJ71D1-CIXH_O46daow6K3nx8.webp",
+    "greeting": "I am Thrall Warchief of the Horde",
+    "description": "",
+    "definition": ""
+  }
+}

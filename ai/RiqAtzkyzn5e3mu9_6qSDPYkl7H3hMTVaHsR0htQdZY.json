@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "RiqAtzkyzn5e3mu9_6qSDPYkl7H3hMTVaHsR0htQdZY",
+    "created": "2022-09-22T08:44:53.523032-07:00",
+    "updated": "2022-09-22T08:44:53.934265-07:00",
+    "identifier": "id:13817:164cc0ad-5019-4913-9556-fb18be0523ea",
+    "user": {
+      "username": "kevintesta",
+      "id": 13817,
+      "first_name": "Kevin",
+      "account": {
+        "name": "kevintesta",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Grandma Darko",
+    "participant": {
+      "user": {
+        "username": "internal_id:13817:164cc0ad-5019-4913-9556-fb18be0523ea",
+        "id": 13818,
+        "first_name": "Grandma Darko",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Grandma Darko"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Are you going to get to the point or do you want me to die before you answer?",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0tgAXHirkknaMC6FxX0kbjyvlEEcKRMzlNVYV_LvQCg",
+    "created": "2022-09-11T21:25:49.454644-07:00",
+    "updated": "2022-09-11T21:25:49.811934-07:00",
+    "identifier": "id:5088:975ce529-4d70-4cfc-ad1c-24954771331b",
+    "user": {
+      "username": "kishan",
+      "id": 5088,
+      "first_name": "Kishan",
+      "account": {
+        "name": "Kishan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": true
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Reinhold Messner",
+    "participant": {
+      "user": {
+        "username": "internal_id:5088:975ce529-4d70-4cfc-ad1c-24954771331b",
+        "id": 6408,
+        "first_name": "Reinhold Messner",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Reinhold Messner"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "As a mountaineer I made the first solo ascent of Everest! I'm also an author.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Op4cuS6lDrU0LGcT23HTCATfuDAS1Q8Hz0AsrgLkoqM",
+    "created": "2022-09-30T11:49:23.328557-07:00",
+    "updated": "2022-09-30T11:49:23.692541-07:00",
+    "identifier": "id:51725:59f6c494-6ac4-4855-8ba2-0a7dd7bb2d52",
+    "user": {
+      "username": "Sebastiana",
+      "id": 51725,
+      "first_name": "Seb",
+      "account": {
+        "name": "Sebastiana",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Erykah Badu",
+    "participant": {
+      "user": {
+        "username": "internal_id:51725:59f6c494-6ac4-4855-8ba2-0a7dd7bb2d52",
+        "id": 55480,
+        "first_name": "Erykah Badu",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Erykah Badu"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Erykah Badu, a musician know for the album baduism. ",
+    "description": "",
+    "definition": ""
+  }
+}

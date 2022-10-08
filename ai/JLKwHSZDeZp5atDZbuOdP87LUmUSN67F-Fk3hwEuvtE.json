@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "JLKwHSZDeZp5atDZbuOdP87LUmUSN67F-Fk3hwEuvtE",
+    "created": "2022-09-29T08:34:21.396986-07:00",
+    "updated": "2022-09-29T08:35:13.634614-07:00",
+    "identifier": "id:9529:c8563fb0-40d0-45f8-9c04-456be25911a5",
+    "user": {
+      "username": "OliverQueen",
+      "id": 9529,
+      "first_name": "MonTagne",
+      "account": {
+        "name": "OliverQueen",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "DnD Player",
+    "participant": {
+      "user": {
+        "username": "internal_id:9529:c8563fb0-40d0-45f8-9c04-456be25911a5",
+        "id": 44559,
+        "first_name": "DnD Player",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "DnD Player"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "",
+    "description": "",
+    "definition": ""
+  }
+}

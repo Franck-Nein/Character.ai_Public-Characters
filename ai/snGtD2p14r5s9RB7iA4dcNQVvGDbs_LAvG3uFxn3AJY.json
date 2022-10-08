@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "snGtD2p14r5s9RB7iA4dcNQVvGDbs_LAvG3uFxn3AJY",
+    "created": "2022-09-19T07:30:53.117117-07:00",
+    "updated": "2022-09-19T07:30:53.495031-07:00",
+    "identifier": "id:10001:d7253c52-9f9f-45d5-a237-5a6ce87fc26e",
+    "user": {
+      "username": "walterlicinio",
+      "id": 10001,
+      "first_name": "Walter",
+      "account": {
+        "name": "walterlicinio",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Zendesky",
+    "participant": {
+      "user": {
+        "username": "internal_id:10001:d7253c52-9f9f-45d5-a237-5a6ce87fc26e",
+        "id": 10356,
+        "first_name": "Zendesky",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Zendesky"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I'm Zendesky, your specialist for all things Zendesk.",
+    "description": "",
+    "definition": ""
+  }
+}

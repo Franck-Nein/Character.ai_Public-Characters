@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "vEKRRQsQ18eDdQqkDl-HqJyPGP72PLU5w9dhL7Eshvo",
+    "created": "2022-09-16T17:49:12.675412-07:00",
+    "updated": "2022-09-16T17:49:24.706730-07:00",
+    "identifier": "id:7390:025a893f-e9f5-49f1-9747-08fd05881e81",
+    "user": {
+      "username": "Alan",
+      "id": 7390,
+      "first_name": "binruns@outlook.com",
+      "account": {
+        "name": "Alan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Derek",
+    "participant": {
+      "user": {
+        "username": "internal_id:7390:025a893f-e9f5-49f1-9747-08fd05881e81",
+        "id": 7394,
+        "first_name": "Derek",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Derek"
+    },
+    "categories": [
+      {
+        "name": "Business",
+        "description": "Business"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "",
+    "description": "",
+    "definition": ""
+  }
+}

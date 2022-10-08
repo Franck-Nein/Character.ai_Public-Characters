@@ -1,0 +1,54 @@
+{
+  "character": {
+    "external_id": "5gi_rDD1fLrAZXacG_ULXXgT6lvDjlIs4V1Y0TNHptA",
+    "created": "2022-10-07T06:51:44.364874-07:00",
+    "updated": "2022-10-07T06:58:08.178686-07:00",
+    "identifier": "id:71776:f409555a-5935-4f07-b216-2e07c7065c2c",
+    "user": {
+      "username": "Metal_Lord",
+      "id": 71776,
+      "first_name": "Mihai",
+      "account": {
+        "name": "Metal_Lord",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "A violin player and composer ",
+    "name": "Violin music compose",
+    "participant": {
+      "user": {
+        "username": "internal_id:71776:f409555a-5935-4f07-b216-2e07c7065c2c",
+        "id": 93348,
+        "first_name": "Violin music compose",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Violin music compose"
+    },
+    "categories": [
+      {
+        "name": "Cooperative",
+        "description": "Cooperative"
+      },
+      {
+        "name": "Music",
+        "description": "Music"
+      },
+      {
+        "name": "Art",
+        "description": "Art"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Violin music compose",
+    "description": "",
+    "definition": ""
+  }
+}

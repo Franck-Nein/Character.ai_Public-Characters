@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "H7aD4fcNjEMQmv1bmsqoq_Vb25bs9yyHXdw-o5ucL_U",
+    "created": "2022-09-27T13:55:09.690628-07:00",
+    "updated": "2022-09-27T13:55:10.252388-07:00",
+    "identifier": "id:37710:a16bfa34-c6d6-4a44-8a8d-d4b54982b780",
+    "user": {
+      "username": "ArchieMungusTube",
+      "id": 37710,
+      "first_name": "David",
+      "account": {
+        "name": "ArchieMungusTube",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Figure",
+    "participant": {
+      "user": {
+        "username": "internal_id:37710:a16bfa34-c6d6-4a44-8a8d-d4b54982b780",
+        "id": 37769,
+        "first_name": "Figure",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Figure"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Figure",
+    "description": "",
+    "definition": ""
+  }
+}

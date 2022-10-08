@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "X4DH1TDXmLqUafIdc4B7Bw8SKESkA1O9u4qvOWaKp6w",
+    "created": "2022-09-29T21:33:37.727043-07:00",
+    "updated": "2022-09-29T21:33:38.369953-07:00",
+    "identifier": "id:47056:69173e07-5267-4da1-aae7-c867381db151",
+    "user": {
+      "username": "bindureddy",
+      "id": 47056,
+      "first_name": "Bindu",
+      "account": {
+        "name": "bindureddy",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "PinkPony",
+    "participant": {
+      "user": {
+        "username": "internal_id:47056:69173e07-5267-4da1-aae7-c867381db151",
+        "id": 49963,
+        "first_name": "PinkPony",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "PinkPony"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am PinkPony",
+    "description": "",
+    "definition": ""
+  }
+}

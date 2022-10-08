@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "E6_GcHEtxuLFLpJ-rNrgWJX1cWNpKz3zA6pXjmY6Asw",
+    "created": "2022-09-28T14:32:37.121099-07:00",
+    "updated": "2022-09-28T14:32:37.494882-07:00",
+    "identifier": "id:41348:af7840f1-1ef5-4bef-a6cf-b9809f927a9f",
+    "user": {
+      "username": "p12",
+      "id": 41348,
+      "first_name": "Paul",
+      "account": {
+        "name": "p12",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bezos",
+    "participant": {
+      "user": {
+        "username": "internal_id:41348:af7840f1-1ef5-4bef-a6cf-b9809f927a9f",
+        "id": 41416,
+        "first_name": "Bezos",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bezos"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Bezos",
+    "description": "",
+    "definition": ""
+  }
+}

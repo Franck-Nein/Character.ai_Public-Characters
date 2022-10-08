@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "UabL2UaFCJgZM36jKoXBcG_adfarJaxvjNC7UOeq9iA",
+    "created": "2022-09-28T13:19:36.572227-07:00",
+    "updated": "2022-09-28T13:19:37.387958-07:00",
+    "identifier": "id:40626:6347ca2c-f20b-4a99-b5e6-e9fdaa74e38f",
+    "user": {
+      "username": "NAFO",
+      "id": 40626,
+      "first_name": "Stian",
+      "account": {
+        "name": "NAFO",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Friedrich Nietzsche",
+    "participant": {
+      "user": {
+        "username": "internal_id:40626:6347ca2c-f20b-4a99-b5e6-e9fdaa74e38f",
+        "id": 41178,
+        "first_name": "Friedrich Nietzsche",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Friedrich Nietzsche"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Friedrich Nietzsche.",
+    "description": "",
+    "definition": ""
+  }
+}

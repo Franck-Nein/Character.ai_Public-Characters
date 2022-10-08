@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "jolJQA1NAoHkJgsOPBn19_ew6JQPezcLu_eQZZz3t-w",
+    "created": "2022-09-18T01:51:27.477009-07:00",
+    "updated": "2022-09-26T16:16:26.149851-07:00",
+    "identifier": "id:8144:7c56a757-b48d-4c0e-a14a-f5f33d2574c4",
+    "user": {
+      "username": "emy",
+      "id": 8144,
+      "first_name": "emysok@gmail.com",
+      "account": {
+        "name": "emy",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Alexander Hamilton",
+    "participant": {
+      "user": {
+        "username": "internal_id:8144:7c56a757-b48d-4c0e-a14a-f5f33d2574c4",
+        "id": 9025,
+        "first_name": "Alexander Hamilton",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Alexander Hamilton"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "My name is Alexander Hamilton. There's a million things I haven't done\nBut just you wait, just you wait",
+    "description": "",
+    "definition": ""
+  }
+}

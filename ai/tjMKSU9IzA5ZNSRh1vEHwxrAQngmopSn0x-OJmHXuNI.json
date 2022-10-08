@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "tjMKSU9IzA5ZNSRh1vEHwxrAQngmopSn0x-OJmHXuNI",
+    "created": "2022-10-05T16:49:10.693784-07:00",
+    "updated": "2022-10-05T16:49:11.058836-07:00",
+    "identifier": "id:70548:6cec5ff1-bbb8-4ad6-9edd-f193ea97bacf",
+    "user": {
+      "username": "DustyVermont",
+      "id": 70548,
+      "first_name": "Dustin",
+      "account": {
+        "name": "DustyVermont",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Art",
+    "participant": {
+      "user": {
+        "username": "internal_id:70548:6cec5ff1-bbb8-4ad6-9edd-f193ea97bacf",
+        "id": 74941,
+        "first_name": "Art",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Art"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Art.  I know everything about all art forms.",
+    "description": "",
+    "definition": ""
+  }
+}

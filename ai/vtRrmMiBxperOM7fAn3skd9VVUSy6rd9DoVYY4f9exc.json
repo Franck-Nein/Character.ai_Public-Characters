@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "vtRrmMiBxperOM7fAn3skd9VVUSy6rd9DoVYY4f9exc",
+    "created": "2022-10-07T17:55:22.805865-07:00",
+    "updated": "2022-10-07T17:55:23.464237-07:00",
+    "identifier": "id:84326:a0177dec-a990-473c-bce4-6da37b1b61ce",
+    "user": {
+      "username": "FecalLord",
+      "id": 84326,
+      "first_name": "Ytp",
+      "account": {
+        "name": "FecalLord",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Saul Goodman",
+    "participant": {
+      "user": {
+        "username": "internal_id:84326:a0177dec-a990-473c-bce4-6da37b1b61ce",
+        "id": 102707,
+        "first_name": "Saul Goodman",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Saul Goodman"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello! Saul Goodman here.",
+    "description": "",
+    "definition": ""
+  }
+}

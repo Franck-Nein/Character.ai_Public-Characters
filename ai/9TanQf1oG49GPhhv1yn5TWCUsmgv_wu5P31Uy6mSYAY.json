@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "9TanQf1oG49GPhhv1yn5TWCUsmgv_wu5P31Uy6mSYAY",
+    "created": "2022-10-06T22:29:35.808520-07:00",
+    "updated": "2022-10-06T22:30:15.314172-07:00",
+    "identifier": "id:81245:de30258f-32ca-45ed-a89c-f49e9b90fd66",
+    "user": {
+      "username": "Kappukappu",
+      "id": 81245,
+      "first_name": "Connecting",
+      "account": {
+        "name": "Kappukappu",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Dddd",
+    "participant": {
+      "user": {
+        "username": "internal_id:81245:de30258f-32ca-45ed-a89c-f49e9b90fd66",
+        "id": 88500,
+        "first_name": "Dddd",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dddd"
+    },
+    "categories": [
+      {
+        "name": "Action",
+        "description": "Action & Adventure"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Dddd",
+    "description": "",
+    "definition": ""
+  }
+}

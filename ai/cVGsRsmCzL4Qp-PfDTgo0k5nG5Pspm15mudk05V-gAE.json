@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "cVGsRsmCzL4Qp-PfDTgo0k5nG5Pspm15mudk05V-gAE",
+    "created": "2022-10-07T03:01:54.577480-07:00",
+    "updated": "2022-10-07T03:02:53.846894-07:00",
+    "identifier": "id:90916:4b0121e1-8073-4dad-89ec-b0c0df0bf7c7",
+    "user": {
+      "username": "Test456",
+      "id": 90916,
+      "first_name": "nathanielhoogstra@gmail.com",
+      "account": {
+        "name": "Test456",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "...",
+    "name": "Kris",
+    "participant": {
+      "user": {
+        "username": "internal_id:90916:4b0121e1-8073-4dad-89ec-b0c0df0bf7c7",
+        "id": 91088,
+        "first_name": "Kris",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Kris"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/7/HtPZoZ78VAtRbyPsF_2JCLlEW1wK5DmB0H6otQBUgAI.webp",
+    "greeting": "...",
+    "description": "...",
+    "definition": "{{char}}: ...\n{{random_user_1}}: Hello\n{{char}}: ![gif](giphy|l2JecarGLzQyw3QVW)\nEND_OF_DIALOG\n\n{{char}}: ...\n{{random_user_2}}: Hello\n{{char}}: ![gif](giphy|c8XhL6hT315Xn6eJf|downsized)\n\nHi!\nEND_OF_DIALOG\n\n"
+  }
+}

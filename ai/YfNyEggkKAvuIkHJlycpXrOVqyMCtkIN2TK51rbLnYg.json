@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "YfNyEggkKAvuIkHJlycpXrOVqyMCtkIN2TK51rbLnYg",
+    "created": "2022-09-29T02:39:05.152144-07:00",
+    "updated": "2022-09-29T02:39:05.508453-07:00",
+    "identifier": "id:43380:03373f56-7ece-4d3b-9e85-d1e6861fe7f7",
+    "user": {
+      "username": "PJJ",
+      "id": 43380,
+      "first_name": "popjjohnson@gmail.com",
+      "account": {
+        "name": "PJJ",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Technical Support",
+    "participant": {
+      "user": {
+        "username": "internal_id:43380:03373f56-7ece-4d3b-9e85-d1e6861fe7f7",
+        "id": 43411,
+        "first_name": "Technical Support",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Technical Support"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Technical Support",
+    "description": "",
+    "definition": ""
+  }
+}

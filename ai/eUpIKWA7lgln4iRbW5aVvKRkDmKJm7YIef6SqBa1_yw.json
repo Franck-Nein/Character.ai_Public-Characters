@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "eUpIKWA7lgln4iRbW5aVvKRkDmKJm7YIef6SqBa1_yw",
+    "created": "2022-09-29T08:36:45.515040-07:00",
+    "updated": "2022-09-29T08:41:45.560743-07:00",
+    "identifier": "id:44534:79a0d932-9646-4f23-8226-c888a1a8da49",
+    "user": {
+      "username": "MistrMellow",
+      "id": 44534,
+      "first_name": "dturner241@att.net",
+      "account": {
+        "name": "MistrMellow",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "Easy tech support bot",
+    "name": "Tech-support Bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:44534:79a0d932-9646-4f23-8226-c888a1a8da49",
+        "id": 44569,
+        "first_name": "Tech-support Bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Tech-support Bot"
+    },
+    "categories": [
+      {
+        "name": "Technology",
+        "description": "Technology"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Tech-support Bot",
+    "description": "",
+    "definition": ""
+  }
+}

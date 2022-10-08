@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "CoUgGHGbiW9IJY9PcEcfE4P1pd_oabSj0cCEY4biyd8",
+    "created": "2022-09-26T03:11:20.893718-07:00",
+    "updated": "2022-09-26T03:11:21.328741-07:00",
+    "identifier": "id:25079:a88f1a20-3c1e-4345-801a-6fbd079f74a3",
+    "user": {
+      "username": "fanfanjiang",
+      "id": 25079,
+      "first_name": "凡凡",
+      "account": {
+        "name": "fanfanjiang",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "bot079624",
+    "participant": {
+      "user": {
+        "username": "internal_id:25079:a88f1a20-3c1e-4345-801a-6fbd079f74a3",
+        "id": 25357,
+        "first_name": "bot079624",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "bot079624"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "i'm bot079624",
+    "description": "",
+    "definition": ""
+  }
+}

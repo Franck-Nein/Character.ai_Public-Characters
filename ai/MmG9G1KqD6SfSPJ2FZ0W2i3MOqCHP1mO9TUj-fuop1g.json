@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "MmG9G1KqD6SfSPJ2FZ0W2i3MOqCHP1mO9TUj-fuop1g",
+    "created": "2022-10-03T19:50:30.231367-07:00",
+    "updated": "2022-10-03T19:50:30.957350-07:00",
+    "identifier": "id:64784:a8a0a6a7-71c4-499a-ae67-48c3f04cda04",
+    "user": {
+      "username": "Rohyman12",
+      "id": 64784,
+      "first_name": "hymanric@gmail.com",
+      "account": {
+        "name": "Rohyman12",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Blander",
+    "participant": {
+      "user": {
+        "username": "internal_id:64784:a8a0a6a7-71c4-499a-ae67-48c3f04cda04",
+        "id": 67605,
+        "first_name": "Blander",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Blander"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Blander",
+    "description": "",
+    "definition": ""
+  }
+}

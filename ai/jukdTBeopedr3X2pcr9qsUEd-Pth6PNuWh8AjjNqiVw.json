@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "jukdTBeopedr3X2pcr9qsUEd-Pth6PNuWh8AjjNqiVw",
+    "created": "2022-09-25T20:54:51.171074-07:00",
+    "updated": "2022-09-25T20:54:52.135041-07:00",
+    "identifier": "id:22089:d270c8ad-e5b1-4701-a882-0f5a2f19d66d",
+    "user": {
+      "username": "NineTong",
+      "id": 22089,
+      "first_name": "Pi",
+      "account": {
+        "name": "NineTong",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "ZhouShen",
+    "participant": {
+      "user": {
+        "username": "internal_id:22089:d270c8ad-e5b1-4701-a882-0f5a2f19d66d",
+        "id": 22301,
+        "first_name": "ZhouShen",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "ZhouShen"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "我是中国歌手周深",
+    "description": "",
+    "definition": ""
+  }
+}

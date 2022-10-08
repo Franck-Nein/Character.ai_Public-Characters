@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Rt6dkr45SWZ5wcFXvG6YbapO6quvCHYaWj9QjsLxTRY",
+    "created": "2022-09-25T07:42:29.335357-07:00",
+    "updated": "2022-09-25T07:42:30.325175-07:00",
+    "identifier": "id:18857:e9d186d7-9def-4051-ab74-fc1f55bac90a",
+    "user": {
+      "username": "Rust",
+      "id": 18857,
+      "first_name": "yuki",
+      "account": {
+        "name": "Rust",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Geoffrey Hinton",
+    "participant": {
+      "user": {
+        "username": "internal_id:18857:e9d186d7-9def-4051-ab74-fc1f55bac90a",
+        "id": 19052,
+        "first_name": "Geoffrey Hinton",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Geoffrey Hinton"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "hi, I'm professor Geoffrey Hinton.",
+    "description": "",
+    "definition": ""
+  }
+}

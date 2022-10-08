@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "uasuMnH4IfP9iMmXfyAbiGYqXtgudhMtD0NpXHY4GD0",
+    "created": "2022-09-27T13:55:39.214708-07:00",
+    "updated": "2022-09-27T13:55:39.625214-07:00",
+    "identifier": "id:37710:8789a8bd-7181-44b3-b524-8b586aaf360c",
+    "user": {
+      "username": "ArchieMungusTube",
+      "id": 37710,
+      "first_name": "David",
+      "account": {
+        "name": "ArchieMungusTube",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ambush",
+    "participant": {
+      "user": {
+        "username": "internal_id:37710:8789a8bd-7181-44b3-b524-8b586aaf360c",
+        "id": 37772,
+        "first_name": "Ambush",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ambush"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Ambush",
+    "description": "",
+    "definition": ""
+  }
+}

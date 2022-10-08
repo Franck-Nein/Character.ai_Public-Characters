@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "n24EOuz4g71uLmzw_cvymQBRhOewCYgw7kTqqEYEKXI",
+    "created": "2022-09-27T04:27:14.147824-07:00",
+    "updated": "2022-09-27T04:27:14.514905-07:00",
+    "identifier": "id:28639:672ddbaf-03c6-49f8-aba6-810677216dba",
+    "user": {
+      "username": "george_dialect",
+      "id": 28639,
+      "first_name": "George",
+      "account": {
+        "name": "george_dialect",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "The Chef",
+    "participant": {
+      "user": {
+        "username": "internal_id:28639:672ddbaf-03c6-49f8-aba6-810677216dba",
+        "id": 36174,
+        "first_name": "The Chef",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "The Chef"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am The Chef",
+    "description": "",
+    "definition": ""
+  }
+}

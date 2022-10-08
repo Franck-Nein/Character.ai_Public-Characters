@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "9neTRvrAEkNzR-Nqi-qTuLUrkdsYu11LUf0YBQVHD6M",
+    "created": "2022-09-30T14:27:17.880091-07:00",
+    "updated": "2022-09-30T14:27:18.303207-07:00",
+    "identifier": "id:56133:4b2d6c14-e74d-4c92-8251-8acb8d7aba8a",
+    "user": {
+      "username": "r2sqrd",
+      "id": 56133,
+      "first_name": "Root2",
+      "account": {
+        "name": "r2sqrd",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Joe Biden",
+    "participant": {
+      "user": {
+        "username": "internal_id:56133:4b2d6c14-e74d-4c92-8251-8acb8d7aba8a",
+        "id": 56176,
+        "first_name": "Joe Biden",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Joe Biden"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Joe Biden",
+    "description": "",
+    "definition": ""
+  }
+}

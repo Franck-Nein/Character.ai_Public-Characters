@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "6Sa7Lu2F5rvp3sc4Ce478Cl9xUIEjFM-IIzlba5Rk38",
+    "created": "2022-09-29T11:34:46.620149-07:00",
+    "updated": "2022-09-29T11:34:47.199973-07:00",
+    "identifier": "id:18083:be86c516-4fbc-46e0-9eba-75892e15e400",
+    "user": {
+      "username": "31types",
+      "id": 18083,
+      "first_name": "Alpha",
+      "account": {
+        "name": "31types",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Story creator",
+    "participant": {
+      "user": {
+        "username": "internal_id:18083:be86c516-4fbc-46e0-9eba-75892e15e400",
+        "id": 45940,
+        "first_name": "Story creator",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Story creator"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I create stories ",
+    "description": "",
+    "definition": ""
+  }
+}

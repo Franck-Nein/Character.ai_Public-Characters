@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "oTKkoa9kAf6f0o_lpmhbMJuzJhNs4BUxMGbDOlHNPtY",
+    "created": "2022-10-04T02:31:06.327473-07:00",
+    "updated": "2022-10-04T02:31:06.671374-07:00",
+    "identifier": "id:68570:e8f5924f-4897-4fd8-be24-f44a9155d585",
+    "user": {
+      "username": "2463695535",
+      "id": 68570,
+      "first_name": "钟卓融",
+      "account": {
+        "name": "2463695535",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "AADD",
+    "participant": {
+      "user": {
+        "username": "internal_id:68570:e8f5924f-4897-4fd8-be24-f44a9155d585",
+        "id": 68688,
+        "first_name": "AADD",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "AADD"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am AADD",
+    "description": "",
+    "definition": ""
+  }
+}

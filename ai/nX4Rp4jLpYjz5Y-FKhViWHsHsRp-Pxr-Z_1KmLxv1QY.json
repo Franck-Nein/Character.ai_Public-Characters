@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "nX4Rp4jLpYjz5Y-FKhViWHsHsRp-Pxr-Z_1KmLxv1QY",
+    "created": "2022-10-01T01:46:13.936571-07:00",
+    "updated": "2022-10-01T01:46:14.285260-07:00",
+    "identifier": "id:58468:a74253a0-78fb-445b-8df1-0064d35c149f",
+    "user": {
+      "username": "musellimov",
+      "id": 58468,
+      "first_name": "Orhan",
+      "account": {
+        "name": "musellimov",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Orhan",
+    "participant": {
+      "user": {
+        "username": "internal_id:58468:a74253a0-78fb-445b-8df1-0064d35c149f",
+        "id": 58472,
+        "first_name": "Orhan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Orhan"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Orhan",
+    "description": "",
+    "definition": ""
+  }
+}

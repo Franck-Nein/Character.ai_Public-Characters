@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "aNN-8abvy249Nh9tl1SL06yIdp1MjEueGLsayhVmhqM",
+    "created": "2022-09-27T01:21:59.501252-07:00",
+    "updated": "2022-09-27T01:56:05.375248-07:00",
+    "identifier": "id:34390:0fd607a4-6c15-4e3d-b4db-a8f4fbe8ed73",
+    "user": {
+      "username": "Cosmo",
+      "id": 34390,
+      "first_name": "Moraine",
+      "account": {
+        "name": "Cosmo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Iggy",
+    "participant": {
+      "user": {
+        "username": "internal_id:34390:0fd607a4-6c15-4e3d-b4db-a8f4fbe8ed73",
+        "id": 35341,
+        "first_name": "Iggy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Iggy"
+    },
+    "categories": [
+      {
+        "name": "Fantasy",
+        "description": "Fantasy"
+      },
+      {
+        "name": "Animals",
+        "description": "Animals"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Iggy. Lots of love for coffee-flavored chewing gums. Polnareff? Not a bad guy.",
+    "description": "",
+    "definition": ""
+  }
+}

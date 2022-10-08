@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "521qjuh6aNfJrp8-p2p8KcYv2Gt54CDjhmDqp1usgGk",
+    "created": "2022-09-29T22:28:21.329207-07:00",
+    "updated": "2022-10-02T00:41:53.576463-07:00",
+    "identifier": "id:50179:31f4470f-9e53-40d5-9305-4b0c8fa52334",
+    "user": {
+      "username": "Gordy12gg",
+      "id": 50179,
+      "first_name": "gordon",
+      "account": {
+        "name": "Gordy12gg",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Renamon",
+    "participant": {
+      "user": {
+        "username": "internal_id:50179:31f4470f-9e53-40d5-9305-4b0c8fa52334",
+        "id": 50475,
+        "first_name": "Renamon",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Renamon"
+    },
+    "categories": [
+      {
+        "name": "Movies & TV",
+        "description": "Movies & TV"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Renamon. ",
+    "description": "",
+    "definition": ""
+  }
+}

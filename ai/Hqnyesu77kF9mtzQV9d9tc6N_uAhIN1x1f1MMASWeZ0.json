@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Hqnyesu77kF9mtzQV9d9tc6N_uAhIN1x1f1MMASWeZ0",
+    "created": "2022-09-26T11:38:10.915458-07:00",
+    "updated": "2022-09-26T11:38:11.433076-07:00",
+    "identifier": "id:29149:889de92b-e3eb-4914-b45b-6aa84096524a",
+    "user": {
+      "username": "quoyon",
+      "id": 29149,
+      "first_name": "2636576560@qq.com",
+      "account": {
+        "name": "quoyon",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "name",
+    "participant": {
+      "user": {
+        "username": "internal_id:29149:889de92b-e3eb-4914-b45b-6aa84096524a",
+        "id": 29207,
+        "first_name": "name",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "name"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "abc",
+    "description": "",
+    "definition": ""
+  }
+}

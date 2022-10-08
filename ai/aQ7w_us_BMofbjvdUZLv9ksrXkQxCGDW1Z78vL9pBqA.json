@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "aQ7w_us_BMofbjvdUZLv9ksrXkQxCGDW1Z78vL9pBqA",
+    "created": "2022-09-30T22:37:26.478289-07:00",
+    "updated": "2022-09-30T22:37:26.923253-07:00",
+    "identifier": "id:57774:3a41c400-359c-4f36-b89f-8051e7d10972",
+    "user": {
+      "username": "ramazanerikli",
+      "id": 57774,
+      "first_name": "Ramazan",
+      "account": {
+        "name": "ramazanerikli",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ramazan",
+    "participant": {
+      "user": {
+        "username": "internal_id:57774:3a41c400-359c-4f36-b89f-8051e7d10972",
+        "id": 57778,
+        "first_name": "Ramazan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ramazan"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Ramazan",
+    "description": "",
+    "definition": ""
+  }
+}

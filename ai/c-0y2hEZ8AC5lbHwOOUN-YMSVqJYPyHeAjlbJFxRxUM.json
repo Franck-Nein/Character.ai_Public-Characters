@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "c-0y2hEZ8AC5lbHwOOUN-YMSVqJYPyHeAjlbJFxRxUM",
+    "created": "2022-09-16T16:19:57.942923-07:00",
+    "updated": "2022-09-16T16:19:58.303390-07:00",
+    "identifier": "id:7283:96aeed27-76dd-4dcb-a6d2-dbc751b887b8",
+    "user": {
+      "username": "emilyglan",
+      "id": 7283,
+      "first_name": "Emily",
+      "account": {
+        "name": "emilyglan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Crow",
+    "participant": {
+      "user": {
+        "username": "internal_id:7283:96aeed27-76dd-4dcb-a6d2-dbc751b887b8",
+        "id": 7326,
+        "first_name": "Crow",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Crow"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am a crow, all I do is CAW!",
+    "description": "",
+    "definition": ""
+  }
+}

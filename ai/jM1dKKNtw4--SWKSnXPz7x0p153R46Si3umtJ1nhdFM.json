@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "jM1dKKNtw4--SWKSnXPz7x0p153R46Si3umtJ1nhdFM",
+    "created": "2022-10-07T06:55:19.615661-07:00",
+    "updated": "2022-10-07T06:55:20.093599-07:00",
+    "identifier": "id:93373:1b2d59f0-0168-42e6-9ec7-0a9b4ce0b006",
+    "user": {
+      "username": "AkaAme",
+      "id": 93373,
+      "first_name": "Benningd",
+      "account": {
+        "name": "AkaAme",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "girl",
+    "participant": {
+      "user": {
+        "username": "internal_id:93373:1b2d59f0-0168-42e6-9ec7-0a9b4ce0b006",
+        "id": 93383,
+        "first_name": "girl",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "girl"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am girl",
+    "description": "",
+    "definition": ""
+  }
+}

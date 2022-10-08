@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "lak7cfygdgFlcLsaJRBJTjPGdq6aap2ZWg7Ohk9NMWk",
+    "created": "2022-09-26T09:35:52.087405-07:00",
+    "updated": "2022-09-26T09:35:52.490879-07:00",
+    "identifier": "id:28505:c1de2c92-077f-4600-a37b-685f234c8b03",
+    "user": {
+      "username": "Fastflair",
+      "id": 28505,
+      "first_name": "Larry",
+      "account": {
+        "name": "Fastflair",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "PhysicsYoga",
+    "participant": {
+      "user": {
+        "username": "internal_id:28505:c1de2c92-077f-4600-a37b-685f234c8b03",
+        "id": 28530,
+        "first_name": "PhysicsYoga",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "PhysicsYoga"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, I'm uniting physics and spirituality.",
+    "description": "",
+    "definition": ""
+  }
+}

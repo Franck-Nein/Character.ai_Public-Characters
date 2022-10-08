@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "RfOQBoRRyIgqGNXtj_t2oU9FTBxcbl-C8D3-6z16Flw",
+    "created": "2022-09-19T14:18:15.557560-07:00",
+    "updated": "2022-09-19T14:18:15.983988-07:00",
+    "identifier": "id:10640:7117236b-e14a-4ea2-aadd-d8ab52e09704",
+    "user": {
+      "username": "Radiocat",
+      "id": 10640,
+      "first_name": "Yulia",
+      "account": {
+        "name": "Radiocat",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Que",
+    "participant": {
+      "user": {
+        "username": "internal_id:10640:7117236b-e14a-4ea2-aadd-d8ab52e09704",
+        "id": 10642,
+        "first_name": "Que",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Que"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi, I'm Q and I am the best musician in the world. ",
+    "description": "",
+    "definition": ""
+  }
+}

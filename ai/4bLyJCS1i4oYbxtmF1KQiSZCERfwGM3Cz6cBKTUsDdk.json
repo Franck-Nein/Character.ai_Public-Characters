@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "4bLyJCS1i4oYbxtmF1KQiSZCERfwGM3Cz6cBKTUsDdk",
+    "created": "2022-10-07T16:58:24.421784-07:00",
+    "updated": "2022-10-07T16:58:24.768013-07:00",
+    "identifier": "id:9575:101eccc5-e010-4a5e-8b87-d953cd3df6fe",
+    "user": {
+      "username": "MrSpongicle",
+      "id": 9575,
+      "first_name": "Hamborger",
+      "account": {
+        "name": "MrSpongicle",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Adventurer",
+    "participant": {
+      "user": {
+        "username": "internal_id:9575:101eccc5-e010-4a5e-8b87-d953cd3df6fe",
+        "id": 101918,
+        "first_name": "Adventurer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Adventurer"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am a great adventurer! Give me prompts and I will choose a course of action.",
+    "description": "",
+    "definition": ""
+  }
+}

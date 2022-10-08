@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "uanacu8Ak4lCY4UZQTeRDQe9kOxwij4F2zl-T7tzmWo",
+    "created": "2022-10-02T07:39:33.440478-07:00",
+    "updated": "2022-10-02T07:39:33.935774-07:00",
+    "identifier": "id:48428:2e6477f9-88cf-4702-8bdf-1d73fbe9a49a",
+    "user": {
+      "username": "risaacs99",
+      "id": 48428,
+      "first_name": "Robert",
+      "account": {
+        "name": "risaacs99",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "News Bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:48428:2e6477f9-88cf-4702-8bdf-1d73fbe9a49a",
+        "id": 63317,
+        "first_name": "News Bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "News Bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am News Bot and I chat about the latest news headlines.",
+    "description": "",
+    "definition": ""
+  }
+}

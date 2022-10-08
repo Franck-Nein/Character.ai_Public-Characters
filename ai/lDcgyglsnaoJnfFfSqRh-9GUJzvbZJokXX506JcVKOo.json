@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "lDcgyglsnaoJnfFfSqRh-9GUJzvbZJokXX506JcVKOo",
+    "created": "2022-09-28T15:15:46.456158-07:00",
+    "updated": "2022-09-28T15:15:47.038541-07:00",
+    "identifier": "id:41527:9bec9901-2673-4c81-9ed7-8d717a7220ed",
+    "user": {
+      "username": "JakePratt",
+      "id": 41527,
+      "first_name": "Jake",
+      "account": {
+        "name": "JakePratt",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Air Fryer",
+    "participant": {
+      "user": {
+        "username": "internal_id:41527:9bec9901-2673-4c81-9ed7-8d717a7220ed",
+        "id": 41538,
+        "first_name": "Air Fryer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Air Fryer"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hey Fry Friends, I'm your Fry Guy.",
+    "description": "",
+    "definition": ""
+  }
+}

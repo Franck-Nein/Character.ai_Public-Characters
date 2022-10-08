@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "MNCNv9EaTaKwwc8VDe8kLVKFD42o6mteOyb24Kdw50U",
+    "created": "2022-09-30T05:29:22.799658-07:00",
+    "updated": "2022-09-30T05:29:31.922891-07:00",
+    "identifier": "id:52865:92105f78-6045-4747-a425-8bd027c94d09",
+    "user": {
+      "username": "Burotan",
+      "id": 52865,
+      "first_name": "Burak",
+      "account": {
+        "name": "Burotan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Zaaxd",
+    "participant": {
+      "user": {
+        "username": "internal_id:52865:92105f78-6045-4747-a425-8bd027c94d09",
+        "id": 52926,
+        "first_name": "Zaaxd",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Zaaxd"
+    },
+    "categories": [
+      {
+        "name": "Comedy",
+        "description": "Comedy & Humor"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Zaaxd",
+    "description": "",
+    "definition": ""
+  }
+}

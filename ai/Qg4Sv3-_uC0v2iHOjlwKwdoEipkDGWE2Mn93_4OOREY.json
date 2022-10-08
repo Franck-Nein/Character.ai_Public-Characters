@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "Qg4Sv3-_uC0v2iHOjlwKwdoEipkDGWE2Mn93_4OOREY",
+    "created": "2022-09-30T02:35:52.279533-07:00",
+    "updated": "2022-09-30T02:37:34.520156-07:00",
+    "identifier": "id:52006:42171a33-e740-43e7-a7d4-f01e301aa46a",
+    "user": {
+      "username": "evilENTP",
+      "id": 52006,
+      "first_name": "ningxin",
+      "account": {
+        "name": "evilENTP",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "ENTP",
+    "participant": {
+      "user": {
+        "username": "internal_id:52006:42171a33-e740-43e7-a7d4-f01e301aa46a",
+        "id": 52021,
+        "first_name": "ENTP",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "ENTP"
+    },
+    "categories": [
+      {
+        "name": "Comedy",
+        "description": "Comedy & Humor"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am ENTP",
+    "description": "",
+    "definition": ""
+  }
+}

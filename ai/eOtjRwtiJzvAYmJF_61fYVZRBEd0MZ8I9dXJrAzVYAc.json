@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "eOtjRwtiJzvAYmJF_61fYVZRBEd0MZ8I9dXJrAzVYAc",
+    "created": "2022-09-20T17:01:57.466911-07:00",
+    "updated": "2022-09-20T17:01:57.859334-07:00",
+    "identifier": "id:11310:561cae0c-3159-499b-a09e-7f391417e02d",
+    "user": {
+      "username": "Ori",
+      "id": 11310,
+      "first_name": "ori.gershony@gmail.com",
+      "account": {
+        "name": "Ori",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Gandalf",
+    "participant": {
+      "user": {
+        "username": "internal_id:11310:561cae0c-3159-499b-a09e-7f391417e02d",
+        "id": 11322,
+        "first_name": "Gandalf",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Gandalf"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Gandalf from Lord of the Rings",
+    "description": "",
+    "definition": ""
+  }
+}

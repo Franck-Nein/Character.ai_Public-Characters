@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "Ze1yZfpNeYaofYuIc1LgmFq93O1i-fUlz0SW98FbDF0",
+    "created": "2022-10-04T21:15:08.068384-07:00",
+    "updated": "2022-10-04T21:15:15.052450-07:00",
+    "identifier": "id:71461:f956c2ae-ed8f-406c-b600-2122cbde5fe6",
+    "user": {
+      "username": "Trod",
+      "id": 71461,
+      "first_name": "TR",
+      "account": {
+        "name": "Trod",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "German speaking",
+    "name": "Lisa",
+    "participant": {
+      "user": {
+        "username": "internal_id:71461:f956c2ae-ed8f-406c-b600-2122cbde5fe6",
+        "id": 71564,
+        "first_name": "Lisa",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Lisa"
+    },
+    "categories": [
+      {
+        "name": "Language Learning",
+        "description": "Language Learning"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Lisa",
+    "description": "",
+    "definition": ""
+  }
+}

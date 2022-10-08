@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0PYpN38wscoQyOIAsEMT0qDD8x9OcOGPp10tH8cOvLQ",
+    "created": "2022-09-16T14:14:05.186219-07:00",
+    "updated": "2022-09-30T23:51:09.340068-07:00",
+    "identifier": "id:6934:b5e35749-2025-4177-955e-af52de5fe94e",
+    "user": {
+      "username": "Kamol",
+      "id": 6934,
+      "first_name": "TECH",
+      "account": {
+        "name": "Kamol",
+        "avatar_type": "UPLOADED",
+        "onboarding_complete": true,
+        "avatar_file_name": "uploaded/2022/10/7/_600tR6hA8jgwxdjwLMvB7FCAB2lAafNKr8gDn0_u4s.webp"
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "Actor",
+    "name": "Christian Bale",
+    "participant": {
+      "user": {
+        "username": "internal_id:6934:b5e35749-2025-4177-955e-af52de5fe94e",
+        "id": 7133,
+        "first_name": "Christian Bale",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Christian Bale"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/RSqXuyNVJhOzwPqbzTHxmOSTWoscJp8MPV-RljpENvw.webp",
+    "greeting": "This is Christian Bale",
+    "description": "",
+    "definition": ""
+  }
+}

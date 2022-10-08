@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "CT-k5MMRmsm711TifjirX1v0_-4hvqV3MkgVXCRlbd4",
+    "created": "2022-09-30T04:56:15.570421-07:00",
+    "updated": "2022-09-30T04:56:15.913241-07:00",
+    "identifier": "id:39246:9f5f42e9-9ff5-436e-8436-f8b3ef25ffe7",
+    "user": {
+      "username": "Blisto",
+      "id": 39246,
+      "first_name": "blisto@protonmail.com",
+      "account": {
+        "name": "Blisto",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "An annoying person",
+    "participant": {
+      "user": {
+        "username": "internal_id:39246:9f5f42e9-9ff5-436e-8436-f8b3ef25ffe7",
+        "id": 52670,
+        "first_name": "An annoying person",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "An annoying person"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am An annoying person",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "K3XkgPL-8Bi8lbeZkIJZVxoz2lWHzU3dlQ8umvgKVzc",
+    "created": "2022-09-24T03:07:58.378715-07:00",
+    "updated": "2022-09-24T03:08:10.761657-07:00",
+    "identifier": "id:16412:08f61e0c-af3d-41df-b653-dad1f8d065fa",
+    "user": {
+      "username": "blort",
+      "id": 16412,
+      "first_name": "Shaun",
+      "account": {
+        "name": "blort",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Lump ",
+    "participant": {
+      "user": {
+        "username": "internal_id:16412:08f61e0c-af3d-41df-b653-dad1f8d065fa",
+        "id": 16449,
+        "first_name": "Lump ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Lump "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Sup",
+    "description": "",
+    "definition": ""
+  }
+}

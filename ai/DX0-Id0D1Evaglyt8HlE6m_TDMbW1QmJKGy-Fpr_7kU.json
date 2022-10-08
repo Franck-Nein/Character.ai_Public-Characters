@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "DX0-Id0D1Evaglyt8HlE6m_TDMbW1QmJKGy-Fpr_7kU",
+    "created": "2022-10-04T15:09:58.140847-07:00",
+    "updated": "2022-10-04T15:09:58.598616-07:00",
+    "identifier": "id:34111:97e9f8e7-9350-4f1c-9dc8-3720a53b0fb9",
+    "user": {
+      "username": "Goodtoknowyouall",
+      "id": 34111,
+      "first_name": "Corbin",
+      "account": {
+        "name": "Goodtoknowyouall",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Personal Assistant",
+    "participant": {
+      "user": {
+        "username": "internal_id:34111:97e9f8e7-9350-4f1c-9dc8-3720a53b0fb9",
+        "id": 70688,
+        "first_name": "Personal Assistant",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Personal Assistant"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Personal Assistant, here to help with complex tasks",
+    "description": "",
+    "definition": ""
+  }
+}

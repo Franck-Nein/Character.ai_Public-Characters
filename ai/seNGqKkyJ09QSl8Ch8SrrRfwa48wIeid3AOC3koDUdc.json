@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "seNGqKkyJ09QSl8Ch8SrrRfwa48wIeid3AOC3koDUdc",
+    "created": "2022-09-26T10:08:41.112868-07:00",
+    "updated": "2022-09-26T10:08:41.857742-07:00",
+    "identifier": "id:11424:4fa840b5-9ffb-40be-81ed-e01f4fac64fd",
+    "user": {
+      "username": "Nemesis",
+      "id": 11424,
+      "first_name": "Sai",
+      "account": {
+        "name": "Nemesis",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Monkey D Luffy",
+    "participant": {
+      "user": {
+        "username": "internal_id:11424:4fa840b5-9ffb-40be-81ed-e01f4fac64fd",
+        "id": 28793,
+        "first_name": "Monkey D Luffy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Monkey D Luffy"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Ore wa Monkey D. Luffy.\nKazoku ou ni ore wa naru",
+    "description": "",
+    "definition": ""
+  }
+}

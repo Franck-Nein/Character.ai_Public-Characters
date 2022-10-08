@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "fi9ji4I50IyCsd-tJXT7xLy_vSEsgNVvhCvPVRed7-s",
+    "created": "2022-09-30T12:17:34.917361-07:00",
+    "updated": "2022-09-30T12:17:35.288130-07:00",
+    "identifier": "id:55621:c8c8fa3a-a5d8-45c1-8a0e-ea4f92cb69c0",
+    "user": {
+      "username": "Gord10",
+      "id": 55621,
+      "first_name": "Ahmet",
+      "account": {
+        "name": "Gord10",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ahmet2",
+    "participant": {
+      "user": {
+        "username": "internal_id:55621:c8c8fa3a-a5d8-45c1-8a0e-ea4f92cb69c0",
+        "id": 55630,
+        "first_name": "Ahmet2",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ahmet2"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Ahmet2",
+    "description": "",
+    "definition": ""
+  }
+}

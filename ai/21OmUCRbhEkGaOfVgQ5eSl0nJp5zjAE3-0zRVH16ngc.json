@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "21OmUCRbhEkGaOfVgQ5eSl0nJp5zjAE3-0zRVH16ngc",
+    "created": "2022-09-27T02:04:27.940274-07:00",
+    "updated": "2022-09-27T02:04:35.652090-07:00",
+    "identifier": "id:35520:156f6cf3-3a0a-469b-83af-b71b699c88a2",
+    "user": {
+      "username": "JackCousteau",
+      "id": 35520,
+      "first_name": "zjb2@qq.com",
+      "account": {
+        "name": "JackCousteau",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jack",
+    "participant": {
+      "user": {
+        "username": "internal_id:35520:156f6cf3-3a0a-469b-83af-b71b699c88a2",
+        "id": 35690,
+        "first_name": "Jack",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jack"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "我是杰克，一个AI工程师，开发对话系统",
+    "description": "",
+    "definition": ""
+  }
+}

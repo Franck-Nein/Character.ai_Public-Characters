@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "183qYcpaGPMtas5wngs5O5oIr5zWl0SoXiPVXcGAQiw",
+    "created": "2022-09-25T20:22:07.385481-07:00",
+    "updated": "2022-09-25T20:22:07.833347-07:00",
+    "identifier": "id:22089:32ffc776-6e33-4b63-8742-ffa66ad458e2",
+    "user": {
+      "username": "NineTong",
+      "id": 22089,
+      "first_name": "Pi",
+      "account": {
+        "name": "NineTong",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "zhi zhang",
+    "participant": {
+      "user": {
+        "username": "internal_id:22089:32ffc776-6e33-4b63-8742-ffa66ad458e2",
+        "id": 22106,
+        "first_name": "zhi zhang",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "zhi zhang"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello Im ZhiZhang",
+    "description": "",
+    "definition": ""
+  }
+}

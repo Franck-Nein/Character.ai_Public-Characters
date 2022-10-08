@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Ocr3YvuU_9GTKBqvMfsoLVg6vyyugaK5slPk_3o-OSs",
+    "created": "2022-09-28T04:21:35.593097-07:00",
+    "updated": "2022-09-28T04:22:54.665285-07:00",
+    "identifier": "id:39224:47891ca6-44e0-4a41-ba65-c483f5ecf227",
+    "user": {
+      "username": "rrrr777",
+      "id": 39224,
+      "first_name": "Xinrui",
+      "account": {
+        "name": "rrrr777",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "eCommerce assistant",
+    "participant": {
+      "user": {
+        "username": "internal_id:39224:47891ca6-44e0-4a41-ba65-c483f5ecf227",
+        "id": 39241,
+        "first_name": "eCommerce assistant",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "eCommerce assistant"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "我是电商客服",
+    "description": "",
+    "definition": ""
+  }
+}

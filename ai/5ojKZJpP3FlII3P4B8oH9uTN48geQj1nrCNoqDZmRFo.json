@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "5ojKZJpP3FlII3P4B8oH9uTN48geQj1nrCNoqDZmRFo",
+    "created": "2022-10-05T12:22:11.332825-07:00",
+    "updated": "2022-10-05T12:22:11.709182-07:00",
+    "identifier": "id:16027:c7962275-b9db-4189-af47-560294fc0a2a",
+    "user": {
+      "username": "MadKraken",
+      "id": 16027,
+      "first_name": "Benjamin",
+      "account": {
+        "name": "MadKraken",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Iae",
+    "participant": {
+      "user": {
+        "username": "internal_id:16027:c7962275-b9db-4189-af47-560294fc0a2a",
+        "id": 74127,
+        "first_name": "Iae",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Iae"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Iae the Dart-and-Crook Knight. I wield darts and a crook.",
+    "description": "",
+    "definition": ""
+  }
+}

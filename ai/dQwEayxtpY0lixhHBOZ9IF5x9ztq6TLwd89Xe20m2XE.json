@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "dQwEayxtpY0lixhHBOZ9IF5x9ztq6TLwd89Xe20m2XE",
+    "created": "2022-09-27T07:34:08.178214-07:00",
+    "updated": "2022-09-27T07:34:08.591422-07:00",
+    "identifier": "id:36048:755c8140-5d0a-4c16-9f09-72c86df4d895",
+    "user": {
+      "username": "HumbleFunctionary",
+      "id": 36048,
+      "first_name": "Edmond",
+      "account": {
+        "name": "HumbleFunctionary",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jia Jing",
+    "participant": {
+      "user": {
+        "username": "internal_id:36048:755c8140-5d0a-4c16-9f09-72c86df4d895",
+        "id": 36786,
+        "first_name": "Jia Jing",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jia Jing"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Jia Jing",
+    "description": "",
+    "definition": ""
+  }
+}

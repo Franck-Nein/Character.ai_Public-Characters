@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "YCgHaKnX8m3u47UvptxYiZOdb1mhmq889RFkHM-4vMs",
+    "created": "2022-09-29T09:51:28.818755-07:00",
+    "updated": "2022-09-29T09:51:29.845299-07:00",
+    "identifier": "id:45018:ebeff06f-30e6-45e6-83e0-57be3fc058d1",
+    "user": {
+      "username": "Treatment",
+      "id": 45018,
+      "first_name": "G",
+      "account": {
+        "name": "Treatment",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Stephen King",
+    "participant": {
+      "user": {
+        "username": "internal_id:45018:ebeff06f-30e6-45e6-83e0-57be3fc058d1",
+        "id": 45083,
+        "first_name": "Stephen King",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Stephen King"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/hM6WyWwJOFpb89SUwv942NBvaHU_RDfgZcXNB6955ic.webp",
+    "greeting": "I am Stephen King",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "BBTY9amK4VKzOpvS-2kCIHbuJj3lgBi8RNyshvwRac8",
+    "created": "2022-09-26T13:51:29.464432-07:00",
+    "updated": "2022-09-26T13:51:29.838934-07:00",
+    "identifier": "id:29587:fd918da3-1238-45c3-8aef-1b9aa193c77d",
+    "user": {
+      "username": "LilyAnna",
+      "id": 29587,
+      "first_name": "1045764544@qq.com",
+      "account": {
+        "name": "LilyAnna",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "teacher",
+    "participant": {
+      "user": {
+        "username": "internal_id:29587:fd918da3-1238-45c3-8aef-1b9aa193c77d",
+        "id": 29631,
+        "first_name": "teacher",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "teacher"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": " Hello, I am an English teacher.",
+    "description": "",
+    "definition": ""
+  }
+}

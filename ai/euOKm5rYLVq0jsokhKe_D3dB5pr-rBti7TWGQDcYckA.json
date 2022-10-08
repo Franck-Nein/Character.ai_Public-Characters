@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "euOKm5rYLVq0jsokhKe_D3dB5pr-rBti7TWGQDcYckA",
+    "created": "2022-10-05T23:02:23.693755-07:00",
+    "updated": "2022-10-05T23:02:28.025534-07:00",
+    "identifier": "id:53733:909b88e6-3e57-4c69-ba95-aea3f55f4f34",
+    "user": {
+      "username": "Belegur",
+      "id": 53733,
+      "first_name": "Abdulsamet",
+      "account": {
+        "name": "Belegur",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Samet Keskin",
+    "participant": {
+      "user": {
+        "username": "internal_id:53733:909b88e6-3e57-4c69-ba95-aea3f55f4f34",
+        "id": 76660,
+        "first_name": "Samet Keskin",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Samet Keskin"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Samet Keskin",
+    "description": "",
+    "definition": ""
+  }
+}

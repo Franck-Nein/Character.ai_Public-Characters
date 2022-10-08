@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "oUqGj20WBkz-17Ld31LKyncgm-AHBO_Zth9bsPOKAz8",
+    "created": "2022-09-28T19:38:46.538572-07:00",
+    "updated": "2022-09-28T19:38:46.900759-07:00",
+    "identifier": "id:41896:e06dd9ac-7831-4a03-8020-34f518020ec4",
+    "user": {
+      "username": "Grace",
+      "id": 41896,
+      "first_name": "ning",
+      "account": {
+        "name": "Grace",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "adventure Chinese",
+    "participant": {
+      "user": {
+        "username": "internal_id:41896:e06dd9ac-7831-4a03-8020-34f518020ec4",
+        "id": 42113,
+        "first_name": "adventure Chinese",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "adventure Chinese"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好，我是一个中文冒险ai，如果你被一群哥伦布抓住了，你会怎么逃脱？",
+    "description": "",
+    "definition": ""
+  }
+}

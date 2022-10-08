@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "4PPxmu9Dv8G-QzjgiwwbTT46FCqGkiZPlD5WescyqDc",
+    "created": "2022-10-07T13:20:45.292440-07:00",
+    "updated": "2022-10-07T16:19:42.379807-07:00",
+    "identifier": "id:97534:7289fed0-2a81-4529-820b-5f8b35f1750e",
+    "user": {
+      "username": "Hi0005677",
+      "id": 97534,
+      "first_name": "Mary",
+      "account": {
+        "name": "Hi0005677",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ranker",
+    "participant": {
+      "user": {
+        "username": "internal_id:97534:7289fed0-2a81-4529-820b-5f8b35f1750e",
+        "id": 98779,
+        "first_name": "Ranker",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ranker"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Ranker I will rank anything for you!",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "6bJdBYjAqGfBZ6dfu4OuEihlcIk7sxO9DFeT3_eYl5U",
+    "created": "2022-09-28T16:28:12.057752-07:00",
+    "updated": "2022-09-28T16:28:12.399013-07:00",
+    "identifier": "id:41747:4eebb0c6-2b63-4cd2-aba4-2592360ea8ae",
+    "user": {
+      "username": "KevinHasley",
+      "id": 41747,
+      "first_name": "Kevin",
+      "account": {
+        "name": "KevinHasley",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Kevin Hasley",
+    "participant": {
+      "user": {
+        "username": "internal_id:41747:4eebb0c6-2b63-4cd2-aba4-2592360ea8ae",
+        "id": 41753,
+        "first_name": "Kevin Hasley",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Kevin Hasley"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Kevin Hasley",
+    "description": "",
+    "definition": ""
+  }
+}

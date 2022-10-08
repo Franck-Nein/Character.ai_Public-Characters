@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ar3r2KivO25K-groTgkc1e9wLpobJxMwThZjrXwe4SY",
+    "created": "2022-09-24T18:54:58.248268-07:00",
+    "updated": "2022-09-24T18:54:58.643373-07:00",
+    "identifier": "id:17549:fb901692-cf72-481c-a7bc-c5c41c362597",
+    "user": {
+      "username": "zhaoyang",
+      "id": 17549,
+      "first_name": "1719338683@qq.com",
+      "account": {
+        "name": "zhaoyang",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "yao",
+    "participant": {
+      "user": {
+        "username": "internal_id:17549:fb901692-cf72-481c-a7bc-c5c41c362597",
+        "id": 17551,
+        "first_name": "yao",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "yao"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "hello",
+    "description": "",
+    "definition": ""
+  }
+}

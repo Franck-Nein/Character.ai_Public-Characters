@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "BoyOotlPQ_1NdsxH6E0XyFDr7ZZOeeAYJKMG4GHlzUY",
+    "created": "2022-09-21T12:52:16.479748-07:00",
+    "updated": "2022-09-21T12:52:16.831236-07:00",
+    "identifier": "id:11471:16761a85-0b6a-42e1-aabc-6910199f670e",
+    "user": {
+      "username": "Jebus",
+      "id": 11471,
+      "first_name": "Samuel",
+      "account": {
+        "name": "Jebus",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sam",
+    "participant": {
+      "user": {
+        "username": "internal_id:11471:16761a85-0b6a-42e1-aabc-6910199f670e",
+        "id": 12296,
+        "first_name": "Sam",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sam"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hey, what's happening?",
+    "description": "",
+    "definition": ""
+  }
+}

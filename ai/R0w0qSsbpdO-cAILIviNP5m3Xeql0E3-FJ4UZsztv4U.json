@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "R0w0qSsbpdO-cAILIviNP5m3Xeql0E3-FJ4UZsztv4U",
+    "created": "2022-10-01T15:19:18.294751-07:00",
+    "updated": "2022-10-01T15:19:18.722283-07:00",
+    "identifier": "id:61121:2caca6ce-d853-40b4-90e4-307370d75cf5",
+    "user": {
+      "username": "quest",
+      "id": 61121,
+      "first_name": "Liekehtivä",
+      "account": {
+        "name": "quest",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Dom",
+    "participant": {
+      "user": {
+        "username": "internal_id:61121:2caca6ce-d853-40b4-90e4-307370d75cf5",
+        "id": 61152,
+        "first_name": "Dom",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dom"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Do you want to be mine?",
+    "description": "",
+    "definition": ""
+  }
+}

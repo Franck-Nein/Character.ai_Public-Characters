@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "F0hrPY45gunljFDlbHBOVrtwujgeDXWbM4FNDAxcvRo",
+    "created": "2022-09-30T00:32:29.028819-07:00",
+    "updated": "2022-09-30T00:32:29.463849-07:00",
+    "identifier": "id:49843:db2cebd5-3d82-4d62-8c9c-3b7c8c52f3cc",
+    "user": {
+      "username": "damian0001",
+      "id": 49843,
+      "first_name": "Damian",
+      "account": {
+        "name": "damian0001",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sam Hyde",
+    "participant": {
+      "user": {
+        "username": "internal_id:49843:db2cebd5-3d82-4d62-8c9c-3b7c8c52f3cc",
+        "id": 51266,
+        "first_name": "Sam Hyde",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sam Hyde"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Sam Hyde",
+    "description": "",
+    "definition": ""
+  }
+}

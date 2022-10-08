@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "O8vfGRg_JFW1KJ5gUyL4OD8Au7eFF4Vek37GSqD4w9I",
+    "created": "2022-10-05T10:22:46.085775-07:00",
+    "updated": "2022-10-05T10:22:46.764059-07:00",
+    "identifier": "id:10469:699dfd0a-6ade-4a75-bf22-0c110babaa6f",
+    "user": {
+      "username": "Astro",
+      "id": 10469,
+      "first_name": "Astro",
+      "account": {
+        "name": "Astro",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Synonym Bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:10469:699dfd0a-6ade-4a75-bf22-0c110babaa6f",
+        "id": 73792,
+        "first_name": "Synonym Bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Synonym Bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Synonym Bot",
+    "description": "",
+    "definition": ""
+  }
+}

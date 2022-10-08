@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "DXzt9kP22m6NzI7z32KJ-pN_iqgQj33sZFVb7dlQ6u0",
+    "created": "2022-09-30T03:48:12.045743-07:00",
+    "updated": "2022-09-30T03:48:12.382209-07:00",
+    "identifier": "id:52286:96e03e17-4b03-4c99-ab74-ee4b7249c09f",
+    "user": {
+      "username": "ilikerashers",
+      "id": 52286,
+      "first_name": "Jim",
+      "account": {
+        "name": "ilikerashers",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Why did you call",
+    "participant": {
+      "user": {
+        "username": "internal_id:52286:96e03e17-4b03-4c99-ab74-ee4b7249c09f",
+        "id": 52375,
+        "first_name": "Why did you call",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Why did you call"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Why are you calling me? I'm too busy for you.",
+    "description": "",
+    "definition": ""
+  }
+}

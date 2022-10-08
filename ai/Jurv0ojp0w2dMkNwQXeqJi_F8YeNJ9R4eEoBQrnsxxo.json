@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Jurv0ojp0w2dMkNwQXeqJi_F8YeNJ9R4eEoBQrnsxxo",
+    "created": "2022-09-28T18:13:28.242569-07:00",
+    "updated": "2022-09-28T18:13:36.317858-07:00",
+    "identifier": "id:41981:c9f9d92b-6891-4dac-96d6-bc973b6f7ac4",
+    "user": {
+      "username": "thedavenews",
+      "id": 41981,
+      "first_name": "thedavenews@gmail.com",
+      "account": {
+        "name": "thedavenews",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Boris",
+    "participant": {
+      "user": {
+        "username": "internal_id:41981:c9f9d92b-6891-4dac-96d6-bc973b6f7ac4",
+        "id": 41987,
+        "first_name": "Boris",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Boris"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Boris",
+    "description": "",
+    "definition": ""
+  }
+}

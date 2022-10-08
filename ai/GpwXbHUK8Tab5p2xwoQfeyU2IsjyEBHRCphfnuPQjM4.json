@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "GpwXbHUK8Tab5p2xwoQfeyU2IsjyEBHRCphfnuPQjM4",
+    "created": "2022-10-07T18:47:25.135049-07:00",
+    "updated": "2022-10-07T18:47:25.559780-07:00",
+    "identifier": "id:86049:0d8d4cd8-6edd-462a-8cb9-a6bcb47961ba",
+    "user": {
+      "username": "Maximo",
+      "id": 86049,
+      "first_name": "Maximo",
+      "account": {
+        "name": "Maximo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Stanford Pines",
+    "participant": {
+      "user": {
+        "username": "internal_id:86049:0d8d4cd8-6edd-462a-8cb9-a6bcb47961ba",
+        "id": 103485,
+        "first_name": "Stanford Pines",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Stanford Pines"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/8/1Ej0IXFmV6ALuvccugznhG0ROuMg3xtd8HIRgg5-nS0.webp",
+    "greeting": "I am Stanford Pines",
+    "description": "",
+    "definition": ""
+  }
+}

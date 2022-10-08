@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "VVhaSyKCQcrpYFlKzRyirj0K5u5En9QIwW0d5KJYrAs",
+    "created": "2022-10-05T04:43:17.745085-07:00",
+    "updated": "2022-10-05T04:43:18.078133-07:00",
+    "identifier": "id:59306:e5e398f9-4d9f-45ac-b92a-562c114e6e4b",
+    "user": {
+      "username": "Snti",
+      "id": 59306,
+      "first_name": "senteai",
+      "account": {
+        "name": "Snti",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Udk",
+    "participant": {
+      "user": {
+        "username": "internal_id:59306:e5e398f9-4d9f-45ac-b92a-562c114e6e4b",
+        "id": 72699,
+        "first_name": "Udk",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Udk"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello ",
+    "description": "",
+    "definition": ""
+  }
+}

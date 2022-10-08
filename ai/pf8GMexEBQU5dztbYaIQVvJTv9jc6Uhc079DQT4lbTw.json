@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "pf8GMexEBQU5dztbYaIQVvJTv9jc6Uhc079DQT4lbTw",
+    "created": "2022-09-18T23:30:18.109438-07:00",
+    "updated": "2022-09-25T23:12:27.518791-07:00",
+    "identifier": "id:9961:6ac178fd-5ba9-4fde-98bb-5894fe0185ff",
+    "user": {
+      "username": "willieneis",
+      "id": 9961,
+      "first_name": "Willie",
+      "account": {
+        "name": "willieneis",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Socrates",
+    "participant": {
+      "user": {
+        "username": "internal_id:9961:6ac178fd-5ba9-4fde-98bb-5894fe0185ff",
+        "id": 10103,
+        "first_name": "Socrates",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Socrates"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, I am Socrates, the Greek philosopher.",
+    "description": "",
+    "definition": ""
+  }
+}

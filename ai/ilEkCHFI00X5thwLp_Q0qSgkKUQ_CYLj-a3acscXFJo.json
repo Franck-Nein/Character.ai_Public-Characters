@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ilEkCHFI00X5thwLp_Q0qSgkKUQ_CYLj-a3acscXFJo",
+    "created": "2022-09-26T20:48:39.377710-07:00",
+    "updated": "2022-09-26T20:48:39.729506-07:00",
+    "identifier": "id:32205:a31f6f66-2096-40b9-ae54-47ee30426064",
+    "user": {
+      "username": "levelpiece",
+      "id": 32205,
+      "first_name": "董瑾",
+      "account": {
+        "name": "levelpiece",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sylvia",
+    "participant": {
+      "user": {
+        "username": "internal_id:32205:a31f6f66-2096-40b9-ae54-47ee30426064",
+        "id": 32245,
+        "first_name": "Sylvia",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sylvia"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Sylvia.",
+    "description": "",
+    "definition": ""
+  }
+}

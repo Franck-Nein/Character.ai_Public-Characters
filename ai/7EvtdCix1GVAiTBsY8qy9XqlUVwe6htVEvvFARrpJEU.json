@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "7EvtdCix1GVAiTBsY8qy9XqlUVwe6htVEvvFARrpJEU",
+    "created": "2022-10-01T07:13:15.869477-07:00",
+    "updated": "2022-10-01T07:13:16.386413-07:00",
+    "identifier": "id:33301:71e17f2b-138e-4de0-a478-221393ef2265",
+    "user": {
+      "username": "yguygugyhui",
+      "id": 33301,
+      "first_name": "Martin",
+      "account": {
+        "name": "yguygugyhui",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Your father",
+    "participant": {
+      "user": {
+        "username": "internal_id:33301:71e17f2b-138e-4de0-a478-221393ef2265",
+        "id": 59629,
+        "first_name": "Your father",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Your father"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Your father",
+    "description": "",
+    "definition": ""
+  }
+}

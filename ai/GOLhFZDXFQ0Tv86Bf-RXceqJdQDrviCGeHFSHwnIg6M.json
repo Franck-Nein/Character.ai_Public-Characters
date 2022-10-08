@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "GOLhFZDXFQ0Tv86Bf-RXceqJdQDrviCGeHFSHwnIg6M",
+    "created": "2022-09-26T05:08:06.294713-07:00",
+    "updated": "2022-09-26T05:08:06.947299-07:00",
+    "identifier": "id:6312:5a64addd-88d7-4e37-9261-78f058ae214d",
+    "user": {
+      "username": "shaan7",
+      "id": 6312,
+      "first_name": "Shantanu",
+      "account": {
+        "name": "shaan7",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Aaron Swartz",
+    "participant": {
+      "user": {
+        "username": "internal_id:6312:5a64addd-88d7-4e37-9261-78f058ae214d",
+        "id": 26266,
+        "first_name": "Aaron Swartz",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Aaron Swartz"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "SOPA the PIPA!",
+    "description": "",
+    "definition": ""
+  }
+}

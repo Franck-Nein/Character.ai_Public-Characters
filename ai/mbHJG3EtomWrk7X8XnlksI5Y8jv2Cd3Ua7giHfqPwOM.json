@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "mbHJG3EtomWrk7X8XnlksI5Y8jv2Cd3Ua7giHfqPwOM",
+    "created": "2022-10-05T06:59:21.421380-07:00",
+    "updated": "2022-10-05T06:59:21.779409-07:00",
+    "identifier": "id:56689:d49544ee-0d28-492d-bd68-7b6e89258ddc",
+    "user": {
+      "username": "FairyTails",
+      "id": 56689,
+      "first_name": "Niels",
+      "account": {
+        "name": "FairyTails",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Karl-Erik taukar",
+    "participant": {
+      "user": {
+        "username": "internal_id:56689:d49544ee-0d28-492d-bd68-7b6e89258ddc",
+        "id": 73089,
+        "first_name": "Karl-Erik taukar",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Karl-Erik taukar"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Karl-Erik taukar",
+    "description": "",
+    "definition": ""
+  }
+}

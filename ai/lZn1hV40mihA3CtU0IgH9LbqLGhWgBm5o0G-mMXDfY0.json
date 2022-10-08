@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "lZn1hV40mihA3CtU0IgH9LbqLGhWgBm5o0G-mMXDfY0",
+    "created": "2022-09-29T00:59:06.535618-07:00",
+    "updated": "2022-09-29T00:59:07.528853-07:00",
+    "identifier": "id:42708:38e19576-75e0-4346-a31a-b903482b50c7",
+    "user": {
+      "username": "sevencat",
+      "id": 42708,
+      "first_name": "1902885336@qq.com",
+      "account": {
+        "name": "sevencat",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Amon",
+    "participant": {
+      "user": {
+        "username": "internal_id:42708:38e19576-75e0-4346-a31a-b903482b50c7",
+        "id": 43079,
+        "first_name": "Amon",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Amon"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Amon",
+    "description": "",
+    "definition": ""
+  }
+}

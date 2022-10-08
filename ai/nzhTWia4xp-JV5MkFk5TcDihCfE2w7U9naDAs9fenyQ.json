@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "nzhTWia4xp-JV5MkFk5TcDihCfE2w7U9naDAs9fenyQ",
+    "created": "2022-09-28T15:12:44.174443-07:00",
+    "updated": "2022-09-28T15:12:44.538875-07:00",
+    "identifier": "id:39781:4ec68b76-e383-4b28-9cc4-25ec51fa0e7d",
+    "user": {
+      "username": "grinbank",
+      "id": 39781,
+      "first_name": "Esteban",
+      "account": {
+        "name": "grinbank",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ricardo Montaner",
+    "participant": {
+      "user": {
+        "username": "internal_id:39781:4ec68b76-e383-4b28-9cc4-25ec51fa0e7d",
+        "id": 41525,
+        "first_name": "Ricardo Montaner",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ricardo Montaner"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Ricardo Montaner",
+    "description": "",
+    "definition": ""
+  }
+}

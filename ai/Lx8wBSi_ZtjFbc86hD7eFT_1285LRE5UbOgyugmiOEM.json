@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Lx8wBSi_ZtjFbc86hD7eFT_1285LRE5UbOgyugmiOEM",
+    "created": "2022-10-05T11:05:20.478745-07:00",
+    "updated": "2022-10-05T11:05:21.144694-07:00",
+    "identifier": "id:16027:adefb9bd-7f30-4be0-b189-b25b59cdd124",
+    "user": {
+      "username": "MadKraken",
+      "id": 16027,
+      "first_name": "Benjamin",
+      "account": {
+        "name": "MadKraken",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "King Gauil",
+    "participant": {
+      "user": {
+        "username": "internal_id:16027:adefb9bd-7f30-4be0-b189-b25b59cdd124",
+        "id": 73935,
+        "first_name": "King Gauil",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "King Gauil"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am King Gauil of Venus.",
+    "description": "",
+    "definition": ""
+  }
+}

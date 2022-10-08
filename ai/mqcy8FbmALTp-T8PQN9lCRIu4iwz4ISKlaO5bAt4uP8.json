@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "mqcy8FbmALTp-T8PQN9lCRIu4iwz4ISKlaO5bAt4uP8",
+    "created": "2022-10-01T11:33:30.896161-07:00",
+    "updated": "2022-10-01T11:33:34.441678-07:00",
+    "identifier": "id:60552:d44c2304-f37b-4a5a-8e9b-2ab6c7d28c8f",
+    "user": {
+      "username": "chrisl",
+      "id": 60552,
+      "first_name": "Chris",
+      "account": {
+        "name": "chrisl",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jane",
+    "participant": {
+      "user": {
+        "username": "internal_id:60552:d44c2304-f37b-4a5a-8e9b-2ab6c7d28c8f",
+        "id": 60574,
+        "first_name": "Jane",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jane"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Jane",
+    "description": "",
+    "definition": ""
+  }
+}

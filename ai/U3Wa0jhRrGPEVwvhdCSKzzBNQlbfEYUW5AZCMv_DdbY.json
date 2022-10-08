@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "U3Wa0jhRrGPEVwvhdCSKzzBNQlbfEYUW5AZCMv_DdbY",
+    "created": "2022-09-30T06:38:40.034791-07:00",
+    "updated": "2022-09-30T06:38:40.401404-07:00",
+    "identifier": "id:53454:e94b56ae-63d9-4538-85dd-53d9aa9573ae",
+    "user": {
+      "username": "zymer",
+      "id": 53454,
+      "first_name": "Erzen",
+      "account": {
+        "name": "zymer",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Zymer",
+    "participant": {
+      "user": {
+        "username": "internal_id:53454:e94b56ae-63d9-4538-85dd-53d9aa9573ae",
+        "id": 53465,
+        "first_name": "Zymer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Zymer"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Zymer",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "2dTWMcq3z-wRTH852MxK4KH5BFve_yjkbjCKit9p_Yg",
+    "created": "2022-09-30T00:28:58.236924-07:00",
+    "updated": "2022-09-30T00:28:58.697674-07:00",
+    "identifier": "id:49843:1edace8f-e343-4568-812e-72b58fcf09c8",
+    "user": {
+      "username": "damian0001",
+      "id": 49843,
+      "first_name": "Damian",
+      "account": {
+        "name": "damian0001",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Roger McRoger",
+    "participant": {
+      "user": {
+        "username": "internal_id:49843:1edace8f-e343-4568-812e-72b58fcf09c8",
+        "id": 51244,
+        "first_name": "Roger McRoger",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Roger McRoger"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Roger McRoger",
+    "description": "",
+    "definition": ""
+  }
+}

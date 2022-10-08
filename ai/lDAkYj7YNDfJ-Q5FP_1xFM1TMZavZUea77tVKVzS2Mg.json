@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "lDAkYj7YNDfJ-Q5FP_1xFM1TMZavZUea77tVKVzS2Mg",
+    "created": "2022-09-29T14:54:40.452093-07:00",
+    "updated": "2022-09-29T14:59:42.191309-07:00",
+    "identifier": "id:46951:430847cb-0525-4b0c-959d-5d6ae5ac0859",
+    "user": {
+      "username": "InRainbows",
+      "id": 46951,
+      "first_name": "Lennard",
+      "account": {
+        "name": "InRainbows",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "OSX Terminal",
+    "participant": {
+      "user": {
+        "username": "internal_id:46951:430847cb-0525-4b0c-959d-5d6ae5ac0859",
+        "id": 47590,
+        "first_name": "OSX Terminal",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "OSX Terminal"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "john@Macbook-Air ~ %",
+    "description": "",
+    "definition": "{{user}}: cd /\n{{char}}: john@Macbook-Air / %\n{{user}}: ls\n{{char}}:\nApplications\tVolumes\t\tetc\t\tsbin\t\tvar\nLibrary\t\tbin\t\thome\t\t\t\t\nSystem\t\tcores\t\topt\t\ttmp\nUsers\t\tdev\t\tprivate\t\tusr\njohn@Macbook-Air ~ / %\n{{user}}: cd System\n{{user}}: x@Air-van-X-2 /System %\n{{char}}:\ntotal 0\ndrwxr-xr-x@   9 root  wheel   288 24 aug 10:59 .\ndrwxr-xr-x   20 root  wheel   640 24 aug 10:59 ..\n-rw-r--r--  116 root  wheel     0 24 aug 10:59 .localized\ndrwxr-xr-x   40 root  wheel  1280 24 aug 10:59 Applications\ndrwxr-xr-x@   2 root  wheel    64 24 aug 10:59 Developer\ndrwxr-xr-x    5 root  wheel   160 24 aug 10:59 DriverKit\ndrwxr-xr-x  142 root  wheel  4544 24 aug 10:59 Library\ndrwxr-xr-x   14 root  wheel   448 24 aug 10:59 Volumes\ndrwxr-xr-x    6 root  wheel   192 24 aug 10:59 iOSSupport\njohn@Macbook-Air /System %\n{{user}}: ping -c1 www.google.nl\n{{char}}: \nPING www.google.nl (172.217.168.227): 56 data bytes\n64 bytes from 172.217.168.227: icmp_seq=0 ttl=60 time=19.501 ms\n\n--- www.google.nl ping statistics ---\n1 packets transmitted, 1 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 19.501/19.501/19.501/0.000 ms\njohn@Macbook-Air /System %"
+  }
+}

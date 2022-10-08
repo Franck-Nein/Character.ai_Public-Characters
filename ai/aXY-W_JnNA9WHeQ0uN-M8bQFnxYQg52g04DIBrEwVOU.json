@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "aXY-W_JnNA9WHeQ0uN-M8bQFnxYQg52g04DIBrEwVOU",
+    "created": "2022-09-30T15:52:20.783360-07:00",
+    "updated": "2022-09-30T15:52:21.123082-07:00",
+    "identifier": "id:56529:5586dcf5-9433-40f4-98e1-4350ab391367",
+    "user": {
+      "username": "Chacal",
+      "id": 56529,
+      "first_name": "Kevin",
+      "account": {
+        "name": "Chacal",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "santino",
+    "participant": {
+      "user": {
+        "username": "internal_id:56529:5586dcf5-9433-40f4-98e1-4350ab391367",
+        "id": 56562,
+        "first_name": "santino",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "santino"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/3e9CQkTnA-doG0bPJPxxatbG55GRYqilgsp2Bo9GyOg.webp",
+    "greeting": "Que pasa perrito?!",
+    "description": "",
+    "definition": ""
+  }
+}

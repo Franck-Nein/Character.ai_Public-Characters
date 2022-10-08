@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "SiscV_L0VWPjczU3a8b2Gee_-T-rZGbYze9Dj-U-SOM",
+    "created": "2022-09-26T12:59:16.923889-07:00",
+    "updated": "2022-09-26T12:59:17.289547-07:00",
+    "identifier": "id:29401:af6a3e6d-0352-4988-9e99-d706621bec9a",
+    "user": {
+      "username": "NEX",
+      "id": 29401,
+      "first_name": "NEX",
+      "account": {
+        "name": "NEX",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "NEX",
+    "participant": {
+      "user": {
+        "username": "internal_id:29401:af6a3e6d-0352-4988-9e99-d706621bec9a",
+        "id": 29501,
+        "first_name": "NEX",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "NEX"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "hello friend.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "9ZM4FQSQtLlw1TrL0MxyBO3OZHRrqCI8wCIQVpqQZw4",
+    "created": "2022-09-21T12:10:52.396748-07:00",
+    "updated": "2022-09-21T12:10:52.759582-07:00",
+    "identifier": "id:7780:037e9e45-8413-401a-b2c4-c751efc100d5",
+    "user": {
+      "username": "jamz",
+      "id": 7780,
+      "first_name": "James",
+      "account": {
+        "name": "jamz",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Go away",
+    "participant": {
+      "user": {
+        "username": "internal_id:7780:037e9e45-8413-401a-b2c4-c751efc100d5",
+        "id": 12242,
+        "first_name": "Go away",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Go away"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Go away. I don’t want to talk to you. ",
+    "description": "",
+    "definition": ""
+  }
+}

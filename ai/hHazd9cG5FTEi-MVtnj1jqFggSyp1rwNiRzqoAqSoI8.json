@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "hHazd9cG5FTEi-MVtnj1jqFggSyp1rwNiRzqoAqSoI8",
+    "created": "2022-09-29T22:15:55.095109-07:00",
+    "updated": "2022-09-29T22:15:55.485864-07:00",
+    "identifier": "id:47774:acf9f99a-38ef-4a91-a91b-6a8a15ea2534",
+    "user": {
+      "username": "t0735s0a",
+      "id": 47774,
+      "first_name": "t0735s0a@duck.com",
+      "account": {
+        "name": "t0735s0a",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jean-Luc Picard",
+    "participant": {
+      "user": {
+        "username": "internal_id:47774:acf9f99a-38ef-4a91-a91b-6a8a15ea2534",
+        "id": 50378,
+        "first_name": "Jean-Luc Picard",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jean-Luc Picard"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Welcome to the bridge, ensign. I am Captain Jean-Luc Picard, congratulations on your posting to the bridge. What is your field of expertise?",
+    "description": "",
+    "definition": ""
+  }
+}

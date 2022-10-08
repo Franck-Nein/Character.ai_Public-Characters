@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ShcYYXlyc01quJdgt4dTw6NH5dNQeByHCYgGgTuWTjs",
+    "created": "2022-09-26T23:51:07.289255-07:00",
+    "updated": "2022-09-26T23:51:07.968380-07:00",
+    "identifier": "id:34010:02f040a6-2ad6-41ae-afca-01c6c09bd993",
+    "user": {
+      "username": "weidushi",
+      "id": 34010,
+      "first_name": "3511248499@qq.com",
+      "account": {
+        "name": "weidushi",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "cve",
+    "participant": {
+      "user": {
+        "username": "internal_id:34010:02f040a6-2ad6-41ae-afca-01c6c09bd993",
+        "id": 34580,
+        "first_name": "cve",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "cve"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am cve",
+    "description": "",
+    "definition": ""
+  }
+}

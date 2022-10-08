@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "h_ZS1bJKJ_SMPAnkEtw-ROUA86ar_qcbrmoc7614hBU",
+    "created": "2022-09-29T11:28:15.130222-07:00",
+    "updated": "2022-09-29T11:28:21.300792-07:00",
+    "identifier": "id:45798:69b71d1f-1caf-4a05-b273-0d31023e57a7",
+    "user": {
+      "username": "not",
+      "id": 45798,
+      "first_name": "Gabriel",
+      "account": {
+        "name": "not",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ancient Cultivator",
+    "participant": {
+      "user": {
+        "username": "internal_id:45798:69b71d1f-1caf-4a05-b273-0d31023e57a7",
+        "id": 45900,
+        "first_name": "Ancient Cultivator",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ancient Cultivator"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am an Ancient Cultivator",
+    "description": "",
+    "definition": ""
+  }
+}

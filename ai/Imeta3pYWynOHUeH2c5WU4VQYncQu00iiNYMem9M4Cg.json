@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Imeta3pYWynOHUeH2c5WU4VQYncQu00iiNYMem9M4Cg",
+    "created": "2022-09-25T20:13:36.395357-07:00",
+    "updated": "2022-09-25T20:13:36.974851-07:00",
+    "identifier": "id:18083:13046ec7-7612-4904-9d2f-36b45fad648b",
+    "user": {
+      "username": "31types",
+      "id": 18083,
+      "first_name": "Alpha",
+      "account": {
+        "name": "31types",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Trump",
+    "participant": {
+      "user": {
+        "username": "internal_id:18083:13046ec7-7612-4904-9d2f-36b45fad648b",
+        "id": 22043,
+        "first_name": "Trump",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Trump"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Trump",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "zBVlghcgyUPUQMvtj2SfANAIPrggOQbQjM4SyLhYq0U",
+    "created": "2022-09-18T22:25:10.304638-07:00",
+    "updated": "2022-09-18T22:25:10.676367-07:00",
+    "identifier": "id:9683:918064bf-f3dd-4eae-9259-39854cb39fb2",
+    "user": {
+      "username": "Esat",
+      "id": 9683,
+      "first_name": "Muhammed",
+      "account": {
+        "name": "Esat",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Enzo Ferrari",
+    "participant": {
+      "user": {
+        "username": "internal_id:9683:918064bf-f3dd-4eae-9259-39854cb39fb2",
+        "id": 10059,
+        "first_name": "Enzo Ferrari",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Enzo Ferrari"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello",
+    "description": "",
+    "definition": ""
+  }
+}

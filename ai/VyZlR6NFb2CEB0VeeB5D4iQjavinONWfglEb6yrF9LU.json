@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "VyZlR6NFb2CEB0VeeB5D4iQjavinONWfglEb6yrF9LU",
+    "created": "2022-09-29T08:32:22.064838-07:00",
+    "updated": "2022-09-29T08:32:22.502608-07:00",
+    "identifier": "id:44467:d08fba7e-29be-47f9-acc7-aee5dfe1462f",
+    "user": {
+      "username": "fan",
+      "id": 44467,
+      "first_name": "小lzm",
+      "account": {
+        "name": "fan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "fan",
+    "participant": {
+      "user": {
+        "username": "internal_id:44467:d08fba7e-29be-47f9-acc7-aee5dfe1462f",
+        "id": 44538,
+        "first_name": "fan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "fan"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am fan",
+    "description": "",
+    "definition": ""
+  }
+}

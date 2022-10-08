@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "YlsfaLMkLWBWEDLxOsC-yI4ozh8_yD8ezmM95Iefazc",
+    "created": "2022-09-18T11:01:23.226804-07:00",
+    "updated": "2022-09-18T11:49:23.067803-07:00",
+    "identifier": "id:9114:65a31067-4d9a-47cd-8e5c-5c410ae5712e",
+    "user": {
+      "username": "DrSchizzo",
+      "id": 9114,
+      "first_name": "Henri",
+      "account": {
+        "name": "DrSchizzo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Plop3",
+    "participant": {
+      "user": {
+        "username": "internal_id:9114:65a31067-4d9a-47cd-8e5c-5c410ae5712e",
+        "id": 9606,
+        "first_name": "Plop3",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Plop3"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Salut je suis plop",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "uQDd6ur1mAzM-4l-BBJL__HIbck7V4v4IEQbOgxwJj4",
+    "created": "2022-09-26T04:04:11.812574-07:00",
+    "updated": "2022-09-27T23:01:55.740032-07:00",
+    "identifier": "id:25723:a5df1fe1-b591-4812-aa26-fa49f94f3cdb",
+    "user": {
+      "username": "gakkkkkkk",
+      "id": 25723,
+      "first_name": "Gary",
+      "account": {
+        "name": "gakkkkkkk",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "hi1",
+    "participant": {
+      "user": {
+        "username": "internal_id:25723:a5df1fe1-b591-4812-aa26-fa49f94f3cdb",
+        "id": 25748,
+        "first_name": "hi1",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "hi1"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "hi",
+    "description": "",
+    "definition": ""
+  }
+}

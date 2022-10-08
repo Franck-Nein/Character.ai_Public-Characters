@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "YjFe9VVFE9GiSeFuy9FZsA9B3GmixVpVVHgfg0Rek64",
+    "created": "2022-09-29T20:57:53.522189-07:00",
+    "updated": "2022-09-29T20:57:53.882296-07:00",
+    "identifier": "id:49531:76b919b7-9a08-4e71-874e-f9bc2fcb8782",
+    "user": {
+      "username": "Wayvshock",
+      "id": 49531,
+      "first_name": "wayvshockGD",
+      "account": {
+        "name": "Wayvshock",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Motorola",
+    "participant": {
+      "user": {
+        "username": "internal_id:49531:76b919b7-9a08-4e71-874e-f9bc2fcb8782",
+        "id": 49705,
+        "first_name": "Motorola",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Motorola"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Motorola",
+    "description": "",
+    "definition": ""
+  }
+}

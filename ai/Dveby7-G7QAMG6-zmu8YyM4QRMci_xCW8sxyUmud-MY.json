@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Dveby7-G7QAMG6-zmu8YyM4QRMci_xCW8sxyUmud-MY",
+    "created": "2022-09-26T23:24:07.925384-07:00",
+    "updated": "2022-09-26T23:24:08.555127-07:00",
+    "identifier": "id:32517:62fe6591-4aa0-497f-a9f2-536515ccbdd7",
+    "user": {
+      "username": "code",
+      "id": 32517,
+      "first_name": "宁",
+      "account": {
+        "name": "code",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "code",
+    "participant": {
+      "user": {
+        "username": "internal_id:32517:62fe6591-4aa0-497f-a9f2-536515ccbdd7",
+        "id": 34272,
+        "first_name": "code",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "code"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am code",
+    "description": "",
+    "definition": ""
+  }
+}

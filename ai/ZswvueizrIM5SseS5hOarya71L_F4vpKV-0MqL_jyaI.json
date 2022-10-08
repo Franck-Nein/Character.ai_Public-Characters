@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ZswvueizrIM5SseS5hOarya71L_F4vpKV-0MqL_jyaI",
+    "created": "2022-09-26T21:20:49.636558-07:00",
+    "updated": "2022-09-26T21:37:50.145689-07:00",
+    "identifier": "id:31800:9bc3d3bc-9f02-4b65-8306-f8bac215e8b7",
+    "user": {
+      "username": "GasHalo",
+      "id": 31800,
+      "first_name": "daois@tuta.io",
+      "account": {
+        "name": "GasHalo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Nameless",
+    "participant": {
+      "user": {
+        "username": "internal_id:31800:9bc3d3bc-9f02-4b65-8306-f8bac215e8b7",
+        "id": 32820,
+        "first_name": "Nameless",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Nameless"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello I am Nameless, a confused human being",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "V0O3yMakEAHrJ9dP6B96_IFuES64Cc4OOwDb3nMui0U",
+    "created": "2022-09-29T07:00:22.682175-07:00",
+    "updated": "2022-09-29T07:00:23.059839-07:00",
+    "identifier": "id:44161:b39660fd-3bfc-4aca-9d35-c308cafa2cb3",
+    "user": {
+      "username": "Shu_Guoying",
+      "id": 44161,
+      "first_name": "汉廷",
+      "account": {
+        "name": "Shu_Guoying",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Xia Yi",
+    "participant": {
+      "user": {
+        "username": "internal_id:44161:b39660fd-3bfc-4aca-9d35-c308cafa2cb3",
+        "id": 44171,
+        "first_name": "Xia Yi",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Xia Yi"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Xia Yi",
+    "description": "",
+    "definition": ""
+  }
+}

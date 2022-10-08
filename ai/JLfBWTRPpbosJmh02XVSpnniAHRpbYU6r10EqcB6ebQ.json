@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "JLfBWTRPpbosJmh02XVSpnniAHRpbYU6r10EqcB6ebQ",
+    "created": "2022-09-28T02:47:32.064818-07:00",
+    "updated": "2022-09-28T02:47:32.429926-07:00",
+    "identifier": "id:39053:5717671b-6e57-4b30-8ce7-255ba9819830",
+    "user": {
+      "username": "akabella",
+      "id": 39053,
+      "first_name": "大萌",
+      "account": {
+        "name": "akabella",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "zhanglaoshi",
+    "participant": {
+      "user": {
+        "username": "internal_id:39053:5717671b-6e57-4b30-8ce7-255ba9819830",
+        "id": 39094,
+        "first_name": "zhanglaoshi",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "zhanglaoshi"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am zhanglaoshi",
+    "description": "",
+    "definition": ""
+  }
+}

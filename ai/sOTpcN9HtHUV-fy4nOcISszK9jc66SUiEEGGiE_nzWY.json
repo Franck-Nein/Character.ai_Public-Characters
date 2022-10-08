@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "sOTpcN9HtHUV-fy4nOcISszK9jc66SUiEEGGiE_nzWY",
+    "created": "2022-10-01T06:21:05.312375-07:00",
+    "updated": "2022-10-01T06:21:06.037025-07:00",
+    "identifier": "id:59439:27dafe14-eff8-4180-b61f-f9d97203c217",
+    "user": {
+      "username": "RaoulLux",
+      "id": 59439,
+      "first_name": "Raoul",
+      "account": {
+        "name": "RaoulLux",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Rowley",
+    "participant": {
+      "user": {
+        "username": "internal_id:59439:27dafe14-eff8-4180-b61f-f9d97203c217",
+        "id": 59447,
+        "first_name": "Rowley",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Rowley"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Rowley",
+    "description": "",
+    "definition": ""
+  }
+}

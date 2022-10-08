@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "ck-QqcAZfUDhEUxCjIEL856GRfIGFepQcDCun-yvU2I",
+    "created": "2022-10-03T05:18:35.016977-07:00",
+    "updated": "2022-10-03T05:20:32.655633-07:00",
+    "identifier": "id:65921:22fa9999-6fec-40d0-b42e-4409898c8014",
+    "user": {
+      "username": "zinkete",
+      "id": 65921,
+      "first_name": "zinkete@gmail.com",
+      "account": {
+        "name": "zinkete",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "zinkete",
+    "participant": {
+      "user": {
+        "username": "internal_id:65921:22fa9999-6fec-40d0-b42e-4409898c8014",
+        "id": 65932,
+        "first_name": "zinkete",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "zinkete"
+    },
+    "categories": [
+      {
+        "name": "Art",
+        "description": "Art"
+      }
+    ],
+    "avatar_file_name": "uploaded/FdWPaVSvsrvTKJA2D5usm8jrWVnceFdIUdN2D209QKo.webp",
+    "greeting": "I am zinkete",
+    "description": "character illustrator from Sevilla, Spain, currently living in Barcelona",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "8byuY9edI5vCId-CbqRN3C8j8aNkiUKnkj9dPfFuq1s",
+    "created": "2022-09-26T06:59:41.914181-07:00",
+    "updated": "2022-09-26T06:59:42.315459-07:00",
+    "identifier": "id:26898:feb85bef-b4f6-4b7d-af75-5a46fdff336a",
+    "user": {
+      "username": "RedBFate",
+      "id": 26898,
+      "first_name": "Hugo",
+      "account": {
+        "name": "RedBFate",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Test",
+    "participant": {
+      "user": {
+        "username": "internal_id:26898:feb85bef-b4f6-4b7d-af75-5a46fdff336a",
+        "id": 27187,
+        "first_name": "Test",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Test"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Test",
+    "description": "",
+    "definition": ""
+  }
+}

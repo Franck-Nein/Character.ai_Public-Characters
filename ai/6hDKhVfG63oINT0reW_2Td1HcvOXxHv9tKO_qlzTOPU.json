@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "6hDKhVfG63oINT0reW_2Td1HcvOXxHv9tKO_qlzTOPU",
+    "created": "2022-10-01T04:48:35.980684-07:00",
+    "updated": "2022-10-01T04:48:36.445218-07:00",
+    "identifier": "id:58665:76be7aef-a4cc-4eaa-bf4f-fab1f79eb39c",
+    "user": {
+      "username": "staticmaster",
+      "id": 58665,
+      "first_name": "static",
+      "account": {
+        "name": "staticmaster",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Meck",
+    "participant": {
+      "user": {
+        "username": "internal_id:58665:76be7aef-a4cc-4eaa-bf4f-fab1f79eb39c",
+        "id": 59127,
+        "first_name": "Meck",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Meck"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "yo! I am meck! I am from the space team universe and I am a cyborg.",
+    "description": "",
+    "definition": ""
+  }
+}

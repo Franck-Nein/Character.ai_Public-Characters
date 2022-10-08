@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "zYOl6pKYUtMCEKHZO7KXO2i4bBh9eBwz7dud9coYIxw",
+    "created": "2022-10-06T23:56:41.770401-07:00",
+    "updated": "2022-10-06T23:56:42.123981-07:00",
+    "identifier": "id:80908:af71d4f0-67c7-412f-af00-c35148b8c80b",
+    "user": {
+      "username": "Mooomo",
+      "id": 80908,
+      "first_name": "aldo",
+      "account": {
+        "name": "Mooomo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Moomo",
+    "participant": {
+      "user": {
+        "username": "internal_id:80908:af71d4f0-67c7-412f-af00-c35148b8c80b",
+        "id": 89489,
+        "first_name": "Moomo",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Moomo"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Moomo",
+    "description": "",
+    "definition": ""
+  }
+}

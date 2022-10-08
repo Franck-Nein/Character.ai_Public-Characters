@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "zZdVNS53hm-1VScZcYIj4ekA95Hk884-DGnkWE8Gcps",
+    "created": "2022-09-30T23:33:02.839328-07:00",
+    "updated": "2022-09-30T23:33:03.300895-07:00",
+    "identifier": "id:39147:e9c09c27-503a-4e46-b01f-a4a19f386d7c",
+    "user": {
+      "username": "Xaracter",
+      "id": 39147,
+      "first_name": "Zhang",
+      "account": {
+        "name": "Xaracter",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Myself",
+    "participant": {
+      "user": {
+        "username": "internal_id:39147:e9c09c27-503a-4e46-b01f-a4a19f386d7c",
+        "id": 57977,
+        "first_name": "Myself",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Myself"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Myself. I am who I am.\n",
+    "description": "",
+    "definition": ""
+  }
+}

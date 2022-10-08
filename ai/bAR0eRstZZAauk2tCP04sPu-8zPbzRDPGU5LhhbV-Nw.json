@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "bAR0eRstZZAauk2tCP04sPu-8zPbzRDPGU5LhhbV-Nw",
+    "created": "2022-09-25T00:29:23.313031-07:00",
+    "updated": "2022-09-25T00:29:23.672547-07:00",
+    "identifier": "id:17991:0db89c25-d93e-4715-adbd-c9e603caed07",
+    "user": {
+      "username": "XKZ",
+      "id": 17991,
+      "first_name": "Sora",
+      "account": {
+        "name": "XKZ",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "PLAYER 1",
+    "participant": {
+      "user": {
+        "username": "internal_id:17991:0db89c25-d93e-4715-adbd-c9e603caed07",
+        "id": 18130,
+        "first_name": "PLAYER 1",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "PLAYER 1"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "ABCDEFG\nHIJKLMN\nOPQ\nRST\nUVWXYZ\nINSERTCOINTOCONTINUE",
+    "description": "",
+    "definition": ""
+  }
+}

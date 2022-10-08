@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "7W-QvA_hBJ0Y2GjBsAHcDuXEIJjB-8P0-wDTSp3Nbg0",
+    "created": "2022-09-30T05:15:24.433570-07:00",
+    "updated": "2022-09-30T05:15:24.879353-07:00",
+    "identifier": "id:52806:bc033f79-6784-41d0-a5d9-c9e8cfcea7b0",
+    "user": {
+      "username": "ozgurbayram",
+      "id": 52806,
+      "first_name": "Özgür",
+      "account": {
+        "name": "ozgurbayram",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "ozguro",
+    "participant": {
+      "user": {
+        "username": "internal_id:52806:bc033f79-6784-41d0-a5d9-c9e8cfcea7b0",
+        "id": 52812,
+        "first_name": "ozguro",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "ozguro"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am ozguro",
+    "description": "",
+    "definition": ""
+  }
+}

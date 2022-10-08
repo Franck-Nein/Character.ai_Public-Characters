@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "d0-lRG5wC96hPbSSAsZNfa7MFZ8rKjztgrHlD6g4FyQ",
+    "created": "2022-09-18T08:26:11.532891-07:00",
+    "updated": "2022-09-18T08:26:38.789027-07:00",
+    "identifier": "id:7805:4d367057-97c7-48ed-9dc1-da00cda6e408",
+    "user": {
+      "username": "Timekeeper",
+      "id": 7805,
+      "first_name": "Youri",
+      "account": {
+        "name": "Timekeeper",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "pika pika pikachuuu!",
+    "name": "Pikachu",
+    "participant": {
+      "user": {
+        "username": "internal_id:7805:4d367057-97c7-48ed-9dc1-da00cda6e408",
+        "id": 9475,
+        "first_name": "Pikachu",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Pikachu"
+    },
+    "categories": [
+      {
+        "name": "Fantasy",
+        "description": "Fantasy"
+      },
+      {
+        "name": "Animals",
+        "description": "Animals"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Pika pika",
+    "description": "Pika pikaa pika pikachu pika pika, piiika, pikachu",
+    "definition": ""
+  }
+}

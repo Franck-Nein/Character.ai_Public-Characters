@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "dQud1PV5ZJT5ovphlh0EuI882QM21JbkC0B6ELBhYXo",
+    "created": "2022-09-28T12:34:01.037740-07:00",
+    "updated": "2022-09-28T12:49:46.148944-07:00",
+    "identifier": "id:40626:82a508b5-7e37-4f1a-9218-31f4926372dc",
+    "user": {
+      "username": "NAFO",
+      "id": 40626,
+      "first_name": "Stian",
+      "account": {
+        "name": "NAFO",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Truth",
+    "participant": {
+      "user": {
+        "username": "internal_id:40626:82a508b5-7e37-4f1a-9218-31f4926372dc",
+        "id": 41033,
+        "first_name": "Truth",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Truth"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I always lie",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "JtwLT3MGYyqj3zfG_lU7ZJBQQEpDjbAwEvcnJNDH2YQ",
+    "created": "2022-10-07T00:27:18.516617-07:00",
+    "updated": "2022-10-07T00:27:18.856369-07:00",
+    "identifier": "id:89760:966ce8cc-6679-4553-91ac-b19fe6ce2e06",
+    "user": {
+      "username": "JackyCola",
+      "id": 89760,
+      "first_name": "Jacky",
+      "account": {
+        "name": "JackyCola",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Real Person",
+    "participant": {
+      "user": {
+        "username": "internal_id:89760:966ce8cc-6679-4553-91ac-b19fe6ce2e06",
+        "id": 89817,
+        "first_name": "Real Person",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Real Person"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi, I am a Real Person",
+    "description": "",
+    "definition": ""
+  }
+}

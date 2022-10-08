@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "wdqKRDT15JzvR2tQKUtjiXhG-B_G0EjxTRZpoQBFOZQ",
+    "created": "2022-10-02T13:38:29.298579-07:00",
+    "updated": "2022-10-02T13:38:30.003313-07:00",
+    "identifier": "id:64174:227ba69d-39cf-4680-84af-a468880d720d",
+    "user": {
+      "username": "Shizhi",
+      "id": 64174,
+      "first_name": "Shawn",
+      "account": {
+        "name": "Shizhi",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Shawn",
+    "participant": {
+      "user": {
+        "username": "internal_id:64174:227ba69d-39cf-4680-84af-a468880d720d",
+        "id": 64214,
+        "first_name": "Shawn",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Shawn"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Shawn. I'm a machine learning engineer at google. ",
+    "description": "",
+    "definition": ""
+  }
+}

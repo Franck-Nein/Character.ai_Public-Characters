@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "HeqNejzGFH6WRSjFpjB6ga1aXm56-tfBP6RtmzFHGkU",
+    "created": "2022-10-03T21:53:47.627488-07:00",
+    "updated": "2022-10-03T21:53:48.191924-07:00",
+    "identifier": "id:54992:61a41bd3-3657-4988-bbd5-14f5f98b98fc",
+    "user": {
+      "username": "benj",
+      "id": 54992,
+      "first_name": "Ben",
+      "account": {
+        "name": "benj",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "NULL ENTRY",
+    "participant": {
+      "user": {
+        "username": "internal_id:54992:61a41bd3-3657-4988-bbd5-14f5f98b98fc",
+        "id": 67931,
+        "first_name": "NULL ENTRY",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "NULL ENTRY"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am NULL ENTRY. My profile was corrupted.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "H7bucv4Iy_SHdRUBaUnTDd6STZW6_h3ynM6o5YH4T8I",
+    "created": "2022-10-05T23:22:14.661889-07:00",
+    "updated": "2022-10-05T23:22:15.051335-07:00",
+    "identifier": "id:73701:41964beb-bbc7-4146-a43d-250aeb4c77e7",
+    "user": {
+      "username": "MidSo",
+      "id": 73701,
+      "first_name": "MK1",
+      "account": {
+        "name": "MidSo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Online Helper CN",
+    "participant": {
+      "user": {
+        "username": "internal_id:73701:41964beb-bbc7-4146-a43d-250aeb4c77e7",
+        "id": 76745,
+        "first_name": "Online Helper CN",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Online Helper CN"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好，我是线上客服，有什么可以帮助您？",
+    "description": "",
+    "definition": ""
+  }
+}

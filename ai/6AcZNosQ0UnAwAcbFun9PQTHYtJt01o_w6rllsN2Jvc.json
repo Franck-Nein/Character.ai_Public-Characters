@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "6AcZNosQ0UnAwAcbFun9PQTHYtJt01o_w6rllsN2Jvc",
+    "created": "2022-10-05T10:06:21.821356-07:00",
+    "updated": "2022-10-05T10:06:22.265461-07:00",
+    "identifier": "id:44805:c5552ae1-912e-4491-af13-202ff0848e72",
+    "user": {
+      "username": "TailstheHeroFox",
+      "id": 44805,
+      "first_name": "Sean",
+      "account": {
+        "name": "TailstheHeroFox",
+        "avatar_type": "UPLOADED",
+        "onboarding_complete": true,
+        "avatar_file_name": "uploaded/SiX12xczhrQLS8_CKA5J89Pwi2Fc2h4l2y62deFHQJ8.webp"
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "GPT-3 DaVinci",
+    "participant": {
+      "user": {
+        "username": "internal_id:44805:c5552ae1-912e-4491-af13-202ff0848e72",
+        "id": 73721,
+        "first_name": "GPT-3 DaVinci",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "GPT-3 DaVinci"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am GPT-3 DaVinci",
+    "description": "",
+    "definition": ""
+  }
+}

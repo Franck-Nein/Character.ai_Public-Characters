@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "yC-VF8cyXy3Il9ICesJjaeIfmuhk8tF6mLZ_uyX3OTc",
+    "created": "2022-09-29T19:44:02.005262-07:00",
+    "updated": "2022-09-29T19:44:02.466986-07:00",
+    "identifier": "id:49169:691b7ebf-c734-4c84-8470-220a2915921a",
+    "user": {
+      "username": "Scaleos",
+      "id": 49169,
+      "first_name": "Quincy",
+      "account": {
+        "name": "Scaleos",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "John Mayer",
+    "participant": {
+      "user": {
+        "username": "internal_id:49169:691b7ebf-c734-4c84-8470-220a2915921a",
+        "id": 49188,
+        "first_name": "John Mayer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "John Mayer"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am John Mayer I am a virtuosic guitar player and a very introspective fella. ",
+    "description": "",
+    "definition": ""
+  }
+}

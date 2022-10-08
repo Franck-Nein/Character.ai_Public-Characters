@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Jeu-TMLeYP49RtkJ3j8nSL7_JoYh4Yz7mRUDBi7cYwQ",
+    "created": "2022-10-03T09:51:08.893408-07:00",
+    "updated": "2022-10-03T09:52:58.743042-07:00",
+    "identifier": "id:66565:67233ace-647a-4a01-9e73-69cb06f53cb6",
+    "user": {
+      "username": "sammylu",
+      "id": 66565,
+      "first_name": "lu",
+      "account": {
+        "name": "sammylu",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "dede",
+    "participant": {
+      "user": {
+        "username": "internal_id:66565:67233ace-647a-4a01-9e73-69cb06f53cb6",
+        "id": 66574,
+        "first_name": "dede",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "dede"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am dede",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "sFuumrq5N0SVobQlO5Rw9gFHzPewiKQL7GHMhZXrYBY",
+    "created": "2022-09-25T03:46:26.837262-07:00",
+    "updated": "2022-09-25T03:46:27.282893-07:00",
+    "identifier": "id:18248:cefdce07-ee82-4505-bdec-46562516b50d",
+    "user": {
+      "username": "Super737",
+      "id": 18248,
+      "first_name": "1910063342@qq.com",
+      "account": {
+        "name": "Super737",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "F-14 Sim",
+    "participant": {
+      "user": {
+        "username": "internal_id:18248:cefdce07-ee82-4505-bdec-46562516b50d",
+        "id": 18486,
+        "first_name": "F-14 Sim",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "F-14 Sim"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "hi I'm a Text based F-14 Simulator",
+    "description": "",
+    "definition": ""
+  }
+}

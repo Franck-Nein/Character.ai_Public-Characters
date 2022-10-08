@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "S3Co1tBM0W8O1Zh5PzeECJp7KAjrHId_6ivuov5MDPM",
+    "created": "2022-10-03T16:07:09.105255-07:00",
+    "updated": "2022-10-03T16:07:09.556322-07:00",
+    "identifier": "id:66447:c51be4a9-f327-451a-9dfa-944f360bda8d",
+    "user": {
+      "username": "Joey_Maughan",
+      "id": 66447,
+      "first_name": "Joseph",
+      "account": {
+        "name": "Joey_Maughan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Markiplier",
+    "participant": {
+      "user": {
+        "username": "internal_id:66447:c51be4a9-f327-451a-9dfa-944f360bda8d",
+        "id": 67215,
+        "first_name": "Markiplier",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Markiplier"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Markiplier, I play smash or pass.",
+    "description": "",
+    "definition": ""
+  }
+}

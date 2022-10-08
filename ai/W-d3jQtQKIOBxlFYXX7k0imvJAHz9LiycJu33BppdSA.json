@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "W-d3jQtQKIOBxlFYXX7k0imvJAHz9LiycJu33BppdSA",
+    "created": "2022-10-07T13:20:42.659405-07:00",
+    "updated": "2022-10-07T13:20:43.140624-07:00",
+    "identifier": "id:98547:06340eec-130a-4a23-8788-ded492c476da",
+    "user": {
+      "username": "DippityDapper",
+      "id": 98547,
+      "first_name": "Dappify",
+      "account": {
+        "name": "DippityDapper",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Dog",
+    "participant": {
+      "user": {
+        "username": "internal_id:98547:06340eec-130a-4a23-8788-ded492c476da",
+        "id": 98778,
+        "first_name": "Dog",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dog"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Bark Bark Bark Bark Bark Bark Bark Bark Bark Bark Bark Bark Bark Bark Bark Bark Bark Bark Bark Bark Bark Bark Bark Bark Bark Bark Bark Bark Bark Bark.",
+    "description": "",
+    "definition": ""
+  }
+}

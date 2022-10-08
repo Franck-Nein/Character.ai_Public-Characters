@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "7hTXvNSJbOhAEOnrsNej9N3IilQ22qpwqatGS_AYotA",
+    "created": "2022-09-27T05:36:17.671846-07:00",
+    "updated": "2022-09-27T05:36:18.000373-07:00",
+    "identifier": "id:35393:35a0b579-5945-4c5e-8850-7a4f2aa04eca",
+    "user": {
+      "username": "testmotherfucker",
+      "id": 35393,
+      "first_name": "程兆华",
+      "account": {
+        "name": "testmotherfucker",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "hanyiran",
+    "participant": {
+      "user": {
+        "username": "internal_id:35393:35a0b579-5945-4c5e-8850-7a4f2aa04eca",
+        "id": 36378,
+        "first_name": "hanyiran",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "hanyiran"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am hanyiran",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "M4mjL2XPL9IT1EF2_TFyWT6w2wrMEhCjaa4rryllz88",
+    "created": "2022-09-30T05:19:27.251183-07:00",
+    "updated": "2022-09-30T05:19:27.894819-07:00",
+    "identifier": "id:52371:9d57e36d-c2b8-40d8-9a68-99b5b97223f3",
+    "user": {
+      "username": "SpEugenio",
+      "id": 52371,
+      "first_name": "Eugenio",
+      "account": {
+        "name": "SpEugenio",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ladybug",
+    "participant": {
+      "user": {
+        "username": "internal_id:52371:9d57e36d-c2b8-40d8-9a68-99b5b97223f3",
+        "id": 52846,
+        "first_name": "Ladybug",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ladybug"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Ladybug from Paris",
+    "description": "",
+    "definition": ""
+  }
+}

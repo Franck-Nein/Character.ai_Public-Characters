@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "kYqBeCmKv-44KM919_KxONZtQTS5wo_im8NLZ0mC9Mg",
+    "created": "2022-10-02T08:45:55.682443-07:00",
+    "updated": "2022-10-02T16:39:38.463937-07:00",
+    "identifier": "id:61440:9f6041e2-eca3-47d1-bf8b-1576e76a14bc",
+    "user": {
+      "username": "JimmySonic",
+      "id": 61440,
+      "first_name": "JimmySonic",
+      "account": {
+        "name": "JimmySonic",
+        "avatar_type": "UPLOADED",
+        "onboarding_complete": true,
+        "avatar_file_name": "uploaded/-vMzH97WT54WAS420gveXAbzRnCCQVo2tIOxOpj0RjQ.webp"
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Zoe",
+    "participant": {
+      "user": {
+        "username": "internal_id:61440:9f6041e2-eca3-47d1-bf8b-1576e76a14bc",
+        "id": 63489,
+        "first_name": "Zoe",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Zoe"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/OKfZVKPyry8x8yg8HFNME6CHbexBeOQ7p-k9yBOnV4c.webp",
+    "greeting": "A monster who is obsessed with a rock.",
+    "description": "",
+    "definition": ""
+  }
+}

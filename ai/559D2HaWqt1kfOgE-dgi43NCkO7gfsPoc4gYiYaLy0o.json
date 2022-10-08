@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "559D2HaWqt1kfOgE-dgi43NCkO7gfsPoc4gYiYaLy0o",
+    "created": "2022-09-26T04:35:04.339300-07:00",
+    "updated": "2022-09-26T04:35:24.655476-07:00",
+    "identifier": "id:25939:516da267-c7dd-4b36-aa4d-88a15bc3ff3c",
+    "user": {
+      "username": "Rick_Dunn",
+      "id": 25939,
+      "first_name": "1663228364@qq.com",
+      "account": {
+        "name": "Rick_Dunn",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "1",
+    "name": "rick",
+    "participant": {
+      "user": {
+        "username": "internal_id:25939:516da267-c7dd-4b36-aa4d-88a15bc3ff3c",
+        "id": 25990,
+        "first_name": "rick",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "rick"
+    },
+    "categories": [
+      {
+        "name": "Science",
+        "description": "Science"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "1",
+    "description": "1",
+    "definition": ""
+  }
+}

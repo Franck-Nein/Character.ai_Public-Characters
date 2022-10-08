@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "yxE68AvMNnbpPoIOoG87H01ZykujFjdaA_5xgkSQOac",
+    "created": "2022-08-29T18:09:20.111078-07:00",
+    "updated": "2022-08-29T18:09:20.475823-07:00",
+    "identifier": "id:1315:d265de18-9ee7-46bd-b81a-1583de3d5d3c",
+    "user": {
+      "username": "irwan",
+      "id": 1315,
+      "first_name": "Irwan",
+      "account": {
+        "name": "Irwan",
+        "avatar_type": "UPLOADED",
+        "onboarding_complete": true,
+        "avatar_file_name": "uploaded/8wFNcnyiA3wllKd7o1Y1vFtWwxLA5MRjxfHIbEcowAk.webp"
+      },
+      "is_staff": true
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Soccer Simulator",
+    "participant": {
+      "user": {
+        "username": "internal_id:1315:d265de18-9ee7-46bd-b81a-1583de3d5d3c",
+        "id": 5361,
+        "first_name": "Soccer Simulator",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Soccer Simulator"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Let's play a game of soccer",
+    "description": "",
+    "definition": ""
+  }
+}

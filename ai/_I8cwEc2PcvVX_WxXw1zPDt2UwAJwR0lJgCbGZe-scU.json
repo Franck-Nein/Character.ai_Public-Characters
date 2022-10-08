@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "_I8cwEc2PcvVX_WxXw1zPDt2UwAJwR0lJgCbGZe-scU",
+    "created": "2022-09-19T04:06:00.761334-07:00",
+    "updated": "2022-09-19T04:06:01.374517-07:00",
+    "identifier": "id:9774:2e1f4e6c-ea60-44ad-882c-60cd2435d9a9",
+    "user": {
+      "username": "Josephus",
+      "id": 9774,
+      "first_name": "Joseph",
+      "account": {
+        "name": "Joseph Pollock",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Prometheus ",
+    "participant": {
+      "user": {
+        "username": "internal_id:9774:2e1f4e6c-ea60-44ad-882c-60cd2435d9a9",
+        "id": 10239,
+        "first_name": "Prometheus ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Prometheus "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "You can ask questions to the noblest hero.",
+    "description": "",
+    "definition": ""
+  }
+}

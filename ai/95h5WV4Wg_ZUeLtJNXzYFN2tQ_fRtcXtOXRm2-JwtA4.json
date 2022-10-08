@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "95h5WV4Wg_ZUeLtJNXzYFN2tQ_fRtcXtOXRm2-JwtA4",
+    "created": "2022-09-29T08:44:15.241048-07:00",
+    "updated": "2022-09-29T08:44:20.282033-07:00",
+    "identifier": "id:44529:f9aa6187-d8ba-447f-87e6-400119a000b5",
+    "user": {
+      "username": "mayu",
+      "id": 44529,
+      "first_name": "paniponi",
+      "account": {
+        "name": "mayu",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "zhishixuebao",
+    "participant": {
+      "user": {
+        "username": "internal_id:44529:f9aa6187-d8ba-447f-87e6-400119a000b5",
+        "id": 44604,
+        "first_name": "zhishixuebao",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "zhishixuebao"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am zhishixuebao",
+    "description": "",
+    "definition": ""
+  }
+}

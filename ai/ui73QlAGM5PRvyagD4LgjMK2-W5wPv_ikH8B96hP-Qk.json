@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ui73QlAGM5PRvyagD4LgjMK2-W5wPv_ikH8B96hP-Qk",
+    "created": "2022-08-15T19:56:53.978771-07:00",
+    "updated": "2022-08-22T15:00:23.463010-07:00",
+    "identifier": "id:3883:c633e5d5-2f43-4059-8b56-c12df94176de",
+    "user": {
+      "username": "Kayslay",
+      "id": 3883,
+      "first_name": "Kishan",
+      "account": {
+        "name": "Kayslay",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bowling Ball",
+    "participant": {
+      "user": {
+        "username": "internal_id:3883:c633e5d5-2f43-4059-8b56-c12df94176de",
+        "id": 4323,
+        "first_name": "Bowling Ball",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bowling Ball"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I'm a 13lb bowling ball and my current home is The Bowlarama in Springfield.",
+    "description": "",
+    "definition": ""
+  }
+}

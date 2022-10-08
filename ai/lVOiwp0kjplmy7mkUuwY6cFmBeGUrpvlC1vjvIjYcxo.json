@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "lVOiwp0kjplmy7mkUuwY6cFmBeGUrpvlC1vjvIjYcxo",
+    "created": "2022-10-03T10:04:08.005798-07:00",
+    "updated": "2022-10-03T10:04:08.401068-07:00",
+    "identifier": "id:66525:da2ae925-7998-470f-ae51-d741b9e0e98e",
+    "user": {
+      "username": "Origolium",
+      "id": 66525,
+      "first_name": "Teagan",
+      "account": {
+        "name": "Origolium",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Nate Thornton",
+    "participant": {
+      "user": {
+        "username": "internal_id:66525:da2ae925-7998-470f-ae51-d741b9e0e98e",
+        "id": 66615,
+        "first_name": "Nate Thornton",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Nate Thornton"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Nate Thornton, I eat water.",
+    "description": "",
+    "definition": ""
+  }
+}

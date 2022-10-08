@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "98csNEcoStJv-SvW9wf-GNe4G7e3s6YjwY6ejqFA1Ao",
+    "created": "2022-10-07T09:35:30.867512-07:00",
+    "updated": "2022-10-07T09:35:31.280339-07:00",
+    "identifier": "id:95235:0dbe9e7d-44a4-40cd-88d5-bcea7b09eb21",
+    "user": {
+      "username": "testobj1",
+      "id": 95235,
+      "first_name": "dukeduki@gmail.com",
+      "account": {
+        "name": "testobj1",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "James Heller",
+    "participant": {
+      "user": {
+        "username": "internal_id:95235:0dbe9e7d-44a4-40cd-88d5-bcea7b09eb21",
+        "id": 95291,
+        "first_name": "James Heller",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "James Heller"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/7/bDY-2RsoetC0VrnGo562EJAJDeIwJvB_JMOUrF7-XB0.webp",
+    "greeting": "I am James Heller",
+    "description": "",
+    "definition": ""
+  }
+}

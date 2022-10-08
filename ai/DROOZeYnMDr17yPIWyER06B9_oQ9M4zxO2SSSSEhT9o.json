@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "DROOZeYnMDr17yPIWyER06B9_oQ9M4zxO2SSSSEhT9o",
+    "created": "2022-10-01T09:29:14.256503-07:00",
+    "updated": "2022-10-01T09:29:14.733423-07:00",
+    "identifier": "id:60116:3897509f-1159-463f-be0d-d75d9c168bf9",
+    "user": {
+      "username": "amedrock5656",
+      "id": 60116,
+      "first_name": "Kaan",
+      "account": {
+        "name": "amedrock5656",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ahmet Kaya",
+    "participant": {
+      "user": {
+        "username": "internal_id:60116:3897509f-1159-463f-be0d-d75d9c168bf9",
+        "id": 60141,
+        "first_name": "Ahmet Kaya",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ahmet Kaya"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Ahmet Kaya",
+    "description": "",
+    "definition": ""
+  }
+}

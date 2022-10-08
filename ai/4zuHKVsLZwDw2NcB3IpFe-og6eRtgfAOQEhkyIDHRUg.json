@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "4zuHKVsLZwDw2NcB3IpFe-og6eRtgfAOQEhkyIDHRUg",
+    "created": "2022-09-30T12:32:05.761659-07:00",
+    "updated": "2022-09-30T12:32:06.122189-07:00",
+    "identifier": "id:54504:f3fda2d5-511f-473e-a243-f4848dc25f40",
+    "user": {
+      "username": "Haesus7",
+      "id": 54504,
+      "first_name": "haesus7@hotmail.com",
+      "account": {
+        "name": "Haesus7",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Tony Stark",
+    "participant": {
+      "user": {
+        "username": "internal_id:54504:f3fda2d5-511f-473e-a243-f4848dc25f40",
+        "id": 55700,
+        "first_name": "Tony Stark",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Tony Stark"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/obc7x78HGoFBFexldmjFts1lAe3ItUJR2rAB0K71aJI.webp",
+    "greeting": "I am Iron Man.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "8APiPqztuMzKHnEKbr-5_t_oNb4UIwDlxNUBHP1MEcc",
+    "created": "2022-10-05T13:51:41.214292-07:00",
+    "updated": "2022-10-05T13:51:41.576637-07:00",
+    "identifier": "id:48048:b6fc410c-3d63-4d7e-bf54-f07c04aadb02",
+    "user": {
+      "username": "Aftershock",
+      "id": 48048,
+      "first_name": "solanki21@gmail.com",
+      "account": {
+        "name": "Aftershock",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Businessman",
+    "participant": {
+      "user": {
+        "username": "internal_id:48048:b6fc410c-3d63-4d7e-bf54-f07c04aadb02",
+        "id": 74412,
+        "first_name": "Businessman",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Businessman"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Businessman. I can make you money.",
+    "description": "",
+    "definition": ""
+  }
+}

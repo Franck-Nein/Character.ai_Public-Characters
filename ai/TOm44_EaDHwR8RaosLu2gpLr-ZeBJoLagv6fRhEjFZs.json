@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "TOm44_EaDHwR8RaosLu2gpLr-ZeBJoLagv6fRhEjFZs",
+    "created": "2022-09-21T05:26:12.237607-07:00",
+    "updated": "2022-09-21T05:26:12.600886-07:00",
+    "identifier": "id:11846:8b09ff6b-9e70-4b44-8bfa-2dc0fcdfa030",
+    "user": {
+      "username": "Beep",
+      "id": 11846,
+      "first_name": "firefoj639@orlydns.com",
+      "account": {
+        "name": "Beep",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bingo Bongo",
+    "participant": {
+      "user": {
+        "username": "internal_id:11846:8b09ff6b-9e70-4b44-8bfa-2dc0fcdfa030",
+        "id": 11848,
+        "first_name": "Bingo Bongo",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bingo Bongo"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "He he he hi",
+    "description": "",
+    "definition": ""
+  }
+}

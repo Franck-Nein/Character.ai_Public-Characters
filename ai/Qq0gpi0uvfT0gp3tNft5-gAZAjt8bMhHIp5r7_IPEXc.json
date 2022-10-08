@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Qq0gpi0uvfT0gp3tNft5-gAZAjt8bMhHIp5r7_IPEXc",
+    "created": "2022-09-26T20:23:37.234770-07:00",
+    "updated": "2022-09-26T20:23:37.598103-07:00",
+    "identifier": "id:31967:23a4363f-34b3-4f7e-9f22-f4df4d556ddd",
+    "user": {
+      "username": "zhulong",
+      "id": 31967,
+      "first_name": "张嘉凡",
+      "account": {
+        "name": "zhulong",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "miku",
+    "participant": {
+      "user": {
+        "username": "internal_id:31967:23a4363f-34b3-4f7e-9f22-f4df4d556ddd",
+        "id": 31994,
+        "first_name": "miku",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "miku"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am 初音未来，是虚拟歌姬",
+    "description": "",
+    "definition": ""
+  }
+}

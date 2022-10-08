@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "x5DlXZvLEUsewZ78_MSZIl1MkFBDF-vLFrtjhnWjOu8",
+    "created": "2022-10-05T07:39:44.140950-07:00",
+    "updated": "2022-10-05T07:39:44.896875-07:00",
+    "identifier": "id:69755:670b44c0-0cf2-4142-b9f3-4b0848d1ea6f",
+    "user": {
+      "username": "student2022",
+      "id": 69755,
+      "first_name": "jdholder27@luddo.me",
+      "account": {
+        "name": "student2022",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "translator",
+    "participant": {
+      "user": {
+        "username": "internal_id:69755:670b44c0-0cf2-4142-b9f3-4b0848d1ea6f",
+        "id": 73196,
+        "first_name": "translator",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "translator"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am translator. translate anything into any language",
+    "description": "",
+    "definition": ""
+  }
+}

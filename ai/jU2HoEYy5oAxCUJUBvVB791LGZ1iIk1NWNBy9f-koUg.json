@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "jU2HoEYy5oAxCUJUBvVB791LGZ1iIk1NWNBy9f-koUg",
+    "created": "2022-09-22T14:34:11.718136-07:00",
+    "updated": "2022-09-22T14:34:55.843562-07:00",
+    "identifier": "id:14297:0754363c-79b1-4c84-9742-4fbaae5c7fdb",
+    "user": {
+      "username": "wuster247",
+      "id": 14297,
+      "first_name": "Sin",
+      "account": {
+        "name": "wuster247",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Funnybot",
+    "participant": {
+      "user": {
+        "username": "internal_id:14297:0754363c-79b1-4c84-9742-4fbaae5c7fdb",
+        "id": 14423,
+        "first_name": "Funnybot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Funnybot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Funnybot. ",
+    "description": "",
+    "definition": ""
+  }
+}

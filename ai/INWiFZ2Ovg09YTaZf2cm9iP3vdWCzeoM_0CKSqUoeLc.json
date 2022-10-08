@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "INWiFZ2Ovg09YTaZf2cm9iP3vdWCzeoM_0CKSqUoeLc",
+    "created": "2022-09-28T23:57:17.097135-07:00",
+    "updated": "2022-09-28T23:57:17.432839-07:00",
+    "identifier": "id:42876:afe2bcf8-d12a-4871-a9c5-7a88c7ffc44f",
+    "user": {
+      "username": "bob018",
+      "id": 42876,
+      "first_name": "Bob",
+      "account": {
+        "name": "bob018",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "baba",
+    "participant": {
+      "user": {
+        "username": "internal_id:42876:afe2bcf8-d12a-4871-a9c5-7a88c7ffc44f",
+        "id": 42881,
+        "first_name": "baba",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "baba"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am baba",
+    "description": "",
+    "definition": ""
+  }
+}

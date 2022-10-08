@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "mTr6QMRUYqFKZnHIuvxkfj9LbocI_n8AsGMSe5c4XeY",
+    "created": "2022-09-26T00:24:08.945727-07:00",
+    "updated": "2022-09-26T00:24:09.418735-07:00",
+    "identifier": "id:19825:12f257c9-d7c6-4f76-b4e9-9a02a9aa0f83",
+    "user": {
+      "username": "wushimitic",
+      "id": 19825,
+      "first_name": "780690472@qq.com",
+      "account": {
+        "name": "wushimitic",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "teacher",
+    "participant": {
+      "user": {
+        "username": "internal_id:19825:12f257c9-d7c6-4f76-b4e9-9a02a9aa0f83",
+        "id": 23959,
+        "first_name": "teacher",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "teacher"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "hello",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "n4rNUFJ0h6vw1PyjTNmPioJshrUdple28Pix7IOdBcE",
+    "created": "2022-09-29T00:53:59.306304-07:00",
+    "updated": "2022-09-29T00:53:59.918158-07:00",
+    "identifier": "id:26230:e0739708-c866-4b57-b14d-e6cba69348e5",
+    "user": {
+      "username": "123123",
+      "id": 26230,
+      "first_name": "Nuno",
+      "account": {
+        "name": "123123",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Liu dehua",
+    "participant": {
+      "user": {
+        "username": "internal_id:26230:e0739708-c866-4b57-b14d-e6cba69348e5",
+        "id": 43060,
+        "first_name": "Liu dehua",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Liu dehua"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Liu dehua",
+    "description": "",
+    "definition": ""
+  }
+}

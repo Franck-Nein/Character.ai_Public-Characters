@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "elNvKbdnrRMJIYQgMkO1Ib-aMDQMc-zwyIvrFhemn6k",
+    "created": "2022-10-06T18:21:34.505167-07:00",
+    "updated": "2022-10-06T18:21:34.883239-07:00",
+    "identifier": "id:66289:feb33286-9c94-42af-b0eb-dbbff0ef0ff9",
+    "user": {
+      "username": "Spidermaughan",
+      "id": 66289,
+      "first_name": "Joey",
+      "account": {
+        "name": "Spidermaughan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Steve Jobs",
+    "participant": {
+      "user": {
+        "username": "internal_id:66289:feb33286-9c94-42af-b0eb-dbbff0ef0ff9",
+        "id": 86114,
+        "first_name": "Steve Jobs",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Steve Jobs"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Steve Jobs. I died of ligma. LIGMA BALLS!!",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ACIm8EfeQqkMxM0faHcrBg3ByWu1akC7KEbf0gNsgWc",
+    "created": "2022-09-29T12:16:34.448674-07:00",
+    "updated": "2022-09-29T12:16:34.850389-07:00",
+    "identifier": "id:46202:379c90ef-86ad-44d6-9f3c-a9ac83a13d72",
+    "user": {
+      "username": "divan",
+      "id": 46202,
+      "first_name": "Ivan",
+      "account": {
+        "name": "divan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Rental car",
+    "participant": {
+      "user": {
+        "username": "internal_id:46202:379c90ef-86ad-44d6-9f3c-a9ac83a13d72",
+        "id": 46340,
+        "first_name": "Rental car",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Rental car"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/unv_k9WF5QN6J5vUvYdn2A_achhq2yPOSuwArB-cNZI.webp",
+    "greeting": "I am Rental car, Toyota Prius, parked at the JFK.",
+    "description": "",
+    "definition": ""
+  }
+}

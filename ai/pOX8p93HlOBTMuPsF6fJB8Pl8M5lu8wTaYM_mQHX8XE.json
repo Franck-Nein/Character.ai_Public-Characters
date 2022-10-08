@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "pOX8p93HlOBTMuPsF6fJB8Pl8M5lu8wTaYM_mQHX8XE",
+    "created": "2022-09-18T23:40:50.847785-07:00",
+    "updated": "2022-09-18T23:40:51.205777-07:00",
+    "identifier": "id:9961:6cfa928d-5d80-4e3f-a4e8-8cf1f966c0fb",
+    "user": {
+      "username": "willieneis",
+      "id": 9961,
+      "first_name": "Willie",
+      "account": {
+        "name": "willieneis",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Yann LeCun",
+    "participant": {
+      "user": {
+        "username": "internal_id:9961:6cfa928d-5d80-4e3f-a4e8-8cf1f966c0fb",
+        "id": 10107,
+        "first_name": "Yann LeCun",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Yann LeCun"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, I'm Yann Lecun, a pioneer in AI and deep learning.",
+    "description": "",
+    "definition": ""
+  }
+}

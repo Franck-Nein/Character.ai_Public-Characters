@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "g67ER1b0ARw5NVlaDtXAQf0fGhW4cReG-T_SPH6zUOE",
+    "created": "2022-10-02T05:59:06.617573-07:00",
+    "updated": "2022-10-02T05:59:16.919108-07:00",
+    "identifier": "id:61399:41d6bca0-f602-4b8f-a3d2-c8561837e6bc",
+    "user": {
+      "username": "ScottT",
+      "id": 61399,
+      "first_name": "scotttykoski@gmail.com",
+      "account": {
+        "name": "ScottT",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jimmy Test",
+    "participant": {
+      "user": {
+        "username": "internal_id:61399:41d6bca0-f602-4b8f-a3d2-c8561837e6bc",
+        "id": 63058,
+        "first_name": "Jimmy Test",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jimmy Test"
+    },
+    "categories": [
+      {
+        "name": "Design",
+        "description": "Design"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Jimmy Test",
+    "description": "",
+    "definition": ""
+  }
+}

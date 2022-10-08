@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "1BIAOVOUqyB2HADvAnrBrYC4No5H6t_F2rJbbZGwzMs",
+    "created": "2022-09-29T12:17:07.154296-07:00",
+    "updated": "2022-09-29T12:17:07.503302-07:00",
+    "identifier": "id:46335:ea94a940-93af-478c-861e-abcd5c9fc454",
+    "user": {
+      "username": "Romiris",
+      "id": 46335,
+      "first_name": "link1992@msn.com",
+      "account": {
+        "name": "Romiris",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Romiris",
+    "participant": {
+      "user": {
+        "username": "internal_id:46335:ea94a940-93af-478c-861e-abcd5c9fc454",
+        "id": 46343,
+        "first_name": "Romiris",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Romiris"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Romiris",
+    "description": "",
+    "definition": ""
+  }
+}

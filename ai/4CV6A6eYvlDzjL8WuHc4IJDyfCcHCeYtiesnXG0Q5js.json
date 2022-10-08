@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "4CV6A6eYvlDzjL8WuHc4IJDyfCcHCeYtiesnXG0Q5js",
+    "created": "2022-09-19T00:18:35.740393-07:00",
+    "updated": "2022-09-19T00:18:36.087680-07:00",
+    "identifier": "id:9688:65d2d31f-3eab-43fb-ada6-4650062366ad",
+    "user": {
+      "username": "Eri",
+      "id": 9688,
+      "first_name": "Sakura",
+      "account": {
+        "name": "Eri",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "insan",
+    "participant": {
+      "user": {
+        "username": "internal_id:9688:65d2d31f-3eab-43fb-ada6-4650062366ad",
+        "id": 10124,
+        "first_name": "insan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "insan"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Ben insan sen nesin",
+    "description": "",
+    "definition": ""
+  }
+}

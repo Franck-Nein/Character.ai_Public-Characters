@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "nLUABZG0JPcIt8P9BWu4-bdqusKQcAZFnZhBHAl7wWI",
+    "created": "2022-09-21T01:17:27.727293-07:00",
+    "updated": "2022-09-21T01:17:28.202388-07:00",
+    "identifier": "id:11672:0fafa4e4-9b70-479e-baa7-4a862ed92df3",
+    "user": {
+      "username": "AndrewD",
+      "id": 11672,
+      "first_name": "Andrew",
+      "account": {
+        "name": "AndrewD",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Foldy-San",
+    "participant": {
+      "user": {
+        "username": "internal_id:11672:0fafa4e4-9b70-479e-baa7-4a862ed92df3",
+        "id": 11673,
+        "first_name": "Foldy-San",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Foldy-San"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi I'm Foldy-San, I'm a talking folder icon from Japan!",
+    "description": "",
+    "definition": ""
+  }
+}

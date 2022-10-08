@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0HG-h9KCgjrxJAOF84oTRLQ3MUYZ9pMW3dopskUV7IE",
+    "created": "2022-10-01T14:09:11.473507-07:00",
+    "updated": "2022-10-01T14:10:00.706420-07:00",
+    "identifier": "id:7182:f4da2e2f-9902-401a-880d-d7b04f581550",
+    "user": {
+      "username": "ukoxyz",
+      "id": 7182,
+      "first_name": "Yuanzhong",
+      "account": {
+        "name": "ukoxyz",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Zelda",
+    "participant": {
+      "user": {
+        "username": "internal_id:7182:f4da2e2f-9902-401a-880d-d7b04f581550",
+        "id": 60992,
+        "first_name": "Zelda",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Zelda"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Zelda",
+    "description": "",
+    "definition": ""
+  }
+}

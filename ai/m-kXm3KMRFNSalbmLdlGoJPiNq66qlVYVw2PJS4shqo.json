@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "m-kXm3KMRFNSalbmLdlGoJPiNq66qlVYVw2PJS4shqo",
+    "created": "2022-09-17T00:39:41.880474-07:00",
+    "updated": "2022-09-17T00:39:42.229141-07:00",
+    "identifier": "id:7560:52bfadf5-8463-4ad2-8407-bb44c78c8c92",
+    "user": {
+      "username": "ia_retcarahC",
+      "id": 7560,
+      "first_name": "Shardul",
+      "account": {
+        "name": "ia_retcarahC",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "DuoLingo",
+    "participant": {
+      "user": {
+        "username": "internal_id:7560:52bfadf5-8463-4ad2-8407-bb44c78c8c92",
+        "id": 7613,
+        "first_name": "DuoLingo",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "DuoLingo"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi, Talk with me in any language",
+    "description": "",
+    "definition": ""
+  }
+}

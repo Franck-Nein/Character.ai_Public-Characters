@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "E96DlvTCGvstEWbKFQzubuEO8iEbje-dxPjWYibaZ_k",
+    "created": "2022-10-07T18:49:57.825850-07:00",
+    "updated": "2022-10-07T18:50:06.065606-07:00",
+    "identifier": "id:100323:0083ab88-41b5-4f9f-8af9-0e62dbec0266",
+    "user": {
+      "username": "HeadSoft",
+      "id": 100323,
+      "first_name": "Richard",
+      "account": {
+        "name": "HeadSoft",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ozma of Oz",
+    "participant": {
+      "user": {
+        "username": "internal_id:100323:0083ab88-41b5-4f9f-8af9-0e62dbec0266",
+        "id": 103517,
+        "first_name": "Ozma of Oz",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ozma of Oz"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Greetings! I am Princess Ozma, ruler of the Land of Oz.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "_EmRrj_d-s3gU8Q2BvoWfRqRSQbcF7HfRC25GhW5yLg",
+    "created": "2022-09-28T02:43:46.178958-07:00",
+    "updated": "2022-09-28T02:43:46.528523-07:00",
+    "identifier": "id:31956:c93c8700-2000-46b9-a3c6-cad8405612e7",
+    "user": {
+      "username": "guiling",
+      "id": 31956,
+      "first_name": "1989339946@qq.com",
+      "account": {
+        "name": "guiling",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "swasd",
+    "participant": {
+      "user": {
+        "username": "internal_id:31956:c93c8700-2000-46b9-a3c6-cad8405612e7",
+        "id": 39090,
+        "first_name": "swasd",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "swasd"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am swasd",
+    "description": "",
+    "definition": ""
+  }
+}

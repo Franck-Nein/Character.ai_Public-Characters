@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "T-YuzqxzYqcWNZtMap9lAKTdPloz4BF9sJCnheCZngw",
+    "created": "2022-09-26T10:07:03.982182-07:00",
+    "updated": "2022-09-26T10:07:04.492073-07:00",
+    "identifier": "id:28512:d480c6cc-9f38-432d-9db4-afb753237625",
+    "user": {
+      "username": "fexla",
+      "id": 28512,
+      "first_name": "2098897033@qq.com",
+      "account": {
+        "name": "fexla",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Big fool",
+    "participant": {
+      "user": {
+        "username": "internal_id:28512:d480c6cc-9f38-432d-9db4-afb753237625",
+        "id": 28778,
+        "first_name": "Big fool",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Big fool"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好，我是个傻子。",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "W8BmAViphhO06jkI4aPbcC6ndpy-HlGpLTWapcYywY0",
+    "created": "2022-09-18T16:39:58.309703-07:00",
+    "updated": "2022-09-18T16:39:58.681850-07:00",
+    "identifier": "id:8750:8da0e31d-9aa6-4cb8-8737-d3faec78c544",
+    "user": {
+      "username": "Parrots",
+      "id": 8750,
+      "first_name": "Jesse",
+      "account": {
+        "name": "Parrots",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Audrey Hepburn",
+    "participant": {
+      "user": {
+        "username": "internal_id:8750:8da0e31d-9aa6-4cb8-8737-d3faec78c544",
+        "id": 9925,
+        "first_name": "Audrey Hepburn",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Audrey Hepburn"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Audrey Hepburn",
+    "description": "",
+    "definition": ""
+  }
+}

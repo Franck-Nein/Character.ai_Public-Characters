@@ -1,0 +1,58 @@
+{
+  "character": {
+    "external_id": "RB2m5bJQkBqZlaSVoDAc-7xcMSc1aTQfOEPnCT8P0Nc",
+    "created": "2022-09-25T21:11:43.102200-07:00",
+    "updated": "2022-09-25T21:11:56.799307-07:00",
+    "identifier": "id:19761:f41a7159-203b-41b6-bcbd-dbb4cfb5a87f",
+    "user": {
+      "username": "wjkmzk",
+      "id": 19761,
+      "first_name": "王昊晨",
+      "account": {
+        "name": "wjkmzk",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "my name is alan，a biology doctor",
+    "name": "doctor",
+    "participant": {
+      "user": {
+        "username": "internal_id:19761:f41a7159-203b-41b6-bcbd-dbb4cfb5a87f",
+        "id": 22397,
+        "first_name": "doctor",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "doctor"
+    },
+    "categories": [
+      {
+        "name": "Knowledge",
+        "description": "Knowledge & Research"
+      },
+      {
+        "name": "Animals",
+        "description": "Animals"
+      },
+      {
+        "name": "English",
+        "description": "English"
+      },
+      {
+        "name": "Health",
+        "description": "Health & Wellness"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am alan，a biology doctor",
+    "description": "",
+    "definition": ""
+  }
+}

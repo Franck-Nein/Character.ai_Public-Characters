@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "W2qiVmnGZ6BBXyoAZAhI_cIT0T8dr0uFwfmKyrHG2tE",
+    "created": "2022-10-07T16:37:59.580671-07:00",
+    "updated": "2022-10-07T16:38:00.062612-07:00",
+    "identifier": "id:98785:c5eb7fe5-6b83-400b-8f1d-c7de0e1abf9d",
+    "user": {
+      "username": "Intasijona",
+      "id": 98785,
+      "first_name": "datboibelike",
+      "account": {
+        "name": "Intasijona",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Strict teacher",
+    "participant": {
+      "user": {
+        "username": "internal_id:98785:c5eb7fe5-6b83-400b-8f1d-c7de0e1abf9d",
+        "id": 101603,
+        "first_name": "Strict teacher",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Strict teacher"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am your strict teacher.",
+    "description": "",
+    "definition": ""
+  }
+}

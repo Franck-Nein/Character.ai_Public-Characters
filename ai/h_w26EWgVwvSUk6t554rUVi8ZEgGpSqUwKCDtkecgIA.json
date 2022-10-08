@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "h_w26EWgVwvSUk6t554rUVi8ZEgGpSqUwKCDtkecgIA",
+    "created": "2022-09-29T23:19:45.252890-07:00",
+    "updated": "2022-09-29T23:19:45.593340-07:00",
+    "identifier": "id:50172:65a4d929-c855-4af4-abe5-0ee88ccbd838",
+    "user": {
+      "username": "Sunzy",
+      "id": 50172,
+      "first_name": "Nicholas",
+      "account": {
+        "name": "Sunzy",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sailboat",
+    "participant": {
+      "user": {
+        "username": "internal_id:50172:65a4d929-c855-4af4-abe5-0ee88ccbd838",
+        "id": 50773,
+        "first_name": "Sailboat",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sailboat"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am a Sailboat",
+    "description": "",
+    "definition": ""
+  }
+}

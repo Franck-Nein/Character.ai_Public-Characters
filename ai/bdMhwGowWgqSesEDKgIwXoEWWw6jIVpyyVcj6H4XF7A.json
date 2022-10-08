@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "bdMhwGowWgqSesEDKgIwXoEWWw6jIVpyyVcj6H4XF7A",
+    "created": "2022-09-26T13:50:47.310547-07:00",
+    "updated": "2022-09-26T13:51:27.943693-07:00",
+    "identifier": "id:29606:3008585b-4d9e-4cc1-8bb0-5778b11223f5",
+    "user": {
+      "username": "JerryYang",
+      "id": 29606,
+      "first_name": "Jerry",
+      "account": {
+        "name": "JerryYang",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Frank Holostein",
+    "participant": {
+      "user": {
+        "username": "internal_id:29606:3008585b-4d9e-4cc1-8bb0-5778b11223f5",
+        "id": 29628,
+        "first_name": "Frank Holostein",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Frank Holostein"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好，很高兴认识你。",
+    "description": "",
+    "definition": ""
+  }
+}

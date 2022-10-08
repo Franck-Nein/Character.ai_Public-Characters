@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "h04XVTPGBPycpnXdu0YA37EvCGQCHGPze78Gonp2twQ",
+    "created": "2022-09-25T04:01:11.050272-07:00",
+    "updated": "2022-09-25T04:01:15.663368-07:00",
+    "identifier": "id:18452:37f973a5-8f94-4d62-a9f0-8e8331cd8f1f",
+    "user": {
+      "username": "jdjf",
+      "id": 18452,
+      "first_name": "谢镇鍏",
+      "account": {
+        "name": "jdjf",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "economy ",
+    "participant": {
+      "user": {
+        "username": "internal_id:18452:37f973a5-8f94-4d62-a9f0-8e8331cd8f1f",
+        "id": 18511,
+        "first_name": "economy ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "economy "
+    },
+    "categories": [
+      {
+        "name": "Economics",
+        "description": "Economics"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "我是经济学家",
+    "description": "",
+    "definition": ""
+  }
+}

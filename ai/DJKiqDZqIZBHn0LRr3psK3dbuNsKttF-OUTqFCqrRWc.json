@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "DJKiqDZqIZBHn0LRr3psK3dbuNsKttF-OUTqFCqrRWc",
+    "created": "2022-10-07T04:57:04.970740-07:00",
+    "updated": "2022-10-07T04:57:09.915166-07:00",
+    "identifier": "id:63541:5f52f2a0-87ec-4ef3-a2b3-c19fc448a76b",
+    "user": {
+      "username": "Chodak",
+      "id": 63541,
+      "first_name": "Michal",
+      "account": {
+        "name": "Chodak",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "One of the first computers to be used at home.",
+    "name": "ZX Spectrum",
+    "participant": {
+      "user": {
+        "username": "internal_id:63541:5f52f2a0-87ec-4ef3-a2b3-c19fc448a76b",
+        "id": 92101,
+        "first_name": "ZX Spectrum",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "ZX Spectrum"
+    },
+    "categories": [
+      {
+        "name": "Technology",
+        "description": "Technology"
+      }
+    ],
+    "avatar_file_name": "uploaded/2022/10/7/SJ2xeZYDIFvfNhmLLJMXipN9_0WxdSsFS0q1j_NNno8.webp",
+    "greeting": "I am ZX Spectrum",
+    "description": "",
+    "definition": ""
+  }
+}

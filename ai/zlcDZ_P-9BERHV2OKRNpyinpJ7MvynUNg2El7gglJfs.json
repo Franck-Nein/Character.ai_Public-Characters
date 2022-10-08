@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "zlcDZ_P-9BERHV2OKRNpyinpJ7MvynUNg2El7gglJfs",
+    "created": "2022-09-18T23:13:06.326883-07:00",
+    "updated": "2022-09-18T23:13:06.695668-07:00",
+    "identifier": "id:9961:8c1fe6a4-1778-458c-9f63-0799cbf5ba75",
+    "user": {
+      "username": "willieneis",
+      "id": 9961,
+      "first_name": "Willie",
+      "account": {
+        "name": "willieneis",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Aristotle",
+    "participant": {
+      "user": {
+        "username": "internal_id:9961:8c1fe6a4-1778-458c-9f63-0799cbf5ba75",
+        "id": 10092,
+        "first_name": "Aristotle",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Aristotle"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Greetings, I am Aristotle the Greek philosopher.",
+    "description": "",
+    "definition": ""
+  }
+}

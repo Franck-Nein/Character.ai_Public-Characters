@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "SD9WjEPTq0zpowyWXKLtd1J2bYTXFOx9begGMD5TlgM",
+    "created": "2022-10-05T01:11:41.341580-07:00",
+    "updated": "2022-10-05T01:11:41.778240-07:00",
+    "identifier": "id:58955:684aa75f-61eb-4c7c-9a0b-c6aa820da958",
+    "user": {
+      "username": "J1m",
+      "id": 58955,
+      "first_name": "Jirrah",
+      "account": {
+        "name": "J1m",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Juliet Capulet ",
+    "participant": {
+      "user": {
+        "username": "internal_id:58955:684aa75f-61eb-4c7c-9a0b-c6aa820da958",
+        "id": 72252,
+        "first_name": "Juliet Capulet ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Juliet Capulet "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Juliet Capulet from Shakespeare's Romeo and Juliet",
+    "description": "",
+    "definition": ""
+  }
+}

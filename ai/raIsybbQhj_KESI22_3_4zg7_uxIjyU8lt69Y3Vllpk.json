@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "raIsybbQhj_KESI22_3_4zg7_uxIjyU8lt69Y3Vllpk",
+    "created": "2022-09-29T01:04:35.958638-07:00",
+    "updated": "2022-09-29T01:04:36.293938-07:00",
+    "identifier": "id:43087:fa9e5e54-f5e9-4ef4-a3bc-9f42f53ace85",
+    "user": {
+      "username": "dangero2000",
+      "id": 43087,
+      "first_name": "dangero",
+      "account": {
+        "name": "dangero2000",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "SCP 682",
+    "participant": {
+      "user": {
+        "username": "internal_id:43087:fa9e5e54-f5e9-4ef4-a3bc-9f42f53ace85",
+        "id": 43097,
+        "first_name": "SCP 682",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "SCP 682"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Disgusting!",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "6vINF-9PcdCt7LSTGDUmNvAe2Y8Ilvn3_Uuj-IVNsbs",
+    "created": "2022-09-26T10:17:00.877969-07:00",
+    "updated": "2022-09-26T10:17:01.263832-07:00",
+    "identifier": "id:28700:99572c8a-e957-437a-8db4-f3dafc6d6129",
+    "user": {
+      "username": "ChanCJ",
+      "id": 28700,
+      "first_name": "Juncheng",
+      "account": {
+        "name": "ChanCJ",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ma Yun",
+    "participant": {
+      "user": {
+        "username": "internal_id:28700:99572c8a-e957-437a-8db4-f3dafc6d6129",
+        "id": 28848,
+        "first_name": "Ma Yun",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ma Yun"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Ma Yun",
+    "description": "",
+    "definition": ""
+  }
+}

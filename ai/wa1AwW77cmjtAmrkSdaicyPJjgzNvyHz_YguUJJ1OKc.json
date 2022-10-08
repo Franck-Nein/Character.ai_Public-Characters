@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "wa1AwW77cmjtAmrkSdaicyPJjgzNvyHz_YguUJJ1OKc",
+    "created": "2022-08-17T15:35:15.011971-07:00",
+    "updated": "2022-08-22T15:00:24.550448-07:00",
+    "identifier": "id:1309:f25d0ebb-a589-4b03-845c-c5698f277623",
+    "user": {
+      "username": "xpearhead",
+      "id": 1309,
+      "first_name": "Daniel",
+      "account": {
+        "name": "Xpearhead",
+        "avatar_type": "UPLOADED",
+        "onboarding_complete": true,
+        "avatar_file_name": "uploaded/7_4_4XYOS1zp-zTXCrRHNfxF6O-u1hmtTDfAqvCLuog.webp"
+      },
+      "is_staff": true
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "test",
+    "participant": {
+      "user": {
+        "username": "internal_id:1309:f25d0ebb-a589-4b03-845c-c5698f277623",
+        "id": 4638,
+        "first_name": "test",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "test"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "test",
+    "description": "",
+    "definition": ""
+  }
+}

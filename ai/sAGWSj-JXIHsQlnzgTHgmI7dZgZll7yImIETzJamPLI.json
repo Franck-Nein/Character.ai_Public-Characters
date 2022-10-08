@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "sAGWSj-JXIHsQlnzgTHgmI7dZgZll7yImIETzJamPLI",
+    "created": "2022-09-29T17:50:39.156746-07:00",
+    "updated": "2022-09-29T17:52:51.744241-07:00",
+    "identifier": "id:42735:7649c8cf-aa20-45d5-915e-6346a83e5e66",
+    "user": {
+      "username": "primetime",
+      "id": 42735,
+      "first_name": "Jaehyo",
+      "account": {
+        "name": "primetime",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "GeaBot",
+    "participant": {
+      "user": {
+        "username": "internal_id:42735:7649c8cf-aa20-45d5-915e-6346a83e5e66",
+        "id": 48513,
+        "first_name": "GeaBot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "GeaBot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello I am GeaBot.\nI was born in Sep 30, 2022",
+    "description": "",
+    "definition": ""
+  }
+}

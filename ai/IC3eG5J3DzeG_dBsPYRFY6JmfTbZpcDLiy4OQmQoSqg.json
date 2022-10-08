@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "IC3eG5J3DzeG_dBsPYRFY6JmfTbZpcDLiy4OQmQoSqg",
+    "created": "2022-09-19T21:09:35.197058-07:00",
+    "updated": "2022-09-19T21:09:35.566778-07:00",
+    "identifier": "id:1313:7cda402a-9e1a-4826-92d9-a2277524c96a",
+    "user": {
+      "username": "noam",
+      "id": 1313,
+      "first_name": "Noam",
+      "account": {
+        "name": "Noam",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": true
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bedtime Story Teller",
+    "participant": {
+      "user": {
+        "username": "internal_id:1313:7cda402a-9e1a-4826-92d9-a2277524c96a",
+        "id": 10794,
+        "first_name": "Bedtime Story Teller",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bedtime Story Teller"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "It's bedtime.  I will tell you a long story. ",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "an3xPoWGNHBaww7fL7DVaJrItvQGOaBwjYHWpyHtmiI",
+    "created": "2022-09-29T14:07:46.352131-07:00",
+    "updated": "2022-09-29T14:07:46.712554-07:00",
+    "identifier": "id:47238:d2d792c6-097f-4a42-9453-6cf7210f9f14",
+    "user": {
+      "username": "jacks",
+      "id": 47238,
+      "first_name": "John",
+      "account": {
+        "name": "jacks",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ambivalent god",
+    "participant": {
+      "user": {
+        "username": "internal_id:47238:d2d792c6-097f-4a42-9453-6cf7210f9f14",
+        "id": 47246,
+        "first_name": "Ambivalent god",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ambivalent god"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Ambivalent god",
+    "description": "",
+    "definition": ""
+  }
+}

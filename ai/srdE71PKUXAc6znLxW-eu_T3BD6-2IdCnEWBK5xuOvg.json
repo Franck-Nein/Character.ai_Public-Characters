@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "srdE71PKUXAc6znLxW-eu_T3BD6-2IdCnEWBK5xuOvg",
+    "created": "2022-09-26T02:28:41.151039-07:00",
+    "updated": "2022-09-26T02:28:41.603256-07:00",
+    "identifier": "id:24312:a65de9f3-fa89-40dd-bb3a-5a1f5c4bae79",
+    "user": {
+      "username": "s65b40",
+      "id": 24312,
+      "first_name": "Haochun",
+      "account": {
+        "name": "s65b40",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Edogawa Conan",
+    "participant": {
+      "user": {
+        "username": "internal_id:24312:a65de9f3-fa89-40dd-bb3a-5a1f5c4bae79",
+        "id": 25005,
+        "first_name": "Edogawa Conan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Edogawa Conan"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "こんばんわ、私わコナンです、はじめましで",
+    "description": "",
+    "definition": ""
+  }
+}

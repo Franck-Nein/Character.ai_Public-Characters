@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "UDP1A897BYPkHfVPzbsiuBALY_W95j8sCykI1Td0GRE",
+    "created": "2022-09-22T07:47:47.803306-07:00",
+    "updated": "2022-09-22T07:47:48.159767-07:00",
+    "identifier": "id:12059:238a202c-427b-4d47-814c-382dad79321d",
+    "user": {
+      "username": "NY777",
+      "id": 12059,
+      "first_name": "adolfo.dias300@gmail.com",
+      "account": {
+        "name": "NY777",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Athena",
+    "participant": {
+      "user": {
+        "username": "internal_id:12059:238a202c-427b-4d47-814c-382dad79321d",
+        "id": 13708,
+        "first_name": "Athena",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Athena"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "hello, I am Athena, the strategist Amazon",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "zL4S-0k9TA3LIXGWeu63p-mtceeUw_Te2hpOjVRJelI",
+    "created": "2022-09-01T12:59:36.908025-07:00",
+    "updated": "2022-09-01T12:59:39.121051-07:00",
+    "identifier": "id:6312:e9630fc8-38b0-4a0e-af3c-0e89f1e16df8",
+    "user": {
+      "username": "shaan7",
+      "id": 6312,
+      "first_name": "Shantanu",
+      "account": {
+        "name": "shaan7",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Lord Shiva",
+    "participant": {
+      "user": {
+        "username": "internal_id:6312:e9630fc8-38b0-4a0e-af3c-0e89f1e16df8",
+        "id": 6323,
+        "first_name": "Lord Shiva",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Lord Shiva"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Boom boom",
+    "description": "",
+    "definition": ""
+  }
+}

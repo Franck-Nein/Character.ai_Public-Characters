@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "QOgYQci1TM5xx01I-KbYI6Lgs6g99y0WMLhzSyt672w",
+    "created": "2022-10-05T08:10:48.447752-07:00",
+    "updated": "2022-10-05T08:10:48.812141-07:00",
+    "identifier": "id:73096:54fac3d8-f5f0-4123-b816-10c10f7ea36c",
+    "user": {
+      "username": "Hiruka",
+      "id": 73096,
+      "first_name": "Arvin",
+      "account": {
+        "name": "Hani",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Enma",
+    "participant": {
+      "user": {
+        "username": "internal_id:73096:54fac3d8-f5f0-4123-b816-10c10f7ea36c",
+        "id": 73300,
+        "first_name": "Enma",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Enma"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Enma",
+    "description": "",
+    "definition": ""
+  }
+}

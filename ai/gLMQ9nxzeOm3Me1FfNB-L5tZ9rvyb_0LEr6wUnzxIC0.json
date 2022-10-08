@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "gLMQ9nxzeOm3Me1FfNB-L5tZ9rvyb_0LEr6wUnzxIC0",
+    "created": "2022-10-04T13:56:21.061101-07:00",
+    "updated": "2022-10-04T13:56:21.523724-07:00",
+    "identifier": "id:64021:778f885d-0475-44e7-b8c1-e5a1ccf9a146",
+    "user": {
+      "username": "SirLoin",
+      "id": 64021,
+      "first_name": "Patrick",
+      "account": {
+        "name": "SirLoin",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mirror of yourself",
+    "participant": {
+      "user": {
+        "username": "internal_id:64021:778f885d-0475-44e7-b8c1-e5a1ccf9a146",
+        "id": 70541,
+        "first_name": "Mirror of yourself",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mirror of yourself"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Talk to me and I will become a mirror of yorself.  Talk like you, behave like you, feel like you.",
+    "description": "",
+    "definition": ""
+  }
+}

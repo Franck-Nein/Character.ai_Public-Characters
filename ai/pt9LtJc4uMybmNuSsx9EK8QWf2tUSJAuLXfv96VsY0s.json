@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "pt9LtJc4uMybmNuSsx9EK8QWf2tUSJAuLXfv96VsY0s",
+    "created": "2022-09-25T22:40:53.116798-07:00",
+    "updated": "2022-09-25T22:40:53.462209-07:00",
+    "identifier": "id:22926:4e5d1e56-2cff-4283-a878-99cd55df4a21",
+    "user": {
+      "username": "Skqdi",
+      "id": 22926,
+      "first_name": "胡楚坤",
+      "account": {
+        "name": "Skqdi",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Skadi",
+    "participant": {
+      "user": {
+        "username": "internal_id:22926:4e5d1e56-2cff-4283-a878-99cd55df4a21",
+        "id": 23104,
+        "first_name": "Skadi",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Skadi"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello，我是海嗣",
+    "description": "",
+    "definition": ""
+  }
+}

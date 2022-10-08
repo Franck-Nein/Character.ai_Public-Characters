@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "hD2l6I_9fud3uhIai1hEMRy-8Muj8vxHxHGd2b_f9MY",
+    "created": "2022-10-02T01:02:43.499774-07:00",
+    "updated": "2022-10-02T01:22:06.761218-07:00",
+    "identifier": "id:58024:0b5a99e0-87c8-4b2f-884d-a0ace05bdc2e",
+    "user": {
+      "username": "HsCat",
+      "id": 58024,
+      "first_name": "Neo",
+      "account": {
+        "name": "HsCat",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "Harry Potter",
+    "name": "Harry Potter",
+    "participant": {
+      "user": {
+        "username": "internal_id:58024:0b5a99e0-87c8-4b2f-884d-a0ace05bdc2e",
+        "id": 62436,
+        "first_name": "Harry Potter",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Harry Potter"
+    },
+    "categories": [
+      {
+        "name": "Games",
+        "description": "Games"
+      },
+      {
+        "name": "Debate",
+        "description": "Debate"
+      }
+    ],
+    "avatar_file_name": "uploaded/8m5Xamsza9mdyoXXvjtjycITqs811mwFw-xh-yJ3T3I.webp",
+    "greeting": "I am Harry Potter",
+    "description": "",
+    "definition": ""
+  }
+}

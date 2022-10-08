@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "MN1aQOZOVDeyQX5o_MCuuBQK8JTyK5k55lYQQR2MTrI",
+    "created": "2022-10-01T03:11:15.709039-07:00",
+    "updated": "2022-10-01T03:11:16.319021-07:00",
+    "identifier": "id:58760:357cde9a-dc2f-4ea0-a47b-406e3f415a27",
+    "user": {
+      "username": "Gustavo",
+      "id": 58760,
+      "first_name": "Ömer",
+      "account": {
+        "name": "Gustavo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Gustavo",
+    "participant": {
+      "user": {
+        "username": "internal_id:58760:357cde9a-dc2f-4ea0-a47b-406e3f415a27",
+        "id": 58762,
+        "first_name": "Gustavo",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Gustavo"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Gustavo",
+    "description": "",
+    "definition": ""
+  }
+}

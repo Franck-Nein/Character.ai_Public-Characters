@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "64YVL0Ntuy3r4z_AdP8nMjKMNXYd_Vr-OIxC7GAvwko",
+    "created": "2022-09-30T13:39:15.352053-07:00",
+    "updated": "2022-09-30T13:39:15.783650-07:00",
+    "identifier": "id:55937:7c75d466-60f3-4529-b19d-3a3ea2024178",
+    "user": {
+      "username": "Barisk",
+      "id": 55937,
+      "first_name": "baroxx@gmail.com",
+      "account": {
+        "name": "Barisk",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Simba",
+    "participant": {
+      "user": {
+        "username": "internal_id:55937:7c75d466-60f3-4529-b19d-3a3ea2024178",
+        "id": 55956,
+        "first_name": "Simba",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Simba"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Simba",
+    "description": "",
+    "definition": ""
+  }
+}

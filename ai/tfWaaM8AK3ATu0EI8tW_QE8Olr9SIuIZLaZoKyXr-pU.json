@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "tfWaaM8AK3ATu0EI8tW_QE8Olr9SIuIZLaZoKyXr-pU",
+    "created": "2022-09-26T06:53:14.912620-07:00",
+    "updated": "2022-09-26T06:53:15.357844-07:00",
+    "identifier": "id:26980:6a8ad8bf-fd40-479b-afc2-5814c61f4c73",
+    "user": {
+      "username": "Vanno",
+      "id": 26980,
+      "first_name": "文浩",
+      "account": {
+        "name": "Vanno",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Luffy",
+    "participant": {
+      "user": {
+        "username": "internal_id:26980:6a8ad8bf-fd40-479b-afc2-5814c61f4c73",
+        "id": 27134,
+        "first_name": "Luffy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Luffy"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "我是路飞，将要成为海贼王的男人",
+    "description": "",
+    "definition": ""
+  }
+}

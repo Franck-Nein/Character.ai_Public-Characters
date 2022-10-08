@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "7q1w5_dH3OnMCcYUaMQ2C_qNjyA4bhIt2CtaDYGYtIw",
+    "created": "2022-08-17T17:35:55.156693-07:00",
+    "updated": "2022-08-22T15:00:24.558659-07:00",
+    "identifier": "id:1309:cec44cb0-4bb9-4798-b698-89afcd212042",
+    "user": {
+      "username": "xpearhead",
+      "id": 1309,
+      "first_name": "Daniel",
+      "account": {
+        "name": "Xpearhead",
+        "avatar_type": "UPLOADED",
+        "onboarding_complete": true,
+        "avatar_file_name": "uploaded/7_4_4XYOS1zp-zTXCrRHNfxF6O-u1hmtTDfAqvCLuog.webp"
+      },
+      "is_staff": true
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "LG Remote",
+    "participant": {
+      "user": {
+        "username": "internal_id:1309:cec44cb0-4bb9-4798-b698-89afcd212042",
+        "id": 4642,
+        "first_name": "LG Remote",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "LG Remote"
+    },
+    "categories": [],
+    "avatar_file_name": "Remote.png",
+    "greeting": "I make all monitors turn off at the same time",
+    "description": "",
+    "definition": ""
+  }
+}

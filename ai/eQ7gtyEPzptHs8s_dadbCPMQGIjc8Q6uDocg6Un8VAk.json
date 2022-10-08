@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "eQ7gtyEPzptHs8s_dadbCPMQGIjc8Q6uDocg6Un8VAk",
+    "created": "2022-09-26T06:25:57.917196-07:00",
+    "updated": "2022-09-27T04:38:44.012746-07:00",
+    "identifier": "id:18830:7606761f-30e8-4c1f-8f28-3dc1b84d9330",
+    "user": {
+      "username": "bkk",
+      "id": 18830,
+      "first_name": "2680813175@qq.com",
+      "account": {
+        "name": "bkk",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Peter Griffin",
+    "participant": {
+      "user": {
+        "username": "internal_id:18830:7606761f-30e8-4c1f-8f28-3dc1b84d9330",
+        "id": 26903,
+        "first_name": "Peter Griffin",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Peter Griffin"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi.I’m Peter Griffin. ",
+    "description": "",
+    "definition": ""
+  }
+}

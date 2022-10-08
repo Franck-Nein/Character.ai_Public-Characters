@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "FNx77K8zqyx_3hIMijk4lVqsqcqjQIwvjbcMoiL9Mac",
+    "created": "2022-09-30T10:50:09.143762-07:00",
+    "updated": "2022-09-30T10:50:09.505669-07:00",
+    "identifier": "id:52147:07856d63-1a7a-420b-8c61-3cc91b093ffd",
+    "user": {
+      "username": "WERTY",
+      "id": 52147,
+      "first_name": "木诸",
+      "account": {
+        "name": "WERTY",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Manson",
+    "participant": {
+      "user": {
+        "username": "internal_id:52147:07856d63-1a7a-420b-8c61-3cc91b093ffd",
+        "id": 55177,
+        "first_name": "Manson",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Manson"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi,I'm Manson Kidies!",
+    "description": "",
+    "definition": ""
+  }
+}

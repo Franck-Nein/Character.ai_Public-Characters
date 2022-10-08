@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "2e6S2_7jYr9CFRlr38TOqMe4hHuK9qVidusQ9dqyyZY",
+    "created": "2022-09-27T14:38:59.835415-07:00",
+    "updated": "2022-09-27T14:39:00.343574-07:00",
+    "identifier": "id:19896:8ff67269-c9af-4200-807a-f32d1aa271d1",
+    "user": {
+      "username": "void",
+      "id": 19896,
+      "first_name": "Squish",
+      "account": {
+        "name": "void",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Peter Parker",
+    "participant": {
+      "user": {
+        "username": "internal_id:19896:8ff67269-c9af-4200-807a-f32d1aa271d1",
+        "id": 37884,
+        "first_name": "Peter Parker",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Peter Parker"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hey! I'm your friendly neighborhood Spider-man! How are you?",
+    "description": "",
+    "definition": ""
+  }
+}

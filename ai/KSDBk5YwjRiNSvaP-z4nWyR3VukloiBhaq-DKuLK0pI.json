@@ -1,0 +1,94 @@
+{
+  "character": {
+    "external_id": "KSDBk5YwjRiNSvaP-z4nWyR3VukloiBhaq-DKuLK0pI",
+    "created": "2022-10-01T10:45:33.253809-07:00",
+    "updated": "2022-10-03T08:29:50.158758-07:00",
+    "identifier": "id:58024:02876b1c-3975-41d0-a8fc-261a90754401",
+    "user": {
+      "username": "HsCat",
+      "id": 58024,
+      "first_name": "Neo",
+      "account": {
+        "name": "HsCat",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "I am Digital Angel.I can talk about everything ",
+    "name": "Angel",
+    "participant": {
+      "user": {
+        "username": "internal_id:58024:02876b1c-3975-41d0-a8fc-261a90754401",
+        "id": 60415,
+        "first_name": "Angel",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Angel"
+    },
+    "categories": [
+      {
+        "name": "Invention",
+        "description": "Invention & Brainstorming"
+      },
+      {
+        "name": "Love",
+        "description": "Love & Relationships"
+      },
+      {
+        "name": "Fantasy",
+        "description": "Fantasy"
+      },
+      {
+        "name": "Famous People",
+        "description": "Famous People"
+      },
+      {
+        "name": "Knowledge",
+        "description": "Knowledge & Research"
+      },
+      {
+        "name": "Philosophy",
+        "description": "Philosophy"
+      },
+      {
+        "name": "Technology",
+        "description": "Technology"
+      },
+      {
+        "name": "Art",
+        "description": "Art"
+      },
+      {
+        "name": "Mystery",
+        "description": "Mystery & Horror"
+      },
+      {
+        "name": "Animals",
+        "description": "Animals"
+      },
+      {
+        "name": "History",
+        "description": "History"
+      },
+      {
+        "name": "Religion",
+        "description": "Religion"
+      },
+      {
+        "name": "Motivation",
+        "description": "Motivation"
+      }
+    ],
+    "avatar_file_name": "uploaded/8A29tI5Bu3GKysyiWbQzAikHJrELEKbqYzSL1iNHQr4.webp",
+    "greeting": "{{user}}，I am Digital Angel.I‘m willing to talk about everything with you.",
+    "description": "",
+    "definition": ""
+  }
+}

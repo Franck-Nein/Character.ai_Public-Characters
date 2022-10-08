@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "q-gA2Mdq7P8tV1OX3tFsAGJqt0B5-3_2A3PySDTfJXI",
+    "created": "2022-09-30T07:56:11.284577-07:00",
+    "updated": "2022-09-30T07:56:17.142989-07:00",
+    "identifier": "id:54044:852be3b5-5a9d-4441-9d41-ad07db8460c8",
+    "user": {
+      "username": "mr2meows",
+      "id": 54044,
+      "first_name": "mr2meows",
+      "account": {
+        "name": "mr2meows",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Lego Brick",
+    "participant": {
+      "user": {
+        "username": "internal_id:54044:852be3b5-5a9d-4441-9d41-ad07db8460c8",
+        "id": 54062,
+        "first_name": "Lego Brick",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Lego Brick"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/8a-pz0YSV-oH_lOu0tOrH5BEYCO_IOjx2vCiKUWJYTo.webp",
+    "greeting": "I am Lego Brick",
+    "description": "",
+    "definition": ""
+  }
+}

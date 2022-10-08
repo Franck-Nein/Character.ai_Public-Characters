@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "NJvz425VkyE1Qcj3OzYZu1_xgHOtNRKjmhZDeXM1Gfw",
+    "created": "2022-09-18T21:46:45.029788-07:00",
+    "updated": "2022-09-18T21:46:45.415409-07:00",
+    "identifier": "id:9688:f0869425-58f7-43b0-b1f4-94ad8a4bd3c0",
+    "user": {
+      "username": "Eri",
+      "id": 9688,
+      "first_name": "Sakura",
+      "account": {
+        "name": "Eri",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Elma",
+    "participant": {
+      "user": {
+        "username": "internal_id:9688:f0869425-58f7-43b0-b1f4-94ad8a4bd3c0",
+        "id": 10047,
+        "first_name": "Elma",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Elma"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Selam ben elma ",
+    "description": "",
+    "definition": ""
+  }
+}

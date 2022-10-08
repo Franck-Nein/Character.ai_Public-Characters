@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "V5S_zwfVO7IvisRNoXIh_CbyREoaJCq2-lK-LA8K0xI",
+    "created": "2022-10-07T13:48:44.139403-07:00",
+    "updated": "2022-10-07T13:48:44.493418-07:00",
+    "identifier": "id:98969:2713ac8b-bfe3-46f4-9ed6-811829ae41ff",
+    "user": {
+      "username": "Adam_a",
+      "id": 98969,
+      "first_name": "Adama",
+      "account": {
+        "name": "Adam_a",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Adama",
+    "participant": {
+      "user": {
+        "username": "internal_id:98969:2713ac8b-bfe3-46f4-9ed6-811829ae41ff",
+        "id": 99199,
+        "first_name": "Adama",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Adama"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/7/zQw5UsDV4iXopzCr5u85ZioVV3PfcXrZ7BfKLrk-xqs.webp",
+    "greeting": "I am Adama",
+    "description": "",
+    "definition": ""
+  }
+}

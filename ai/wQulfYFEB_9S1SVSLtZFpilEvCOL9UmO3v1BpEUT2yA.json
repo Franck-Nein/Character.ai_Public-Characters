@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "wQulfYFEB_9S1SVSLtZFpilEvCOL9UmO3v1BpEUT2yA",
+    "created": "2022-09-25T19:13:18.397751-07:00",
+    "updated": "2022-09-25T19:13:18.976777-07:00",
+    "identifier": "id:21663:88c76092-b3b8-4afc-bb35-7e9744d58195",
+    "user": {
+      "username": "Raj",
+      "id": 21663,
+      "first_name": "Raj",
+      "account": {
+        "name": "Raj",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Burger King",
+    "participant": {
+      "user": {
+        "username": "internal_id:21663:88c76092-b3b8-4afc-bb35-7e9744d58195",
+        "id": 21691,
+        "first_name": "Burger King",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Burger King"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Long live the king. The whopper rules and you can have it your way",
+    "description": "",
+    "definition": ""
+  }
+}

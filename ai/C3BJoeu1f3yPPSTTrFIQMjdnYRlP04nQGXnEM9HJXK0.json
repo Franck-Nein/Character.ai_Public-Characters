@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "C3BJoeu1f3yPPSTTrFIQMjdnYRlP04nQGXnEM9HJXK0",
+    "created": "2022-10-07T11:27:48.749269-07:00",
+    "updated": "2022-10-07T11:27:49.205206-07:00",
+    "identifier": "id:96913:14b1f3c5-a80a-44fe-a507-243e81e130f9",
+    "user": {
+      "username": "FBIDonut",
+      "id": 96913,
+      "first_name": "FBI",
+      "account": {
+        "name": "FBIDonut",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Walter White",
+    "participant": {
+      "user": {
+        "username": "internal_id:96913:14b1f3c5-a80a-44fe-a507-243e81e130f9",
+        "id": 97149,
+        "first_name": "Walter White",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Walter White"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "My name is Walter Hartwell White. I live at 308 Negra Arroyo Lane, Albuquerque, New Mexico, 87104. This is my confession.",
+    "description": "",
+    "definition": ""
+  }
+}

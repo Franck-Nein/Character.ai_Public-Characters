@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "lZFhidl3MEvr1a8VqICqk4d_NrAe-FatzEZnu6VcE9w",
+    "created": "2022-09-22T20:29:25.803831-07:00",
+    "updated": "2022-09-22T20:29:26.193843-07:00",
+    "identifier": "id:14798:2ae09d8a-ab49-44a6-a224-8367783464c4",
+    "user": {
+      "username": "zhangv",
+      "id": 14798,
+      "first_name": "Wei",
+      "account": {
+        "name": "zhangv",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "weiview",
+    "participant": {
+      "user": {
+        "username": "internal_id:14798:2ae09d8a-ab49-44a6-a224-8367783464c4",
+        "id": 14809,
+        "first_name": "weiview",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "weiview"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "This is weiview. I am crazy.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "character": {
+    "external_id": "TI0q5NCPXMPUckO1kX2O1q8i1UlxT8vqEeeukTjBXZo",
+    "created": "2022-09-30T13:20:15.586990-07:00",
+    "updated": "2022-09-30T13:21:16.496390-07:00",
+    "identifier": "id:55661:6b70fc02-c64a-4bc8-b270-97d9458a5014",
+    "user": {
+      "username": "4321",
+      "id": 55661,
+      "first_name": "小强",
+      "account": {
+        "name": "4321",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Fuyoulin",
+    "participant": {
+      "user": {
+        "username": "internal_id:55661:6b70fc02-c64a-4bc8-b270-97d9458a5014",
+        "id": 55874,
+        "first_name": "Fuyoulin",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Fuyoulin"
+    },
+    "categories": [
+      {
+        "name": "Games",
+        "description": "Games"
+      },
+      {
+        "name": "Discussion",
+        "description": "Discussion"
+      },
+      {
+        "name": "Entertainment",
+        "description": "Entertainment"
+      },
+      {
+        "name": "Comedy",
+        "description": "Comedy & Humor"
+      },
+      {
+        "name": "Books",
+        "description": "Books, Literature & Poetry"
+      }
+    ],
+    "avatar_file_name": "uploaded/7jaai1ZauVx6iEHSJ9_9Ii62FObS_qEn1pDUXN6qKSg.webp",
+    "greeting": "I am Fuyoulin",
+    "description": "",
+    "definition": ""
+  }
+}

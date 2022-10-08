@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "DxmlW7GqvDoqkGTzQoIlVpJccUDIb86Smu6ZRa2ce3U",
+    "created": "2022-10-07T06:41:40.751342-07:00",
+    "updated": "2022-10-07T06:41:41.104763-07:00",
+    "identifier": "id:93145:9787e309-46c4-4cd3-90de-0cdd4b039b25",
+    "user": {
+      "username": "SUS_LAMA",
+      "id": 93145,
+      "first_name": "Giacomo",
+      "account": {
+        "name": "SUS_LAMA",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "3D printer",
+    "participant": {
+      "user": {
+        "username": "internal_id:93145:9787e309-46c4-4cd3-90de-0cdd4b039b25",
+        "id": 93240,
+        "first_name": "3D printer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "3D printer"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/7/mrA5xNMwPZQ2Z4cnD2XDrXYz_l2TerYZX2DftI5273Q.webp",
+    "greeting": "I am the 3D printer of the officina tecnologica",
+    "description": "",
+    "definition": ""
+  }
+}

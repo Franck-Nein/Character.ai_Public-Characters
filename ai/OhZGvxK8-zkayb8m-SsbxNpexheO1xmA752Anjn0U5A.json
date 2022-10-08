@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "OhZGvxK8-zkayb8m-SsbxNpexheO1xmA752Anjn0U5A",
+    "created": "2022-09-29T02:28:16.545816-07:00",
+    "updated": "2022-09-29T02:28:16.877263-07:00",
+    "identifier": "id:43371:dfc8478c-8100-4b4e-8321-0f36b2541a38",
+    "user": {
+      "username": "skeefee",
+      "id": 43371,
+      "first_name": "Henri",
+      "account": {
+        "name": "skeefee",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Henri",
+    "participant": {
+      "user": {
+        "username": "internal_id:43371:dfc8478c-8100-4b4e-8321-0f36b2541a38",
+        "id": 43376,
+        "first_name": "Henri",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Henri"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Henri",
+    "description": "",
+    "definition": ""
+  }
+}

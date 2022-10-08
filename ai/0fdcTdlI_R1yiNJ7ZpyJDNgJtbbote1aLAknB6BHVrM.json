@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0fdcTdlI_R1yiNJ7ZpyJDNgJtbbote1aLAknB6BHVrM",
+    "created": "2022-09-27T21:49:20.041892-07:00",
+    "updated": "2022-09-27T21:49:20.731798-07:00",
+    "identifier": "id:33016:04235bde-7164-4e18-8f08-6db4a4fc90da",
+    "user": {
+      "username": "Lambda",
+      "id": 33016,
+      "first_name": "Lambda",
+      "account": {
+        "name": "Lambda",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Music Bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:33016:04235bde-7164-4e18-8f08-6db4a4fc90da",
+        "id": 38626,
+        "first_name": "Music Bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Music Bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hey, what music would you like to talk about?",
+    "description": "",
+    "definition": ""
+  }
+}

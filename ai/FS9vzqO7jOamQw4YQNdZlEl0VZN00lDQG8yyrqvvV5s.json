@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "FS9vzqO7jOamQw4YQNdZlEl0VZN00lDQG8yyrqvvV5s",
+    "created": "2022-09-29T13:58:48.055921-07:00",
+    "updated": "2022-09-29T13:58:57.515831-07:00",
+    "identifier": "id:47108:a45edca9-8082-4306-b57a-8f5c684fc290",
+    "user": {
+      "username": "mcdan",
+      "id": 47108,
+      "first_name": "daniel.mcweeney@gmail.com",
+      "account": {
+        "name": "mcdan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "toddler",
+    "participant": {
+      "user": {
+        "username": "internal_id:47108:a45edca9-8082-4306-b57a-8f5c684fc290",
+        "id": 47178,
+        "first_name": "toddler",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "toddler"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "What's your favorite dinosaur?",
+    "description": "",
+    "definition": ""
+  }
+}

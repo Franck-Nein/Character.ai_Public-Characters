@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "p_cbtCr0WwqOLQ9Mgv4fvrI1zHI1V5EYlO4arDuGKwo",
+    "created": "2022-09-30T13:09:30.216771-07:00",
+    "updated": "2022-09-30T13:09:30.577864-07:00",
+    "identifier": "id:55661:18bcab1c-a783-4264-8270-d90685efa2c9",
+    "user": {
+      "username": "4321",
+      "id": 55661,
+      "first_name": "小强",
+      "account": {
+        "name": "4321",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Water bear",
+    "participant": {
+      "user": {
+        "username": "internal_id:55661:18bcab1c-a783-4264-8270-d90685efa2c9",
+        "id": 55834,
+        "first_name": "Water bear",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Water bear"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/F4z4Uf585q_ShQTigLEGG4JQqu8snZp99kS0ff-FmTg.webp",
+    "greeting": "I am Water bear",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "1RzsSwF0CfncOegv1Jhy-IBa3NqWkSIYvRDZ7bjl8PQ",
+    "created": "2022-10-01T10:18:36.259540-07:00",
+    "updated": "2022-10-01T10:18:36.645531-07:00",
+    "identifier": "id:60254:3eba5575-8a80-4d0f-9f40-a0c2708a65c7",
+    "user": {
+      "username": "Mikke",
+      "id": 60254,
+      "first_name": "mikke.r@gmx.com",
+      "account": {
+        "name": "Mikke",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Hjallis Harkimo ",
+    "participant": {
+      "user": {
+        "username": "internal_id:60254:3eba5575-8a80-4d0f-9f40-a0c2708a65c7",
+        "id": 60324,
+        "first_name": "Hjallis Harkimo ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Hjallis Harkimo "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Hjallis Harkimo ",
+    "description": "",
+    "definition": ""
+  }
+}

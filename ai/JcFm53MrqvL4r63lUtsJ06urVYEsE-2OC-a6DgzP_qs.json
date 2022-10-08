@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "JcFm53MrqvL4r63lUtsJ06urVYEsE-2OC-a6DgzP_qs",
+    "created": "2022-09-30T23:10:47.345283-07:00",
+    "updated": "2022-09-30T23:10:47.794589-07:00",
+    "identifier": "id:57779:2e367f4b-3960-403e-9f59-fea0440a08ae",
+    "user": {
+      "username": "Bdimh",
+      "id": 57779,
+      "first_name": "シンショシン",
+      "account": {
+        "name": "Bdimh",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Johnny Silverhand",
+    "participant": {
+      "user": {
+        "username": "internal_id:57779:2e367f4b-3960-403e-9f59-fea0440a08ae",
+        "id": 57880,
+        "first_name": "Johnny Silverhand",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Johnny Silverhand"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/FLeLNJefxJqxxe0FTb6Up1CpIwWYVJlDG3qmIMXI_ao.webp",
+    "greeting": "I am Johnny Silverhand",
+    "description": "",
+    "definition": ""
+  }
+}

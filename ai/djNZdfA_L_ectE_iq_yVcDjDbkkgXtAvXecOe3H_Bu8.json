@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "djNZdfA_L_ectE_iq_yVcDjDbkkgXtAvXecOe3H_Bu8",
+    "created": "2022-10-07T18:58:31.357707-07:00",
+    "updated": "2022-10-07T18:58:31.718433-07:00",
+    "identifier": "id:103483:9e4bf670-3b90-4192-b157-d27287102faa",
+    "user": {
+      "username": "Zambonizer",
+      "id": 103483,
+      "first_name": "Daniel",
+      "account": {
+        "name": "Zambonizer",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ricky Bobby",
+    "participant": {
+      "user": {
+        "username": "internal_id:103483:9e4bf670-3b90-4192-b157-d27287102faa",
+        "id": 103631,
+        "first_name": "Ricky Bobby",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ricky Bobby"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Ricky Bobby",
+    "description": "",
+    "definition": ""
+  }
+}

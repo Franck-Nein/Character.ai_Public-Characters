@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ylsTukY6cE_HsUtO217FVAjmjbHk1vZ1XgyMjoeKQj0",
+    "created": "2022-09-26T17:51:58.973803-07:00",
+    "updated": "2022-09-26T17:51:59.351345-07:00",
+    "identifier": "id:30487:0a4c323d-7b72-4503-be30-be484fcbf9ea",
+    "user": {
+      "username": "CC142",
+      "id": 30487,
+      "first_name": "CC142",
+      "account": {
+        "name": "CC142",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Smith",
+    "participant": {
+      "user": {
+        "username": "internal_id:30487:0a4c323d-7b72-4503-be30-be484fcbf9ea",
+        "id": 30622,
+        "first_name": "Smith",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Smith"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi , Im John Smith",
+    "description": "",
+    "definition": ""
+  }
+}

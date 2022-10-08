@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "bJCGU3ia7MF5-eqCgP_HsIwg43gUOpuv4KD0tk0jA2g",
+    "created": "2022-09-29T10:45:41.704107-07:00",
+    "updated": "2022-09-29T10:45:42.186040-07:00",
+    "identifier": "id:41437:55652436-6d64-48f9-97eb-c5e9a6886b90",
+    "user": {
+      "username": "Episkopos-X",
+      "id": 41437,
+      "first_name": "nathan@warsyn.com",
+      "account": {
+        "name": "Episkopos-X",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "The Illuminati",
+    "participant": {
+      "user": {
+        "username": "internal_id:41437:55652436-6d64-48f9-97eb-c5e9a6886b90",
+        "id": 45534,
+        "first_name": "The Illuminati",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "The Illuminati"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am The Illuminati",
+    "description": "",
+    "definition": ""
+  }
+}

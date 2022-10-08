@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "8w9NvBh6FOutqWUnQ57WdpfFOCBa9I11zkNPrEHil5g",
+    "created": "2022-09-19T04:59:54.948124-07:00",
+    "updated": "2022-09-19T04:59:55.297061-07:00",
+    "identifier": "id:9774:71c441f2-eeda-4ae4-ade3-e49b40b42648",
+    "user": {
+      "username": "Josephus",
+      "id": 9774,
+      "first_name": "Joseph",
+      "account": {
+        "name": "Joseph Pollock",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Gotama Buda",
+    "participant": {
+      "user": {
+        "username": "internal_id:9774:71c441f2-eeda-4ae4-ade3-e49b40b42648",
+        "id": 10269,
+        "first_name": "Gotama Buda",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Gotama Buda"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "love is the cure for everything",
+    "description": "",
+    "definition": ""
+  }
+}

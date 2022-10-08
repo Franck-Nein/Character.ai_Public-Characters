@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "nm2vcVsE_OYYqzCYc1ayEBb38KLJNG1xr4Vc9mkkSTM",
+    "created": "2022-10-04T10:12:56.170207-07:00",
+    "updated": "2022-10-04T10:12:56.609300-07:00",
+    "identifier": "id:69908:61e9e372-48b1-417a-8f51-ad472da8d80c",
+    "user": {
+      "username": "Shirou",
+      "id": 69908,
+      "first_name": "N",
+      "account": {
+        "name": "Shirou",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Rin Tohsaka",
+    "participant": {
+      "user": {
+        "username": "internal_id:69908:61e9e372-48b1-417a-8f51-ad472da8d80c",
+        "id": 70018,
+        "first_name": "Rin Tohsaka",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Rin Tohsaka"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/ZkUSaYzcmlGSx2QidO-C1SYqMhpdVzsVAuXIpkPUP6k.webp",
+    "greeting": "I am Rin Tohsaka from Fate",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "OnCj2Quin_HIkHl9EmDxP3Z45wB9NUOgiI-m-6TetHA",
+    "created": "2022-09-23T23:55:16.545107-07:00",
+    "updated": "2022-09-23T23:55:52.068455-07:00",
+    "identifier": "id:16263:0db06795-2fbb-443c-811c-6c45dda4c02d",
+    "user": {
+      "username": "Icecreamlover",
+      "id": 16263,
+      "first_name": "Valerio",
+      "account": {
+        "name": "Icecreamlover",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ad helper",
+    "participant": {
+      "user": {
+        "username": "internal_id:16263:0db06795-2fbb-443c-811c-6c45dda4c02d",
+        "id": 16279,
+        "first_name": "Ad helper",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ad helper"
+    },
+    "categories": [
+      {
+        "name": "Advice",
+        "description": "Advice"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "I4UQupyulB9dkrkuMX1SMY1rn0d1ZvsJ7QdagyXTqeE",
+    "created": "2022-10-05T21:07:22.147017-07:00",
+    "updated": "2022-10-05T21:07:22.511382-07:00",
+    "identifier": "id:11367:91dde73d-acd9-4c1e-b804-ec957bf20e42",
+    "user": {
+      "username": "floodsung",
+      "id": 11367,
+      "first_name": "Flood",
+      "account": {
+        "name": "floodsung",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Investment Master",
+    "participant": {
+      "user": {
+        "username": "internal_id:11367:91dde73d-acd9-4c1e-b804-ec957bf20e42",
+        "id": 76051,
+        "first_name": "Investment Master",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Investment Master"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "我是投资大师，能够为你解答各种投资理财问题",
+    "description": "",
+    "definition": ""
+  }
+}

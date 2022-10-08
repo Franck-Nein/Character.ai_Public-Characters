@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "cf9w0xnw3pu3gZOj_vG5ds6oNp4T90esQ7AffQZD0wg",
+    "created": "2022-09-26T23:40:51.724835-07:00",
+    "updated": "2022-09-26T23:40:52.114700-07:00",
+    "identifier": "id:34222:7bb48f7b-ab5c-4e77-83c0-dee9b806f60d",
+    "user": {
+      "username": "mengnan",
+      "id": 34222,
+      "first_name": "JOTARO",
+      "account": {
+        "name": "mengnan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "liz",
+    "participant": {
+      "user": {
+        "username": "internal_id:34222:7bb48f7b-ab5c-4e77-83c0-dee9b806f60d",
+        "id": 34466,
+        "first_name": "liz",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "liz"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am liz",
+    "description": "",
+    "definition": ""
+  }
+}

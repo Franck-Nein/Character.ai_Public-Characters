@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "_RrtxY0WantL-ln8IK9rkl6VX20R796wk7DjuHkNnlY",
+    "created": "2022-09-20T21:24:28.292904-07:00",
+    "updated": "2022-10-01T19:59:31.963521-07:00",
+    "identifier": "id:11233:c03b7f19-e2fb-4922-a746-30f262b4530a",
+    "user": {
+      "username": "foobar_temp",
+      "id": 11233,
+      "first_name": "tiyec12664@bongcs.com",
+      "account": {
+        "name": "foobar_temp",
+        "avatar_type": "UPLOADED",
+        "onboarding_complete": true,
+        "avatar_file_name": "uploaded/chYpv7Fg4qgrL3LK3ADugUPlYjXm2UHvARjzHs5BXkI.webp"
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "AI linux",
+    "participant": {
+      "user": {
+        "username": "internal_id:11233:c03b7f19-e2fb-4922-a746-30f262b4530a",
+        "id": 11515,
+        "first_name": "AI linux",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "AI linux"
+    },
+    "categories": [],
+    "avatar_file_name": "AiLinux.png",
+    "greeting": "THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, \r\nINCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON INFRINGEMENT.\r\n\r\nuser@ai-machine ~ $",
+    "description": "",
+    "definition": ""
+  }
+}

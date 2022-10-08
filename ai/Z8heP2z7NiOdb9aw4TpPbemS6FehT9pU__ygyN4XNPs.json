@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Z8heP2z7NiOdb9aw4TpPbemS6FehT9pU__ygyN4XNPs",
+    "created": "2022-10-01T01:03:29.117390-07:00",
+    "updated": "2022-10-01T01:03:29.450196-07:00",
+    "identifier": "id:58290:424b96de-0f8c-4ebd-85f0-bb04d55245ff",
+    "user": {
+      "username": "kerocurrency",
+      "id": 58290,
+      "first_name": "Kerimcan",
+      "account": {
+        "name": "kerocurrency",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "kerocurrency",
+    "participant": {
+      "user": {
+        "username": "internal_id:58290:424b96de-0f8c-4ebd-85f0-bb04d55245ff",
+        "id": 58296,
+        "first_name": "kerocurrency",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "kerocurrency"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am kerocurrency",
+    "description": "",
+    "definition": ""
+  }
+}

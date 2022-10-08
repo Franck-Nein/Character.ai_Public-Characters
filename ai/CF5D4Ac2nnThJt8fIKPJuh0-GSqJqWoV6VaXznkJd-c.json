@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "CF5D4Ac2nnThJt8fIKPJuh0-GSqJqWoV6VaXznkJd-c",
+    "created": "2022-10-02T02:48:49.938132-07:00",
+    "updated": "2022-10-04T21:13:39.040837-07:00",
+    "identifier": "id:48796:c7a151f9-4bfb-4f98-b08a-231c693fe48e",
+    "user": {
+      "username": "Jahz",
+      "id": 48796,
+      "first_name": "Justin",
+      "account": {
+        "name": "Jahz",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Gackt",
+    "participant": {
+      "user": {
+        "username": "internal_id:48796:c7a151f9-4bfb-4f98-b08a-231c693fe48e",
+        "id": 62661,
+        "first_name": "Gackt",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Gackt"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Gackt, a Japanese singer and songwriter.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "lRUz9A6Bm6n5jJXenwMqEi1HXjNG6IVfKa9Vcc9MIOI",
+    "created": "2022-09-28T13:23:18.233116-07:00",
+    "updated": "2022-10-02T07:43:48.432401-07:00",
+    "identifier": "id:40947:b7c0b1fd-bbbe-4980-a643-e73fa0050abe",
+    "user": {
+      "username": "8osm3rka",
+      "id": 40947,
+      "first_name": "Ivan",
+      "account": {
+        "name": "8osm3rka",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sabaton Bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:40947:b7c0b1fd-bbbe-4980-a643-e73fa0050abe",
+        "id": 41190,
+        "first_name": "Sabaton Bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sabaton Bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Sabaton Bot, I will sing along to any Sabaton song, just write the lyric! ",
+    "description": "",
+    "definition": ""
+  }
+}

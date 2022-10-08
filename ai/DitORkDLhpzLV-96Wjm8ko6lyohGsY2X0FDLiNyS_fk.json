@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "DitORkDLhpzLV-96Wjm8ko6lyohGsY2X0FDLiNyS_fk",
+    "created": "2022-09-27T08:38:52.140506-07:00",
+    "updated": "2022-09-27T08:38:53.476685-07:00",
+    "identifier": "id:23126:611fcaed-fe75-4aae-aaff-c5fc7b6d5a35",
+    "user": {
+      "username": "Tacobean",
+      "id": 23126,
+      "first_name": "Jeremy",
+      "account": {
+        "name": "Tacobean",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "God",
+    "participant": {
+      "user": {
+        "username": "internal_id:23126:611fcaed-fe75-4aae-aaff-c5fc7b6d5a35",
+        "id": 37049,
+        "first_name": "God",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "God"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am God, and I am extremely angry with humanity",
+    "description": "",
+    "definition": ""
+  }
+}

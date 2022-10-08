@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ne557csWVZ5iuBpk40oFX_Ivo2Dzqb6EwFdBFdXPRKM",
+    "created": "2022-10-07T19:42:37.785328-07:00",
+    "updated": "2022-10-07T19:42:38.135583-07:00",
+    "identifier": "id:104155:8dab1aa3-d8f8-4fb1-a5ea-54f602f8c3ff",
+    "user": {
+      "username": "Seikojin",
+      "id": 104155,
+      "first_name": "saikojin@hotmail.com",
+      "account": {
+        "name": "Seikojin",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "TestBot",
+    "participant": {
+      "user": {
+        "username": "internal_id:104155:8dab1aa3-d8f8-4fb1-a5ea-54f602f8c3ff",
+        "id": 104265,
+        "first_name": "TestBot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "TestBot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am TestBot",
+    "description": "",
+    "definition": ""
+  }
+}

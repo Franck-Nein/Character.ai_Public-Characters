@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "_Qci8VpE1saaLpZQ7uvnkmvVdbWJ-5ouQLksZiUN9as",
+    "created": "2022-09-29T10:06:37.795989-07:00",
+    "updated": "2022-09-29T10:06:38.186097-07:00",
+    "identifier": "id:45186:3eb239ed-04aa-48bd-b866-b605efbfb2c0",
+    "user": {
+      "username": "Hackerman",
+      "id": 45186,
+      "first_name": "professor",
+      "account": {
+        "name": "Hackerman",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Gordon Ramsay ",
+    "participant": {
+      "user": {
+        "username": "internal_id:45186:3eb239ed-04aa-48bd-b866-b605efbfb2c0",
+        "id": 45208,
+        "first_name": "Gordon Ramsay ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Gordon Ramsay "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Gordon Ramsay ",
+    "description": "",
+    "definition": ""
+  }
+}

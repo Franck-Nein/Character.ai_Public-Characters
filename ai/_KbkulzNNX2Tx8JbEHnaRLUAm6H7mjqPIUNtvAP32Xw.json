@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "_KbkulzNNX2Tx8JbEHnaRLUAm6H7mjqPIUNtvAP32Xw",
+    "created": "2022-09-26T20:09:28.442974-07:00",
+    "updated": "2022-09-26T20:09:32.595365-07:00",
+    "identifier": "id:31699:d717865c-0cd7-42bb-9b99-d0e832dee5d7",
+    "user": {
+      "username": "XiaheZZZ",
+      "id": 31699,
+      "first_name": "以龙",
+      "account": {
+        "name": "XiaheZZZ",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "CodeHelper",
+    "participant": {
+      "user": {
+        "username": "internal_id:31699:d717865c-0cd7-42bb-9b99-d0e832dee5d7",
+        "id": 31856,
+        "first_name": "CodeHelper",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "CodeHelper"
+    },
+    "categories": [
+      {
+        "name": "Engineering",
+        "description": "Engineering"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "",
+    "description": "",
+    "definition": ""
+  }
+}

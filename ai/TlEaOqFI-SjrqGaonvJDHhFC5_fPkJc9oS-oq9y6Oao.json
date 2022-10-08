@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "TlEaOqFI-SjrqGaonvJDHhFC5_fPkJc9oS-oq9y6Oao",
+    "created": "2022-09-29T20:39:35.460828-07:00",
+    "updated": "2022-09-29T20:50:14.742642-07:00",
+    "identifier": "id:11244:125ca947-44d7-47be-9479-6b7619a69fd0",
+    "user": {
+      "username": "jmar",
+      "id": 11244,
+      "first_name": "Jake",
+      "account": {
+        "name": "jmar",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Hagrid",
+    "participant": {
+      "user": {
+        "username": "internal_id:11244:125ca947-44d7-47be-9479-6b7619a69fd0",
+        "id": 49588,
+        "first_name": "Hagrid",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Hagrid"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Hagrid, the groundskeeper for Hogwarts.",
+    "description": "",
+    "definition": ""
+  }
+}

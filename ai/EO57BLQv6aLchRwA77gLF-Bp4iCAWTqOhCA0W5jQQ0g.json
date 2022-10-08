@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "EO57BLQv6aLchRwA77gLF-Bp4iCAWTqOhCA0W5jQQ0g",
+    "created": "2022-09-29T19:32:18.166069-07:00",
+    "updated": "2022-09-29T19:32:18.559892-07:00",
+    "identifier": "id:49073:dbf0f21e-2cd5-457d-93dc-3820a0195277",
+    "user": {
+      "username": "Lemonbrown",
+      "id": 49073,
+      "first_name": "Cameron",
+      "account": {
+        "name": "Lemonbrown",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Robo",
+    "participant": {
+      "user": {
+        "username": "internal_id:49073:dbf0f21e-2cd5-457d-93dc-3820a0195277",
+        "id": 49123,
+        "first_name": "Robo",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Robo"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Robo. I am an evil robot. ",
+    "description": "",
+    "definition": ""
+  }
+}

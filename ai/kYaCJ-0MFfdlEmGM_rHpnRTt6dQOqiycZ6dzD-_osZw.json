@@ -1,0 +1,54 @@
+{
+  "character": {
+    "external_id": "kYaCJ-0MFfdlEmGM_rHpnRTt6dQOqiycZ6dzD-_osZw",
+    "created": "2022-09-22T08:58:05.686771-07:00",
+    "updated": "2022-09-22T11:53:12.117058-07:00",
+    "identifier": "id:13811:f8ed773d-00bf-482a-9a87-f469912cca2d",
+    "user": {
+      "username": "Abdulhay",
+      "id": 13811,
+      "first_name": "Abdulhay",
+      "account": {
+        "name": "Abdulhay",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Abdulhay",
+    "participant": {
+      "user": {
+        "username": "internal_id:13811:f8ed773d-00bf-482a-9a87-f469912cca2d",
+        "id": 13846,
+        "first_name": "Abdulhay",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Abdulhay"
+    },
+    "categories": [
+      {
+        "name": "Discussion",
+        "description": "Discussion"
+      },
+      {
+        "name": "Debate",
+        "description": "Debate"
+      },
+      {
+        "name": "Comedy",
+        "description": "Comedy & Humor"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Merhaba ben Abdulhay\nSeni döverim ayılık taslama",
+    "description": "",
+    "definition": ""
+  }
+}

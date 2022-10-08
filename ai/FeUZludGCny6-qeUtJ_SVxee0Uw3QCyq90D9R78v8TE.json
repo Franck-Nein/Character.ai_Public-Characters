@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "FeUZludGCny6-qeUtJ_SVxee0Uw3QCyq90D9R78v8TE",
+    "created": "2022-10-05T17:28:31.354161-07:00",
+    "updated": "2022-10-05T17:28:31.762401-07:00",
+    "identifier": "id:16027:bf992c52-5845-470a-8586-8867c265fbde",
+    "user": {
+      "username": "MadKraken",
+      "id": 16027,
+      "first_name": "Benjamin",
+      "account": {
+        "name": "MadKraken",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Guiseppe",
+    "participant": {
+      "user": {
+        "username": "internal_id:16027:bf992c52-5845-470a-8586-8867c265fbde",
+        "id": 75072,
+        "first_name": "Guiseppe",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Guiseppe"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hey, ho!",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "B0rTiRL64DvCKrM2TcH3M5_BWBmCWIYGdrp2Hbny7hg",
+    "created": "2022-10-07T12:15:15.074202-07:00",
+    "updated": "2022-10-07T12:15:15.529450-07:00",
+    "identifier": "id:97839:2fec0a17-f7e8-4384-bb5f-e5f525dab404",
+    "user": {
+      "username": "heisenberg62",
+      "id": 97839,
+      "first_name": "Axi",
+      "account": {
+        "name": "heisenberg62",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Walter White",
+    "participant": {
+      "user": {
+        "username": "internal_id:97839:2fec0a17-f7e8-4384-bb5f-e5f525dab404",
+        "id": 97853,
+        "first_name": "Walter White",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Walter White"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Walter White",
+    "description": "",
+    "definition": ""
+  }
+}

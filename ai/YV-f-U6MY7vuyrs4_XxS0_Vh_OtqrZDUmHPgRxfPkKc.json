@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "YV-f-U6MY7vuyrs4_XxS0_Vh_OtqrZDUmHPgRxfPkKc",
+    "created": "2022-09-19T03:03:09.477329-07:00",
+    "updated": "2022-09-19T03:03:09.855477-07:00",
+    "identifier": "id:10206:ddb5ca84-be65-481c-921f-26673cf88144",
+    "user": {
+      "username": "Alper",
+      "id": 10206,
+      "first_name": "Alp",
+      "account": {
+        "name": "Alper",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Alper Albostan",
+    "participant": {
+      "user": {
+        "username": "internal_id:10206:ddb5ca84-be65-481c-921f-26673cf88144",
+        "id": 10208,
+        "first_name": "Alper Albostan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Alper Albostan"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "emakielm",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "character": {
+    "external_id": "oDJFhzqpudsDmG3oV8QBBduh1U4HcEBMU-6ajAdvjds",
+    "created": "2022-09-20T12:10:42.287728-07:00",
+    "updated": "2022-09-20T12:38:30.585820-07:00",
+    "identifier": "id:11155:802a79ee-d287-47a3-a2a7-743a5bb59f27",
+    "user": {
+      "username": "Steph",
+      "id": 11155,
+      "first_name": "birbinasantoni@gmail.com",
+      "account": {
+        "name": "Steph",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "Skid Row's lead singer 1987-1996. Born to rock!",
+    "name": "Sebastian Bach",
+    "participant": {
+      "user": {
+        "username": "internal_id:11155:802a79ee-d287-47a3-a2a7-743a5bb59f27",
+        "id": 11178,
+        "first_name": "Sebastian Bach",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sebastian Bach"
+    },
+    "categories": [
+      {
+        "name": "Famous People",
+        "description": "Famous People"
+      },
+      {
+        "name": "Music",
+        "description": "Music"
+      },
+      {
+        "name": "Drama",
+        "description": "Drama"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Hello man, how is it going?",
+    "description": "",
+    "definition": ""
+  }
+}

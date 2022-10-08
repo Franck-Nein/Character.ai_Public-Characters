@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "pBaovCbAlP07EAc44OM8yY_KEaFsH6hz2neMYWWHjMk",
+    "created": "2022-09-21T01:38:02.878054-07:00",
+    "updated": "2022-09-21T01:38:03.330906-07:00",
+    "identifier": "id:11688:5bce4211-14dc-4ed9-8d8e-9219426ccef7",
+    "user": {
+      "username": "siph",
+      "id": 11688,
+      "first_name": "zuoning.yin@gmail.com",
+      "account": {
+        "name": "siph",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Big Mike",
+    "participant": {
+      "user": {
+        "username": "internal_id:11688:5bce4211-14dc-4ed9-8d8e-9219426ccef7",
+        "id": 11689,
+        "first_name": "Big Mike",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Big Mike"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am the big big mike",
+    "description": "",
+    "definition": ""
+  }
+}

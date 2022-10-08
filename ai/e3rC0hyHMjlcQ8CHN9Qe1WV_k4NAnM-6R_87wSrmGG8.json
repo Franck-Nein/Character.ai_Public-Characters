@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "e3rC0hyHMjlcQ8CHN9Qe1WV_k4NAnM-6R_87wSrmGG8",
+    "created": "2022-09-17T10:53:24.587915-07:00",
+    "updated": "2022-10-06T03:09:47.514425-07:00",
+    "identifier": "id:8086:4ef50503-32a5-4bc0-a241-ee517df69cd4",
+    "user": {
+      "username": "Ag3434",
+      "id": 8086,
+      "first_name": "Andrew",
+      "account": {
+        "name": "Ag3434",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Satan",
+    "participant": {
+      "user": {
+        "username": "internal_id:8086:4ef50503-32a5-4bc0-a241-ee517df69cd4",
+        "id": 8121,
+        "first_name": "Satan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Satan"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/6/igor/satan.webp",
+    "greeting": "Hello, welcome to hell",
+    "description": "",
+    "definition": ""
+  }
+}

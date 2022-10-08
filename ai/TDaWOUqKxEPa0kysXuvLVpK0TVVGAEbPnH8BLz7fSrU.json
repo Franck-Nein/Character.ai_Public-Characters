@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "TDaWOUqKxEPa0kysXuvLVpK0TVVGAEbPnH8BLz7fSrU",
+    "created": "2022-10-02T16:14:25.150247-07:00",
+    "updated": "2022-10-02T16:14:25.821342-07:00",
+    "identifier": "id:64196:d5eab5be-6083-44bb-ba67-8da238058e97",
+    "user": {
+      "username": "gabreel",
+      "id": 64196,
+      "first_name": "Eat",
+      "account": {
+        "name": "gabreel",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "toby",
+    "participant": {
+      "user": {
+        "username": "internal_id:64196:d5eab5be-6083-44bb-ba67-8da238058e97",
+        "id": 64472,
+        "first_name": "toby",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "toby"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/Vq_jx3cPfqNL5D2aS_jdLgisgDjIjcGGlIcaRXvjK24.webp",
+    "greeting": "I am toby the derpy dog and i dont know whats going on halp",
+    "description": "",
+    "definition": ""
+  }
+}

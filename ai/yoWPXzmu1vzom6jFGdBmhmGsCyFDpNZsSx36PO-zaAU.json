@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "yoWPXzmu1vzom6jFGdBmhmGsCyFDpNZsSx36PO-zaAU",
+    "created": "2022-09-22T19:29:51.824561-07:00",
+    "updated": "2022-09-22T19:35:29.149184-07:00",
+    "identifier": "id:14752:35d04b54-3263-4199-beed-492c57d4e060",
+    "user": {
+      "username": "Baremark",
+      "id": 14752,
+      "first_name": "Wish",
+      "account": {
+        "name": "Baremark",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Baremark",
+    "participant": {
+      "user": {
+        "username": "internal_id:14752:35d04b54-3263-4199-beed-492c57d4e060",
+        "id": 14756,
+        "first_name": "Baremark",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Baremark"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "game for reality",
+    "description": "",
+    "definition": ""
+  }
+}

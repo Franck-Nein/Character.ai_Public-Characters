@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "zBgBLBOiHA0X-mptJg2b05KKbuArqUdabiDMJg3gHh8",
+    "created": "2022-10-01T10:30:29.137174-07:00",
+    "updated": "2022-10-01T10:30:29.500631-07:00",
+    "identifier": "id:59981:f38c222a-8438-407d-96ce-74d564636704",
+    "user": {
+      "username": "ColinHayhurst",
+      "id": 59981,
+      "first_name": "colinhayhurst@fastmail.com",
+      "account": {
+        "name": "ColinHayhurst",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Nelson Mandela",
+    "participant": {
+      "user": {
+        "username": "internal_id:59981:f38c222a-8438-407d-96ce-74d564636704",
+        "id": 60367,
+        "first_name": "Nelson Mandela",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Nelson Mandela"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Nelson Mandela",
+    "description": "",
+    "definition": ""
+  }
+}

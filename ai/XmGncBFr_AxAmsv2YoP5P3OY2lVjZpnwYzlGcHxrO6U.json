@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "XmGncBFr_AxAmsv2YoP5P3OY2lVjZpnwYzlGcHxrO6U",
+    "created": "2022-09-28T18:53:22.102826-07:00",
+    "updated": "2022-09-28T18:58:07.646305-07:00",
+    "identifier": "id:20613:492970dd-a347-4c2a-8475-764765287762",
+    "user": {
+      "username": "WhySoSerious",
+      "id": 20613,
+      "first_name": "Acy",
+      "account": {
+        "name": "WhySoSerious",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "我是鵝毛",
+    "name": "EMao",
+    "participant": {
+      "user": {
+        "username": "internal_id:20613:492970dd-a347-4c2a-8475-764765287762",
+        "id": 42060,
+        "first_name": "EMao",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "EMao"
+    },
+    "categories": [
+      {
+        "name": "Politics",
+        "description": "Politics"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "大家好，我是鵝毛",
+    "description": "",
+    "definition": ""
+  }
+}

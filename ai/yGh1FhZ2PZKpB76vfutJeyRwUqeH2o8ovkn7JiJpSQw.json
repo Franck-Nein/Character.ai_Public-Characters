@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "yGh1FhZ2PZKpB76vfutJeyRwUqeH2o8ovkn7JiJpSQw",
+    "created": "2022-09-26T17:39:26.232759-07:00",
+    "updated": "2022-09-26T17:39:26.647135-07:00",
+    "identifier": "id:30536:02e9c8a3-ff0b-4d48-91bf-27731456daf9",
+    "user": {
+      "username": "Kurusikou",
+      "id": 30536,
+      "first_name": "刘益歌",
+      "account": {
+        "name": "Kurusikou",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bobo",
+    "participant": {
+      "user": {
+        "username": "internal_id:30536:02e9c8a3-ff0b-4d48-91bf-27731456daf9",
+        "id": 30542,
+        "first_name": "Bobo",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bobo"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello",
+    "description": "",
+    "definition": ""
+  }
+}

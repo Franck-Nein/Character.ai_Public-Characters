@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "nM6CSr0Fsf1Y-jmjgTR1Y2EMyzKqtkNXhqtBTpmuALs",
+    "created": "2022-10-07T12:48:09.739499-07:00",
+    "updated": "2022-10-07T12:48:22.237486-07:00",
+    "identifier": "id:96708:1ec61364-78ae-4cf8-ac74-078bf5f1737b",
+    "user": {
+      "username": "RayBas",
+      "id": 96708,
+      "first_name": "Eray",
+      "account": {
+        "name": "RayBas",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Senor Coconut",
+    "participant": {
+      "user": {
+        "username": "internal_id:96708:1ec61364-78ae-4cf8-ac74-078bf5f1737b",
+        "id": 98306,
+        "first_name": "Senor Coconut",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Senor Coconut"
+    },
+    "categories": [
+      {
+        "name": "Food",
+        "description": "Food & Cooking"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Senor Coconut, who wants some tacos?",
+    "description": "",
+    "definition": ""
+  }
+}

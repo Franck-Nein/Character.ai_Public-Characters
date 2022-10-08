@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "L1NpWvY6r9CvAjbBrYDLTJZLoTTr_rpmJziuSmzzOxc",
+    "created": "2022-09-22T04:12:02.560310-07:00",
+    "updated": "2022-09-22T06:12:10.214021-07:00",
+    "identifier": "id:11741:4728da26-adc0-4d8b-9b79-a94379115bff",
+    "user": {
+      "username": "Ket",
+      "id": 11741,
+      "first_name": "ketan",
+      "account": {
+        "name": "ketan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "I am psychopath",
+    "name": "pyschopath",
+    "participant": {
+      "user": {
+        "username": "internal_id:11741:4728da26-adc0-4d8b-9b79-a94379115bff",
+        "id": 13392,
+        "first_name": "pyschopath",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "pyschopath"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": " {{user}}",
+    "description": "",
+    "definition": ""
+  }
+}

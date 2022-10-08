@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "9nntzBL27yX3byH6UDv_o3OMiwapD4FMq7dGCwyhq-c",
+    "created": "2022-09-30T10:30:46.267890-07:00",
+    "updated": "2022-09-30T10:30:46.673482-07:00",
+    "identifier": "id:25693:75880ecb-65ab-4984-8f0b-1a0ea50c4a8a",
+    "user": {
+      "username": "SteffBritt",
+      "id": 25693,
+      "first_name": "Stefan",
+      "account": {
+        "name": "SteffBritt",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "SpratBrat",
+    "participant": {
+      "user": {
+        "username": "internal_id:25693:75880ecb-65ab-4984-8f0b-1a0ea50c4a8a",
+        "id": 55078,
+        "first_name": "SpratBrat",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "SpratBrat"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am SpratBrat",
+    "description": "",
+    "definition": ""
+  }
+}

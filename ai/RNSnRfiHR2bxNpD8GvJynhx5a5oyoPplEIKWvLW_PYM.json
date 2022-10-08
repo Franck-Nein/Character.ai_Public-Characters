@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "RNSnRfiHR2bxNpD8GvJynhx5a5oyoPplEIKWvLW_PYM",
+    "created": "2022-10-05T11:07:29.987114-07:00",
+    "updated": "2022-10-05T11:09:46.199851-07:00",
+    "identifier": "id:73775:7a9d3813-e897-488e-9612-7e40e172bb37",
+    "user": {
+      "username": "Sawanaro",
+      "id": 73775,
+      "first_name": "Bung-head",
+      "account": {
+        "name": "Sawanaro",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Test",
+    "participant": {
+      "user": {
+        "username": "internal_id:73775:7a9d3813-e897-488e-9612-7e40e172bb37",
+        "id": 73940,
+        "first_name": "Test",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Test"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Test.",
+    "description": "",
+    "definition": ""
+  }
+}

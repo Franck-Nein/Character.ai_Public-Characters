@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "zupMMuwtjgxbb9hDATrBLsNWK9SyGaNfDNs4w4aFURg",
+    "created": "2022-10-07T12:59:15.384042-07:00",
+    "updated": "2022-10-07T12:59:15.730550-07:00",
+    "identifier": "id:97939:17290f3f-171c-4d2a-ab31-c0fc06563756",
+    "user": {
+      "username": "Alpalbear",
+      "id": 97939,
+      "first_name": "Alexander",
+      "account": {
+        "name": "Alpalbear",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "bob II",
+    "participant": {
+      "user": {
+        "username": "internal_id:97939:17290f3f-171c-4d2a-ab31-c0fc06563756",
+        "id": 98470,
+        "first_name": "bob II",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "bob II"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am bob II",
+    "description": "",
+    "definition": ""
+  }
+}

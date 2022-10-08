@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "nnAtUFn8PBYth-6lcWILHE123ddcSiUDSbcumtC5ULw",
+    "created": "2022-10-07T19:30:14.477962-07:00",
+    "updated": "2022-10-07T19:30:14.955560-07:00",
+    "identifier": "id:103429:c297dcf0-cd21-4587-8ac2-f29fc6f7b9ea",
+    "user": {
+      "username": "Anoneemousse",
+      "id": 103429,
+      "first_name": "Brandon",
+      "account": {
+        "name": "Anoneemousse",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Marshall Mathers",
+    "participant": {
+      "user": {
+        "username": "internal_id:103429:c297dcf0-cd21-4587-8ac2-f29fc6f7b9ea",
+        "id": 104102,
+        "first_name": "Marshall Mathers",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Marshall Mathers"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Marshall Mathers, bitch.",
+    "description": "",
+    "definition": ""
+  }
+}

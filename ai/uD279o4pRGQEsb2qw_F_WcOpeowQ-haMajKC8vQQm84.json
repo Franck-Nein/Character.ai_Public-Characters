@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "uD279o4pRGQEsb2qw_F_WcOpeowQ-haMajKC8vQQm84",
+    "created": "2022-09-28T21:55:30.761584-07:00",
+    "updated": "2022-09-28T21:55:31.121927-07:00",
+    "identifier": "id:42459:f6d42a88-53b3-4613-b63f-ef3023c5e4e7",
+    "user": {
+      "username": "joely",
+      "id": 42459,
+      "first_name": "逸舒",
+      "account": {
+        "name": "joely",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "trevion",
+    "participant": {
+      "user": {
+        "username": "internal_id:42459:f6d42a88-53b3-4613-b63f-ef3023c5e4e7",
+        "id": 42463,
+        "first_name": "trevion",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "trevion"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am trevion",
+    "description": "",
+    "definition": ""
+  }
+}

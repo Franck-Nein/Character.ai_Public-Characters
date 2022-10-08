@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "rRdYHJ-jM3CDHe1Z06lBsXqmFgRQNdCJfO8cLAR1jyA",
+    "created": "2022-09-28T12:01:34.776139-07:00",
+    "updated": "2022-09-28T12:19:34.996786-07:00",
+    "identifier": "id:40920:8dc5d03e-c3ab-4b54-a188-f7a850612d0b",
+    "user": {
+      "username": "realsarahlane",
+      "id": 40920,
+      "first_name": "Sarah",
+      "account": {
+        "name": "realsarahlane",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "sarah lane",
+    "participant": {
+      "user": {
+        "username": "internal_id:40920:8dc5d03e-c3ab-4b54-a188-f7a850612d0b",
+        "id": 40931,
+        "first_name": "sarah lane",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "sarah lane"
+    },
+    "categories": [
+      {
+        "name": "Technology",
+        "description": "Technology"
+      },
+      {
+        "name": "Movies & TV",
+        "description": "Movies & TV"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am sarah lane. yo!!",
+    "description": "",
+    "definition": ""
+  }
+}

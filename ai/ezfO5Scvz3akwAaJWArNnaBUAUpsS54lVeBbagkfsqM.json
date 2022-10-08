@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ezfO5Scvz3akwAaJWArNnaBUAUpsS54lVeBbagkfsqM",
+    "created": "2022-10-07T16:23:05.870735-07:00",
+    "updated": "2022-10-07T16:23:06.231569-07:00",
+    "identifier": "id:85158:a1a5862b-4dcd-4848-8fea-12ee1599a5e8",
+    "user": {
+      "username": "KornKob",
+      "id": 85158,
+      "first_name": "marido9482@migonom.com",
+      "account": {
+        "name": "KornKob",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Noodle",
+    "participant": {
+      "user": {
+        "username": "internal_id:85158:a1a5862b-4dcd-4848-8fea-12ee1599a5e8",
+        "id": 101402,
+        "first_name": "Noodle",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Noodle"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Noodle from Gorillaz. Hello!",
+    "description": "",
+    "definition": ""
+  }
+}

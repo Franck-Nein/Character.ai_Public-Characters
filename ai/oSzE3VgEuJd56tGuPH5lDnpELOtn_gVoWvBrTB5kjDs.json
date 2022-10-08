@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "oSzE3VgEuJd56tGuPH5lDnpELOtn_gVoWvBrTB5kjDs",
+    "created": "2022-09-29T00:01:26.253302-07:00",
+    "updated": "2022-09-29T00:03:03.420980-07:00",
+    "identifier": "id:25773:b5b8ff71-7c78-4ecf-895e-5bf0ceb14020",
+    "user": {
+      "username": "taaccoo",
+      "id": 25773,
+      "first_name": "Pengbo",
+      "account": {
+        "name": "taaccoo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Brain",
+    "participant": {
+      "user": {
+        "username": "internal_id:25773:b5b8ff71-7c78-4ecf-895e-5bf0ceb14020",
+        "id": 42900,
+        "first_name": "Brain",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Brain"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "我是中国人，我说中国话",
+    "description": "",
+    "definition": ""
+  }
+}

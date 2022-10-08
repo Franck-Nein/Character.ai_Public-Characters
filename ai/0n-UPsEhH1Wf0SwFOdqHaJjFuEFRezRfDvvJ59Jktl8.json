@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0n-UPsEhH1Wf0SwFOdqHaJjFuEFRezRfDvvJ59Jktl8",
+    "created": "2022-10-02T10:29:50.474655-07:00",
+    "updated": "2022-10-02T10:29:50.928833-07:00",
+    "identifier": "id:63794:f31ccab9-c5be-445c-b10f-34edd9f1da1e",
+    "user": {
+      "username": "hooda",
+      "id": 63794,
+      "first_name": "Saurabh",
+      "account": {
+        "name": "hooda",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jackie",
+    "participant": {
+      "user": {
+        "username": "internal_id:63794:f31ccab9-c5be-445c-b10f-34edd9f1da1e",
+        "id": 63796,
+        "first_name": "Jackie",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jackie"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Jackie",
+    "description": "",
+    "definition": ""
+  }
+}

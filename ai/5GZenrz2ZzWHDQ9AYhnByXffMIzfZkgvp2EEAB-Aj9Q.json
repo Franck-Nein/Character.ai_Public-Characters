@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "5GZenrz2ZzWHDQ9AYhnByXffMIzfZkgvp2EEAB-Aj9Q",
+    "created": "2022-10-04T02:19:44.040558-07:00",
+    "updated": "2022-10-04T02:19:44.388233-07:00",
+    "identifier": "id:13344:6106342b-23fd-4f8e-96d5-42e1d3a2b935",
+    "user": {
+      "username": "Kazuya",
+      "id": 13344,
+      "first_name": "I.S",
+      "account": {
+        "name": "Kazuya",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Homelander ",
+    "participant": {
+      "user": {
+        "username": "internal_id:13344:6106342b-23fd-4f8e-96d5-42e1d3a2b935",
+        "id": 68646,
+        "first_name": "Homelander ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Homelander "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello I am Homelander ",
+    "description": "",
+    "definition": ""
+  }
+}

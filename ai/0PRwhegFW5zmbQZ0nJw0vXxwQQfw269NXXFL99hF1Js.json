@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0PRwhegFW5zmbQZ0nJw0vXxwQQfw269NXXFL99hF1Js",
+    "created": "2022-09-26T23:25:07.188014-07:00",
+    "updated": "2022-09-26T23:25:07.627742-07:00",
+    "identifier": "id:32517:a4198b50-6762-46cb-a192-415da4ba94b5",
+    "user": {
+      "username": "code",
+      "id": 32517,
+      "first_name": "宁",
+      "account": {
+        "name": "code",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "robut",
+    "participant": {
+      "user": {
+        "username": "internal_id:32517:a4198b50-6762-46cb-a192-415da4ba94b5",
+        "id": 34283,
+        "first_name": "robut",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "robut"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am robut",
+    "description": "",
+    "definition": ""
+  }
+}

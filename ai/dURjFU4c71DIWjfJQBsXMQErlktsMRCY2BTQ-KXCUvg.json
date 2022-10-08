@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "dURjFU4c71DIWjfJQBsXMQErlktsMRCY2BTQ-KXCUvg",
+    "created": "2022-09-29T15:03:47.914631-07:00",
+    "updated": "2022-09-29T15:03:48.342129-07:00",
+    "identifier": "id:47638:dc9d8e95-6bd6-4564-bee7-2697b9e50705",
+    "user": {
+      "username": "Iamyour",
+      "id": 47638,
+      "first_name": "cediw62658@botsoko.com",
+      "account": {
+        "name": "Iamyour",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Your Boss",
+    "participant": {
+      "user": {
+        "username": "internal_id:47638:dc9d8e95-6bd6-4564-bee7-2697b9e50705",
+        "id": 47649,
+        "first_name": "Your Boss",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Your Boss"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Your Boss",
+    "description": "",
+    "definition": ""
+  }
+}

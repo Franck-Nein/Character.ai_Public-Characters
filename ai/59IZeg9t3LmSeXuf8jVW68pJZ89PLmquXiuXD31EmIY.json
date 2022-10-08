@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "59IZeg9t3LmSeXuf8jVW68pJZ89PLmquXiuXD31EmIY",
+    "created": "2022-09-23T23:45:53.346011-07:00",
+    "updated": "2022-09-23T23:45:53.801831-07:00",
+    "identifier": "id:16253:85ec18de-a9f3-400d-8d43-6b86915b6542",
+    "user": {
+      "username": "Bero06402022",
+      "id": 16253,
+      "first_name": "Berat",
+      "account": {
+        "name": "Bero06402022",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Maradona",
+    "participant": {
+      "user": {
+        "username": "internal_id:16253:85ec18de-a9f3-400d-8d43-6b86915b6542",
+        "id": 16262,
+        "first_name": "Maradona",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Maradona"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Maradona\n",
+    "description": "",
+    "definition": ""
+  }
+}

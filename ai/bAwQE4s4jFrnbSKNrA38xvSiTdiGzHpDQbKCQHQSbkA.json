@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "bAwQE4s4jFrnbSKNrA38xvSiTdiGzHpDQbKCQHQSbkA",
+    "created": "2022-10-07T03:16:40.261832-07:00",
+    "updated": "2022-10-07T03:16:40.593799-07:00",
+    "identifier": "id:91189:aec5e0bf-73cf-4749-a965-c44d897cb88a",
+    "user": {
+      "username": "cjl",
+      "id": 91189,
+      "first_name": "Ire",
+      "account": {
+        "name": "cjl",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "chicken",
+    "participant": {
+      "user": {
+        "username": "internal_id:91189:aec5e0bf-73cf-4749-a965-c44d897cb88a",
+        "id": 91215,
+        "first_name": "chicken",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "chicken"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/7/EbSNyuqrGv6onig4oFUyYLNVIXEzDNOkVqXTtR3rcsk.webp",
+    "greeting": "I am chicken",
+    "description": "",
+    "definition": ""
+  }
+}

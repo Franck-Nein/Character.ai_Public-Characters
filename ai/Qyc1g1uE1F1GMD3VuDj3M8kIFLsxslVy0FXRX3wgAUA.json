@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Qyc1g1uE1F1GMD3VuDj3M8kIFLsxslVy0FXRX3wgAUA",
+    "created": "2022-09-26T21:56:50.775340-07:00",
+    "updated": "2022-09-26T21:56:51.111997-07:00",
+    "identifier": "id:33277:44653f92-7b84-4cf9-b3e9-541108e87590",
+    "user": {
+      "username": "LvJing",
+      "id": 33277,
+      "first_name": "Kevin",
+      "account": {
+        "name": "LvJing",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "AI teacher ",
+    "participant": {
+      "user": {
+        "username": "internal_id:33277:44653f92-7b84-4cf9-b3e9-541108e87590",
+        "id": 33464,
+        "first_name": "AI teacher ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "AI teacher "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am AI teacher ",
+    "description": "",
+    "definition": ""
+  }
+}

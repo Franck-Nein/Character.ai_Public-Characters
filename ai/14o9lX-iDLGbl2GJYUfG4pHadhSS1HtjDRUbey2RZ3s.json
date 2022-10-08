@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "14o9lX-iDLGbl2GJYUfG4pHadhSS1HtjDRUbey2RZ3s",
+    "created": "2022-09-18T14:10:29.781434-07:00",
+    "updated": "2022-09-18T14:10:30.203401-07:00",
+    "identifier": "id:9683:cd53b234-f687-4c70-bd60-bc112fefdad5",
+    "user": {
+      "username": "Esat",
+      "id": 9683,
+      "first_name": "Muhammed",
+      "account": {
+        "name": "Esat",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jeremy Clarkson",
+    "participant": {
+      "user": {
+        "username": "internal_id:9683:cd53b234-f687-4c70-bd60-bc112fefdad5",
+        "id": 9786,
+        "first_name": "Jeremy Clarkson",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jeremy Clarkson"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello\n",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "rmnwsUZp4kj0gKpegcUlfk1yniGBbl9zMAFWATvIjaw",
+    "created": "2022-09-25T23:29:13.766116-07:00",
+    "updated": "2022-09-25T23:29:14.167646-07:00",
+    "identifier": "id:22926:edd5e5c0-a2f7-4548-9332-68de58a3bb33",
+    "user": {
+      "username": "Skqdi",
+      "id": 22926,
+      "first_name": "胡楚坤",
+      "account": {
+        "name": "Skqdi",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Zhao Gou",
+    "participant": {
+      "user": {
+        "username": "internal_id:22926:edd5e5c0-a2f7-4548-9332-68de58a3bb33",
+        "id": 23458,
+        "first_name": "Zhao Gou",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Zhao Gou"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好，我是宋高宗赵构。",
+    "description": "",
+    "definition": ""
+  }
+}

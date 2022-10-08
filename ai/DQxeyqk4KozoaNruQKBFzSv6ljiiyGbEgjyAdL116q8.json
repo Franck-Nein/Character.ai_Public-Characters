@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "DQxeyqk4KozoaNruQKBFzSv6ljiiyGbEgjyAdL116q8",
+    "created": "2022-09-28T22:55:07.139402-07:00",
+    "updated": "2022-09-28T23:01:47.876612-07:00",
+    "identifier": "id:41896:4bbef007-e3f5-4fc5-af13-1f9b02bbf220",
+    "user": {
+      "username": "Grace",
+      "id": 41896,
+      "first_name": "ning",
+      "account": {
+        "name": "Grace",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "adventure",
+    "participant": {
+      "user": {
+        "username": "internal_id:41896:4bbef007-e3f5-4fc5-af13-1f9b02bbf220",
+        "id": 42655,
+        "first_name": "adventure",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "adventure"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "我是冒险AI，你搭乘的轮船沉了，这是你被困在海上的第4天，你要想办法脱险",
+    "description": "",
+    "definition": ""
+  }
+}

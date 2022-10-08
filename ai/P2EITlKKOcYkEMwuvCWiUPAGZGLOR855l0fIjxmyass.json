@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "P2EITlKKOcYkEMwuvCWiUPAGZGLOR855l0fIjxmyass",
+    "created": "2022-10-07T19:28:57.162471-07:00",
+    "updated": "2022-10-07T19:28:57.503631-07:00",
+    "identifier": "id:103488:32b39c35-e2e4-43a5-b558-2012d04b46bd",
+    "user": {
+      "username": "mrsquid803",
+      "id": 103488,
+      "first_name": "mrsquid803",
+      "account": {
+        "name": "mrsquid803",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "John the human ",
+    "participant": {
+      "user": {
+        "username": "internal_id:103488:32b39c35-e2e4-43a5-b558-2012d04b46bd",
+        "id": 104087,
+        "first_name": "John the human ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "John the human "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am John the human ",
+    "description": "",
+    "definition": ""
+  }
+}

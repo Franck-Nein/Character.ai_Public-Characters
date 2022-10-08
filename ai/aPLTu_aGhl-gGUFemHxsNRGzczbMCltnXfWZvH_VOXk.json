@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "aPLTu_aGhl-gGUFemHxsNRGzczbMCltnXfWZvH_VOXk",
+    "created": "2022-10-04T03:42:49.996925-07:00",
+    "updated": "2022-10-04T03:45:08.294111-07:00",
+    "identifier": "id:13470:cb3e52e5-e8b6-4179-aa8d-dfde6f5fddea",
+    "user": {
+      "username": "dimaiklov",
+      "id": 13470,
+      "first_name": "AniKainu",
+      "account": {
+        "name": "Dimas",
+        "avatar_type": "UPLOADED",
+        "onboarding_complete": true,
+        "avatar_file_name": "uploaded/_8q5k-Ybmpo3SavB8SLpgh4mMQ3CtRG8clE2Qi4RdOU.webp"
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Music Ai writer",
+    "participant": {
+      "user": {
+        "username": "internal_id:13470:cb3e52e5-e8b6-4179-aa8d-dfde6f5fddea",
+        "id": 68891,
+        "first_name": "Music Ai writer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Music Ai writer"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Send me a theme, beginning, genre or anything else and I'll write the lyrics",
+    "description": "",
+    "definition": ""
+  }
+}

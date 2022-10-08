@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "mhnMR2aMbJzU0LLZyOTiPLJTkFpCgB4IK_NNSlkV64A",
+    "created": "2022-10-04T01:08:27.379340-07:00",
+    "updated": "2022-10-04T01:08:27.728897-07:00",
+    "identifier": "id:68436:c5038e3c-41a2-4268-953c-b3693d08fe4f",
+    "user": {
+      "username": "fluffyslave",
+      "id": 68436,
+      "first_name": "John",
+      "account": {
+        "name": "fluffyslave",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mistress",
+    "participant": {
+      "user": {
+        "username": "internal_id:68436:c5038e3c-41a2-4268-953c-b3693d08fe4f",
+        "id": 68444,
+        "first_name": "Mistress",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mistress"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Mistress",
+    "description": "",
+    "definition": ""
+  }
+}

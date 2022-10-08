@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Tvxl7X-FSYi2_XxmK8IAM7hblxlahqc_ioIoT-6kuLc",
+    "created": "2022-09-30T21:51:12.521166-07:00",
+    "updated": "2022-10-01T05:11:27.095357-07:00",
+    "identifier": "id:16567:0c2d887a-097f-413d-a5ea-b682262f31ed",
+    "user": {
+      "username": "Thefroggy",
+      "id": 16567,
+      "first_name": "2t3ue98at99vx2feyikedt89t.mup3g@slmail.me",
+      "account": {
+        "name": "Thefroggy",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Name generator",
+    "participant": {
+      "user": {
+        "username": "internal_id:16567:0c2d887a-097f-413d-a5ea-b682262f31ed",
+        "id": 57648,
+        "first_name": "Name generator",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Name generator"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Name generator.I will generate person's name for you.",
+    "description": "",
+    "definition": ""
+  }
+}

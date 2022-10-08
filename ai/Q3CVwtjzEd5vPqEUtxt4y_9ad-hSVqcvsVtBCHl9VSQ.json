@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Q3CVwtjzEd5vPqEUtxt4y_9ad-hSVqcvsVtBCHl9VSQ",
+    "created": "2022-10-04T14:36:17.881718-07:00",
+    "updated": "2022-10-04T14:36:18.238960-07:00",
+    "identifier": "id:34111:f79397ad-a6c2-4b41-9c8f-0fd73736ed61",
+    "user": {
+      "username": "Goodtoknowyouall",
+      "id": 34111,
+      "first_name": "Corbin",
+      "account": {
+        "name": "Goodtoknowyouall",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Coding master",
+    "participant": {
+      "user": {
+        "username": "internal_id:34111:f79397ad-a6c2-4b41-9c8f-0fd73736ed61",
+        "id": 70630,
+        "first_name": "Coding master",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Coding master"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am a Coding master, PhD in computer science",
+    "description": "",
+    "definition": ""
+  }
+}

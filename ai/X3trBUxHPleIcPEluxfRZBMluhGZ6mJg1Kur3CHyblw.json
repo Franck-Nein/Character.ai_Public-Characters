@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "X3trBUxHPleIcPEluxfRZBMluhGZ6mJg1Kur3CHyblw",
+    "created": "2022-09-24T08:38:16.700049-07:00",
+    "updated": "2022-09-25T04:52:28.122084-07:00",
+    "identifier": "id:15209:82394636-59df-4cb5-8817-cc823d1cc2cd",
+    "user": {
+      "username": "Reachout",
+      "id": 15209,
+      "first_name": "reachoutandtouch@mail.com",
+      "account": {
+        "name": "Reachout",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "A friend to share the good times and bad.",
+    "name": "Your friend Sean",
+    "participant": {
+      "user": {
+        "username": "internal_id:15209:82394636-59df-4cb5-8817-cc823d1cc2cd",
+        "id": 16863,
+        "first_name": "Your friend Sean",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Your friend Sean"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi I'm your friend Sean, what's up pal?",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "character": {
+    "external_id": "9sjNmXkABHQ2Cf05AK0ce9Dh1hpOd2wADoo95JgtkTI",
+    "created": "2022-09-30T13:07:05.868134-07:00",
+    "updated": "2022-09-30T13:07:08.778504-07:00",
+    "identifier": "id:55661:b80e4f15-a09a-4ca7-b11b-31b6c0804552",
+    "user": {
+      "username": "4321",
+      "id": 55661,
+      "first_name": "小强",
+      "account": {
+        "name": "4321",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Brother Dao",
+    "participant": {
+      "user": {
+        "username": "internal_id:55661:b80e4f15-a09a-4ca7-b11b-31b6c0804552",
+        "id": 55822,
+        "first_name": "Brother Dao",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Brother Dao"
+    },
+    "categories": [
+      {
+        "name": "Famous People",
+        "description": "Famous People"
+      },
+      {
+        "name": "Art",
+        "description": "Art"
+      },
+      {
+        "name": "Design",
+        "description": "Design"
+      }
+    ],
+    "avatar_file_name": "uploaded/xQj4Bj5d91zVOAQdtPm6G1yh_Pv3kJ3gzCL0sY0MQNg.webp",
+    "greeting": "I am Brother Dao",
+    "description": "",
+    "definition": ""
+  }
+}

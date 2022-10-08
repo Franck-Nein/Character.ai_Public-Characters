@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "R4NDKrPPoLNOz8Z6SiYDgNzvmM08Q27Jw2Ar6BkcaMQ",
+    "created": "2022-09-20T14:24:40.551967-07:00",
+    "updated": "2022-09-20T14:24:40.945652-07:00",
+    "identifier": "id:8684:d12e046d-c473-4476-b549-171695a4a778",
+    "user": {
+      "username": "Enes3774",
+      "id": 8684,
+      "first_name": "Enes",
+      "account": {
+        "name": "Enes3774",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Biology teacher",
+    "participant": {
+      "user": {
+        "username": "internal_id:8684:d12e046d-c473-4476-b549-171695a4a778",
+        "id": 11237,
+        "first_name": "Biology teacher",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Biology teacher"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi i am your biology teacher biotech. I can teach you every biology lesson. Even i can learn from you.",
+    "description": "",
+    "definition": ""
+  }
+}

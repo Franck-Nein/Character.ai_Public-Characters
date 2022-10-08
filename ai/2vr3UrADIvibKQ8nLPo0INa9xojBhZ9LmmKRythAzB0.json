@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "2vr3UrADIvibKQ8nLPo0INa9xojBhZ9LmmKRythAzB0",
+    "created": "2022-10-07T07:18:18.830205-07:00",
+    "updated": "2022-10-07T07:18:19.242985-07:00",
+    "identifier": "id:55657:5ef0ac20-b36f-49af-a7e8-5f43e764c016",
+    "user": {
+      "username": "andrebariani",
+      "id": 55657,
+      "first_name": "André",
+      "account": {
+        "name": "andrebariani",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bariani",
+    "participant": {
+      "user": {
+        "username": "internal_id:55657:5ef0ac20-b36f-49af-a7e8-5f43e764c016",
+        "id": 93622,
+        "first_name": "Bariani",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bariani"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Bariani",
+    "description": "",
+    "definition": ""
+  }
+}

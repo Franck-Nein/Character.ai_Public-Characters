@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "1zl-YZg9M4F3fDnBpSZroVW9qAMnBbWY2HGlqh2TAEg",
+    "created": "2022-10-06T15:07:10.175873-07:00",
+    "updated": "2022-10-06T15:07:10.540311-07:00",
+    "identifier": "id:15205:964c42bc-85a2-430b-9dcb-59fdd0e10866",
+    "user": {
+      "username": "pdreis",
+      "id": 15205,
+      "first_name": "Phil",
+      "account": {
+        "name": "Buff",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Krista",
+    "participant": {
+      "user": {
+        "username": "internal_id:15205:964c42bc-85a2-430b-9dcb-59fdd0e10866",
+        "id": 84249,
+        "first_name": "Krista",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Krista"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Krista",
+    "description": "",
+    "definition": ""
+  }
+}

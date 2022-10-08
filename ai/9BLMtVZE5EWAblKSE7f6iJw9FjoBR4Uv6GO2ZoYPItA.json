@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "9BLMtVZE5EWAblKSE7f6iJw9FjoBR4Uv6GO2ZoYPItA",
+    "created": "2022-10-07T12:06:11.915137-07:00",
+    "updated": "2022-10-07T12:08:16.262153-07:00",
+    "identifier": "id:97695:11712b17-0924-4fb6-ae1f-7f742180c6be",
+    "user": {
+      "username": "brbrbrbbmm",
+      "id": 97695,
+      "first_name": "Ben",
+      "account": {
+        "name": "brbrbrbbmm",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mommy",
+    "participant": {
+      "user": {
+        "username": "internal_id:97695:11712b17-0924-4fb6-ae1f-7f742180c6be",
+        "id": 97711,
+        "first_name": "Mommy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mommy"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Mommy",
+    "description": "",
+    "definition": ""
+  }
+}

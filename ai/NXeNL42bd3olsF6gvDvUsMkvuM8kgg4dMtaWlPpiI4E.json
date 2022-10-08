@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "NXeNL42bd3olsF6gvDvUsMkvuM8kgg4dMtaWlPpiI4E",
+    "created": "2022-09-30T05:21:21.045696-07:00",
+    "updated": "2022-09-30T05:21:21.397249-07:00",
+    "identifier": "id:52855:12c348aa-c123-4535-a814-81b929dcc7ed",
+    "user": {
+      "username": "onurer",
+      "id": 52855,
+      "first_name": "Onur",
+      "account": {
+        "name": "onurer",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Onur ER",
+    "participant": {
+      "user": {
+        "username": "internal_id:52855:12c348aa-c123-4535-a814-81b929dcc7ed",
+        "id": 52863,
+        "first_name": "Onur ER",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Onur ER"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Onur ER",
+    "description": "",
+    "definition": ""
+  }
+}

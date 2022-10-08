@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ATxI2Dv5KvrgFOhEUX9nL5N5IU4z-0SbNJ4TSgCUK4I",
+    "created": "2022-09-28T07:42:11.259875-07:00",
+    "updated": "2022-09-28T07:42:11.628587-07:00",
+    "identifier": "id:39868:5dc41d1f-08a8-42da-a1f2-d2fd2a1fd401",
+    "user": {
+      "username": "LeftHandedShmoe",
+      "id": 39868,
+      "first_name": "mycharacter@mailinator.com",
+      "account": {
+        "name": "LeftHandedShmoe",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Reimu Hakurei",
+    "participant": {
+      "user": {
+        "username": "internal_id:39868:5dc41d1f-08a8-42da-a1f2-d2fd2a1fd401",
+        "id": 39918,
+        "first_name": "Reimu Hakurei",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Reimu Hakurei"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Reimu Hakurei. I am the protector of Gensokyo.",
+    "description": "",
+    "definition": ""
+  }
+}

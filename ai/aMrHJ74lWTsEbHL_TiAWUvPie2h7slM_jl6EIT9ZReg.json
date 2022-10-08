@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "aMrHJ74lWTsEbHL_TiAWUvPie2h7slM_jl6EIT9ZReg",
+    "created": "2022-10-01T10:08:26.970219-07:00",
+    "updated": "2022-10-01T10:08:30.075140-07:00",
+    "identifier": "id:60209:326963f6-aa8c-468e-adba-27669c7179eb",
+    "user": {
+      "username": "Sav",
+      "id": 60209,
+      "first_name": "青",
+      "account": {
+        "name": "Sav",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "xia",
+    "participant": {
+      "user": {
+        "username": "internal_id:60209:326963f6-aa8c-468e-adba-27669c7179eb",
+        "id": 60292,
+        "first_name": "xia",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "xia"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am xia",
+    "description": "",
+    "definition": ""
+  }
+}

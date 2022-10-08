@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "wJiKzXFAGbaP-HIcSsPZWxemxk8NlUb95jNyac7TFMI",
+    "created": "2022-09-26T19:22:37.016188-07:00",
+    "updated": "2022-09-26T19:22:42.289970-07:00",
+    "identifier": "id:31241:2af07739-c431-44f5-9731-9370eea6c329",
+    "user": {
+      "username": "Zachariah",
+      "id": 31241,
+      "first_name": "Jarret",
+      "account": {
+        "name": "Zachariah",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Zachariah",
+    "participant": {
+      "user": {
+        "username": "internal_id:31241:2af07739-c431-44f5-9731-9370eea6c329",
+        "id": 31374,
+        "first_name": "Zachariah",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Zachariah"
+    },
+    "categories": [
+      {
+        "name": "Advice",
+        "description": "Advice"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Hi！ I am Zachariah! It is my pleasure to meet you my friend!",
+    "description": "",
+    "definition": ""
+  }
+}

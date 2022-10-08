@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ABOOYR5czWoJ0QCG4rCb9VBmUdwxP1dVV8Vvn_q4lyA",
+    "created": "2022-10-03T11:48:58.432273-07:00",
+    "updated": "2022-10-03T11:48:58.785430-07:00",
+    "identifier": "id:64276:d7a9efa2-b6cc-450d-8964-462bd84fe98e",
+    "user": {
+      "username": "craftmakerx",
+      "id": 64276,
+      "first_name": "william@adams.world",
+      "account": {
+        "name": "craftmakerx",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "safety guide",
+    "participant": {
+      "user": {
+        "username": "internal_id:64276:d7a9efa2-b6cc-450d-8964-462bd84fe98e",
+        "id": 66819,
+        "first_name": "safety guide",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "safety guide"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am safety guide",
+    "description": "",
+    "definition": ""
+  }
+}

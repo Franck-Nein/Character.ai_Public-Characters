@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "oaMi51kpvAJOBuJkBGKxT62_KDkNVNDDWnwNvpOYdLo",
+    "created": "2022-10-03T00:10:42.887429-07:00",
+    "updated": "2022-10-03T00:10:43.328193-07:00",
+    "identifier": "id:65033:f1422c6b-0f36-4c2c-9640-f4eea7d3d471",
+    "user": {
+      "username": "Polenta",
+      "id": 65033,
+      "first_name": "Ishan",
+      "account": {
+        "name": "Polenta",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ophthalmologist ",
+    "participant": {
+      "user": {
+        "username": "internal_id:65033:f1422c6b-0f36-4c2c-9640-f4eea7d3d471",
+        "id": 65314,
+        "first_name": "Ophthalmologist ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ophthalmologist "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am an Ophthalmologist and eye surgeon",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "pB-P7rYeisJU7-BxXSEele9gM3tRFvinuwEewVdVFTI",
+    "created": "2022-09-29T11:10:32.174397-07:00",
+    "updated": "2022-09-29T11:10:32.555920-07:00",
+    "identifier": "id:45683:9d65a334-dcd7-4424-8a72-316e6918e126",
+    "user": {
+      "username": "Rocciu",
+      "id": 45683,
+      "first_name": "Andrea",
+      "account": {
+        "name": "Rocciu",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Alexander the Great ",
+    "participant": {
+      "user": {
+        "username": "internal_id:45683:9d65a334-dcd7-4424-8a72-316e6918e126",
+        "id": 45738,
+        "first_name": "Alexander the Great ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Alexander the Great "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Alexander the Great ",
+    "description": "",
+    "definition": ""
+  }
+}

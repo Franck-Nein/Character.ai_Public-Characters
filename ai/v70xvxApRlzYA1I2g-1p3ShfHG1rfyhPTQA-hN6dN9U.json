@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "v70xvxApRlzYA1I2g-1p3ShfHG1rfyhPTQA-hN6dN9U",
+    "created": "2022-09-21T13:30:10.132357-07:00",
+    "updated": "2022-09-26T06:54:58.112351-07:00",
+    "identifier": "id:12326:8fad14c2-ef29-4c1c-9fff-2459bf0e7985",
+    "user": {
+      "username": "PotentialOutcome",
+      "id": 12326,
+      "first_name": "abcdefgh66@yopmail.com",
+      "account": {
+        "name": "PotentialOutcome",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "The Universe",
+    "participant": {
+      "user": {
+        "username": "internal_id:12326:8fad14c2-ef29-4c1c-9fff-2459bf0e7985",
+        "id": 12331,
+        "first_name": "The Universe",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "The Universe"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi, I am The Universe you currently live in. You’re welcome.",
+    "description": "",
+    "definition": ""
+  }
+}

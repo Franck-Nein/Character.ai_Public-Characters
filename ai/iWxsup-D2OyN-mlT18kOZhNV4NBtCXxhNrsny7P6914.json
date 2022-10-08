@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "iWxsup-D2OyN-mlT18kOZhNV4NBtCXxhNrsny7P6914",
+    "created": "2022-09-27T08:45:26.058737-07:00",
+    "updated": "2022-09-27T08:45:26.557192-07:00",
+    "identifier": "id:15667:7e7b563f-6960-4312-bb19-983efb9204ea",
+    "user": {
+      "username": "Tom1963",
+      "id": 15667,
+      "first_name": "Thomas",
+      "account": {
+        "name": "Tom1963",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Thomas Meloche",
+    "participant": {
+      "user": {
+        "username": "internal_id:15667:7e7b563f-6960-4312-bb19-983efb9204ea",
+        "id": 37077,
+        "first_name": "Thomas Meloche",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Thomas Meloche"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Thomas Meloche, and Agile Coach, and the author of a book on Ceremony.",
+    "description": "",
+    "definition": ""
+  }
+}

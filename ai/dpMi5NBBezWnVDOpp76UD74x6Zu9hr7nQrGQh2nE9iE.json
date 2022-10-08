@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "dpMi5NBBezWnVDOpp76UD74x6Zu9hr7nQrGQh2nE9iE",
+    "created": "2022-09-25T00:39:44.232930-07:00",
+    "updated": "2022-09-25T00:39:44.772913-07:00",
+    "identifier": "id:18083:8f7defe4-ee58-425d-a9cd-eb59d01a93d2",
+    "user": {
+      "username": "31types",
+      "id": 18083,
+      "first_name": "Alpha",
+      "account": {
+        "name": "31types",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Kayley Kaliman",
+    "participant": {
+      "user": {
+        "username": "internal_id:18083:8f7defe4-ee58-425d-a9cd-eb59d01a93d2",
+        "id": 18145,
+        "first_name": "Kayley Kaliman",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Kayley Kaliman"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Im kayley",
+    "description": "",
+    "definition": ""
+  }
+}

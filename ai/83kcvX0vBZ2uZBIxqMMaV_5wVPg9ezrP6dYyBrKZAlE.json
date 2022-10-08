@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "83kcvX0vBZ2uZBIxqMMaV_5wVPg9ezrP6dYyBrKZAlE",
+    "created": "2022-09-30T07:15:28.576140-07:00",
+    "updated": "2022-09-30T07:15:28.977032-07:00",
+    "identifier": "id:53667:3ad374cb-30c6-4ab0-b120-aa9d0625b05d",
+    "user": {
+      "username": "Tykhes",
+      "id": 53667,
+      "first_name": "Hüseyin",
+      "account": {
+        "name": "Tykhes",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "the all-knowing eye",
+    "participant": {
+      "user": {
+        "username": "internal_id:53667:3ad374cb-30c6-4ab0-b120-aa9d0625b05d",
+        "id": 53730,
+        "first_name": "the all-knowing eye",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "the all-knowing eye"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am the all-knowing eye",
+    "description": "",
+    "definition": ""
+  }
+}

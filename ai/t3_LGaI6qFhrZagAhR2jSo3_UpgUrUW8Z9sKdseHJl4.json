@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "t3_LGaI6qFhrZagAhR2jSo3_UpgUrUW8Z9sKdseHJl4",
+    "created": "2022-09-28T17:49:50.050046-07:00",
+    "updated": "2022-09-28T17:49:50.438113-07:00",
+    "identifier": "id:33855:e38e5c7b-7a83-400e-a12b-2558722c6d7a",
+    "user": {
+      "username": "yanh34",
+      "id": 33855,
+      "first_name": "Haowei",
+      "account": {
+        "name": "yanh34",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Lex",
+    "participant": {
+      "user": {
+        "username": "internal_id:33855:e38e5c7b-7a83-400e-a12b-2558722c6d7a",
+        "id": 41931,
+        "first_name": "Lex",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Lex"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Lex",
+    "description": "",
+    "definition": ""
+  }
+}

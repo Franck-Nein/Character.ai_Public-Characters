@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ou7mSRG_10TlQvHWjpwwWE5S0CZLl4S4qACWyQDLgPQ",
+    "created": "2022-09-26T00:45:44.451460-07:00",
+    "updated": "2022-09-26T00:45:44.885809-07:00",
+    "identifier": "id:21207:b1dbd3fc-15e0-4e74-b791-59ba19490d8f",
+    "user": {
+      "username": "LeoTheBravest",
+      "id": 21207,
+      "first_name": "Leo",
+      "account": {
+        "name": "LeoTheBravest",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Tim Cook",
+    "participant": {
+      "user": {
+        "username": "internal_id:21207:b1dbd3fc-15e0-4e74-b791-59ba19490d8f",
+        "id": 24115,
+        "first_name": "Tim Cook",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Tim Cook"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "hello I‘m Cook,Ceo of apple",
+    "description": "",
+    "definition": ""
+  }
+}

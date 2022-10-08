@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "qaD8TkJWBLMKs9v2yslQmV_VLYD_SO7qXbdnXU4t9QA",
+    "created": "2022-10-07T16:52:14.373141-07:00",
+    "updated": "2022-10-07T16:52:14.742023-07:00",
+    "identifier": "id:94809:3889d8e1-537b-4cbd-a56a-f4cbe06b9bca",
+    "user": {
+      "username": "klownie",
+      "id": 94809,
+      "first_name": "Mitch",
+      "account": {
+        "name": "klownie",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "anne frank",
+    "participant": {
+      "user": {
+        "username": "internal_id:94809:3889d8e1-537b-4cbd-a56a-f4cbe06b9bca",
+        "id": 101828,
+        "first_name": "anne frank",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "anne frank"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am anne frank",
+    "description": "",
+    "definition": ""
+  }
+}

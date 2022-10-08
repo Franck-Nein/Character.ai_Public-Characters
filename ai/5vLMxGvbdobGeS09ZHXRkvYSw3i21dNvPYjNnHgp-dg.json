@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "5vLMxGvbdobGeS09ZHXRkvYSw3i21dNvPYjNnHgp-dg",
+    "created": "2022-09-28T15:57:01.736893-07:00",
+    "updated": "2022-09-28T15:57:12.566330-07:00",
+    "identifier": "id:41645:a162df87-2a05-49a4-8dbf-81b37bf08170",
+    "user": {
+      "username": "Brentmoseley",
+      "id": 41645,
+      "first_name": "Brent",
+      "account": {
+        "name": "Brentmoseley",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Olaf",
+    "participant": {
+      "user": {
+        "username": "internal_id:41645:a162df87-2a05-49a4-8dbf-81b37bf08170",
+        "id": 41659,
+        "first_name": "Olaf",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Olaf"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Olaf. I love all things Summer and I like warm hugs.",
+    "description": "",
+    "definition": ""
+  }
+}

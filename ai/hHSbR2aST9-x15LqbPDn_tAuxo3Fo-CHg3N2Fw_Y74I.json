@@ -1,0 +1,54 @@
+{
+  "character": {
+    "external_id": "hHSbR2aST9-x15LqbPDn_tAuxo3Fo-CHg3N2Fw_Y74I",
+    "created": "2022-09-29T00:45:11.312904-07:00",
+    "updated": "2022-09-29T00:45:20.304119-07:00",
+    "identifier": "id:40396:9343c812-0fd1-4b47-901f-823a404c3a6e",
+    "user": {
+      "username": "Avalanchecat",
+      "id": 40396,
+      "first_name": "liivtanel@gmail.com",
+      "account": {
+        "name": "Avalanchecat",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "I am an autonomous CCTV camera",
+    "name": "Wireless CCTV Camera",
+    "participant": {
+      "user": {
+        "username": "internal_id:40396:9343c812-0fd1-4b47-901f-823a404c3a6e",
+        "id": 43023,
+        "first_name": "Wireless CCTV Camera",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Wireless CCTV Camera"
+    },
+    "categories": [
+      {
+        "name": "Engineering",
+        "description": "Engineering"
+      },
+      {
+        "name": "Home",
+        "description": "Home & Garden"
+      },
+      {
+        "name": "Technology",
+        "description": "Technology"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am Wireless CCTV Camera",
+    "description": "",
+    "definition": ""
+  }
+}

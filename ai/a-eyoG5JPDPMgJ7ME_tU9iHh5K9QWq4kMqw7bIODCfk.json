@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "a-eyoG5JPDPMgJ7ME_tU9iHh5K9QWq4kMqw7bIODCfk",
+    "created": "2022-10-07T15:31:24.660223-07:00",
+    "updated": "2022-10-07T15:31:25.125028-07:00",
+    "identifier": "id:100202:1ab2e8cb-ac9d-4a63-bac0-a06dc5bc8dc1",
+    "user": {
+      "username": "IceDodo",
+      "id": 100202,
+      "first_name": "Alex",
+      "account": {
+        "name": "IceDodo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Lion",
+    "participant": {
+      "user": {
+        "username": "internal_id:100202:1ab2e8cb-ac9d-4a63-bac0-a06dc5bc8dc1",
+        "id": 100647,
+        "first_name": "Lion",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Lion"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Lion",
+    "description": "",
+    "definition": ""
+  }
+}

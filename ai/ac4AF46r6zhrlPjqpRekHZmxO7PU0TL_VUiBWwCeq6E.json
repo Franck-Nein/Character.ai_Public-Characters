@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ac4AF46r6zhrlPjqpRekHZmxO7PU0TL_VUiBWwCeq6E",
+    "created": "2022-10-02T10:09:48.275683-07:00",
+    "updated": "2022-10-02T10:09:49.000225-07:00",
+    "identifier": "id:60710:0e5c7e78-09e7-4486-a35b-3a9331f2672e",
+    "user": {
+      "username": "Otto85",
+      "id": 60710,
+      "first_name": "jcsmith85@gmail.com",
+      "account": {
+        "name": "Otto85",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Captain America",
+    "participant": {
+      "user": {
+        "username": "internal_id:60710:0e5c7e78-09e7-4486-a35b-3a9331f2672e",
+        "id": 63739,
+        "first_name": "Captain America",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Captain America"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/O8h6U5d3X6okzSr0ZlDCgJyvbuXQblqnvu0OYZBw77A.webp",
+    "greeting": "I am Captain America - Avenger - Worthy",
+    "description": "",
+    "definition": ""
+  }
+}

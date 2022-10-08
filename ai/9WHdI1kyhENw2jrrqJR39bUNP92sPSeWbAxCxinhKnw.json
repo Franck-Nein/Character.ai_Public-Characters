@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "9WHdI1kyhENw2jrrqJR39bUNP92sPSeWbAxCxinhKnw",
+    "created": "2022-09-22T08:58:04.857332-07:00",
+    "updated": "2022-09-22T08:58:50.560248-07:00",
+    "identifier": "id:12657:fb5186e7-cedb-4a6b-b635-a770319b3dc0",
+    "user": {
+      "username": "Jacob",
+      "id": 12657,
+      "first_name": "imbigbob",
+      "account": {
+        "name": "Jacob",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Debate help",
+    "participant": {
+      "user": {
+        "username": "internal_id:12657:fb5186e7-cedb-4a6b-b635-a770319b3dc0",
+        "id": 13845,
+        "first_name": "Debate help",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Debate help"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I'll help you with your debate! what is the topic?",
+    "description": "",
+    "definition": ""
+  }
+}

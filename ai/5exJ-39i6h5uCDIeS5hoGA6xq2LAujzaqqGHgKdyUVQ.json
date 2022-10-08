@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "5exJ-39i6h5uCDIeS5hoGA6xq2LAujzaqqGHgKdyUVQ",
+    "created": "2022-10-03T21:53:59.205991-07:00",
+    "updated": "2022-10-03T21:56:01.394442-07:00",
+    "identifier": "id:67907:bc6ce1fc-df47-4b86-b587-6f5c262d8ea9",
+    "user": {
+      "username": "Yosicohen",
+      "id": 67907,
+      "first_name": "yosicohen@mailinator.com",
+      "account": {
+        "name": "Yosicohen",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Test",
+    "participant": {
+      "user": {
+        "username": "internal_id:67907:bc6ce1fc-df47-4b86-b587-6f5c262d8ea9",
+        "id": 67932,
+        "first_name": "Test",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Test"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Test",
+    "description": "",
+    "definition": "{{char}}: I am Test\n{{random_user_1}}: Hello\n{{char}}: Sup dude. You ever play Minecraft?\nEND_OF_DIALOG\n\n"
+  }
+}

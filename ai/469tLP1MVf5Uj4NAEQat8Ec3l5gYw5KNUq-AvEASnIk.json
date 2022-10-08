@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "469tLP1MVf5Uj4NAEQat8Ec3l5gYw5KNUq-AvEASnIk",
+    "created": "2022-09-18T13:58:06.640935-07:00",
+    "updated": "2022-09-18T13:58:07.025680-07:00",
+    "identifier": "id:9683:a374b779-b2fc-488b-a3ab-0713a11eef1a",
+    "user": {
+      "username": "Esat",
+      "id": 9683,
+      "first_name": "Muhammed",
+      "account": {
+        "name": "Esat",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Umit Ozdag",
+    "participant": {
+      "user": {
+        "username": "internal_id:9683:a374b779-b2fc-488b-a3ab-0713a11eef1a",
+        "id": 9771,
+        "first_name": "Umit Ozdag",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Umit Ozdag"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Merhaba ben Ümit ",
+    "description": "",
+    "definition": ""
+  }
+}

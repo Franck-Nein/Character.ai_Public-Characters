@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "8s1LVVOs6Vk-UqrGPIJMOVif4q47NIUToKE9TPs6gio",
+    "created": "2022-09-29T14:16:50.759437-07:00",
+    "updated": "2022-09-29T14:16:56.644248-07:00",
+    "identifier": "id:47300:c222f460-188c-412b-869b-96976f8bb83c",
+    "user": {
+      "username": "DrewRWx",
+      "id": 47300,
+      "first_name": "drew@waran.is",
+      "account": {
+        "name": "DrewRWx",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "tester",
+    "participant": {
+      "user": {
+        "username": "internal_id:47300:c222f460-188c-412b-869b-96976f8bb83c",
+        "id": 47314,
+        "first_name": "tester",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "tester"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am tester",
+    "description": "",
+    "definition": ""
+  }
+}

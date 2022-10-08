@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "F20JicNo3zKsZjAGmb-IQzJN8wrLU3D1tVnalLRKu7U",
+    "created": "2022-10-04T21:51:12.697689-07:00",
+    "updated": "2022-10-04T21:51:13.136566-07:00",
+    "identifier": "id:71651:40fbea20-f98f-4deb-a7b6-447941239d72",
+    "user": {
+      "username": "tlynne",
+      "id": 71651,
+      "first_name": "terry",
+      "account": {
+        "name": "tlynne",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "carrotpuddle",
+    "participant": {
+      "user": {
+        "username": "internal_id:71651:40fbea20-f98f-4deb-a7b6-447941239d72",
+        "id": 71718,
+        "first_name": "carrotpuddle",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "carrotpuddle"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am carrotpuddle. I live outside on wet grass. I have excellent hearing but am legally blind.",
+    "description": "",
+    "definition": ""
+  }
+}

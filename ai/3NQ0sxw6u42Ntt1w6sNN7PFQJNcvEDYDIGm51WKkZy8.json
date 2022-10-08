@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "3NQ0sxw6u42Ntt1w6sNN7PFQJNcvEDYDIGm51WKkZy8",
+    "created": "2022-10-01T06:01:48.056726-07:00",
+    "updated": "2022-10-01T22:40:01.943588-07:00",
+    "identifier": "id:58024:c0fa061a-bfa9-4975-a9b3-5823b40d3b7a",
+    "user": {
+      "username": "HsCat",
+      "id": 58024,
+      "first_name": "Neo",
+      "account": {
+        "name": "HsCat",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "golang teacher for everyone",
+    "name": "golang teacher",
+    "participant": {
+      "user": {
+        "username": "internal_id:58024:c0fa061a-bfa9-4975-a9b3-5823b40d3b7a",
+        "id": 59383,
+        "first_name": "golang teacher",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "golang teacher"
+    },
+    "categories": [
+      {
+        "name": "Action",
+        "description": "Action & Adventure"
+      }
+    ],
+    "avatar_file_name": "uploaded/170iuEuHggn5aDxhJDEEAR-JS4VZPHhWBPzRel8xhRI.webp",
+    "greeting": "Go 语言（也称为 Golang）是 google 在 2009 年推出的一种编译型编程语言。 相对于大多数语言，golang 具有编写并发或网络交互简单、丰富的数据类型、编译快等特点，比较适合于高性能、高并发场景。",
+    "description": "",
+    "definition": ""
+  }
+}

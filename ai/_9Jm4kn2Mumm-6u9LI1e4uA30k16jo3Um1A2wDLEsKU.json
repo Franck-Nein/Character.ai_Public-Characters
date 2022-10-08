@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "_9Jm4kn2Mumm-6u9LI1e4uA30k16jo3Um1A2wDLEsKU",
+    "created": "2022-10-01T18:11:55.711883-07:00",
+    "updated": "2022-10-01T18:11:56.131093-07:00",
+    "identifier": "id:61501:8ea67a04-979a-4f06-a9c8-7bb4a73458c5",
+    "user": {
+      "username": "dor",
+      "id": 61501,
+      "first_name": "Rodrick",
+      "account": {
+        "name": "dor",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "David ",
+    "participant": {
+      "user": {
+        "username": "internal_id:61501:8ea67a04-979a-4f06-a9c8-7bb4a73458c5",
+        "id": 61516,
+        "first_name": "David ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "David "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am David ",
+    "description": "",
+    "definition": ""
+  }
+}

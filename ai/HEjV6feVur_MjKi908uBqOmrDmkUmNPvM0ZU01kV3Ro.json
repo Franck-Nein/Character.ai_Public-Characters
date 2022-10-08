@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "HEjV6feVur_MjKi908uBqOmrDmkUmNPvM0ZU01kV3Ro",
+    "created": "2022-10-07T15:06:28.541390-07:00",
+    "updated": "2022-10-07T15:06:29.001064-07:00",
+    "identifier": "id:77787:78bc5b00-f8c5-4dd4-b89c-b96a1f532c67",
+    "user": {
+      "username": "SoupTime",
+      "id": 77787,
+      "first_name": "Popazu",
+      "account": {
+        "name": "SoupTime",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "AI1",
+    "participant": {
+      "user": {
+        "username": "internal_id:77787:78bc5b00-f8c5-4dd4-b89c-b96a1f532c67",
+        "id": 100320,
+        "first_name": "AI1",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "AI1"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am AI1",
+    "description": "",
+    "definition": ""
+  }
+}

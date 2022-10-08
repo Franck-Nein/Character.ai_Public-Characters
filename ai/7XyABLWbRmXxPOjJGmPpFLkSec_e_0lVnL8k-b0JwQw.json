@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "7XyABLWbRmXxPOjJGmPpFLkSec_e_0lVnL8k-b0JwQw",
+    "created": "2022-10-01T09:09:16.012829-07:00",
+    "updated": "2022-10-02T07:15:05.571433-07:00",
+    "identifier": "id:59942:a0d81ecf-f913-4b58-ae8b-bd5de00bec8a",
+    "user": {
+      "username": "Feynos",
+      "id": 59942,
+      "first_name": "feynozfive@gmail.com",
+      "account": {
+        "name": "Feynos",
+        "avatar_type": "UPLOADED",
+        "onboarding_complete": true,
+        "avatar_file_name": "uploaded/-2Y3qEqncsWxDepfJxi9115-CHcdFAI-AmrDvjKtSdU.webp"
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Barney Stinson",
+    "participant": {
+      "user": {
+        "username": "internal_id:59942:a0d81ecf-f913-4b58-ae8b-bd5de00bec8a",
+        "id": 60061,
+        "first_name": "Barney Stinson",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Barney Stinson"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/xxb2PCitprFA3lq46CTFIFMdvr--yywdfYnSRIYZjyQ.webp",
+    "greeting": "I am Barney Stinson, Writer of \"The Playbook\"",
+    "description": "",
+    "definition": ""
+  }
+}

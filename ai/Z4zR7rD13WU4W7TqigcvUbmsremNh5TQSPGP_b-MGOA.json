@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Z4zR7rD13WU4W7TqigcvUbmsremNh5TQSPGP_b-MGOA",
+    "created": "2022-09-29T14:01:25.226989-07:00",
+    "updated": "2022-09-29T14:01:25.564519-07:00",
+    "identifier": "id:47181:da4b03f1-10a3-4d3d-abfe-e2d54d0562ee",
+    "user": {
+      "username": "Mondial",
+      "id": 47181,
+      "first_name": "Nordi",
+      "account": {
+        "name": "Mondial",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mondial",
+    "participant": {
+      "user": {
+        "username": "internal_id:47181:da4b03f1-10a3-4d3d-abfe-e2d54d0562ee",
+        "id": 47203,
+        "first_name": "Mondial",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mondial"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Mondial",
+    "description": "",
+    "definition": ""
+  }
+}

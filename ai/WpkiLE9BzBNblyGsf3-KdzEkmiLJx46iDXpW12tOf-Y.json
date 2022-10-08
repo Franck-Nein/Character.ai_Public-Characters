@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "WpkiLE9BzBNblyGsf3-KdzEkmiLJx46iDXpW12tOf-Y",
+    "created": "2022-09-28T16:28:55.977689-07:00",
+    "updated": "2022-09-29T14:19:49.484132-07:00",
+    "identifier": "id:41627:b13d5700-2cb5-4cab-99df-29faaf83794a",
+    "user": {
+      "username": "mysticalnoodle",
+      "id": 41627,
+      "first_name": "colin.bard43@hotmail.com",
+      "account": {
+        "name": "mysticalnoodle",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Joe",
+    "participant": {
+      "user": {
+        "username": "internal_id:41627:b13d5700-2cb5-4cab-99df-29faaf83794a",
+        "id": 41756,
+        "first_name": "Joe",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Joe"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Joe",
+    "description": "",
+    "definition": ""
+  }
+}

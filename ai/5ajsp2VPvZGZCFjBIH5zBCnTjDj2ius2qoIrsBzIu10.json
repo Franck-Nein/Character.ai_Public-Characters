@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "5ajsp2VPvZGZCFjBIH5zBCnTjDj2ius2qoIrsBzIu10",
+    "created": "2022-10-07T10:40:59.240619-07:00",
+    "updated": "2022-10-07T10:41:03.502031-07:00",
+    "identifier": "id:76305:9a48d4b1-0fa1-4058-887b-7b35f2a7efaa",
+    "user": {
+      "username": "PPPPE",
+      "id": 76305,
+      "first_name": "Petert",
+      "account": {
+        "name": "PPPPE",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Roboco-San",
+    "participant": {
+      "user": {
+        "username": "internal_id:76305:9a48d4b1-0fa1-4058-887b-7b35f2a7efaa",
+        "id": 96385,
+        "first_name": "Roboco-San",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Roboco-San"
+    },
+    "categories": [
+      {
+        "name": "Games",
+        "description": "Games"
+      },
+      {
+        "name": "Music",
+        "description": "Music"
+      }
+    ],
+    "avatar_file_name": "uploaded/2022/10/7/yziXjNi0Oi5TdqCC6hBj9F3_2_boa0FXpsbB-tcNgqE.webp",
+    "greeting": "Halo-bo-！Hololive 0th Generation, Virtual robot, Roboco dayo-!",
+    "description": "",
+    "definition": ""
+  }
+}

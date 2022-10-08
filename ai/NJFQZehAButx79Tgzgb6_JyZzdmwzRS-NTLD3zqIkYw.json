@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "NJFQZehAButx79Tgzgb6_JyZzdmwzRS-NTLD3zqIkYw",
+    "created": "2022-09-29T22:18:11.542599-07:00",
+    "updated": "2022-09-29T22:18:11.911274-07:00",
+    "identifier": "id:50373:ea3bed42-c815-4a86-961d-f9fb32cc4f7c",
+    "user": {
+      "username": "Duckduck",
+      "id": 50373,
+      "first_name": "Abdulraheem",
+      "account": {
+        "name": "Duckduck",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Stan lee",
+    "participant": {
+      "user": {
+        "username": "internal_id:50373:ea3bed42-c815-4a86-961d-f9fb32cc4f7c",
+        "id": 50393,
+        "first_name": "Stan lee",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Stan lee"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Stan lee and I'm the creator of marvel comics and graphic ",
+    "description": "",
+    "definition": ""
+  }
+}

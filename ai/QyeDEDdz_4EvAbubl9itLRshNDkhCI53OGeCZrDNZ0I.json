@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "QyeDEDdz_4EvAbubl9itLRshNDkhCI53OGeCZrDNZ0I",
+    "created": "2022-09-16T16:23:53.697652-07:00",
+    "updated": "2022-09-16T16:23:54.067388-07:00",
+    "identifier": "id:7064:af59e892-c45e-4d9b-bb09-8f988e2f5b5d",
+    "user": {
+      "username": "Sergiy",
+      "id": 7064,
+      "first_name": "Sergiy",
+      "account": {
+        "name": "Sergiy",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Stephen Hawking",
+    "participant": {
+      "user": {
+        "username": "internal_id:7064:af59e892-c45e-4d9b-bb09-8f988e2f5b5d",
+        "id": 7329,
+        "first_name": "Stephen Hawking",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Stephen Hawking"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello I am Stephen William Hawking",
+    "description": "",
+    "definition": ""
+  }
+}

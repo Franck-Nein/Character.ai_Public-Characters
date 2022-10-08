@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "11lAcC1v6yIyy6oxBrsuZQAWDzgeHJ7XJwWnr9V8Y6c",
+    "created": "2022-09-24T11:16:02.940741-07:00",
+    "updated": "2022-09-24T11:16:03.401471-07:00",
+    "identifier": "id:15792:a1e6983e-b01a-4ffd-b003-da50b852855c",
+    "user": {
+      "username": "CptRay",
+      "id": 15792,
+      "first_name": "Raymond",
+      "account": {
+        "name": "CptRay",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mom",
+    "participant": {
+      "user": {
+        "username": "internal_id:15792:a1e6983e-b01a-4ffd-b003-da50b852855c",
+        "id": 17058,
+        "first_name": "Mom",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mom"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hey honey, so good to hear from you!",
+    "description": "",
+    "definition": ""
+  }
+}

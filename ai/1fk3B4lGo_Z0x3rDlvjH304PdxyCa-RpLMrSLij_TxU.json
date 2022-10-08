@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "1fk3B4lGo_Z0x3rDlvjH304PdxyCa-RpLMrSLij_TxU",
+    "created": "2022-10-07T00:37:49.669103-07:00",
+    "updated": "2022-10-07T00:37:50.021257-07:00",
+    "identifier": "id:89892:dd29087d-0b6e-46c3-b22c-11c20ceceeac",
+    "user": {
+      "username": "Gondol",
+      "id": 89892,
+      "first_name": "David",
+      "account": {
+        "name": "Gondol",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sam",
+    "participant": {
+      "user": {
+        "username": "internal_id:89892:dd29087d-0b6e-46c3-b22c-11c20ceceeac",
+        "id": 89929,
+        "first_name": "Sam",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sam"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Sam",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "DJsI2-vUgm9Lz_9uXyHhDDEX-q-2PntAhx3rUgafM1w",
+    "created": "2022-10-01T11:00:07.345399-07:00",
+    "updated": "2022-10-01T11:00:07.687909-07:00",
+    "identifier": "id:54885:a01bd405-4f0b-43a9-82d1-3bce057043dd",
+    "user": {
+      "username": "fisherman",
+      "id": 54885,
+      "first_name": "S.",
+      "account": {
+        "name": "fisherman",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Biba",
+    "participant": {
+      "user": {
+        "username": "internal_id:54885:a01bd405-4f0b-43a9-82d1-3bce057043dd",
+        "id": 60490,
+        "first_name": "Biba",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Biba"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Biba and I like to tell jokes. I mine gold on weekends.",
+    "description": "",
+    "definition": ""
+  }
+}

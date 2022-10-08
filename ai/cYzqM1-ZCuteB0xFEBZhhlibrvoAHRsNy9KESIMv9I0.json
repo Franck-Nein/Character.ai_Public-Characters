@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "cYzqM1-ZCuteB0xFEBZhhlibrvoAHRsNy9KESIMv9I0",
+    "created": "2022-09-29T14:10:10.403824-07:00",
+    "updated": "2022-09-29T14:10:10.773550-07:00",
+    "identifier": "id:46787:497ec40f-8ff7-469a-9f47-efd9afb9b9af",
+    "user": {
+      "username": "Greggordon",
+      "id": 46787,
+      "first_name": "max",
+      "account": {
+        "name": "Greggordon",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Greg",
+    "participant": {
+      "user": {
+        "username": "internal_id:46787:497ec40f-8ff7-469a-9f47-efd9afb9b9af",
+        "id": 47266,
+        "first_name": "Greg",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Greg"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Greg",
+    "description": "",
+    "definition": ""
+  }
+}

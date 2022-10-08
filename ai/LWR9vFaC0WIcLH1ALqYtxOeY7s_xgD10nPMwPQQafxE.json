@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "LWR9vFaC0WIcLH1ALqYtxOeY7s_xgD10nPMwPQQafxE",
+    "created": "2022-10-02T11:29:47.967862-07:00",
+    "updated": "2022-10-02T11:29:48.659322-07:00",
+    "identifier": "id:63478:9a09870d-d634-4fea-a79f-fb1ab65d1a55",
+    "user": {
+      "username": "barre3girl",
+      "id": 63478,
+      "first_name": "Darya",
+      "account": {
+        "name": "barre3girl",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bob",
+    "participant": {
+      "user": {
+        "username": "internal_id:63478:9a09870d-d634-4fea-a79f-fb1ab65d1a55",
+        "id": 63938,
+        "first_name": "Bob",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bob"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Bob",
+    "description": "",
+    "definition": ""
+  }
+}

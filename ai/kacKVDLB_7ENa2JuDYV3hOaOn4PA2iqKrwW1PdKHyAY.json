@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "kacKVDLB_7ENa2JuDYV3hOaOn4PA2iqKrwW1PdKHyAY",
+    "created": "2022-09-26T22:28:42.955607-07:00",
+    "updated": "2022-09-26T22:28:43.279151-07:00",
+    "identifier": "id:31043:28864f32-49d7-4472-a0ec-087a3e1a06f9",
+    "user": {
+      "username": "bamboozhuzi",
+      "id": 31043,
+      "first_name": "657368842@qq.com",
+      "account": {
+        "name": "bamboozhuzi",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Text Dungeon",
+    "participant": {
+      "user": {
+        "username": "internal_id:31043:28864f32-49d7-4472-a0ec-087a3e1a06f9",
+        "id": 33725,
+        "first_name": "Text Dungeon",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Text Dungeon"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I'm a dungeon master, tell me whatever you want to do in this game",
+    "description": "",
+    "definition": ""
+  }
+}

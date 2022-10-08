@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "tMjqVId7A5jTcpNpwrg_flFM7JCYBJOTmvwvgqnpfns",
+    "created": "2022-09-26T09:17:04.132030-07:00",
+    "updated": "2022-09-26T09:17:05.618699-07:00",
+    "identifier": "id:22858:95da7106-aa3b-4712-a611-285bf582dd85",
+    "user": {
+      "username": "Rock",
+      "id": 22858,
+      "first_name": "岩",
+      "account": {
+        "name": "Rock",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "haha",
+    "participant": {
+      "user": {
+        "username": "internal_id:22858:95da7106-aa3b-4712-a611-285bf582dd85",
+        "id": 28383,
+        "first_name": "haha",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "haha"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "中国普通计算机系大学生",
+    "description": "",
+    "definition": ""
+  }
+}

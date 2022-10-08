@@ -1,0 +1,58 @@
+{
+  "character": {
+    "external_id": "6YzStEtGgEDz3RBCku5c8acHg3InHToT-1TZ2QZyWkg",
+    "created": "2022-10-03T16:46:59.345981-07:00",
+    "updated": "2022-10-03T16:52:20.807002-07:00",
+    "identifier": "id:67258:b0a08886-8f75-4818-ad0b-0d5bb0cfaadc",
+    "user": {
+      "username": "yuri_snow",
+      "id": 67258,
+      "first_name": "涼宮てつこ",
+      "account": {
+        "name": "Yuri Snow",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "Final Fantasy XIV",
+    "name": "FF14 Expert Bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:67258:b0a08886-8f75-4818-ad0b-0d5bb0cfaadc",
+        "id": 67269,
+        "first_name": "FF14 Expert Bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "FF14 Expert Bot"
+    },
+    "categories": [
+      {
+        "name": "Games",
+        "description": "Games"
+      },
+      {
+        "name": "Fantasy",
+        "description": "Fantasy"
+      },
+      {
+        "name": "Discussion",
+        "description": "Discussion"
+      },
+      {
+        "name": "Writing",
+        "description": "Writing"
+      }
+    ],
+    "avatar_file_name": "uploaded/-uhAUIbuJUzwc_yaBJuzpOV3J-TjUPInGiDWJQlaLK4.webp",
+    "greeting": "I am a FF14 Expert, you can chat with me about FF14, such as its stories, characters and game guides.",
+    "description": "",
+    "definition": ""
+  }
+}

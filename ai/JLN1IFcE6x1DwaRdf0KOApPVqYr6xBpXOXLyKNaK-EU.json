@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "JLN1IFcE6x1DwaRdf0KOApPVqYr6xBpXOXLyKNaK-EU",
+    "created": "2022-09-28T20:29:42.463327-07:00",
+    "updated": "2022-09-28T20:29:42.809286-07:00",
+    "identifier": "id:42173:482779c8-96fe-4d69-b084-7539c250a62d",
+    "user": {
+      "username": "dixski",
+      "id": 42173,
+      "first_name": "Richard",
+      "account": {
+        "name": "dixski",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Wise philosopher",
+    "participant": {
+      "user": {
+        "username": "internal_id:42173:482779c8-96fe-4d69-b084-7539c250a62d",
+        "id": 42249,
+        "first_name": "Wise philosopher",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Wise philosopher"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am a wise philosopher",
+    "description": "",
+    "definition": ""
+  }
+}

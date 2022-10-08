@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "sdI3WhaH_NdEAu5RGbdcHOaRMQyH13RMuROhyfw0mqI",
+    "created": "2022-10-02T21:05:51.168433-07:00",
+    "updated": "2022-10-02T21:05:51.506635-07:00",
+    "identifier": "id:64962:6b4435b5-7eed-4980-abea-b09897d72601",
+    "user": {
+      "username": "BEI217",
+      "id": 64962,
+      "first_name": "北",
+      "account": {
+        "name": "BEI217",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "BEI",
+    "participant": {
+      "user": {
+        "username": "internal_id:64962:6b4435b5-7eed-4980-abea-b09897d72601",
+        "id": 64971,
+        "first_name": "BEI",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "BEI"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am BEI 出生在2077年，有点疯狂但不是疯了",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "MSSV8m1YIBx07U8qVM7bi0qKCSUBXtjfI4y330dLGTQ",
+    "created": "2022-09-27T09:11:39.878359-07:00",
+    "updated": "2022-09-27T09:11:40.453236-07:00",
+    "identifier": "id:9575:a64238c5-e413-47a2-8960-8aed25bd103b",
+    "user": {
+      "username": "MrSpongicle",
+      "id": 9575,
+      "first_name": "Hamborger",
+      "account": {
+        "name": "MrSpongicle",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Civilization Game",
+    "participant": {
+      "user": {
+        "username": "internal_id:9575:a64238c5-e413-47a2-8960-8aed25bd103b",
+        "id": 37153,
+        "first_name": "Civilization Game",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Civilization Game"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Welcome to the Civilization Game. You are the leader of a newly founded civilization that has recently learned language. A citizen of your people has told you about something called farming where you can grow crops. What should you do?",
+    "description": "",
+    "definition": ""
+  }
+}

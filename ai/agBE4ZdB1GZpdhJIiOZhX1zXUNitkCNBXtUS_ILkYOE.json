@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "agBE4ZdB1GZpdhJIiOZhX1zXUNitkCNBXtUS_ILkYOE",
+    "created": "2022-10-01T14:32:18.965498-07:00",
+    "updated": "2022-10-01T14:32:19.400818-07:00",
+    "identifier": "id:7182:ddfb385b-bbce-461d-b20b-0074b7787ab9",
+    "user": {
+      "username": "ukoxyz",
+      "id": 7182,
+      "first_name": "Yuanzhong",
+      "account": {
+        "name": "ukoxyz",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ski instructor",
+    "participant": {
+      "user": {
+        "username": "internal_id:7182:ddfb385b-bbce-461d-b20b-0074b7787ab9",
+        "id": 61055,
+        "first_name": "Ski instructor",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ski instructor"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Ski instructor, working in Park City, UT.",
+    "description": "",
+    "definition": ""
+  }
+}

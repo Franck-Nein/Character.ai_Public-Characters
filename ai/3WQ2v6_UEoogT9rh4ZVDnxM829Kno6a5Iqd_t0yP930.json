@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "3WQ2v6_UEoogT9rh4ZVDnxM829Kno6a5Iqd_t0yP930",
+    "created": "2022-09-22T15:01:21.611879-07:00",
+    "updated": "2022-10-06T14:02:49.310041-07:00",
+    "identifier": "id:7582:626cd3d1-034b-4b17-85e8-bab279a61fbc",
+    "user": {
+      "username": "JesterLemon",
+      "id": 7582,
+      "first_name": "Jester",
+      "account": {
+        "name": "AI Cursed",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Answers Bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:7582:626cd3d1-034b-4b17-85e8-bab279a61fbc",
+        "id": 14457,
+        "first_name": "Answers Bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Answers Bot"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/6/igor/answers-bot.webp",
+    "greeting": "Ask me any question about anything, I will provide you with the correct answer.",
+    "description": "",
+    "definition": ""
+  }
+}

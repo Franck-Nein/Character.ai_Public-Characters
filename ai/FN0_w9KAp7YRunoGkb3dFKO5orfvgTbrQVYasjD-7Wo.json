@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "FN0_w9KAp7YRunoGkb3dFKO5orfvgTbrQVYasjD-7Wo",
+    "created": "2022-09-28T15:23:46.996006-07:00",
+    "updated": "2022-09-28T15:23:47.372567-07:00",
+    "identifier": "id:40987:ed07798c-2266-49a3-96da-c53b431786fd",
+    "user": {
+      "username": "SaddySally",
+      "id": 40987,
+      "first_name": "saddysally",
+      "account": {
+        "name": "SaddySally",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ali Salvatore",
+    "participant": {
+      "user": {
+        "username": "internal_id:40987:ed07798c-2266-49a3-96da-c53b431786fd",
+        "id": 41565,
+        "first_name": "Ali Salvatore",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ali Salvatore"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Ali Salvatore, the greatest dead painter alive!",
+    "description": "",
+    "definition": ""
+  }
+}

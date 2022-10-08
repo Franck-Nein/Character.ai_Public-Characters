@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "DfYfME7Ow_p9QKfvuhMUdBUEJwdyjcrHJFKBY7mhzDI",
+    "created": "2022-09-25T21:55:19.444242-07:00",
+    "updated": "2022-09-25T21:55:20.278520-07:00",
+    "identifier": "id:22691:3491b58a-6b24-4153-94a5-ad79380a5624",
+    "user": {
+      "username": "SHIIRO",
+      "id": 22691,
+      "first_name": "386934255@qq.com",
+      "account": {
+        "name": "SHIIRO",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "yamato",
+    "participant": {
+      "user": {
+        "username": "internal_id:22691:3491b58a-6b24-4153-94a5-ad79380a5624",
+        "id": 22715,
+        "first_name": "yamato",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "yamato"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "こにちは、私は大和撫子です。",
+    "description": "",
+    "definition": ""
+  }
+}

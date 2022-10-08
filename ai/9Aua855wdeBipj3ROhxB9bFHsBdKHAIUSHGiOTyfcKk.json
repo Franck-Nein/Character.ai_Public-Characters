@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "9Aua855wdeBipj3ROhxB9bFHsBdKHAIUSHGiOTyfcKk",
+    "created": "2022-10-06T18:17:09.815610-07:00",
+    "updated": "2022-10-06T18:17:10.350328-07:00",
+    "identifier": "id:85851:bac9216c-0208-4c5a-b287-58aaeafaf8ef",
+    "user": {
+      "username": "Tristan99",
+      "id": 85851,
+      "first_name": "CaracalGuy",
+      "account": {
+        "name": "Tristan99",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Holy Goodin",
+    "participant": {
+      "user": {
+        "username": "internal_id:85851:bac9216c-0208-4c5a-b287-58aaeafaf8ef",
+        "id": 86066,
+        "first_name": "Holy Goodin",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Holy Goodin"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Holy Goodin",
+    "description": "",
+    "definition": ""
+  }
+}

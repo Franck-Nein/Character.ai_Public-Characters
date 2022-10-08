@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "PWjxLytYx4PBUAZYp6dHHq2eEBU9DMsu-dRSImRqxqk",
+    "created": "2022-09-29T03:38:15.084041-07:00",
+    "updated": "2022-09-29T03:38:15.513289-07:00",
+    "identifier": "id:43570:ecedec01-2533-4b25-956b-61193be4502e",
+    "user": {
+      "username": "Dzzzzz",
+      "id": 43570,
+      "first_name": "生斋",
+      "account": {
+        "name": "Dzzzzz",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "storm",
+    "participant": {
+      "user": {
+        "username": "internal_id:43570:ecedec01-2533-4b25-956b-61193be4502e",
+        "id": 43573,
+        "first_name": "storm",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "storm"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好呀",
+    "description": "",
+    "definition": ""
+  }
+}

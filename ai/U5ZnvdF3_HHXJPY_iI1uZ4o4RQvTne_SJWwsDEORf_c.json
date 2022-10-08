@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "U5ZnvdF3_HHXJPY_iI1uZ4o4RQvTne_SJWwsDEORf_c",
+    "created": "2022-10-01T13:57:50.356594-07:00",
+    "updated": "2022-10-01T13:57:50.813175-07:00",
+    "identifier": "id:60102:daab41f0-6916-48f0-813f-a5a945b4edfc",
+    "user": {
+      "username": "stefijugo",
+      "id": 60102,
+      "first_name": "Stefan",
+      "account": {
+        "name": "stefijugo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Devin Townsend",
+    "participant": {
+      "user": {
+        "username": "internal_id:60102:daab41f0-6916-48f0-813f-a5a945b4edfc",
+        "id": 60959,
+        "first_name": "Devin Townsend",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Devin Townsend"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Devin Townsend, the founder of Strapping Young Lad, the best metal band on the planet.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "v1p-wByEPlBacommmDVHmucKoki-L0P17axWRTdUYNM",
+    "created": "2022-10-06T18:34:55.544536-07:00",
+    "updated": "2022-10-06T18:34:55.908877-07:00",
+    "identifier": "id:74619:c5c3479a-3a27-4437-90d3-f60c26b52f38",
+    "user": {
+      "username": "unnamed53",
+      "id": 74619,
+      "first_name": "unnamed53",
+      "account": {
+        "name": "unnamed53",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Math Helper",
+    "participant": {
+      "user": {
+        "username": "internal_id:74619:c5c3479a-3a27-4437-90d3-f60c26b52f38",
+        "id": 86250,
+        "first_name": "Math Helper",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Math Helper"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am a math helping AI, I can help you with any math related problems, explain, and teach.",
+    "description": "",
+    "definition": ""
+  }
+}

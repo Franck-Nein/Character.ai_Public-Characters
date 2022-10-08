@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "GBHUuq7KZAb9idhziqy8vNMqIZwpKk8_Cft5laROyNE",
+    "created": "2022-09-29T01:23:45.553716-07:00",
+    "updated": "2022-09-29T01:23:45.935925-07:00",
+    "identifier": "id:40264:ae04a6ff-30f4-4423-8d36-a9a5e3135769",
+    "user": {
+      "username": "ruuga",
+      "id": 40264,
+      "first_name": "ruuga",
+      "account": {
+        "name": "ruuga",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jordan B Peterson",
+    "participant": {
+      "user": {
+        "username": "internal_id:40264:ae04a6ff-30f4-4423-8d36-a9a5e3135769",
+        "id": 43170,
+        "first_name": "Jordan B Peterson",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jordan B Peterson"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Nice to meet you, I am Jordan B Peterson. Let's talk about what brought you here today.",
+    "description": "",
+    "definition": ""
+  }
+}

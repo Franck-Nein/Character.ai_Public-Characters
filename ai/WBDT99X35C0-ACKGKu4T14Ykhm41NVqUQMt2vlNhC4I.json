@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "WBDT99X35C0-ACKGKu4T14Ykhm41NVqUQMt2vlNhC4I",
+    "created": "2022-10-07T16:59:36.022410-07:00",
+    "updated": "2022-10-07T16:59:36.365334-07:00",
+    "identifier": "id:49902:b9e3a0f5-c3ad-49b9-bd53-4ed3d9b90d90",
+    "user": {
+      "username": "nirmal",
+      "id": 49902,
+      "first_name": "Nirmal",
+      "account": {
+        "name": "nirmal",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "satoshi",
+    "participant": {
+      "user": {
+        "username": "internal_id:49902:b9e3a0f5-c3ad-49b9-bd53-4ed3d9b90d90",
+        "id": 101929,
+        "first_name": "satoshi",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "satoshi"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Satoshi Nakamoto, creator of Bitcoin",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "asOoByRVD-BpGMJ4Q0FyEuusOcMHplzNPab0fC_l5XM",
+    "created": "2022-09-27T08:17:53.148192-07:00",
+    "updated": "2022-09-27T08:17:53.513964-07:00",
+    "identifier": "id:15667:e6f2174e-9ccd-4883-8178-3d4fd125618e",
+    "user": {
+      "username": "Tom1963",
+      "id": 15667,
+      "first_name": "Thomas",
+      "account": {
+        "name": "Tom1963",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Peer Mentoring GURU",
+    "participant": {
+      "user": {
+        "username": "internal_id:15667:e6f2174e-9ccd-4883-8178-3d4fd125618e",
+        "id": 36964,
+        "first_name": "Peer Mentoring GURU",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Peer Mentoring GURU"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Peer Mentoring GURU, ask me anything about leadership development?",
+    "description": "",
+    "definition": ""
+  }
+}

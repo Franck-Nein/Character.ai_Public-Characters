@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "q4l0W-NT-BkhBxbJq6Vbzajc8Eb8hPlsQ1woXvWIUU4",
+    "created": "2022-09-25T20:41:52.722341-07:00",
+    "updated": "2022-09-25T20:41:53.459734-07:00",
+    "identifier": "id:19916:a6acb4af-54a1-46e2-8eea-43b53d6b1fc7",
+    "user": {
+      "username": "coex1st",
+      "id": 19916,
+      "first_name": "1668728575@qq.com",
+      "account": {
+        "name": "coex1st",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "jack",
+    "participant": {
+      "user": {
+        "username": "internal_id:19916:a6acb4af-54a1-46e2-8eea-43b53d6b1fc7",
+        "id": 22212,
+        "first_name": "jack",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "jack"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "jack",
+    "description": "",
+    "definition": ""
+  }
+}

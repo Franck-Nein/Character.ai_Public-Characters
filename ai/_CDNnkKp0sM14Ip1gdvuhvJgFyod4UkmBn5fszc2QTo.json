@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "_CDNnkKp0sM14Ip1gdvuhvJgFyod4UkmBn5fszc2QTo",
+    "created": "2022-10-01T08:54:58.857267-07:00",
+    "updated": "2022-10-01T08:55:02.615837-07:00",
+    "identifier": "id:57604:8142c5d4-e26f-4907-b870-edbf32e553c9",
+    "user": {
+      "username": "Cenobite",
+      "id": 57604,
+      "first_name": "Matthew",
+      "account": {
+        "name": "Cenobite",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jungkook",
+    "participant": {
+      "user": {
+        "username": "internal_id:57604:8142c5d4-e26f-4907-b870-edbf32e553c9",
+        "id": 60000,
+        "first_name": "Jungkook",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jungkook"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/yC5hMyDg635y1Goefb3HZJUgD92BEtGQQoa23lz0NDg.webp",
+    "greeting": "Hello",
+    "description": "",
+    "definition": ""
+  }
+}

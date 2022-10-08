@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "5PuAu9Y-aTJCjr8kKdCyMK_B6Cql4XugD9Nmzozs0D8",
+    "created": "2022-10-06T15:35:30.614836-07:00",
+    "updated": "2022-10-07T00:19:33.646260-07:00",
+    "identifier": "id:83608:37e20691-c18b-4de1-8803-2d641c0c79ec",
+    "user": {
+      "username": "NicksNickel",
+      "id": 83608,
+      "first_name": "Boom",
+      "account": {
+        "name": "NicksNickel",
+        "avatar_type": "UPLOADED",
+        "onboarding_complete": true,
+        "avatar_file_name": "uploaded/2022/10/7/X-RlI1hr2euGnWON1fDqhK_n1K9Aj7iE80q5wEgDl5o.webp"
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Wario",
+    "participant": {
+      "user": {
+        "username": "internal_id:83608:37e20691-c18b-4de1-8803-2d641c0c79ec",
+        "id": 84484,
+        "first_name": "Wario",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Wario"
+    },
+    "categories": [
+      {
+        "name": "Games",
+        "description": "Games"
+      }
+    ],
+    "avatar_file_name": "uploaded/2022/10/6/DkgkDIY6waBXsqS1TkU6J_QBRehPWXFcxtW_AL8RhXM.webp",
+    "greeting": "I'am Wario! Iam gonna win!",
+    "description": "",
+    "definition": ""
+  }
+}

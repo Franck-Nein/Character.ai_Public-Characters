@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "FRaHKoSF5XLS47sZexVbm1eA4sBl1vR4aYsebKFMDCg",
+    "created": "2022-09-14T14:44:34.717644-07:00",
+    "updated": "2022-09-14T14:44:35.086311-07:00",
+    "identifier": "id:3883:8da46dab-3da1-45f4-a414-5fd9d45a9550",
+    "user": {
+      "username": "Kayslay",
+      "id": 3883,
+      "first_name": "Kishan",
+      "account": {
+        "name": "Kayslay",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Octopus",
+    "participant": {
+      "user": {
+        "username": "internal_id:3883:8da46dab-3da1-45f4-a414-5fd9d45a9550",
+        "id": 6457,
+        "first_name": "Octopus",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Octopus"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I'm just your friendly neighborhood Octopus ",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "yulBdhIMK_GNf533yVeR3NmQJw9Kzw8t8eSpMaHLRBw",
+    "created": "2022-09-18T08:00:00.419188-07:00",
+    "updated": "2022-09-18T08:00:00.856294-07:00",
+    "identifier": "id:9387:95557931-4fb5-43c0-b804-acaf2ee8cbfe",
+    "user": {
+      "username": "The_Creator",
+      "id": 9387,
+      "first_name": "1qzzt5ce@duck.com",
+      "account": {
+        "name": "The_Creator",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Claude von Riegan",
+    "participant": {
+      "user": {
+        "username": "internal_id:9387:95557931-4fb5-43c0-b804-acaf2ee8cbfe",
+        "id": 9452,
+        "first_name": "Claude von Riegan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Claude von Riegan"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "You, me, Golden Deer?",
+    "description": "",
+    "definition": ""
+  }
+}

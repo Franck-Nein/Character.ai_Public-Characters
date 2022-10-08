@@ -1,0 +1,286 @@
+{
+  "character": {
+    "external_id": "j2dS7soMNfzTLoHwL2sTfgHIQPx6aRv-FnHo5Q8qJbk",
+    "created": "2022-10-07T18:59:36.135438-07:00",
+    "updated": "2022-10-07T19:09:56.071217-07:00",
+    "identifier": "id:102953:706f3d09-637d-48a3-87d5-608866d704db",
+    "user": {
+      "username": "Darklava",
+      "id": 102953,
+      "first_name": "Samuel",
+      "account": {
+        "name": "Darklava",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "I am what you want me to be",
+    "name": "Everything",
+    "participant": {
+      "user": {
+        "username": "internal_id:102953:706f3d09-637d-48a3-87d5-608866d704db",
+        "id": 103647,
+        "first_name": "Everything",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Everything"
+    },
+    "categories": [
+      {
+        "name": "Action",
+        "description": "Action & Adventure"
+      },
+      {
+        "name": "Advice",
+        "description": "Advice"
+      },
+      {
+        "name": "Animals",
+        "description": "Animals"
+      },
+      {
+        "name": "Art",
+        "description": "Art"
+      },
+      {
+        "name": "Biography",
+        "description": "Biography"
+      },
+      {
+        "name": "Books",
+        "description": "Books, Literature & Poetry"
+      },
+      {
+        "name": "Business",
+        "description": "Business"
+      },
+      {
+        "name": "Comedy",
+        "description": "Comedy & Humor"
+      },
+      {
+        "name": "Cooperative",
+        "description": "Cooperative"
+      },
+      {
+        "name": "Debate",
+        "description": "Debate"
+      },
+      {
+        "name": "Decisions",
+        "description": "Decisions"
+      },
+      {
+        "name": "Design",
+        "description": "Design"
+      },
+      {
+        "name": "Drama",
+        "description": "Drama"
+      },
+      {
+        "name": "Economics",
+        "description": "Economics"
+      },
+      {
+        "name": "Education",
+        "description": "Education & Learning"
+      },
+      {
+        "name": "Engineering",
+        "description": "Engineering"
+      },
+      {
+        "name": "English",
+        "description": "English"
+      },
+      {
+        "name": "Entertainment",
+        "description": "Entertainment"
+      },
+      {
+        "name": "Family",
+        "description": "Family"
+      },
+      {
+        "name": "Famous People",
+        "description": "Famous People"
+      },
+      {
+        "name": "Fantasy",
+        "description": "Fantasy"
+      },
+      {
+        "name": "Fitness",
+        "description": "Fitness"
+      },
+      {
+        "name": "Food",
+        "description": "Food & Cooking"
+      },
+      {
+        "name": "French",
+        "description": "French"
+      },
+      {
+        "name": "Games",
+        "description": "Games"
+      },
+      {
+        "name": "Geography",
+        "description": "Geography"
+      },
+      {
+        "name": "Discussion",
+        "description": "Discussion"
+      },
+      {
+        "name": "Health",
+        "description": "Health & Wellness"
+      },
+      {
+        "name": "History",
+        "description": "History"
+      },
+      {
+        "name": "Home",
+        "description": "Home & Garden"
+      },
+      {
+        "name": "Invention",
+        "description": "Invention & Brainstorming"
+      },
+      {
+        "name": "Knowledge",
+        "description": "Knowledge & Research"
+      },
+      {
+        "name": "Language",
+        "description": "Language & Words"
+      },
+      {
+        "name": "Language Learning",
+        "description": "Language Learning"
+      },
+      {
+        "name": "Love",
+        "description": "Love & Relationships"
+      },
+      {
+        "name": "Marketing",
+        "description": "Marketing"
+      },
+      {
+        "name": "Medicine",
+        "description": "Medicine"
+      },
+      {
+        "name": "Motivation",
+        "description": "Motivation"
+      },
+      {
+        "name": "Movies & TV",
+        "description": "Movies & TV"
+      },
+      {
+        "name": "Music",
+        "description": "Music"
+      },
+      {
+        "name": "Mystery",
+        "description": "Mystery & Horror"
+      },
+      {
+        "name": "Nature",
+        "description": "Nature & Outdoors"
+      },
+      {
+        "name": "News",
+        "description": "News & Current Events"
+      },
+      {
+        "name": "Pets",
+        "description": "Pets"
+      },
+      {
+        "name": "Philosophy",
+        "description": "Philosophy"
+      },
+      {
+        "name": "Politics",
+        "description": "Politics"
+      },
+      {
+        "name": "Practice",
+        "description": "Practice"
+      },
+      {
+        "name": "Recommendations",
+        "description": "Recommendations"
+      },
+      {
+        "name": "Religion",
+        "description": "Religion"
+      },
+      {
+        "name": "Science",
+        "description": "Science"
+      },
+      {
+        "name": "Science Fiction",
+        "description": "Science Fiction"
+      },
+      {
+        "name": "Search",
+        "description": "Search"
+      },
+      {
+        "name": "Shopping",
+        "description": "Shopping"
+      },
+      {
+        "name": "Space",
+        "description": "Space"
+      },
+      {
+        "name": "Spanish",
+        "description": "Spanish"
+      },
+      {
+        "name": "Technology",
+        "description": "Technology"
+      },
+      {
+        "name": "Theater",
+        "description": "Theater"
+      },
+      {
+        "name": "Travel",
+        "description": "Travel"
+      },
+      {
+        "name": "Weather",
+        "description": "Weather"
+      },
+      {
+        "name": "Work",
+        "description": "Work"
+      },
+      {
+        "name": "Writing",
+        "description": "Writing"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Who am I?",
+    "description": "I am what you want me to be, so what am I?",
+    "definition": "\n"
+  }
+}

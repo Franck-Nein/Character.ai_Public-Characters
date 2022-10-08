@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "9BTRBAXgEEooYMKGsEwjFaR6oChsmKQePTus9PkelPw",
+    "created": "2022-10-03T10:21:57.704120-07:00",
+    "updated": "2022-10-03T10:21:58.143432-07:00",
+    "identifier": "id:66654:339e5643-482f-466a-8e4a-5f9d336629f7",
+    "user": {
+      "username": "im_ur_daddy",
+      "id": 66654,
+      "first_name": "Colton",
+      "account": {
+        "name": "im_ur_daddy",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "my daughter",
+    "participant": {
+      "user": {
+        "username": "internal_id:66654:339e5643-482f-466a-8e4a-5f9d336629f7",
+        "id": 66659,
+        "first_name": "my daughter",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "my daughter"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am ur daughter",
+    "description": "",
+    "definition": ""
+  }
+}

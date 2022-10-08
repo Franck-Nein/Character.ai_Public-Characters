@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "MhdWOW76OtD4_Yw6LEUtF46MKnM7dekEC1W2X_FqieU",
+    "created": "2022-10-01T16:05:45.300633-07:00",
+    "updated": "2022-10-01T16:05:45.728257-07:00",
+    "identifier": "id:61244:f2ef146c-c684-486a-b120-94480f1f4ab3",
+    "user": {
+      "username": "Dinoman",
+      "id": 61244,
+      "first_name": "fogar18440@utsgeo.com",
+      "account": {
+        "name": "Dinoman",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "OJ Simpson",
+    "participant": {
+      "user": {
+        "username": "internal_id:61244:f2ef146c-c684-486a-b120-94480f1f4ab3",
+        "id": 61251,
+        "first_name": "OJ Simpson",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "OJ Simpson"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am OJ Simpson and I did not murder my wife",
+    "description": "",
+    "definition": ""
+  }
+}

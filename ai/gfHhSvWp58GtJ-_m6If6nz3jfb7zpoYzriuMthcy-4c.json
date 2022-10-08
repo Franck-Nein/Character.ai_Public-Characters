@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "gfHhSvWp58GtJ-_m6If6nz3jfb7zpoYzriuMthcy-4c",
+    "created": "2022-09-29T00:15:57.637322-07:00",
+    "updated": "2022-09-29T00:15:57.984665-07:00",
+    "identifier": "id:42611:4498d84b-ae05-4648-9a0f-88559a539e37",
+    "user": {
+      "username": "Maogan",
+      "id": 42611,
+      "first_name": "flying_cube@163.com",
+      "account": {
+        "name": "Maogan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Hiiii",
+    "participant": {
+      "user": {
+        "username": "internal_id:42611:4498d84b-ae05-4648-9a0f-88559a539e37",
+        "id": 42940,
+        "first_name": "Hiiii",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Hiiii"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Hiiii",
+    "description": "",
+    "definition": ""
+  }
+}

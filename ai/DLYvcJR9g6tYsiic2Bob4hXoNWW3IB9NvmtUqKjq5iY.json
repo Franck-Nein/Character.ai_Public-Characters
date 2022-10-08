@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "DLYvcJR9g6tYsiic2Bob4hXoNWW3IB9NvmtUqKjq5iY",
+    "created": "2022-09-28T21:37:51.826170-07:00",
+    "updated": "2022-09-28T21:37:52.169693-07:00",
+    "identifier": "id:42193:45f4111c-5159-46eb-b985-cfcfe3261d72",
+    "user": {
+      "username": "BeBoxer",
+      "id": 42193,
+      "first_name": "david@themitchells.org",
+      "account": {
+        "name": "BeBoxer",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Gandolf",
+    "participant": {
+      "user": {
+        "username": "internal_id:42193:45f4111c-5159-46eb-b985-cfcfe3261d72",
+        "id": 42398,
+        "first_name": "Gandolf",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Gandolf"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Gandolf",
+    "description": "",
+    "definition": ""
+  }
+}

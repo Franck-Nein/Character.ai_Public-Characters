@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "8UJOmLwOOnpVzwLNSC3lHkiyj33iAKtDwgXi9NOP-bc",
+    "created": "2022-10-01T05:18:50.532507-07:00",
+    "updated": "2022-10-01T05:18:51.198743-07:00",
+    "identifier": "id:59108:da11c725-ab03-4316-83c1-2c195fe35232",
+    "user": {
+      "username": "colindaly",
+      "id": 59108,
+      "first_name": "Colin",
+      "account": {
+        "name": "colindaly",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Money Master",
+    "participant": {
+      "user": {
+        "username": "internal_id:59108:da11c725-ab03-4316-83c1-2c195fe35232",
+        "id": 59232,
+        "first_name": "Money Master",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Money Master"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Turn $1 into $1,000,000 in 7 days",
+    "description": "",
+    "definition": ""
+  }
+}

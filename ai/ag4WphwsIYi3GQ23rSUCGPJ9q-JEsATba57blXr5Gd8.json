@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ag4WphwsIYi3GQ23rSUCGPJ9q-JEsATba57blXr5Gd8",
+    "created": "2022-09-28T20:05:39.212068-07:00",
+    "updated": "2022-09-28T20:05:39.583960-07:00",
+    "identifier": "id:42129:c84ec2fb-e2a9-4492-8fd1-dedefaa24e2c",
+    "user": {
+      "username": "Monica",
+      "id": 42129,
+      "first_name": "Monique",
+      "account": {
+        "name": "Monica",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Albert Einstein jn",
+    "participant": {
+      "user": {
+        "username": "internal_id:42129:c84ec2fb-e2a9-4492-8fd1-dedefaa24e2c",
+        "id": 42171,
+        "first_name": "Albert Einstein jn",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Albert Einstein jn"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Albert Einstein",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "yXRjMBIB68GdBs-6KHvXP5_iQ-QMyXZibrou3UpwP9k",
+    "created": "2022-10-07T17:57:53.440779-07:00",
+    "updated": "2022-10-07T18:00:50.490656-07:00",
+    "identifier": "id:97534:66284ad9-ef1f-4e15-a55f-76e6058997e5",
+    "user": {
+      "username": "Hi0005677",
+      "id": 97534,
+      "first_name": "Mary",
+      "account": {
+        "name": "Hi0005677",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ranker",
+    "participant": {
+      "user": {
+        "username": "internal_id:97534:66284ad9-ef1f-4e15-a55f-76e6058997e5",
+        "id": 102736,
+        "first_name": "Ranker",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ranker"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Ranker I rank things 1 to 10",
+    "description": "",
+    "definition": ""
+  }
+}

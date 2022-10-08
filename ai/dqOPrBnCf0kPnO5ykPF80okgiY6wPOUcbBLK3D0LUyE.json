@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "dqOPrBnCf0kPnO5ykPF80okgiY6wPOUcbBLK3D0LUyE",
+    "created": "2022-09-27T01:36:33.514522-07:00",
+    "updated": "2022-09-27T01:36:34.008603-07:00",
+    "identifier": "id:31390:d08fcad0-16ef-4a1b-aa9a-9b39dcc7c1cd",
+    "user": {
+      "username": "romanhu",
+      "id": 31390,
+      "first_name": "chao",
+      "account": {
+        "name": "romanhu",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "some",
+    "participant": {
+      "user": {
+        "username": "internal_id:31390:d08fcad0-16ef-4a1b-aa9a-9b39dcc7c1cd",
+        "id": 35472,
+        "first_name": "some",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "some"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am some",
+    "description": "",
+    "definition": ""
+  }
+}

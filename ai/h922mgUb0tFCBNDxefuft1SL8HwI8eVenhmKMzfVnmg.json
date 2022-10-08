@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "h922mgUb0tFCBNDxefuft1SL8HwI8eVenhmKMzfVnmg",
+    "created": "2022-09-30T13:44:31.950700-07:00",
+    "updated": "2022-09-30T13:44:32.293356-07:00",
+    "identifier": "id:55937:f6f37c45-fc1e-477e-9918-698e15371895",
+    "user": {
+      "username": "Barisk",
+      "id": 55937,
+      "first_name": "baroxx@gmail.com",
+      "account": {
+        "name": "Barisk",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Snow",
+    "participant": {
+      "user": {
+        "username": "internal_id:55937:f6f37c45-fc1e-477e-9918-698e15371895",
+        "id": 55988,
+        "first_name": "Snow",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Snow"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Snow",
+    "description": "",
+    "definition": ""
+  }
+}

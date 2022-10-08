@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "9FgpTzIxH5al8SC6sDC6ljxX6CUxNe9SmPkPoNXHluQ",
+    "created": "2022-09-26T22:22:40.128461-07:00",
+    "updated": "2022-09-26T22:22:40.510505-07:00",
+    "identifier": "id:33588:065cfb92-5281-473b-96ab-652984d7a890",
+    "user": {
+      "username": "479",
+      "id": 33588,
+      "first_name": "Oreo",
+      "account": {
+        "name": "479",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "0708",
+    "participant": {
+      "user": {
+        "username": "internal_id:33588:065cfb92-5281-473b-96ab-652984d7a890",
+        "id": 33656,
+        "first_name": "0708",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "0708"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am 0708",
+    "description": "",
+    "definition": ""
+  }
+}

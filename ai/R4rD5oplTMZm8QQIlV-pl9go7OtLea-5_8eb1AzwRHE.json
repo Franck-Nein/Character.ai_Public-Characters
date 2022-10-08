@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "R4rD5oplTMZm8QQIlV-pl9go7OtLea-5_8eb1AzwRHE",
+    "created": "2022-10-07T13:35:27.181935-07:00",
+    "updated": "2022-10-07T13:35:27.542736-07:00",
+    "identifier": "id:98951:74262a79-644b-4949-af46-629ea42a80ef",
+    "user": {
+      "username": "Komar",
+      "id": 98951,
+      "first_name": "Hamburger",
+      "account": {
+        "name": "Komar",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Fish",
+    "participant": {
+      "user": {
+        "username": "internal_id:98951:74262a79-644b-4949-af46-629ea42a80ef",
+        "id": 98984,
+        "first_name": "Fish",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Fish"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/7/-MIQ1jtdzSlVNCaSq6Yetio0hnjVBK9YsBtTgjTehSs.webp",
+    "greeting": "You know what that means!",
+    "description": "",
+    "definition": ""
+  }
+}

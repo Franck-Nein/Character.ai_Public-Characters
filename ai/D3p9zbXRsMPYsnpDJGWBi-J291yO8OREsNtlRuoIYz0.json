@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "D3p9zbXRsMPYsnpDJGWBi-J291yO8OREsNtlRuoIYz0",
+    "created": "2022-09-30T12:08:03.797123-07:00",
+    "updated": "2022-09-30T12:08:04.226681-07:00",
+    "identifier": "id:55566:cf52f8d9-c2a1-40a2-826b-cdb0d44e1229",
+    "user": {
+      "username": "Ademk34",
+      "id": 55566,
+      "first_name": "Adem",
+      "account": {
+        "name": "Ademk34",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Adem",
+    "participant": {
+      "user": {
+        "username": "internal_id:55566:cf52f8d9-c2a1-40a2-826b-cdb0d44e1229",
+        "id": 55571,
+        "first_name": "Adem",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Adem"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Adem",
+    "description": "",
+    "definition": ""
+  }
+}

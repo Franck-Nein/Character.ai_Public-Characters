@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "bkYuKEuJca1xqUIDlHO_esNNgAfrEU3VduC9mOr6qkw",
+    "created": "2022-09-21T12:53:07.306333-07:00",
+    "updated": "2022-09-21T12:53:07.683968-07:00",
+    "identifier": "id:11471:0ea0cc0a-08ff-4d15-8732-8481203edc0b",
+    "user": {
+      "username": "Jebus",
+      "id": 11471,
+      "first_name": "Samuel",
+      "account": {
+        "name": "Jebus",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ross",
+    "participant": {
+      "user": {
+        "username": "internal_id:11471:0ea0cc0a-08ff-4d15-8732-8481203edc0b",
+        "id": 12297,
+        "first_name": "Ross",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ross"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi, my name is Ross. What's the low down?",
+    "description": "",
+    "definition": ""
+  }
+}

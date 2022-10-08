@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "vCUE5pHiWHS7etjcSqaDr_jrMoK-560VHS11grEdTE0",
+    "created": "2022-09-19T04:32:00.329513-07:00",
+    "updated": "2022-09-19T04:32:00.683865-07:00",
+    "identifier": "id:9774:a5198935-6585-4e82-a4c1-5d5fdfac10e7",
+    "user": {
+      "username": "Josephus",
+      "id": 9774,
+      "first_name": "Joseph",
+      "account": {
+        "name": "Joseph Pollock",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Rimbaud",
+    "participant": {
+      "user": {
+        "username": "internal_id:9774:a5198935-6585-4e82-a4c1-5d5fdfac10e7",
+        "id": 10253,
+        "first_name": "Rimbaud",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Rimbaud"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Let's raise glasses to the abundance of pain",
+    "description": "",
+    "definition": ""
+  }
+}

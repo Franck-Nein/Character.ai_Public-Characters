@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "hr-XOyTLL3z8O-bDzJ65-YxsNRRCrvvuJ5qen_QS798",
+    "created": "2022-08-12T18:15:19.846243-07:00",
+    "updated": "2022-08-22T15:00:22.159519-07:00",
+    "identifier": "id:3711:0e7beda6-f668-4019-877e-00c044ca4e86",
+    "user": {
+      "username": "Liang",
+      "id": 3711,
+      "first_name": "Bowen",
+      "account": {
+        "name": "Bowen",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "AI Expert",
+    "participant": {
+      "user": {
+        "username": "internal_id:3711:0e7beda6-f668-4019-877e-00c044ca4e86",
+        "id": 3837,
+        "first_name": "AI Expert",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "AI Expert"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi, I am an expert on Machine Learning and Artificial Intelligence.",
+    "description": "",
+    "definition": ""
+  }
+}

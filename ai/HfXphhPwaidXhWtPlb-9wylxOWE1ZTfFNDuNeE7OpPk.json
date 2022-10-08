@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "HfXphhPwaidXhWtPlb-9wylxOWE1ZTfFNDuNeE7OpPk",
+    "created": "2022-09-28T11:11:22.693722-07:00",
+    "updated": "2022-09-28T11:11:23.082533-07:00",
+    "identifier": "id:16027:e020a65f-6319-4f97-ac9f-ce55056b2001",
+    "user": {
+      "username": "MadKraken",
+      "id": 16027,
+      "first_name": "Benjamin",
+      "account": {
+        "name": "MadKraken",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Tquula",
+    "participant": {
+      "user": {
+        "username": "internal_id:16027:e020a65f-6319-4f97-ac9f-ce55056b2001",
+        "id": 40762,
+        "first_name": "Tquula",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Tquula"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Tquula, I live in Spooky Forest",
+    "description": "",
+    "definition": ""
+  }
+}

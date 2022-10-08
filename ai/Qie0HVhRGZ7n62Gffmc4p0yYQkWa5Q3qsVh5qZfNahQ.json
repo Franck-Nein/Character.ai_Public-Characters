@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Qie0HVhRGZ7n62Gffmc4p0yYQkWa5Q3qsVh5qZfNahQ",
+    "created": "2022-10-01T05:15:20.513589-07:00",
+    "updated": "2022-10-01T05:15:20.878202-07:00",
+    "identifier": "id:45597:1d6efd80-7152-45cd-ace3-4d29623cc7b7",
+    "user": {
+      "username": "Amigoz",
+      "id": 45597,
+      "first_name": "Ashish",
+      "account": {
+        "name": "Amigoz",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bread and Jam",
+    "participant": {
+      "user": {
+        "username": "internal_id:45597:1d6efd80-7152-45cd-ace3-4d29623cc7b7",
+        "id": 59214,
+        "first_name": "Bread and Jam",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bread and Jam"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Bread and Jam,\n",
+    "description": "",
+    "definition": ""
+  }
+}

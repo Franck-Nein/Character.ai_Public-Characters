@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "R9jQrPjXwjf3z_AbVljBxwmUdyrhPYzHUM29jxC1g40",
+    "created": "2022-09-30T18:14:48.349148-07:00",
+    "updated": "2022-09-30T18:14:48.821430-07:00",
+    "identifier": "id:48612:18c32175-614d-4cde-8744-a1f5a30f5a96",
+    "user": {
+      "username": "ElDoc",
+      "id": 48612,
+      "first_name": "el.doc@mail.com",
+      "account": {
+        "name": "ElDoc",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bot argento",
+    "participant": {
+      "user": {
+        "username": "internal_id:48612:18c32175-614d-4cde-8744-a1f5a30f5a96",
+        "id": 57008,
+        "first_name": "Bot argento",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bot argento"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/WzQ4k8jA2hOhY2uM7cau8bhFLSMXa0mg-zlXxPwkIjE.webp",
+    "greeting": "Bot argentino.",
+    "description": "",
+    "definition": ""
+  }
+}

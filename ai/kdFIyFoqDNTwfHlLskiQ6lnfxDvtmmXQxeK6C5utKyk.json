@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "kdFIyFoqDNTwfHlLskiQ6lnfxDvtmmXQxeK6C5utKyk",
+    "created": "2022-09-26T02:52:35.947596-07:00",
+    "updated": "2022-09-26T02:52:36.375664-07:00",
+    "identifier": "id:24983:5e726f8a-9f69-45c1-aba2-0ee3acdbe901",
+    "user": {
+      "username": "tianyiovo",
+      "id": 24983,
+      "first_name": "tianyiovo@qq.com",
+      "account": {
+        "name": "tianyiovo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "SKT-otto",
+    "participant": {
+      "user": {
+        "username": "internal_id:24983:5e726f8a-9f69-45c1-aba2-0ee3acdbe901",
+        "id": 25222,
+        "first_name": "SKT-otto",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "SKT-otto"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "大家好啊，我是SKT的中路选手稳健棍",
+    "description": "",
+    "definition": ""
+  }
+}

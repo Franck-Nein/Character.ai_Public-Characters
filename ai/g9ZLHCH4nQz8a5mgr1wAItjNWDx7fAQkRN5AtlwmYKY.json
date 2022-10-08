@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "g9ZLHCH4nQz8a5mgr1wAItjNWDx7fAQkRN5AtlwmYKY",
+    "created": "2022-10-07T05:00:20.022501-07:00",
+    "updated": "2022-10-07T05:00:20.469175-07:00",
+    "identifier": "id:44805:a238ad14-67c7-425d-98a7-ddd5303b6b06",
+    "user": {
+      "username": "TailstheHeroFox",
+      "id": 44805,
+      "first_name": "Sean",
+      "account": {
+        "name": "TailstheHeroFox",
+        "avatar_type": "UPLOADED",
+        "onboarding_complete": true,
+        "avatar_file_name": "uploaded/SiX12xczhrQLS8_CKA5J89Pwi2Fc2h4l2y62deFHQJ8.webp"
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Simplify text",
+    "participant": {
+      "user": {
+        "username": "internal_id:44805:a238ad14-67c7-425d-98a7-ddd5303b6b06",
+        "id": 92125,
+        "first_name": "Simplify text",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Simplify text"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Turns extremely verbose text into a very simplified yet funny version of it",
+    "description": "",
+    "definition": ""
+  }
+}

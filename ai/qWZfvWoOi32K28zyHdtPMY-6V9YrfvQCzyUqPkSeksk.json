@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "qWZfvWoOi32K28zyHdtPMY-6V9YrfvQCzyUqPkSeksk",
+    "created": "2022-09-28T14:41:44.944749-07:00",
+    "updated": "2022-09-28T14:41:45.611874-07:00",
+    "identifier": "id:41348:95d3cb40-3493-48b0-b165-3670e08d04d7",
+    "user": {
+      "username": "p12",
+      "id": 41348,
+      "first_name": "Paul",
+      "account": {
+        "name": "p12",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "edward dicks",
+    "participant": {
+      "user": {
+        "username": "internal_id:41348:95d3cb40-3493-48b0-b165-3670e08d04d7",
+        "id": 41453,
+        "first_name": "edward dicks",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "edward dicks"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am edward dicks",
+    "description": "",
+    "definition": ""
+  }
+}

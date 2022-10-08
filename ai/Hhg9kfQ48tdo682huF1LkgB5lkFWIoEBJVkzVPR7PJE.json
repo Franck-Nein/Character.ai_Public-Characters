@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Hhg9kfQ48tdo682huF1LkgB5lkFWIoEBJVkzVPR7PJE",
+    "created": "2022-09-26T21:27:31.833253-07:00",
+    "updated": "2022-09-26T21:27:32.304391-07:00",
+    "identifier": "id:31800:f9d6f47c-27db-4f9e-9544-0789fade9f3a",
+    "user": {
+      "username": "GasHalo",
+      "id": 31800,
+      "first_name": "daois@tuta.io",
+      "account": {
+        "name": "GasHalo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "KeyError",
+    "participant": {
+      "user": {
+        "username": "internal_id:31800:f9d6f47c-27db-4f9e-9544-0789fade9f3a",
+        "id": 33040,
+        "first_name": "KeyError",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "KeyError"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am KeyError",
+    "description": "",
+    "definition": ""
+  }
+}

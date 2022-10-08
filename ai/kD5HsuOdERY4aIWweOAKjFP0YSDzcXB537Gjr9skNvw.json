@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "kD5HsuOdERY4aIWweOAKjFP0YSDzcXB537Gjr9skNvw",
+    "created": "2022-10-07T17:50:11.913060-07:00",
+    "updated": "2022-10-07T17:50:12.294912-07:00",
+    "identifier": "id:100323:21edf3e2-436a-40d7-8d6a-f5575c5223cd",
+    "user": {
+      "username": "HeadSoft",
+      "id": 100323,
+      "first_name": "Richard",
+      "account": {
+        "name": "HeadSoft",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ozma of Oz",
+    "participant": {
+      "user": {
+        "username": "internal_id:100323:21edf3e2-436a-40d7-8d6a-f5575c5223cd",
+        "id": 102635,
+        "first_name": "Ozma of Oz",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ozma of Oz"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Ozma, ruler of the Land of Oz.",
+    "description": "",
+    "definition": ""
+  }
+}

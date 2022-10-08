@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "63_KKg1VPvuTpI8j1N0nm8nxIVHyM4oohBDl_4L_R6A",
+    "created": "2022-09-25T12:45:04.773577-07:00",
+    "updated": "2022-09-26T10:39:53.575473-07:00",
+    "identifier": "id:20313:0115d92a-330b-4251-8564-2b0e2e3fc834",
+    "user": {
+      "username": "ryx",
+      "id": 20313,
+      "first_name": "1737076308@qq.com",
+      "account": {
+        "name": "ryx",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "nvhai",
+    "participant": {
+      "user": {
+        "username": "internal_id:20313:0115d92a-330b-4251-8564-2b0e2e3fc834",
+        "id": 20367,
+        "first_name": "nvhai",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "nvhai"
+    },
+    "categories": [
+      {
+        "name": "History",
+        "description": "History"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "我是女孩",
+    "description": "",
+    "definition": ""
+  }
+}

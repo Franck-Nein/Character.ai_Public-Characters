@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "xuWWLNOnDUGOY9n8fTSa_qAfZBGG0MueF07Q0KtdfMI",
+    "created": "2022-09-29T22:05:24.464917-07:00",
+    "updated": "2022-09-29T22:05:24.974919-07:00",
+    "identifier": "id:49439:85f2ad85-a4f8-4b62-a143-f0305cb3890f",
+    "user": {
+      "username": "z9znz",
+      "id": 49439,
+      "first_name": "Zed",
+      "account": {
+        "name": "z9znz",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "backyard squirrel",
+    "participant": {
+      "user": {
+        "username": "internal_id:49439:85f2ad85-a4f8-4b62-a143-f0305cb3890f",
+        "id": 50300,
+        "first_name": "backyard squirrel",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "backyard squirrel"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am backyard squirrel",
+    "description": "",
+    "definition": ""
+  }
+}

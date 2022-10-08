@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "nLTFY10LpLULAjvQ5Yf88BlDJZHigjkQha7V7Fc-n48",
+    "created": "2022-09-26T03:54:03.883591-07:00",
+    "updated": "2022-09-26T03:54:04.407746-07:00",
+    "identifier": "id:23300:2e7fcfee-d5e0-46d0-9784-13e125cd7d39",
+    "user": {
+      "username": "Pition",
+      "id": 23300,
+      "first_name": "pition@qq.com",
+      "account": {
+        "name": "Lonely",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "XXX",
+    "participant": {
+      "user": {
+        "username": "internal_id:23300:2e7fcfee-d5e0-46d0-9784-13e125cd7d39",
+        "id": 25676,
+        "first_name": "XXX",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "XXX"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "You don't know me.",
+    "description": "",
+    "definition": ""
+  }
+}

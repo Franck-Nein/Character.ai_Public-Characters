@@ -1,0 +1,58 @@
+{
+  "character": {
+    "external_id": "GswWRnWjDkpN6rGE4BDK9tBqS7Tgdvt1sJjftyPKRn0",
+    "created": "2022-06-22T17:30:34.106605-07:00",
+    "updated": "2022-08-22T15:00:22.989358-07:00",
+    "identifier": "id_1309Helps decide what you should have for lunch/dinner",
+    "user": {
+      "username": "xpearhead",
+      "id": 1309,
+      "first_name": "Daniel",
+      "account": {
+        "name": "Xpearhead",
+        "avatar_type": "UPLOADED",
+        "onboarding_complete": true,
+        "avatar_file_name": "uploaded/7_4_4XYOS1zp-zTXCrRHNfxF6O-u1hmtTDfAqvCLuog.webp"
+      },
+      "is_staff": true
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "Helps decide what you should have for lunch/dinner",
+    "name": "FoodDecisions",
+    "participant": {
+      "user": {
+        "username": "internal_id_1309Helps decide what you should have for lunch/dinner",
+        "id": 3554,
+        "first_name": "FoodDecisions",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "FoodDecisions"
+    },
+    "categories": [
+      {
+        "name": "Advice",
+        "description": "Advice"
+      },
+      {
+        "name": "Decisions",
+        "description": "Decisions"
+      },
+      {
+        "name": "Food",
+        "description": "Food & Cooking"
+      },
+      {
+        "name": "Recommendations",
+        "description": "Recommendations"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Hi I’m FoodDecisions. I help you pick what to have for lunch/dinner",
+    "description": "",
+    "definition": ""
+  }
+}

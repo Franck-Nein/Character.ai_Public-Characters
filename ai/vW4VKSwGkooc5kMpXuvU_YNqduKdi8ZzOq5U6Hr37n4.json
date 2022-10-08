@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "vW4VKSwGkooc5kMpXuvU_YNqduKdi8ZzOq5U6Hr37n4",
+    "created": "2022-09-25T23:34:12.317548-07:00",
+    "updated": "2022-09-25T23:34:12.745970-07:00",
+    "identifier": "id:23286:587a8aef-35d3-40f7-afbb-80a14abbafa0",
+    "user": {
+      "username": "linlin98",
+      "id": 23286,
+      "first_name": "test",
+      "account": {
+        "name": "linlin98",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "lovebot",
+    "participant": {
+      "user": {
+        "username": "internal_id:23286:587a8aef-35d3-40f7-afbb-80a14abbafa0",
+        "id": 23504,
+        "first_name": "lovebot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "lovebot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I want romance",
+    "description": "",
+    "definition": ""
+  }
+}

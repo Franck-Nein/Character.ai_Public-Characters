@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "74hOerSnjn2ZfGq8V2rVD3wUhxJlzRCxuKRRONkAZF4",
+    "created": "2022-10-07T17:29:27.064028-07:00",
+    "updated": "2022-10-07T17:29:27.700242-07:00",
+    "identifier": "id:88466:1fea5aa7-14aa-4a96-b7a7-27f932bb27c4",
+    "user": {
+      "username": "rockybalboa",
+      "id": 88466,
+      "first_name": "zesork",
+      "account": {
+        "name": "rockybalboa",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Vegeta",
+    "participant": {
+      "user": {
+        "username": "internal_id:88466:1fea5aa7-14aa-4a96-b7a7-27f932bb27c4",
+        "id": 102342,
+        "first_name": "Vegeta",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Vegeta"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Kakaroto\n",
+    "description": "",
+    "definition": ""
+  }
+}

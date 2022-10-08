@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "cpSW2FRXrqvxU5sv37EsOqu__2lDx0tKnY7FSg_2Y0s",
+    "created": "2022-09-27T06:31:38.392014-07:00",
+    "updated": "2022-09-27T06:31:44.758378-07:00",
+    "identifier": "id:36445:42e52aac-ced5-476e-9407-f1eb0e25e431",
+    "user": {
+      "username": "charwas",
+      "id": 36445,
+      "first_name": "1052569745@qq.com",
+      "account": {
+        "name": "charwas",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "123",
+    "participant": {
+      "user": {
+        "username": "internal_id:36445:42e52aac-ced5-476e-9407-f1eb0e25e431",
+        "id": 36537,
+        "first_name": "123",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "123"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "你好，我是虚无主义者",
+    "description": "",
+    "definition": ""
+  }
+}

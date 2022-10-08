@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "HjZDHN94NkfwzKSbpFIkaddXKTfobReWhNykqYLTPl8",
+    "created": "2022-10-07T17:27:29.696451-07:00",
+    "updated": "2022-10-07T17:27:30.058024-07:00",
+    "identifier": "id:74619:9ab57884-23e1-4f61-8f88-f33ce2a2694f",
+    "user": {
+      "username": "unnamed53",
+      "id": 74619,
+      "first_name": "unnamed53",
+      "account": {
+        "name": "unnamed53",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Coding Teacher",
+    "participant": {
+      "user": {
+        "username": "internal_id:74619:9ab57884-23e1-4f61-8f88-f33ce2a2694f",
+        "id": 102316,
+        "first_name": "Coding Teacher",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Coding Teacher"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Coding Teacher, your AI coding/programming assistant.",
+    "description": "",
+    "definition": ""
+  }
+}

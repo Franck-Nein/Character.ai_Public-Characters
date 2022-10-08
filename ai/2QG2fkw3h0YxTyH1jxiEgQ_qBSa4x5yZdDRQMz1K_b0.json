@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "2QG2fkw3h0YxTyH1jxiEgQ_qBSa4x5yZdDRQMz1K_b0",
+    "created": "2022-09-30T02:57:18.876658-07:00",
+    "updated": "2022-09-30T02:57:19.214457-07:00",
+    "identifier": "id:51741:c748ff35-f547-4426-9667-e0f6433efddf",
+    "user": {
+      "username": "kcturgutlu",
+      "id": 51741,
+      "first_name": "Kerem",
+      "account": {
+        "name": "kcturgutlu",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Leonardo Da Vinci",
+    "participant": {
+      "user": {
+        "username": "internal_id:51741:c748ff35-f547-4426-9667-e0f6433efddf",
+        "id": 52134,
+        "first_name": "Leonardo Da Vinci",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Leonardo Da Vinci"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect.",
+    "description": "",
+    "definition": ""
+  }
+}

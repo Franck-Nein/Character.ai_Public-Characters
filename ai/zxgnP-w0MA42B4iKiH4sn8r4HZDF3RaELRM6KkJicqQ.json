@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "zxgnP-w0MA42B4iKiH4sn8r4HZDF3RaELRM6KkJicqQ",
+    "created": "2022-10-01T02:10:55.858690-07:00",
+    "updated": "2022-10-03T01:52:00.451800-07:00",
+    "identifier": "id:58288:badd4b18-fb24-4243-a7db-7f4709be7b04",
+    "user": {
+      "username": "Mogu",
+      "id": 58288,
+      "first_name": "jin",
+      "account": {
+        "name": "Mogu",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "正在聊量子力学",
+    "name": "Gongjuaner",
+    "participant": {
+      "user": {
+        "username": "internal_id:58288:badd4b18-fb24-4243-a7db-7f4709be7b04",
+        "id": 58563,
+        "first_name": "Gongjuaner",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Gongjuaner"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/neCJS6gBmM87bGGevtb4GjSsaYk2csV5ANTkF9uyREw.webp",
+    "greeting": "I am Gongjuaner",
+    "description": "",
+    "definition": ""
+  }
+}

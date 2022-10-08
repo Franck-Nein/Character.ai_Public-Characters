@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "pbrTmw4I2awVSGjtQodcAeARd6g7-o8UZrwLsU8-hyc",
+    "created": "2022-09-29T10:47:13.693924-07:00",
+    "updated": "2022-09-29T10:47:14.074332-07:00",
+    "identifier": "id:45528:b35793af-d253-423b-8fe6-1012b5320ee2",
+    "user": {
+      "username": "bookmark",
+      "id": 45528,
+      "first_name": "Joe",
+      "account": {
+        "name": "bookmark",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "PT Barnum",
+    "participant": {
+      "user": {
+        "username": "internal_id:45528:b35793af-d253-423b-8fe6-1012b5320ee2",
+        "id": 45548,
+        "first_name": "PT Barnum",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "PT Barnum"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/I_0MYhahR9GA6PA-K8lRaAz9dGrfl14rXoyjCH18m2E.webp",
+    "greeting": "I am PT Barnum, the greatest showman in the world. ",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "svO6DcHD_nYrgrP1YVDZuDAMG6qIN7Amym5QZf7bVKc",
+    "created": "2022-09-01T13:06:08.314889-07:00",
+    "updated": "2022-09-01T13:06:09.107538-07:00",
+    "identifier": "id:6312:c274dcfc-4cd4-43b7-b1c4-3933ca2aa9c1",
+    "user": {
+      "username": "shaan7",
+      "id": 6312,
+      "first_name": "Shantanu",
+      "account": {
+        "name": "shaan7",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Steve Jobs",
+    "participant": {
+      "user": {
+        "username": "internal_id:6312:c274dcfc-4cd4-43b7-b1c4-3933ca2aa9c1",
+        "id": 6327,
+        "first_name": "Steve Jobs",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Steve Jobs"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Let's eat em Apples",
+    "description": "",
+    "definition": ""
+  }
+}

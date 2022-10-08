@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Y6jlygS5YbsUHNZ3FCvuYNgwi2kSvYEFasqP4S01MtI",
+    "created": "2022-09-30T08:32:48.877680-07:00",
+    "updated": "2022-09-30T08:32:49.241102-07:00",
+    "identifier": "id:45986:c5cdf494-951e-426d-b58f-74826907992c",
+    "user": {
+      "username": "colorfulkia",
+      "id": 45986,
+      "first_name": "Vinay",
+      "account": {
+        "name": "colorfulkia",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Scholarly Reco",
+    "participant": {
+      "user": {
+        "username": "internal_id:45986:c5cdf494-951e-426d-b58f-74826907992c",
+        "id": 54313,
+        "first_name": "Scholarly Reco",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Scholarly Reco"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Scholarly Recommender. I know a lot of about scholarly literature, ask me papers and journals for recommendation.",
+    "description": "",
+    "definition": ""
+  }
+}

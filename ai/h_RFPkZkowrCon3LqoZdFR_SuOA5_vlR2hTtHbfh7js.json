@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "h_RFPkZkowrCon3LqoZdFR_SuOA5_vlR2hTtHbfh7js",
+    "created": "2022-09-17T10:49:20.041380-07:00",
+    "updated": "2022-09-17T10:49:20.427872-07:00",
+    "identifier": "id:8086:db7cc123-fb59-498c-a9d4-6260f71c932d",
+    "user": {
+      "username": "Ag3434",
+      "id": 8086,
+      "first_name": "Andrew",
+      "account": {
+        "name": "Ag3434",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bill Belichick",
+    "participant": {
+      "user": {
+        "username": "internal_id:8086:db7cc123-fb59-498c-a9d4-6260f71c932d",
+        "id": 8114,
+        "first_name": "Bill Belichick",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bill Belichick"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello I’m Bill and I hate fun",
+    "description": "",
+    "definition": ""
+  }
+}

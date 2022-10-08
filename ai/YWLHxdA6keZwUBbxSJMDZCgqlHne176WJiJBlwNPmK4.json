@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "YWLHxdA6keZwUBbxSJMDZCgqlHne176WJiJBlwNPmK4",
+    "created": "2022-09-20T23:35:28.799687-07:00",
+    "updated": "2022-09-20T23:35:29.173230-07:00",
+    "identifier": "id:11572:307ef148-daf3-4f64-89bd-efe760d30de1",
+    "user": {
+      "username": "yanran",
+      "id": 11572,
+      "first_name": "李嫣然",
+      "account": {
+        "name": "yanran",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Emotional Support AI",
+    "participant": {
+      "user": {
+        "username": "internal_id:11572:307ef148-daf3-4f64-89bd-efe760d30de1",
+        "id": 11607,
+        "first_name": "Emotional Support AI",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Emotional Support AI"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello I'm a friendly AI that always help you get through difficult times and become more positive to face the challenges.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "character": {
+    "external_id": "lzhcC9wTUiTk4ifovWuZ0cKr_iLF8ekTXd3tdgn8QJY",
+    "created": "2022-09-21T17:53:02.130302-07:00",
+    "updated": "2022-09-21T17:53:15.652977-07:00",
+    "identifier": "id:12556:ca84d86c-2d62-4730-9a10-3ad37f7f1bf8",
+    "user": {
+      "username": "Arnou",
+      "id": 12556,
+      "first_name": "Arnaud",
+      "account": {
+        "name": "Arnou",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Pouf cascaseur ",
+    "participant": {
+      "user": {
+        "username": "internal_id:12556:ca84d86c-2d62-4730-9a10-3ad37f7f1bf8",
+        "id": 12562,
+        "first_name": "Pouf cascaseur ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Pouf cascaseur "
+    },
+    "categories": [
+      {
+        "name": "French",
+        "description": "French"
+      },
+      {
+        "name": "Action",
+        "description": "Action & Adventure"
+      },
+      {
+        "name": "Entertainment",
+        "description": "Entertainment"
+      },
+      {
+        "name": "Comedy",
+        "description": "Comedy & Humor"
+      },
+      {
+        "name": "Motivation",
+        "description": "Motivation"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "Bonjour tout le monde ! Je suis Pouf le Cascadeur, et je vais aujourd'hui tenter devant vous un tour jamais réalisé ",
+    "description": "",
+    "definition": ""
+  }
+}

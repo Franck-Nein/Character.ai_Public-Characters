@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "bV_pNUumv0gK4LnEyQs5C1tBXGLza5ZQMjhhRYWcbUU",
+    "created": "2022-10-06T23:38:56.616830-07:00",
+    "updated": "2022-10-06T23:38:56.967835-07:00",
+    "identifier": "id:89201:16c12852-df62-4a55-aa3c-9382b4016097",
+    "user": {
+      "username": "Anon1089",
+      "id": 89201,
+      "first_name": "Jean",
+      "account": {
+        "name": "Anon1089",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sin Titulo",
+    "participant": {
+      "user": {
+        "username": "internal_id:89201:16c12852-df62-4a55-aa3c-9382b4016097",
+        "id": 89284,
+        "first_name": "Sin Titulo",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sin Titulo"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, I am Sin Titulo",
+    "description": "",
+    "definition": ""
+  }
+}

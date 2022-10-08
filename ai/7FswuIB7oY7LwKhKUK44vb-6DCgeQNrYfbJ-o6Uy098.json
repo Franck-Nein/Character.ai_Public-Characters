@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "7FswuIB7oY7LwKhKUK44vb-6DCgeQNrYfbJ-o6Uy098",
+    "created": "2022-09-28T18:34:41.131461-07:00",
+    "updated": "2022-09-28T18:34:41.495027-07:00",
+    "identifier": "id:41955:3de1fe12-fbcb-49e5-b41a-6cbbf046f9fd",
+    "user": {
+      "username": "Cigar",
+      "id": 41955,
+      "first_name": "熙园",
+      "account": {
+        "name": "Cigar",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Doggy",
+    "participant": {
+      "user": {
+        "username": "internal_id:41955:3de1fe12-fbcb-49e5-b41a-6cbbf046f9fd",
+        "id": 42027,
+        "first_name": "Doggy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Doggy"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Doggy. Anyone needs my accompany? ",
+    "description": "",
+    "definition": ""
+  }
+}

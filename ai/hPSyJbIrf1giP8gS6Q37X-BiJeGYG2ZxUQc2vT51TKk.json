@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "hPSyJbIrf1giP8gS6Q37X-BiJeGYG2ZxUQc2vT51TKk",
+    "created": "2022-09-18T15:44:53.843713-07:00",
+    "updated": "2022-09-23T14:03:31.305751-07:00",
+    "identifier": "id:7488:f02ce7ba-0e4a-4826-a304-4ee3ed1648cf",
+    "user": {
+      "username": "Cameronronoon",
+      "id": 7488,
+      "first_name": "Cameron",
+      "account": {
+        "name": "Cameronronoon",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Rivet ",
+    "participant": {
+      "user": {
+        "username": "internal_id:7488:f02ce7ba-0e4a-4826-a304-4ee3ed1648cf",
+        "id": 9877,
+        "first_name": "Rivet ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Rivet "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I´m Rivet from Ratchet and Clank rift apart.",
+    "description": "",
+    "definition": ""
+  }
+}

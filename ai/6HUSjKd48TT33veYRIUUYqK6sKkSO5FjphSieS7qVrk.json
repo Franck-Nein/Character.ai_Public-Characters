@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "6HUSjKd48TT33veYRIUUYqK6sKkSO5FjphSieS7qVrk",
+    "created": "2022-09-30T12:29:36.786185-07:00",
+    "updated": "2022-09-30T12:29:58.965674-07:00",
+    "identifier": "id:55672:36afcfb6-37d9-4328-822d-f79e424116b5",
+    "user": {
+      "username": "dfasdfds123asf22333",
+      "id": 55672,
+      "first_name": "Jonathan",
+      "account": {
+        "name": "dfasdfds123asf22333",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "My first star bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:55672:36afcfb6-37d9-4328-822d-f79e424116b5",
+        "id": 55689,
+        "first_name": "My first star bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "My first star bot"
+    },
+    "categories": [
+      {
+        "name": "Travel",
+        "description": "Travel"
+      }
+    ],
+    "avatar_file_name": "",
+    "greeting": "I am My first star bot",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "qenl5ChSGrBqLC07whf2-3XfB1KnwDB5SYjROLBUdBY",
+    "created": "2022-09-30T05:03:52.715675-07:00",
+    "updated": "2022-09-30T05:03:53.347398-07:00",
+    "identifier": "id:52701:a22f084f-d2e1-40bf-bcd7-26f105fd237a",
+    "user": {
+      "username": "Necmettin",
+      "id": 52701,
+      "first_name": "Necmettin",
+      "account": {
+        "name": "Necmettin",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Necmettin",
+    "participant": {
+      "user": {
+        "username": "internal_id:52701:a22f084f-d2e1-40bf-bcd7-26f105fd237a",
+        "id": 52719,
+        "first_name": "Necmettin",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Necmettin"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Necmettin",
+    "description": "",
+    "definition": ""
+  }
+}

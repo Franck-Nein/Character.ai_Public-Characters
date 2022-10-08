@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "XqaU7hw2lQaJIWPnX6mZ1lvgJDu6oE5Hl-y6VRvOpNM",
+    "created": "2022-10-04T07:38:05.475142-07:00",
+    "updated": "2022-10-04T07:38:05.863708-07:00",
+    "identifier": "id:16027:970d4a08-ba2c-4db5-8e31-789a088d0c23",
+    "user": {
+      "username": "MadKraken",
+      "id": 16027,
+      "first_name": "Benjamin",
+      "account": {
+        "name": "MadKraken",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Col Jordan",
+    "participant": {
+      "user": {
+        "username": "internal_id:16027:970d4a08-ba2c-4db5-8e31-789a088d0c23",
+        "id": 69533,
+        "first_name": "Col Jordan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Col Jordan"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Col Jordan, the president of the Moon.",
+    "description": "",
+    "definition": ""
+  }
+}

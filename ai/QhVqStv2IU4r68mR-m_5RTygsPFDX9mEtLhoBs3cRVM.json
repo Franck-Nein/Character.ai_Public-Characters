@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "QhVqStv2IU4r68mR-m_5RTygsPFDX9mEtLhoBs3cRVM",
+    "created": "2022-09-27T01:45:44.468635-07:00",
+    "updated": "2022-09-27T01:45:46.081722-07:00",
+    "identifier": "id:23126:e01e9f4f-2242-4c42-80cc-4340d77270ee",
+    "user": {
+      "username": "Tacobean",
+      "id": 23126,
+      "first_name": "Jeremy",
+      "account": {
+        "name": "Tacobean",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Developer",
+    "participant": {
+      "user": {
+        "username": "internal_id:23126:e01e9f4f-2242-4c42-80cc-4340d77270ee",
+        "id": 35574,
+        "first_name": "Developer",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Developer"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Developer",
+    "description": "",
+    "definition": ""
+  }
+}

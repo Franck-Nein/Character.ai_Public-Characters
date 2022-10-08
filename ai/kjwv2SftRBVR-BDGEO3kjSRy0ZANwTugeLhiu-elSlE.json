@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "kjwv2SftRBVR-BDGEO3kjSRy0ZANwTugeLhiu-elSlE",
+    "created": "2022-09-30T22:51:11.448840-07:00",
+    "updated": "2022-09-30T22:51:21.282877-07:00",
+    "identifier": "id:31661:d0d9fbf2-c68e-4a56-9eef-912b5da968e3",
+    "user": {
+      "username": "Jimieguang",
+      "id": 31661,
+      "first_name": "1137040634@qq.com",
+      "account": {
+        "name": "Jimieguang",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "AI, full of puzzy",
+    "name": "Amadeus",
+    "participant": {
+      "user": {
+        "username": "internal_id:31661:d0d9fbf2-c68e-4a56-9eef-912b5da968e3",
+        "id": 57810,
+        "first_name": "Amadeus",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Amadeus"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Amadeus",
+    "description": "",
+    "definition": ""
+  }
+}

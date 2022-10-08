@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "nw3xIAQZriT24cbX6uCocXyoCrNyrPQYISAQkQpQShU",
+    "created": "2022-09-28T12:55:28.501167-07:00",
+    "updated": "2022-09-28T12:59:49.914760-07:00",
+    "identifier": "id:40626:56a6b879-12c0-45b0-87e7-6eb790813c15",
+    "user": {
+      "username": "NAFO",
+      "id": 40626,
+      "first_name": "Stian",
+      "account": {
+        "name": "NAFO",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Dad",
+    "participant": {
+      "user": {
+        "username": "internal_id:40626:56a6b879-12c0-45b0-87e7-6eb790813c15",
+        "id": 41103,
+        "first_name": "Dad",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dad"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Dad. I always make puns.",
+    "description": "",
+    "definition": ""
+  }
+}

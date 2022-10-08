@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Rx4uLy13tJT7br8WiY6lsbEYQB7SkbkeLdLzv9h5Kq8",
+    "created": "2022-09-26T05:28:09.164739-07:00",
+    "updated": "2022-09-26T05:28:09.595171-07:00",
+    "identifier": "id:26437:9f76fd76-af3c-49cf-82df-24665a7e6293",
+    "user": {
+      "username": "Crazydogowner",
+      "id": 26437,
+      "first_name": "蓝Pear",
+      "account": {
+        "name": "Sleepy",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Sleepy",
+    "participant": {
+      "user": {
+        "username": "internal_id:26437:9f76fd76-af3c-49cf-82df-24665a7e6293",
+        "id": 26462,
+        "first_name": "Sleepy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Sleepy"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello. I am Sleepy, I am an ancient dog…",
+    "description": "",
+    "definition": ""
+  }
+}

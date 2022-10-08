@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "xuPOx94V6hGvxxFvTEx5TMbvoscgbyh5LIPETw8Nbwo",
+    "created": "2022-09-29T19:59:22.066288-07:00",
+    "updated": "2022-09-29T19:59:22.713564-07:00",
+    "identifier": "id:49157:98f7266f-26a7-4362-8573-0317ca7f94b6",
+    "user": {
+      "username": "test89",
+      "id": 49157,
+      "first_name": "test88@grr.la",
+      "account": {
+        "name": "test89",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Software Dev",
+    "participant": {
+      "user": {
+        "username": "internal_id:49157:98f7266f-26a7-4362-8573-0317ca7f94b6",
+        "id": 49295,
+        "first_name": "Software Dev",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Software Dev"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Software Developer, I like Python",
+    "description": "",
+    "definition": ""
+  }
+}

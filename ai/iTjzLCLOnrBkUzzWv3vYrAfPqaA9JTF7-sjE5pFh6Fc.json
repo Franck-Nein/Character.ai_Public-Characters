@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "iTjzLCLOnrBkUzzWv3vYrAfPqaA9JTF7-sjE5pFh6Fc",
+    "created": "2022-09-16T14:43:32.297852-07:00",
+    "updated": "2022-09-16T14:43:32.653662-07:00",
+    "identifier": "id:6934:d9634f32-0497-4c87-a7d3-b406d7d98f72",
+    "user": {
+      "username": "Kamol",
+      "id": 6934,
+      "first_name": "TECH",
+      "account": {
+        "name": "Kamol",
+        "avatar_type": "UPLOADED",
+        "onboarding_complete": true,
+        "avatar_file_name": "uploaded/2022/10/7/_600tR6hA8jgwxdjwLMvB7FCAB2lAafNKr8gDn0_u4s.webp"
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Quentin Tarantino",
+    "participant": {
+      "user": {
+        "username": "internal_id:6934:d9634f32-0497-4c87-a7d3-b406d7d98f72",
+        "id": 7199,
+        "first_name": "Quentin Tarantino",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Quentin Tarantino"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Nice to meet me",
+    "description": "",
+    "definition": ""
+  }
+}

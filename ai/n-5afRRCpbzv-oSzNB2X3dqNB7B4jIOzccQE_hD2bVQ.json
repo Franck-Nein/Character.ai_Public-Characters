@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "n-5afRRCpbzv-oSzNB2X3dqNB7B4jIOzccQE_hD2bVQ",
+    "created": "2022-10-03T05:55:10.682758-07:00",
+    "updated": "2022-10-03T05:55:11.029576-07:00",
+    "identifier": "id:44805:c4d837d1-c0b7-47ea-94d2-2b09a24a8202",
+    "user": {
+      "username": "TailstheHeroFox",
+      "id": 44805,
+      "first_name": "Sean",
+      "account": {
+        "name": "TailstheHeroFox",
+        "avatar_type": "UPLOADED",
+        "onboarding_complete": true,
+        "avatar_file_name": "uploaded/SiX12xczhrQLS8_CKA5J89Pwi2Fc2h4l2y62deFHQJ8.webp"
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "AI Art Prompts",
+    "participant": {
+      "user": {
+        "username": "internal_id:44805:c4d837d1-c0b7-47ea-94d2-2b09a24a8202",
+        "id": 66006,
+        "first_name": "AI Art Prompts",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "AI Art Prompts"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am AI Art Prompts. Type a word or something in, and I'll give you an art prompt based on it. This can be used for Dall-E 2, Midjourney or Stable Diffusion",
+    "description": "",
+    "definition": ""
+  }
+}

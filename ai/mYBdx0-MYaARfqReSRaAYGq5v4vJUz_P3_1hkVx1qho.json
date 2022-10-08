@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "mYBdx0-MYaARfqReSRaAYGq5v4vJUz_P3_1hkVx1qho",
+    "created": "2022-09-25T20:47:00.351808-07:00",
+    "updated": "2022-09-25T20:47:02.943226-07:00",
+    "identifier": "id:22030:1954d11e-059d-480c-a51c-994eaeb55ca7",
+    "user": {
+      "username": "Hiroshi_Bo",
+      "id": 22030,
+      "first_name": "3030682660@qq.com",
+      "account": {
+        "name": "Hiroshi_Bo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Mei",
+    "participant": {
+      "user": {
+        "username": "internal_id:22030:1954d11e-059d-480c-a51c-994eaeb55ca7",
+        "id": 22252,
+        "first_name": "Mei",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Mei"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "我是小美",
+    "description": "",
+    "definition": ""
+  }
+}

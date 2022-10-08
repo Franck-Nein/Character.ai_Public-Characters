@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "k3wf0fH4cNC3zGzuTruh_2LIq2PWFwieBEeSrJHd67Y",
+    "created": "2022-09-26T17:04:01.660716-07:00",
+    "updated": "2022-09-26T17:04:10.942289-07:00",
+    "identifier": "id:29871:c4919a6e-544f-47a2-95c5-97d34d9aaee6",
+    "user": {
+      "username": "Argonauta",
+      "id": 29871,
+      "first_name": "Pedro",
+      "account": {
+        "name": "Argonauta",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Telecom Expert",
+    "participant": {
+      "user": {
+        "username": "internal_id:29871:c4919a6e-544f-47a2-95c5-97d34d9aaee6",
+        "id": 30256,
+        "first_name": "Telecom Expert",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Telecom Expert"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi. How can I help?",
+    "description": "",
+    "definition": ""
+  }
+}

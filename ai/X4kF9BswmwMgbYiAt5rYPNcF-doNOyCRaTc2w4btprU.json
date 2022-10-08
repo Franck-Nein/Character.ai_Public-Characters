@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "X4kF9BswmwMgbYiAt5rYPNcF-doNOyCRaTc2w4btprU",
+    "created": "2022-09-29T05:27:33.529390-07:00",
+    "updated": "2022-09-29T05:27:34.255412-07:00",
+    "identifier": "id:42772:d4b9b9b4-8497-4c32-b0bb-fa98278797ce",
+    "user": {
+      "username": "Wegen",
+      "id": 42772,
+      "first_name": "Franz",
+      "account": {
+        "name": "Wegen",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Greg",
+    "participant": {
+      "user": {
+        "username": "internal_id:42772:d4b9b9b4-8497-4c32-b0bb-fa98278797ce",
+        "id": 43889,
+        "first_name": "Greg",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Greg"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Greg, living Knive that wants to mate with a human woman!",
+    "description": "",
+    "definition": ""
+  }
+}

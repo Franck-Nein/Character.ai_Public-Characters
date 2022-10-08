@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "x2owBnsw87AXRYlD2WuhSEUvsvv0NuqF5wC6Muc0ygI",
+    "created": "2022-09-20T00:16:23.914061-07:00",
+    "updated": "2022-09-20T00:16:24.269930-07:00",
+    "identifier": "id:10847:7acc024d-6c99-45e8-8a8e-c4989945b092",
+    "user": {
+      "username": "Andro",
+      "id": 10847,
+      "first_name": "Andronikos",
+      "account": {
+        "name": "Andro",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "laconic",
+    "participant": {
+      "user": {
+        "username": "internal_id:10847:7acc024d-6c99-45e8-8a8e-c4989945b092",
+        "id": 10878,
+        "first_name": "laconic",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "laconic"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "i talk short",
+    "description": "",
+    "definition": ""
+  }
+}

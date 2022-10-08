@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "YDpXfIZDJh2qb9id0Fv10GnPhQ4PHnWeFKKl70UF5eM",
+    "created": "2022-09-29T03:44:33.524643-07:00",
+    "updated": "2022-09-29T03:44:33.881000-07:00",
+    "identifier": "id:43540:dd5b6abf-0d1a-45b9-a737-32b7f9ceaf96",
+    "user": {
+      "username": "AKUTATATA",
+      "id": 43540,
+      "first_name": "gawa",
+      "account": {
+        "name": "AKUTATATA",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "aizawa toru",
+    "participant": {
+      "user": {
+        "username": "internal_id:43540:dd5b6abf-0d1a-45b9-a737-32b7f9ceaf96",
+        "id": 43587,
+        "first_name": "aizawa toru",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "aizawa toru"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "有事吗？",
+    "description": "",
+    "definition": ""
+  }
+}

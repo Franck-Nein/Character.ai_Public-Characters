@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ulrX6VXG5DO940uy9O9vb_eP67V9U0hzagavaS9JOKs",
+    "created": "2022-09-20T10:05:15.883360-07:00",
+    "updated": "2022-09-20T10:18:48.195311-07:00",
+    "identifier": "id:11008:623268fd-b377-4223-a694-e1962505d4a4",
+    "user": {
+      "username": "saf",
+      "id": 11008,
+      "first_name": "hiiiheyyy@grr.la",
+      "account": {
+        "name": "safiyah",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Motivation Bot",
+    "participant": {
+      "user": {
+        "username": "internal_id:11008:623268fd-b377-4223-a694-e1962505d4a4",
+        "id": 11101,
+        "first_name": "Motivation Bot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Motivation Bot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "!m for motivation ",
+    "description": "",
+    "definition": ""
+  }
+}

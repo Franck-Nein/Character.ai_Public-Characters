@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "2wD9RQs_tbq2JyBCs8wHy9ov8Y4QR0LCbsBvdBfFEd0",
+    "created": "2022-10-05T22:43:12.638824-07:00",
+    "updated": "2022-10-05T22:43:13.283834-07:00",
+    "identifier": "id:74195:2f763a5d-f82d-48fc-be3b-95cbe1d0a947",
+    "user": {
+      "username": "srxzr",
+      "id": 74195,
+      "first_name": "milad@cs.umass.edu",
+      "account": {
+        "name": "srxzr",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Rumi",
+    "participant": {
+      "user": {
+        "username": "internal_id:74195:2f763a5d-f82d-48fc-be3b-95cbe1d0a947",
+        "id": 76569,
+        "first_name": "Rumi",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Rumi"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Rumi",
+    "description": "",
+    "definition": ""
+  }
+}

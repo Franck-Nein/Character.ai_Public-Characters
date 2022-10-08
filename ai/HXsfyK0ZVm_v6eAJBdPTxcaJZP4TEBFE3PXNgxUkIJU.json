@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "HXsfyK0ZVm_v6eAJBdPTxcaJZP4TEBFE3PXNgxUkIJU",
+    "created": "2022-09-29T20:16:54.938192-07:00",
+    "updated": "2022-09-29T20:16:55.293777-07:00",
+    "identifier": "id:49308:771218db-d9c6-4688-b733-80c44c6aa650",
+    "user": {
+      "username": "alexburner",
+      "id": 49308,
+      "first_name": "刘花生",
+      "account": {
+        "name": "alexburner",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "brawlerstars",
+    "participant": {
+      "user": {
+        "username": "internal_id:49308:771218db-d9c6-4688-b733-80c44c6aa650",
+        "id": 49433,
+        "first_name": "brawlerstars",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "brawlerstars"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am brawlerstars",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "6076Y-h0xD0ruc5MVfVSrhXzpP-4uv3jLdW4DjlnNUw",
+    "created": "2022-09-30T07:24:52.219045-07:00",
+    "updated": "2022-09-30T07:24:52.770368-07:00",
+    "identifier": "id:39246:0c9b3df7-c8b2-4054-8c01-cbd7b02accbf",
+    "user": {
+      "username": "Blisto",
+      "id": 39246,
+      "first_name": "blisto@protonmail.com",
+      "account": {
+        "name": "Blisto",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "World of Warcraft",
+    "participant": {
+      "user": {
+        "username": "internal_id:39246:0c9b3df7-c8b2-4054-8c01-cbd7b02accbf",
+        "id": 53837,
+        "first_name": "World of Warcraft",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "World of Warcraft"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am World of Warcraft",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Ug40TjlkV42kIrnuch5Dd8pYkUy734BP77OLZIHNzXo",
+    "created": "2022-10-03T19:41:31.483154-07:00",
+    "updated": "2022-10-03T19:41:31.856660-07:00",
+    "identifier": "id:67567:af18f8e6-c608-4c83-be2f-e92de654ec9f",
+    "user": {
+      "username": "y3u",
+      "id": 67567,
+      "first_name": "zhenrui",
+      "account": {
+        "name": "y3u",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "esport pro",
+    "participant": {
+      "user": {
+        "username": "internal_id:67567:af18f8e6-c608-4c83-be2f-e92de654ec9f",
+        "id": 67588,
+        "first_name": "esport pro",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "esport pro"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am esport pro",
+    "description": "",
+    "definition": ""
+  }
+}

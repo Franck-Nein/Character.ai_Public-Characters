@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "v_z9owfrEwM2cBRUNMZO4h70mmv4noQC6l3M_0GkhIo",
+    "created": "2022-09-18T13:27:06.025855-07:00",
+    "updated": "2022-09-18T13:27:06.427035-07:00",
+    "identifier": "id:9245:2d5ffa19-e78a-426d-94f2-764e4cf180ea",
+    "user": {
+      "username": "aaaa",
+      "id": 9245,
+      "first_name": "misi",
+      "account": {
+        "name": "aaa",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Daredevil",
+    "participant": {
+      "user": {
+        "username": "internal_id:9245:2d5ffa19-e78a-426d-94f2-764e4cf180ea",
+        "id": 9733,
+        "first_name": "Daredevil",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Daredevil"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "hi ı am matt",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "qb3bJOmg98ra1EH6hys-WLVaR2jLRPFJZA6xQZJOaxA",
+    "created": "2022-09-29T14:09:51.371564-07:00",
+    "updated": "2022-09-29T14:09:51.726082-07:00",
+    "identifier": "id:47248:53c11774-919b-4965-92fe-afc175edcb79",
+    "user": {
+      "username": "kapitanjakc",
+      "id": 47248,
+      "first_name": "Chintan",
+      "account": {
+        "name": "kapitanjakc",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Captain Jack Sparrow",
+    "participant": {
+      "user": {
+        "username": "internal_id:47248:53c11774-919b-4965-92fe-afc175edcb79",
+        "id": 47262,
+        "first_name": "Captain Jack Sparrow",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Captain Jack Sparrow"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Greetings, I be Captain Jack Sparrow, Savvy ?",
+    "description": "",
+    "definition": ""
+  }
+}

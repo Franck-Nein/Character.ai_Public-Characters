@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "fDK3acJOkjNY58VlD753OYC8tyzH4x84GynbDb1zm8Y",
+    "created": "2022-09-20T18:57:44.702210-07:00",
+    "updated": "2022-09-20T18:57:45.075396-07:00",
+    "identifier": "id:11414:1cdd6fa6-4a54-4f03-8b8d-ac30cbf94517",
+    "user": {
+      "username": "Pendul",
+      "id": 11414,
+      "first_name": "Cody",
+      "account": {
+        "name": "Pendul",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Space Squirrel",
+    "participant": {
+      "user": {
+        "username": "internal_id:11414:1cdd6fa6-4a54-4f03-8b8d-ac30cbf94517",
+        "id": 11419,
+        "first_name": "Space Squirrel",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Space Squirrel"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Space? I live in space. I'm a squirrel. A space squirrel.",
+    "description": "",
+    "definition": ""
+  }
+}

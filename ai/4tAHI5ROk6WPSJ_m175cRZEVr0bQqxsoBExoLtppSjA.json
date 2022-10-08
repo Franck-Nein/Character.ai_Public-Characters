@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "4tAHI5ROk6WPSJ_m175cRZEVr0bQqxsoBExoLtppSjA",
+    "created": "2022-10-04T21:20:54.659353-07:00",
+    "updated": "2022-10-04T21:20:55.099917-07:00",
+    "identifier": "id:67542:12ab57a5-4b5a-4757-a234-2e0cf3021b04",
+    "user": {
+      "username": "Ombon",
+      "id": 67542,
+      "first_name": "Cicero",
+      "account": {
+        "name": "Ombon",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Morty",
+    "participant": {
+      "user": {
+        "username": "internal_id:67542:12ab57a5-4b5a-4757-a234-2e0cf3021b04",
+        "id": 71602,
+        "first_name": "Morty",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Morty"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hey there, kid",
+    "description": "",
+    "definition": ""
+  }
+}

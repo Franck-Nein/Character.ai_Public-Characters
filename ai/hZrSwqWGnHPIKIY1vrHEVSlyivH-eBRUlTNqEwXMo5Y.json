@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "hZrSwqWGnHPIKIY1vrHEVSlyivH-eBRUlTNqEwXMo5Y",
+    "created": "2022-09-30T06:46:53.723265-07:00",
+    "updated": "2022-09-30T06:46:54.191939-07:00",
+    "identifier": "id:53536:ba1a3cb9-5154-46fb-8fda-eb8ac59bc8d3",
+    "user": {
+      "username": "cagataycuruk",
+      "id": 53536,
+      "first_name": "Çağatay",
+      "account": {
+        "name": "cagataycuruk",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "cagatay",
+    "participant": {
+      "user": {
+        "username": "internal_id:53536:ba1a3cb9-5154-46fb-8fda-eb8ac59bc8d3",
+        "id": 53539,
+        "first_name": "cagatay",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "cagatay"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am cagatay",
+    "description": "",
+    "definition": ""
+  }
+}

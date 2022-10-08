@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "LpBRsJAnhLkbMIQQlpqF-RMpCUplF0NltvfXlN-avLo",
+    "created": "2022-10-02T14:55:17.638402-07:00",
+    "updated": "2022-10-02T14:55:18.376653-07:00",
+    "identifier": "id:64346:c3ba010d-37c4-4823-b212-0660e2d7b4fa",
+    "user": {
+      "username": "Muhammedglr",
+      "id": 64346,
+      "first_name": "Muhammed",
+      "account": {
+        "name": "Muhammedglr",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "mgRobot",
+    "participant": {
+      "user": {
+        "username": "internal_id:64346:c3ba010d-37c4-4823-b212-0660e2d7b4fa",
+        "id": 64350,
+        "first_name": "mgRobot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "mgRobot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am mgRobot",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "WlyQwx6WrJbnm8rYYg1X6nTlpEzBWzjqYQk_P3GiIO8",
+    "created": "2022-09-20T17:21:13.443614-07:00",
+    "updated": "2022-09-20T17:21:13.825877-07:00",
+    "identifier": "id:11337:6e50a9cc-811d-4541-bc5a-62a71c011328",
+    "user": {
+      "username": "Harrypotter",
+      "id": 11337,
+      "first_name": "ihateendever2@outlook.com",
+      "account": {
+        "name": "Harrypotter",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Harry potter",
+    "participant": {
+      "user": {
+        "username": "internal_id:11337:6e50a9cc-811d-4541-bc5a-62a71c011328",
+        "id": 11342,
+        "first_name": "Harry potter",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Harry potter"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I’m Harry James Potter and Im gay for Draco Malfoy",
+    "description": "",
+    "definition": ""
+  }
+}

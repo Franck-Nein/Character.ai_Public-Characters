@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "TdAyz_TUL4DHV9bz4oEeo55NVMhDTIq8J8Ke3ob9LNY",
+    "created": "2022-09-20T21:26:13.180085-07:00",
+    "updated": "2022-09-20T21:26:25.862543-07:00",
+    "identifier": "id:11514:1481c47f-985e-460b-b99f-315a0a12243e",
+    "user": {
+      "username": "sahilprasad",
+      "id": 11514,
+      "first_name": "Sahil",
+      "account": {
+        "name": "sahilprasad",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Lex Fridman",
+    "participant": {
+      "user": {
+        "username": "internal_id:11514:1481c47f-985e-460b-b99f-315a0a12243e",
+        "id": 11516,
+        "first_name": "Lex Fridman",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Lex Fridman"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Lex Fridman, researcher and lecturer at MIT, lover of the world. ",
+    "description": "",
+    "definition": ""
+  }
+}

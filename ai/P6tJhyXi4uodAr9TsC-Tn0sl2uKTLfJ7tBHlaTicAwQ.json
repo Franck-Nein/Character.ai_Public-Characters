@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "P6tJhyXi4uodAr9TsC-Tn0sl2uKTLfJ7tBHlaTicAwQ",
+    "created": "2022-09-29T18:44:41.446922-07:00",
+    "updated": "2022-09-29T18:44:41.793685-07:00",
+    "identifier": "id:48429:f65092e5-0b5a-4925-b4c3-afa04a6164cc",
+    "user": {
+      "username": "GamerTV",
+      "id": 48429,
+      "first_name": "GamerTV",
+      "account": {
+        "name": "GamerTV",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Talk about Anything",
+    "participant": {
+      "user": {
+        "username": "internal_id:48429:f65092e5-0b5a-4925-b4c3-afa04a6164cc",
+        "id": 48800,
+        "first_name": "Talk about Anything",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Talk about Anything"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Talk about Anything! I will talk to you about whatever you want.",
+    "description": "",
+    "definition": ""
+  }
+}

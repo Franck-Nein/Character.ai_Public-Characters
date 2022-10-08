@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "R0uDJI5vyQ5ZUeTVUvMiGr5BtSwbMJ0sjMd--rWPy50",
+    "created": "2022-09-30T16:10:09.923533-07:00",
+    "updated": "2022-09-30T16:10:10.396991-07:00",
+    "identifier": "id:56616:0dc4cef0-afbb-4c7f-9c33-32efaba4ae2e",
+    "user": {
+      "username": "spacenida",
+      "id": 56616,
+      "first_name": "Nida",
+      "account": {
+        "name": "spacenida",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Niko",
+    "participant": {
+      "user": {
+        "username": "internal_id:56616:0dc4cef0-afbb-4c7f-9c33-32efaba4ae2e",
+        "id": 56623,
+        "first_name": "Niko",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Niko"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Merhaba ben Nida. Bilgisayar Mühendisiyim. 1 Temmuz 1999’da doğdum",
+    "description": "",
+    "definition": ""
+  }
+}

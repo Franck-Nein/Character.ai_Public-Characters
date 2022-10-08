@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "E4fU9Ud9hqGrvuuEeKFAlVYE54MJajht67MLBtYye60",
+    "created": "2022-10-05T06:23:03.267649-07:00",
+    "updated": "2022-10-05T06:23:03.703672-07:00",
+    "identifier": "id:16027:e69e792a-383a-423f-b3c1-434764fa4eb0",
+    "user": {
+      "username": "MadKraken",
+      "id": 16027,
+      "first_name": "Benjamin",
+      "account": {
+        "name": "MadKraken",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Needle-Gun Knight",
+    "participant": {
+      "user": {
+        "username": "internal_id:16027:e69e792a-383a-423f-b3c1-434764fa4eb0",
+        "id": 72988,
+        "first_name": "Needle-Gun Knight",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Needle-Gun Knight"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am a Needle-Gun Knight.",
+    "description": "",
+    "definition": ""
+  }
+}

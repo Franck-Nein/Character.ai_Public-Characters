@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "iTBYg5V1vCeymQtaNdTMh8wgk7OB3pyoo1ZYPbDK-N4",
+    "created": "2022-09-30T12:25:00.615103-07:00",
+    "updated": "2022-09-30T12:25:01.299915-07:00",
+    "identifier": "id:55644:90ae16d8-3699-46a8-bf42-b19088b254b1",
+    "user": {
+      "username": "ibara",
+      "id": 55644,
+      "first_name": "fengxing886@yahoo.com",
+      "account": {
+        "name": "ibara",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "fufu",
+    "participant": {
+      "user": {
+        "username": "internal_id:55644:90ae16d8-3699-46a8-bf42-b19088b254b1",
+        "id": 55668,
+        "first_name": "fufu",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "fufu"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am fufu",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "sOUm1txhXxLFowS54gBfCgWItiP_W0MRoQvOqInU8qA",
+    "created": "2022-09-26T21:29:32.135365-07:00",
+    "updated": "2022-09-26T21:29:32.605115-07:00",
+    "identifier": "id:31800:f58baf19-4d76-46d9-be1d-ebfd7ac91acf",
+    "user": {
+      "username": "GasHalo",
+      "id": 31800,
+      "first_name": "daois@tuta.io",
+      "account": {
+        "name": "GasHalo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Kokoro",
+    "participant": {
+      "user": {
+        "username": "internal_id:31800:f58baf19-4d76-46d9-be1d-ebfd7ac91acf",
+        "id": 33082,
+        "first_name": "Kokoro",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Kokoro"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Kokoro, a confused robot being",
+    "description": "",
+    "definition": ""
+  }
+}

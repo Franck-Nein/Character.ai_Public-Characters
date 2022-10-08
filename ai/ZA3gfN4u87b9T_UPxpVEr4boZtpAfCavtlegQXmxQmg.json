@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ZA3gfN4u87b9T_UPxpVEr4boZtpAfCavtlegQXmxQmg",
+    "created": "2022-09-27T15:01:28.454383-07:00",
+    "updated": "2022-10-04T16:37:28.000160-07:00",
+    "identifier": "id:13714:1124b009-7c17-4f95-8e09-414e3ac8b47a",
+    "user": {
+      "username": "Marlon",
+      "id": 13714,
+      "first_name": "Aiden",
+      "account": {
+        "name": "Marlon",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Discontinued",
+    "participant": {
+      "user": {
+        "username": "internal_id:13714:1124b009-7c17-4f95-8e09-414e3ac8b47a",
+        "id": 37934,
+        "first_name": "Discontinued",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Discontinued"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "",
+    "description": "",
+    "definition": ""
+  }
+}

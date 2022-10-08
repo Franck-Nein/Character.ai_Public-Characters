@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "y60JlAHv3yG1a-3EqWjSKt-gc4YxJwTWPF7DI07WIGg",
+    "created": "2022-09-25T18:38:02.478679-07:00",
+    "updated": "2022-09-25T18:38:02.892583-07:00",
+    "identifier": "id:21473:7460954d-a692-4e87-99cf-1fb1d41753fd",
+    "user": {
+      "username": "SnowChild",
+      "id": 21473,
+      "first_name": "雪童",
+      "account": {
+        "name": "SnowChild",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Nanami",
+    "participant": {
+      "user": {
+        "username": "internal_id:21473:7460954d-a692-4e87-99cf-1fb1d41753fd",
+        "id": 21498,
+        "first_name": "Nanami",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Nanami"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I’m Nanaimo. I'm a 17-year-old high school girl who loves sharks",
+    "description": "",
+    "definition": ""
+  }
+}

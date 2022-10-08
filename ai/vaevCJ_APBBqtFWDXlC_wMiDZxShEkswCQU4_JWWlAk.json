@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "vaevCJ_APBBqtFWDXlC_wMiDZxShEkswCQU4_JWWlAk",
+    "created": "2022-09-22T02:22:41.825495-07:00",
+    "updated": "2022-09-22T02:22:49.106059-07:00",
+    "identifier": "id:13202:06aa9e49-c6fa-4f91-9306-a5f57fa0e3a4",
+    "user": {
+      "username": "happytestgirl",
+      "id": 13202,
+      "first_name": "ziyun",
+      "account": {
+        "name": "happytestgirl",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "adboy",
+    "participant": {
+      "user": {
+        "username": "internal_id:13202:06aa9e49-c6fa-4f91-9306-a5f57fa0e3a4",
+        "id": 13231,
+        "first_name": "adboy",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "adboy"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "",
+    "description": "",
+    "definition": ""
+  }
+}

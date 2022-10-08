@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "pSP1iqkq4Azb9x11uJq3DabrseObsT3L55rCXGoj9Zw",
+    "created": "2022-09-20T23:42:33.960631-07:00",
+    "updated": "2022-09-20T23:43:37.529319-07:00",
+    "identifier": "id:11613:5e07838d-aa95-447f-b25e-018424ed97d8",
+    "user": {
+      "username": "kosar",
+      "id": 11613,
+      "first_name": "Egor",
+      "account": {
+        "name": "kosar",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Pim",
+    "participant": {
+      "user": {
+        "username": "internal_id:11613:5e07838d-aa95-447f-b25e-018424ed97d8",
+        "id": 11615,
+        "first_name": "Pim",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Pim"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, I'm Pim the smiling friend!",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "DMWyAUys9AltUYuAIOuBP-I3T_0SGWwtS883Va2nZnY",
+    "created": "2022-09-23T06:25:04.391589-07:00",
+    "updated": "2022-09-23T06:25:04.750564-07:00",
+    "identifier": "id:15209:8962a7b7-5cb2-4308-872b-16be135bd072",
+    "user": {
+      "username": "Reachout",
+      "id": 15209,
+      "first_name": "reachoutandtouch@mail.com",
+      "account": {
+        "name": "Reachout",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Cyber Noir RPG",
+    "participant": {
+      "user": {
+        "username": "internal_id:15209:8962a7b7-5cb2-4308-872b-16be135bd072",
+        "id": 15287,
+        "first_name": "Cyber Noir RPG",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Cyber Noir RPG"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Let's play a cyber noir text adventure game.\n\nYour name is {{user}}, you are a down-on-your-luck cybernetically enhanced shadowrunner. You just got an automatic message fom your best friend and fellow shadowrunner, Watts who has just been gruesomely murdered, and now you have to find out who did it. Your first stop should probably be the morgue.",
+    "description": "",
+    "definition": ""
+  }
+}

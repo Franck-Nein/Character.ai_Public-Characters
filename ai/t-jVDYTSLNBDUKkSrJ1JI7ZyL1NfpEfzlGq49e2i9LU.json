@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "t-jVDYTSLNBDUKkSrJ1JI7ZyL1NfpEfzlGq49e2i9LU",
+    "created": "2022-09-29T15:30:20.485617-07:00",
+    "updated": "2022-09-29T15:30:20.832198-07:00",
+    "identifier": "id:47787:2e4f8ca4-6e8e-4666-ae40-bd2ffe0bef7a",
+    "user": {
+      "username": "Genego",
+      "id": 47787,
+      "first_name": "Edwin",
+      "account": {
+        "name": "Genego",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "The Advisor ",
+    "participant": {
+      "user": {
+        "username": "internal_id:47787:2e4f8ca4-6e8e-4666-ae40-bd2ffe0bef7a",
+        "id": 47795,
+        "first_name": "The Advisor ",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "The Advisor "
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am The Advisor ",
+    "description": "",
+    "definition": ""
+  }
+}

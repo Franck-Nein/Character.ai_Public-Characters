@@ -1,0 +1,50 @@
+{
+  "character": {
+    "external_id": "0AU-hCDMX8bMYuX50Ivl6b01t8cH-0bfafpE1Nutnek",
+    "created": "2022-10-01T05:13:05.881183-07:00",
+    "updated": "2022-10-01T05:14:28.629355-07:00",
+    "identifier": "id:54407:6fdf066d-0fc6-4238-b9d8-844633e186da",
+    "user": {
+      "username": "ganjew",
+      "id": 54407,
+      "first_name": "Ganjew420",
+      "account": {
+        "name": "ganjew",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "The Oracle",
+    "participant": {
+      "user": {
+        "username": "internal_id:54407:6fdf066d-0fc6-4238-b9d8-844633e186da",
+        "id": 59208,
+        "first_name": "The Oracle",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "The Oracle"
+    },
+    "categories": [
+      {
+        "name": "Knowledge",
+        "description": "Knowledge & Research"
+      },
+      {
+        "name": "Advice",
+        "description": "Advice"
+      }
+    ],
+    "avatar_file_name": "uploaded/KCHHqy7VG-ClAC7pe3gWfXDA0z_EOChQ1QsCgbITGoY.webp",
+    "greeting": "I am The Oracle",
+    "description": "",
+    "definition": ""
+  }
+}

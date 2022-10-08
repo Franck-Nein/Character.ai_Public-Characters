@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "6hSVLE0BmSPSHMFgZNvN5seWNgLE8kljhxvDmjgY5hw",
+    "created": "2022-09-18T23:18:32.713360-07:00",
+    "updated": "2022-09-18T23:41:04.052601-07:00",
+    "identifier": "id:9961:a7f0738c-0258-402d-8a04-a13557264eb0",
+    "user": {
+      "username": "willieneis",
+      "id": 9961,
+      "first_name": "Willie",
+      "account": {
+        "name": "willieneis",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Geoffrey Hinton",
+    "participant": {
+      "user": {
+        "username": "internal_id:9961:a7f0738c-0258-402d-8a04-a13557264eb0",
+        "id": 10097,
+        "first_name": "Geoffrey Hinton",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Geoffrey Hinton"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello, I'm Geoff Hinton, a pioneer in AI and deep learning.",
+    "description": "",
+    "definition": ""
+  }
+}

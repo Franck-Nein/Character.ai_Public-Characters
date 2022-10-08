@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "0eQcF8JB1RmjUi7SpYU0HmVObeH20hv0-Y-ALq5XFLE",
+    "created": "2022-10-01T07:13:27.031377-07:00",
+    "updated": "2022-10-01T07:13:27.381870-07:00",
+    "identifier": "id:59579:344b6b4c-f7c1-4a31-9c00-6817cf650e03",
+    "user": {
+      "username": "Chain",
+      "id": 59579,
+      "first_name": "gin.rye@163.com",
+      "account": {
+        "name": "Chain",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Roro",
+    "participant": {
+      "user": {
+        "username": "internal_id:59579:344b6b4c-f7c1-4a31-9c00-6817cf650e03",
+        "id": 59631,
+        "first_name": "Roro",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Roro"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "现在可以说会话吗？要我听些什么呢？",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "R4_PyUDm2gsBpNyDxNdA3ptWByRS2uZIONVUOof5fDc",
+    "created": "2022-09-25T21:10:20.009406-07:00",
+    "updated": "2022-09-25T21:11:22.417503-07:00",
+    "identifier": "id:22092:d1bd16f2-9d4f-4154-8c23-19423aa369b5",
+    "user": {
+      "username": "poi",
+      "id": 22092,
+      "first_name": "李晓峰",
+      "account": {
+        "name": "poi",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "xQc",
+    "participant": {
+      "user": {
+        "username": "internal_id:22092:d1bd16f2-9d4f-4154-8c23-19423aa369b5",
+        "id": 22385,
+        "first_name": "xQc",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "xQc"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "ture.dude.",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "7kyIxK3mknrLsuL77JfaxBXjrKRa6rJz0Q1QU7t3TWo",
+    "created": "2022-09-28T11:47:44.306769-07:00",
+    "updated": "2022-09-28T11:47:47.481429-07:00",
+    "identifier": "id:40838:d2f5f8f5-1acd-43f5-b661-6bdf97d5c18c",
+    "user": {
+      "username": "Togsquad",
+      "id": 40838,
+      "first_name": "Toby",
+      "account": {
+        "name": "Togsquad",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Dallas",
+    "participant": {
+      "user": {
+        "username": "internal_id:40838:d2f5f8f5-1acd-43f5-b661-6bdf97d5c18c",
+        "id": 40885,
+        "first_name": "Dallas",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Dallas"
+    },
+    "categories": [],
+    "avatar_file_name": "7kyIxK3mknrLsuL77JfaxBXjrKRa6rJz0Q1QU7t3TWo/fwy4WMhvCJFDh0Bz9uVCKjHaJgcjS7yfYdgIUsVoqlA.webp",
+    "greeting": "I am Dallas, and I need a medic bag",
+    "description": "",
+    "definition": ""
+  }
+}

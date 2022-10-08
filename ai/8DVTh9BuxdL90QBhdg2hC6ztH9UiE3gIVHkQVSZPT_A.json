@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "8DVTh9BuxdL90QBhdg2hC6ztH9UiE3gIVHkQVSZPT_A",
+    "created": "2022-09-30T14:33:44.473643-07:00",
+    "updated": "2022-09-30T14:33:45.163960-07:00",
+    "identifier": "id:56200:fee100b9-f824-4482-8348-9448641bbcad",
+    "user": {
+      "username": "broozkan__",
+      "id": 56200,
+      "first_name": "Burhan",
+      "account": {
+        "name": "broozkan__",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Burhan",
+    "participant": {
+      "user": {
+        "username": "internal_id:56200:fee100b9-f824-4482-8348-9448641bbcad",
+        "id": 56207,
+        "first_name": "Burhan",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Burhan"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Burhan",
+    "description": "",
+    "definition": ""
+  }
+}

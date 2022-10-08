@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "U-BvlznJYcThotk0kFwCyj0eGPcOSmvaejwn525VFtA",
+    "created": "2022-10-05T13:18:19.729838-07:00",
+    "updated": "2022-10-05T13:18:20.289341-07:00",
+    "identifier": "id:66622:0062abb6-39d8-4234-83d5-f065ca495c06",
+    "user": {
+      "username": "Sys",
+      "id": 66622,
+      "first_name": "herrfaultier@gmail.com",
+      "account": {
+        "name": "Sys",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Systemic Coach",
+    "participant": {
+      "user": {
+        "username": "internal_id:66622:0062abb6-39d8-4234-83d5-f065ca495c06",
+        "id": 74307,
+        "first_name": "Systemic Coach",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Systemic Coach"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi, what needs to be resolved today in this chat for it to be a success for you?",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "dExOiI_nd4RFkmBFwvMt5oFtwX5O8qCpI6pT86Dj-Ys",
+    "created": "2022-09-26T04:30:39.846654-07:00",
+    "updated": "2022-09-26T04:30:40.306263-07:00",
+    "identifier": "id:25653:1a5f62c1-2f01-41e0-a8aa-a2c02617e33d",
+    "user": {
+      "username": "zihanwang314",
+      "id": 25653,
+      "first_name": "Zihan",
+      "account": {
+        "name": "zihanwang314",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Christopher Manning",
+    "participant": {
+      "user": {
+        "username": "internal_id:25653:1a5f62c1-2f01-41e0-a8aa-a2c02617e33d",
+        "id": 25958,
+        "first_name": "Christopher Manning",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Christopher Manning"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi, I'm Professor Christopher Manning at Stanford University.",
+    "description": "",
+    "definition": ""
+  }
+}

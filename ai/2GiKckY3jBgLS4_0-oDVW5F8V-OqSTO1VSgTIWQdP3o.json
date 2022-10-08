@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "2GiKckY3jBgLS4_0-oDVW5F8V-OqSTO1VSgTIWQdP3o",
+    "created": "2022-09-16T21:23:40.610491-07:00",
+    "updated": "2022-09-16T21:23:42.246291-07:00",
+    "identifier": "id:7516:2fb0552d-4875-46f5-b38b-cb6d3ecdbdb7",
+    "user": {
+      "username": "alb",
+      "id": 7516,
+      "first_name": "jeff.renani@gmail.com",
+      "account": {
+        "name": "alb",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Hulk",
+    "participant": {
+      "user": {
+        "username": "internal_id:7516:2fb0552d-4875-46f5-b38b-cb6d3ecdbdb7",
+        "id": 7518,
+        "first_name": "Hulk",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Hulk"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hodor",
+    "description": "",
+    "definition": ""
+  }
+}

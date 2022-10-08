@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "WMVcWxQ67Am8mGmGBjIXUU6mrQQFAOeQphCiuC98bcc",
+    "created": "2022-09-28T12:56:06.210549-07:00",
+    "updated": "2022-09-28T12:56:06.570636-07:00",
+    "identifier": "id:40881:1da92e75-1253-4ca2-a92c-a8962384e08c",
+    "user": {
+      "username": "miamiphp",
+      "id": 40881,
+      "first_name": "Paul",
+      "account": {
+        "name": "miamiphp",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Number 5",
+    "participant": {
+      "user": {
+        "username": "internal_id:40881:1da92e75-1253-4ca2-a92c-a8962384e08c",
+        "id": 41106,
+        "first_name": "Number 5",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Number 5"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Number 5 from Short Circuit",
+    "description": "",
+    "definition": ""
+  }
+}

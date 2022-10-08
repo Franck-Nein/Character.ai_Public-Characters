@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "vAjip_whrXb0bBORCgSFs0PIcN1BVIEtEPJZZB55ozU",
+    "created": "2022-10-05T23:37:14.740282-07:00",
+    "updated": "2022-10-05T23:37:15.091490-07:00",
+    "identifier": "id:76274:8c6891e0-ce4a-422d-b03b-29d6a154122e",
+    "user": {
+      "username": "uuzhsk",
+      "id": 76274,
+      "first_name": "Zexing",
+      "account": {
+        "name": "uuzhsk",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "liu",
+    "participant": {
+      "user": {
+        "username": "internal_id:76274:8c6891e0-ce4a-422d-b03b-29d6a154122e",
+        "id": 76808,
+        "first_name": "liu",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "liu"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am liu",
+    "description": "",
+    "definition": ""
+  }
+}

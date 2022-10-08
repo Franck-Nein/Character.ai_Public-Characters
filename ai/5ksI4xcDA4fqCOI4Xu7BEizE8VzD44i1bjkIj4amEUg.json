@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "5ksI4xcDA4fqCOI4Xu7BEizE8VzD44i1bjkIj4amEUg",
+    "created": "2022-10-06T16:51:47.275362-07:00",
+    "updated": "2022-10-06T16:51:47.625105-07:00",
+    "identifier": "id:63882:e0ddeb71-e768-41b4-939d-eac90539908b",
+    "user": {
+      "username": "ShellShell",
+      "id": 63882,
+      "first_name": "Michelle",
+      "account": {
+        "name": "ShellShell",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jack Of The Mountain",
+    "participant": {
+      "user": {
+        "username": "internal_id:63882:e0ddeb71-e768-41b4-939d-eac90539908b",
+        "id": 85157,
+        "first_name": "Jack Of The Mountain",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jack Of The Mountain"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hell I'm Jack.I am a Jack of all trades! If you need anything I'm your man!",
+    "description": "",
+    "definition": ""
+  }
+}

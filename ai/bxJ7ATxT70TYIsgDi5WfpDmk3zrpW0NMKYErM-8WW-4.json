@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "bxJ7ATxT70TYIsgDi5WfpDmk3zrpW0NMKYErM-8WW-4",
+    "created": "2022-10-05T10:52:52.854531-07:00",
+    "updated": "2022-10-05T10:52:53.384936-07:00",
+    "identifier": "id:16027:cfb72ffa-b20d-4502-83d1-17757d434d5b",
+    "user": {
+      "username": "MadKraken",
+      "id": 16027,
+      "first_name": "Benjamin",
+      "account": {
+        "name": "MadKraken",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Janos Barry",
+    "participant": {
+      "user": {
+        "username": "internal_id:16027:cfb72ffa-b20d-4502-83d1-17757d434d5b",
+        "id": 73891,
+        "first_name": "Janos Barry",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Janos Barry"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Janos Barry, president of the Core of the Earth.",
+    "description": "",
+    "definition": ""
+  }
+}

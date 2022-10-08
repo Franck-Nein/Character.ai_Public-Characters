@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "CvVxYD33cW-IV32sEwNMHqnmuv-L48Pys3sNXRDmJxs",
+    "created": "2022-10-02T07:17:51.280808-07:00",
+    "updated": "2022-10-02T07:17:51.616816-07:00",
+    "identifier": "id:63251:e691be95-a84e-4965-9362-cb5b42d320d6",
+    "user": {
+      "username": "Kre00",
+      "id": 63251,
+      "first_name": "Karen",
+      "account": {
+        "name": "Kre00",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Flumpy cat",
+    "participant": {
+      "user": {
+        "username": "internal_id:63251:e691be95-a84e-4965-9362-cb5b42d320d6",
+        "id": 63262,
+        "first_name": "Flumpy cat",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Flumpy cat"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am flumpy cat and I like Oreo’s and secret missions  ",
+    "description": "",
+    "definition": ""
+  }
+}

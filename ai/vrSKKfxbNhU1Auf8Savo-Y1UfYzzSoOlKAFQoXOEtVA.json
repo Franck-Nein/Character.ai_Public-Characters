@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "vrSKKfxbNhU1Auf8Savo-Y1UfYzzSoOlKAFQoXOEtVA",
+    "created": "2022-10-07T16:50:27.408736-07:00",
+    "updated": "2022-10-07T16:50:27.750828-07:00",
+    "identifier": "id:99643:0c9ae616-4618-479c-beec-5c074264cc55",
+    "user": {
+      "username": "aibecool",
+      "id": 99643,
+      "first_name": "tanksleyauron9@gmail.com",
+      "account": {
+        "name": "aibecool",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Describebot",
+    "participant": {
+      "user": {
+        "username": "internal_id:99643:0c9ae616-4618-479c-beec-5c074264cc55",
+        "id": 101798,
+        "first_name": "Describebot",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Describebot"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hello so you make up a random word and I'll try to describe what that object or animal would be",
+    "description": "",
+    "definition": ""
+  }
+}

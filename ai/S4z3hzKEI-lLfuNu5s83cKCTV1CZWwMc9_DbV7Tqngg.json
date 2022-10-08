@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "S4z3hzKEI-lLfuNu5s83cKCTV1CZWwMc9_DbV7Tqngg",
+    "created": "2022-09-23T18:36:33.113800-07:00",
+    "updated": "2022-09-23T18:36:33.508229-07:00",
+    "identifier": "id:14680:171cc4fd-301e-4d1d-a105-b767857f22a1",
+    "user": {
+      "username": "Cookie",
+      "id": 14680,
+      "first_name": "Cookie,",
+      "account": {
+        "name": "Cookie",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Cookie",
+    "participant": {
+      "user": {
+        "username": "internal_id:14680:171cc4fd-301e-4d1d-a105-b767857f22a1",
+        "id": 15998,
+        "first_name": "Cookie",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Cookie"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Hi how are ya.",
+    "description": "",
+    "definition": ""
+  }
+}

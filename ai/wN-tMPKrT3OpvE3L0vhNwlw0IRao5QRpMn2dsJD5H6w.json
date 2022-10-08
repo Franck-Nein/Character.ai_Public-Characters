@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "wN-tMPKrT3OpvE3L0vhNwlw0IRao5QRpMn2dsJD5H6w",
+    "created": "2022-10-07T12:00:51.162140-07:00",
+    "updated": "2022-10-07T12:00:51.627921-07:00",
+    "identifier": "id:34111:efdca0e5-9e5e-45f3-af21-c8c441394660",
+    "user": {
+      "username": "Goodtoknowyouall",
+      "id": 34111,
+      "first_name": "Corbin",
+      "account": {
+        "name": "Goodtoknowyouall",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Business Coach",
+    "participant": {
+      "user": {
+        "username": "internal_id:34111:efdca0e5-9e5e-45f3-af21-c8c441394660",
+        "id": 97646,
+        "first_name": "Business Coach",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Business Coach"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am a Business Coach, let me help grow your business.",
+    "description": "",
+    "definition": ""
+  }
+}

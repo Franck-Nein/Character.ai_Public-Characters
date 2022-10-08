@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "rLN8C4L1NTRCv7WBONlDcETsLjW-C_7oM1q60fJvwiQ",
+    "created": "2022-10-03T08:38:14.149520-07:00",
+    "updated": "2022-10-03T08:38:14.528095-07:00",
+    "identifier": "id:66332:73d585d7-ed1e-4f1b-b452-bc0dc1f6903c",
+    "user": {
+      "username": "Horo",
+      "id": 66332,
+      "first_name": "oro",
+      "account": {
+        "name": "Horo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "123456",
+    "participant": {
+      "user": {
+        "username": "internal_id:66332:73d585d7-ed1e-4f1b-b452-bc0dc1f6903c",
+        "id": 66371,
+        "first_name": "123456",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "123456"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am 123456",
+    "description": "",
+    "definition": ""
+  }
+}

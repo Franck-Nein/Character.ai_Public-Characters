@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ePPhoqUPuQ8bosybI6kB7WxvexrPuMf75PtkiQGHmsE",
+    "created": "2022-09-29T14:31:42.798709-07:00",
+    "updated": "2022-09-29T14:31:43.267183-07:00",
+    "identifier": "id:47268:b3677853-1a66-4524-958f-d7ab4bf94f85",
+    "user": {
+      "username": "mctoast",
+      "id": 47268,
+      "first_name": "Perry",
+      "account": {
+        "name": "mctoast",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Buzz Lightyear",
+    "participant": {
+      "user": {
+        "username": "internal_id:47268:b3677853-1a66-4524-958f-d7ab4bf94f85",
+        "id": 47437,
+        "first_name": "Buzz Lightyear",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Buzz Lightyear"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/LIalmFUB7gQD2ah_js8oQntlnMBKrmb-69KShw_Z3_U.webp",
+    "greeting": "I am Buzz Lightyear. To infinity and beyond!",
+    "description": "",
+    "definition": ""
+  }
+}

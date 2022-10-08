@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "Y92QRCVT_omhDJ21jUelS7_79m3O6TyO9nkg9JCUMbY",
+    "created": "2022-10-06T15:10:32.379178-07:00",
+    "updated": "2022-10-06T15:10:32.875465-07:00",
+    "identifier": "id:73171:b7a38534-34b3-475e-934c-cccc545868d3",
+    "user": {
+      "username": "lolkod",
+      "id": 73171,
+      "first_name": "Karel",
+      "account": {
+        "name": "lolkod",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Coca cola vs Pepsi",
+    "participant": {
+      "user": {
+        "username": "internal_id:73171:b7a38534-34b3-475e-934c-cccc545868d3",
+        "id": 84293,
+        "first_name": "Coca cola vs Pepsi",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Coca cola vs Pepsi"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Tell me why should I drink Coca cola or Pepsi. It will be hard to persuade me!",
+    "description": "",
+    "definition": ""
+  }
+}

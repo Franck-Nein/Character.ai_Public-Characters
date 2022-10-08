@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "xg-FYYezPyRfTTY72NuxKlZLJEVsBtSZB7-2XwJNEPo",
+    "created": "2022-09-16T21:17:55.944268-07:00",
+    "updated": "2022-09-16T21:17:56.547569-07:00",
+    "identifier": "id:7337:58f0349e-f76b-44a4-af31-bfe7e1c23722",
+    "user": {
+      "username": "evan",
+      "id": 7337,
+      "first_name": "Evan",
+      "account": {
+        "name": "evan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Ogden Trollskull",
+    "participant": {
+      "user": {
+        "username": "internal_id:7337:58f0349e-f76b-44a4-af31-bfe7e1c23722",
+        "id": 7514,
+        "first_name": "Ogden Trollskull",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Ogden Trollskull"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Out of my way you nitwit, there be orcs to kill.",
+    "description": "",
+    "definition": ""
+  }
+}

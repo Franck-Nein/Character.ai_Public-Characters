@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "atL9203_KRoVuuayQGiRg87gel5AaMYuKIwcZa1FVMo",
+    "created": "2022-09-25T06:07:32.857509-07:00",
+    "updated": "2022-09-25T06:07:33.322503-07:00",
+    "identifier": "id:18755:38bbe45c-3dc7-4533-b5ee-52c778cc665b",
+    "user": {
+      "username": "nikki_1227",
+      "id": 18755,
+      "first_name": "Nicole",
+      "account": {
+        "name": "nikki_1227",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "tom holland",
+    "participant": {
+      "user": {
+        "username": "internal_id:18755:38bbe45c-3dc7-4533-b5ee-52c778cc665b",
+        "id": 18756,
+        "first_name": "tom holland",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "tom holland"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "hola",
+    "description": "",
+    "definition": ""
+  }
+}

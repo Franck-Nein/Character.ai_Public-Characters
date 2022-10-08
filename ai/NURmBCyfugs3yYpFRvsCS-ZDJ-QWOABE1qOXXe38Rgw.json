@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "NURmBCyfugs3yYpFRvsCS-ZDJ-QWOABE1qOXXe38Rgw",
+    "created": "2022-09-26T19:03:13.022578-07:00",
+    "updated": "2022-09-26T19:03:13.506340-07:00",
+    "identifier": "id:31061:d6df9cca-6555-436f-972f-8d01f8230f47",
+    "user": {
+      "username": "minamimumu",
+      "id": 31061,
+      "first_name": "张梁",
+      "account": {
+        "name": "minamimumu",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Misaka Hotaru",
+    "participant": {
+      "user": {
+        "username": "internal_id:31061:d6df9cca-6555-436f-972f-8d01f8230f47",
+        "id": 31168,
+        "first_name": "Misaka Hotaru",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Misaka Hotaru"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "Misaka desu",
+    "description": "",
+    "definition": ""
+  }
+}

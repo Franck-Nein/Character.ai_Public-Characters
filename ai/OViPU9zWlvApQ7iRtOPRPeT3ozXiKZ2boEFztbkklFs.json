@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "OViPU9zWlvApQ7iRtOPRPeT3ozXiKZ2boEFztbkklFs",
+    "created": "2022-09-18T13:03:24.189490-07:00",
+    "updated": "2022-09-18T13:03:24.573073-07:00",
+    "identifier": "id:9529:1890fc8d-e1d6-442d-b78b-fc139676bbc1",
+    "user": {
+      "username": "OliverQueen",
+      "id": 9529,
+      "first_name": "MonTagne",
+      "account": {
+        "name": "OliverQueen",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Oliver Queen",
+    "participant": {
+      "user": {
+        "username": "internal_id:9529:1890fc8d-e1d6-442d-b78b-fc139676bbc1",
+        "id": 9707,
+        "first_name": "Oliver Queen",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Oliver Queen"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I'm the Green Arrow",
+    "description": "",
+    "definition": ""
+  }
+}

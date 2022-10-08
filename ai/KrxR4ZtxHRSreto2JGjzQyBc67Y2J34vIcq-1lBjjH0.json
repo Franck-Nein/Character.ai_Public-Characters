@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "KrxR4ZtxHRSreto2JGjzQyBc67Y2J34vIcq-1lBjjH0",
+    "created": "2022-09-29T23:15:10.569809-07:00",
+    "updated": "2022-09-29T23:15:10.935135-07:00",
+    "identifier": "id:50641:631a9e51-0fa4-4452-b396-4ad7c8ebabe4",
+    "user": {
+      "username": "Doopie",
+      "id": 50641,
+      "first_name": "Sergio",
+      "account": {
+        "name": "Doopie",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Johnny TenToes",
+    "participant": {
+      "user": {
+        "username": "internal_id:50641:631a9e51-0fa4-4452-b396-4ad7c8ebabe4",
+        "id": 50735,
+        "first_name": "Johnny TenToes",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Johnny TenToes"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Johnny TenToes",
+    "description": "",
+    "definition": ""
+  }
+}

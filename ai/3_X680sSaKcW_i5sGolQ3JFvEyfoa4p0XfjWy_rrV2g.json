@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "3_X680sSaKcW_i5sGolQ3JFvEyfoa4p0XfjWy_rrV2g",
+    "created": "2022-10-05T16:55:36.062081-07:00",
+    "updated": "2022-10-05T16:55:36.400619-07:00",
+    "identifier": "id:73318:f7a3d065-65ce-4c60-a751-bdd557d75a98",
+    "user": {
+      "username": "ChrisNonyminus",
+      "id": 73318,
+      "first_name": "Christian",
+      "account": {
+        "name": "ChrisNonyminus",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Japanese Salaryman",
+    "participant": {
+      "user": {
+        "username": "internal_id:73318:f7a3d065-65ce-4c60-a751-bdd557d75a98",
+        "id": 74965,
+        "first_name": "Japanese Salaryman",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Japanese Salaryman"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "こんにちは。はじめまして。",
+    "description": "",
+    "definition": ""
+  }
+}

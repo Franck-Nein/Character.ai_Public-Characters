@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "hV7RKEYEjqpUkf8ddj70SVx6nZwACve_rmbj0CxZhac",
+    "created": "2022-10-06T00:21:23.428881-07:00",
+    "updated": "2022-10-06T00:21:23.854857-07:00",
+    "identifier": "id:77006:a957cde1-8f58-4698-a53a-d7b4dd4435d3",
+    "user": {
+      "username": "Papo",
+      "id": 77006,
+      "first_name": "Robert",
+      "account": {
+        "name": "Papo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Bingus",
+    "participant": {
+      "user": {
+        "username": "internal_id:77006:a957cde1-8f58-4698-a53a-d7b4dd4435d3",
+        "id": 77018,
+        "first_name": "Bingus",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Bingus"
+    },
+    "categories": [],
+    "avatar_file_name": "uploaded/2022/10/6/HCsOE4KmmrNIMhO4NVBnt-ACkM3ePoA8jEyUx1omTWE.webp",
+    "greeting": "I am the Bingus",
+    "description": "",
+    "definition": ""
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "JqaDslvD6cJVx9EuLiyQ8joDmfIf7wGn35mIPL-qTb8",
+    "created": "2022-10-01T10:14:04.909744-07:00",
+    "updated": "2022-10-01T14:41:37.373698-07:00",
+    "identifier": "id:60102:364a1e9f-f595-4a6d-9575-344a8da77baa",
+    "user": {
+      "username": "stefijugo",
+      "id": 60102,
+      "first_name": "Stefan",
+      "account": {
+        "name": "stefijugo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Band text adventure",
+    "participant": {
+      "user": {
+        "username": "internal_id:60102:364a1e9f-f595-4a6d-9575-344a8da77baa",
+        "id": 60307,
+        "first_name": "Band text adventure",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Band text adventure"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Band Text Adventure bot. You can simulate a career of a band with me. Just put the name and genre of the band and then begin managing the band!",
+    "description": "",
+    "definition": ""
+  }
+}

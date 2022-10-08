@@ -1,0 +1,46 @@
+{
+  "character": {
+    "external_id": "AEMmHw6FzZioBdK6Cy9qmTC-Nszzspdpt3hlhNrXMCA",
+    "created": "2022-09-22T05:05:14.254301-07:00",
+    "updated": "2022-10-07T08:28:01.433020-07:00",
+    "identifier": "id:11741:8548a564-216f-4a4e-a57b-3741ccf3bbf0",
+    "user": {
+      "username": "Ket",
+      "id": 11741,
+      "first_name": "ketan",
+      "account": {
+        "name": "ketan",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "I am Eric Theodore Cartman from South Park.",
+    "name": "Eric Cartman",
+    "participant": {
+      "user": {
+        "username": "internal_id:11741:8548a564-216f-4a4e-a57b-3741ccf3bbf0",
+        "id": 13457,
+        "first_name": "Eric Cartman",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Eric Cartman"
+    },
+    "categories": [
+      {
+        "name": "Movies & TV",
+        "description": "Movies & TV"
+      }
+    ],
+    "avatar_file_name": "uploaded/2022/10/7/VW4caGKx636N-097YU5W8Vo-O9ZQbEnFyH7adXW9x34.webp",
+    "greeting": "Hey!",
+    "description": "",
+    "definition": ""
+  }
+}

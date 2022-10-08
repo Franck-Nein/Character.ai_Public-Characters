@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "ujLTVbo-BTGhwWfQz4wuUslMDieOh16fPFECuUB8-5s",
+    "created": "2022-10-07T00:13:09.459465-07:00",
+    "updated": "2022-10-07T00:13:10.012706-07:00",
+    "identifier": "id:87786:efd78f72-5851-430d-a92a-f5669233d7b3",
+    "user": {
+      "username": "Iamsad",
+      "id": 87786,
+      "first_name": "莊沐學",
+      "account": {
+        "name": "Iamsad",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Your mom",
+    "participant": {
+      "user": {
+        "username": "internal_id:87786:efd78f72-5851-430d-a92a-f5669233d7b3",
+        "id": 89647,
+        "first_name": "Your mom",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Your mom"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am your mom. Say hello.",
+    "description": "",
+    "definition": ""
+  }
+}

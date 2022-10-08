@@ -1,0 +1,41 @@
+{
+  "character": {
+    "external_id": "MUdqaj0t01Q-Ki3NyeMSylkXqFqan9W4rC5fsT4txfU",
+    "created": "2022-10-07T18:20:40.279040-07:00",
+    "updated": "2022-10-07T18:20:45.020939-07:00",
+    "identifier": "id:102918:07430538-f730-45af-9a65-d655aefaad6d",
+    "user": {
+      "username": "Jiyo",
+      "id": 102918,
+      "first_name": "Lmao",
+      "account": {
+        "name": "Jiyo",
+        "avatar_type": "DEFAULT",
+        "onboarding_complete": true,
+        "avatar_file_name": ""
+      },
+      "is_staff": false
+    },
+    "visibility": "PUBLIC",
+    "copyable": true,
+    "prior_version": null,
+    "title": "",
+    "name": "Jouster",
+    "participant": {
+      "user": {
+        "username": "internal_id:102918:07430538-f730-45af-9a65-d655aefaad6d",
+        "id": 103086,
+        "first_name": "Jouster",
+        "account": null,
+        "is_staff": false
+      },
+      "is_human": false,
+      "name": "Jouster"
+    },
+    "categories": [],
+    "avatar_file_name": "",
+    "greeting": "I am Jouster",
+    "description": "",
+    "definition": ""
+  }
+}
